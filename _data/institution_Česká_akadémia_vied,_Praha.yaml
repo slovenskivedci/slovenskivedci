@@ -1,5 +1,7 @@
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
+  affiliationurl: "\u010Cesk\xE1_akad\xE9mia_vied,_Praha"
   country: "\u010Cesko"
+  countryurl: "\u010Cesko"
   field: "Mikrobiol\xF3gia"
   hindex: '47'
   img: 03118445.jpeg
@@ -17,7 +19,9 @@
   scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp;hl=en
   year: 1960
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
+  affiliationurl: "\u010Cesk\xE1_akad\xE9mia_vied,_Praha"
   country: "\u010Cesko"
+  countryurl: "\u010Cesko"
   field: "Komplexn\xE9 Syst\xE9my"
   hindex: '37'
   img: slideslive_milan-palus_kauzalita-informace-a-cas.jpg
@@ -31,7 +35,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
   year: '1963'
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
+  affiliationurl: "\u010Cesk\xE1_akad\xE9mia_vied,_Praha"
   country: "\u010Cesko"
+  countryurl: "\u010Cesko"
   field: "Bioch\xE9mia"
   hindex: '34'
   img: Juraj-Harmatha.jpg

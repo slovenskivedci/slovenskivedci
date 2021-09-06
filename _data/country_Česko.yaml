@@ -1,5 +1,7 @@
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
+  affiliationurl: "\u010Cesk\xE1_akad\xE9mia_vied,_Praha"
   country: "\u010Cesko"
+  countryurl: "\u010Cesko"
   field: "Mikrobiol\xF3gia"
   hindex: '47'
   img: 03118445.jpeg
@@ -17,7 +19,9 @@
   scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp;hl=en
   year: 1960
 - affiliation: "\u010CVUT, Praha"
+  affiliationurl: "\u010CVUT,_Praha"
   country: "\u010Cesko"
+  countryurl: "\u010Cesko"
   field: "Jadrov\xE1 fyzika"
   hindex: '46'
   img: 1537-krizova_gajdosova.jpg
@@ -29,7 +33,9 @@
   scholar: https://scholar.google.com/citations?user=n1zAfusAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Z\xE1pado\u010Desk\xE1 univerzita v Plzni, Plze\u0148"
+  affiliationurl: "Z\xE1pado\u010Desk\xE1_univerzita_v_Plzni,_Plze\u0148"
   country: "\u010Cesko"
+  countryurl: "\u010Cesko"
   field: "Aplikovan\xE1 Fyzika"
   hindex: '41'
   img: 1608215138998.jpeg
@@ -42,7 +48,9 @@
   scholar: https://scholar.google.com/citations?user=EZ8YetQAAAAJ&amp;hl=en
   year: '1975'
 - affiliation: Masarykova  Univerzita, Brno
+  affiliationurl: Masarykova__Univerzita,_Brno
   country: "\u010Cesko"
+  countryurl: "\u010Cesko"
   field: "Environment\xE1lna Ch\xE9mia"
   hindex: '39'
   img: vrana-b.jpg
@@ -55,7 +63,9 @@
   scholar: https://scholar.google.com/citations?user=50d9fJAAAAAJ&amp;hl=sk
   year: ''
 - affiliation: "Univerzita  Palack\xE9ho, Olomouc"
+  affiliationurl: "Univerzita__Palack\xE9ho,_Olomouc"
   country: "\u010Cesko"
+  countryurl: "\u010Cesko"
   field: "Behavior\xE1lna Ekol\xF3gia"
   hindex: '38'
   img: unnamed-14.jpg
@@ -69,7 +79,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=T0MNJGgAAAAJ
   year: '1973'
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
+  affiliationurl: "\u010Cesk\xE1_akad\xE9mia_vied,_Praha"
   country: "\u010Cesko"
+  countryurl: "\u010Cesko"
   field: "Komplexn\xE9 Syst\xE9my"
   hindex: '37'
   img: slideslive_milan-palus_kauzalita-informace-a-cas.jpg
@@ -83,7 +95,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
   year: '1963'
 - affiliation: "Fyzik\xE1lny in\u0161tit\xFAt, \u010Cesk\xE1 akad\xE9mia vied"
+  affiliationurl: "Fyzik\xE1lny_in\u0161tit\xFAt,_\u010Cesk\xE1_akad\xE9mia_vied"
   country: "\u010Cesko"
+  countryurl: "\u010Cesko"
   field: "Optick\xE9 Materi\xE1ly"
   hindex: '35'
   img: kromka1.png
@@ -97,7 +111,9 @@
   scholar: https://scholar.google.cz/citations?user=3S5wnV8AAAAJ&amp;hl=cs
   year: ''
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
+  affiliationurl: "\u010Cesk\xE1_akad\xE9mia_vied,_Praha"
   country: "\u010Cesko"
+  countryurl: "\u010Cesko"
   field: "Bioch\xE9mia"
   hindex: '34'
   img: Juraj-Harmatha.jpg
@@ -109,7 +125,9 @@
   scholar: https://scholar.google.com/citations?user=AZDDb3gAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Palack\xE9ho univerzita, Olomouc"
+  affiliationurl: "Palack\xE9ho_univerzita,_Olomouc"
   country: "\u010Cesko"
+  countryurl: "\u010Cesko"
   field: "Ch\xE9mia"
   hindex: '32'
   img: csm_herchel_cde545613b.jpg

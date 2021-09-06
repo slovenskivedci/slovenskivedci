@@ -1,6 +1,8 @@
 - affiliation: Schroeder Arthritis Institute, Toronto, Kanada profesor, Univerzita
     v Toronte, Toronto
+  affiliationurl: Schroeder_Arthritis_Institute,_Toronto,_Kanada_profesor,_Univerzita_v_Toronte,_Toronto
   country: Kanada
+  countryurl: Kanada
   field: Bioinformatika
   hindex: '77'
   img: 2015-Nov-Jurisica1-Rescomm2c4-2.png
@@ -14,7 +16,9 @@
   year: '1967'
 - affiliation: "V\xFDskumn\xFD in\u0161tit\xFAt torontskej v\u0161eobecnej nemocnice,\
     \ Toronto"
+  affiliationurl: "V\xFDskumn\xFD_in\u0161tit\xFAt_torontskej_v\u0161eobecnej_nemocnice,_Toronto"
   country: Kanada
+  countryurl: Kanada
   field: "Kardiol\xF3gia"
   hindex: '67'
   img: jDgBXcYH.jpg
@@ -32,7 +36,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=psbZKP4AAAAJ
   year: ''
 - affiliation: "n\xE1rodn\xE1 v\xFDskumn\xE1 rada"
+  affiliationurl: "n\xE1rodn\xE1_v\xFDskumn\xE1_rada"
   country: Kanada
+  countryurl: Kanada
   field: Optika a Fotonika
   hindex: '59'
   img: pavel-cheben.jpg
@@ -45,7 +51,9 @@
   scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ&amp;hl=sk&amp;oi=ao
   year: '1967'
 - affiliation: "Univerzita v Britskej Kolumbii, Britsk\xE1 Kolumbia"
+  affiliationurl: "Univerzita_v_Britskej_Kolumbii,_Britsk\xE1_Kolumbia"
   country: Kanada
+  countryurl: Kanada
   field: fyzika
   hindex: '54'
   img: maxresdefault-2.jpg
@@ -57,7 +65,9 @@
   year: ''
 - affiliation: Lunenfeld Tanenbaum Research Institute, Nemocnica Mount Sinai a Univerzita
     v Toronte, Toronto
+  affiliationurl: Lunenfeld_Tanenbaum_Research_Institute,_Nemocnica_Mount_Sinai_a_Univerzita_v_Toronte,_Toronto
   country: Kanada
+  countryurl: Kanada
   field: "Reprodukt\xEDvna Biol\xF3gia"
   hindex: '49'
   img: AJ.png
@@ -70,7 +80,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=JPCdl08AAAAJ
   year: ''
 - affiliation: Univerzita Simona Frasera, Burnaby
+  affiliationurl: Univerzita_Simona_Frasera,_Burnaby
   country: Kanada
+  countryurl: Kanada
   field: "Grafov\xE9 Algoritmy"
   hindex: '47'
   img: 1385442452333.jpg
@@ -82,7 +94,9 @@
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=8KDwlbEAAAAJ
   year: '1946'
 - affiliation: McMaster University
+  affiliationurl: McMaster_University
   country: Kanada
+  countryurl: Kanada
   field: "te\xF3ria grafov"
   hindex: '42'
   img: 115620-alexander-rosa-clanokW.jpg
@@ -95,7 +109,9 @@
   scholar: https://scholar.google.com/citations?user=7lVA1vkAAAAJ&amp;hl=en&amp;oi=sra
   year: '1937'
 - affiliation: Univerzita Simona Frasera, Surrey
+  affiliationurl: Univerzita_Simona_Frasera,_Surrey
   country: Kanada
+  countryurl: Kanada
   field: "D\xC1TOV\xC1 VEDA"
   hindex: '41'
   img: MarekFace790x420.jpg

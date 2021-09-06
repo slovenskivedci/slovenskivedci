@@ -1,5 +1,7 @@
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
+  affiliationurl: "Technick\xE1_univerzita_v_Ko\u0161iciach,_Ko\u0161ice"
   country: Slovensko
+  countryurl: Slovensko
   field: "automatiz\xE1cia"
   hindex: '41'
   img: Petras.jpg
@@ -11,7 +13,9 @@
   scholar: https://scholar.google.com/citations?user=01msi28AAAAJ&amp;hl=en
   year: '1973'
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
+  affiliationurl: "Technick\xE1_univerzita_v_Ko\u0161iciach,_Ko\u0161ice"
   country: Slovensko
+  countryurl: Slovensko
   field: "Aplikovan\xE1 matematika"
   hindex: '37'
   img: 5857995_1200x.jpeg
@@ -25,7 +29,9 @@
   scholar: http://scholar.google.com/citations?user=4H2CInEAAAAJ
   year: '1961'
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
+  affiliationurl: "Technick\xE1_univerzita_v_Ko\u0161iciach,_Ko\u0161ice"
   country: Slovensko
+  countryurl: Slovensko
   field: "v\xFDrobn\xE9 technol\xF3gie"
   hindex: '31'
   img: 887add6b566289fe97ba3c44d5d6.jpeg
@@ -36,7 +42,9 @@
   scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
   year: ''
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
+  affiliationurl: "Technick\xE1_univerzita_v_Ko\u0161iciach,_Ko\u0161ice"
   country: Slovensko
+  countryurl: Slovensko
   field: "Te\xF3ria grafov"
   hindex: 30
   img: Baca-Photo-2017 (1).jpeg

@@ -1,5 +1,7 @@
 - affiliation: Univerzita v New Yorku, New York
+  affiliationurl: Univerzita_v_New_Yorku,_New_York
   country: USA
+  countryurl: USA
   field: "Mikrobiol\xF3gia"
   hindex: '104'
   img: jan-vilcek-laska-a-veda-clanokW.jpg
@@ -11,7 +13,9 @@
   scholar: https://scholar.google.com/citations?user=zG9xTAcAAAAJ&amp;hl=en
   year: '1933'
 - affiliation: Univerzita v Illinois, Urbana-Champaign
+  affiliationurl: Univerzita_v_Illinois,_Urbana-Champaign
   country: USA
+  countryurl: USA
   field: Informatika
   hindex: '87'
   img: 163208.jpg
@@ -24,7 +28,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
   year: Bajcsy
 - affiliation: Univerzita v Kalifornii, Berkeley
+  affiliationurl: Univerzita_v_Kalifornii,_Berkeley
   country: USA
+  countryurl: USA
   field: "robotika a umel\xE1 inteligencia"
   hindex: '70'
   img: bajcsy.jpg
@@ -37,7 +43,9 @@
   scholar: https://scholar.google.com/citations?user=s9Ikf1EAAAAJ&amp;hl=en
   year: '1933'
 - affiliation: Univerzita v Missouri, Columbia
+  affiliationurl: Univerzita_v_Missouri,_Columbia
   country: USA
+  countryurl: USA
   field: "Reproduk\u010Dn\xE1 biol\xF3gia"
   hindex: '56'
   img: EKZEBeBU0AAGMrF.jpeg
@@ -51,7 +59,9 @@
   scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp;hl=en
   year: '1967'
 - affiliation: George Mason University
+  affiliationurl: George_Mason_University
   country: USA
+  countryurl: USA
   field: "robotika a strojov\xE9 videnie"
   hindex: '47'
   img: C57X6nj7.jpg
@@ -63,7 +73,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
   year: ''
 - affiliation: Univerzita vo Washingtone
+  affiliationurl: Univerzita_vo_Washingtone
   country: USA
+  countryurl: USA
   field: Programovacie Jazyky
   hindex: '47'
   img: small.jpg
@@ -75,7 +87,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
   year: '1968'
 - affiliation: Universita v Kalifornii, San Diego
+  affiliationurl: Universita_v_Kalifornii,_San_Diego
   country: USA
+  countryurl: USA
   field: Neuroveda
   hindex: '47'
   img: martinmarsala-1.jpg
@@ -87,7 +101,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
   year: ''
 - affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
+  affiliationurl: "\u0160t\xE1tna_univerzita_v_Severnej_Karol\xEDne,_Raleigh"
   country: USA
+  countryurl: USA
   field: fyzika
   hindex: '47'
   img: Lubos-Mitas.jpg
@@ -99,7 +115,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
   year: ''
 - affiliation: U niverzita v Louisville, Louisville
+  affiliationurl: U_niverzita_v_Louisville,_Louisville
   country: USA
+  countryurl: USA
   field: "Neurol\xF3gia"
   hindex: '45'
   img: Hedera-Peter-1646-crop.jpg
@@ -112,7 +130,9 @@
   scholar: https://scholar.google.com/citations?user=QB0X-6sAAAAJ
   year: ''
 - affiliation: Apple
+  affiliationurl: Apple
   country: USA
+  countryurl: USA
   field: "AplIkovan\xC1 Informatika"
   hindex: '44'
   img: Martin_Pelikan.jpg
@@ -123,7 +143,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=f59x6y4AAAAJ
   year: ''
 - affiliation: Univerzita v Minnesote, Twin Cities
+  affiliationurl: Univerzita_v_Minnesote,_Twin_Cities
   country: USA
+  countryurl: USA
   field: "R\xE1diol\xF3gia"
   hindex: '44'
   img: 1516866753875.jpeg
@@ -136,7 +158,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=DNCCZHYAAAAJ
   year: '1954'
 - affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
+  affiliationurl: "\u0160t\xE1tna_univerzita_v_Severnej_Karol\xEDne,_Raleigh"
   country: USA
+  countryurl: USA
   field: "Geovizualiz\xE1cia"
   hindex: '41'
   img: DSC02840-1024x768.jpg
@@ -149,7 +173,9 @@
   scholar: https://scholar.google.com/citations?user=TIVMwT4AAAAJ
   year: ''
 - affiliation: "Oregonsk\xE1 \u0161t\xE1tna univerzita, Corvallis"
+  affiliationurl: "Oregonsk\xE1_\u0161t\xE1tna_univerzita,_Corvallis"
   country: USA
+  countryurl: USA
   field: "Seizmol\xF3gia"
   hindex: '41'
   img: 4418748_1200x.jpeg
@@ -161,7 +187,9 @@
   scholar: https://scholar.google.com/citations?user=G0MJo3UAAAAJ&amp;hl=en
   year: '1952'
 - affiliation: "Arizonsk\xE1 univerzita, Tucson"
+  affiliationurl: "Arizonsk\xE1_univerzita,_Tucson"
   country: USA
+  countryurl: USA
   field: Optika
   hindex: '40'
   img: 21-Kolesik,Miroslav (12Nov2019).jpg
@@ -172,7 +200,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=1tCBM2kAAAAJ
   year: ''
 - affiliation: "N\xE1rodn\xFD in\u0161tit\xFAt zdravia, Bethesda"
+  affiliationurl: "N\xE1rodn\xFD_in\u0161tit\xFAt_zdravia,_Bethesda"
   country: USA
+  countryurl: USA
   field: "Neuroimunol\xF3gia"
   hindex: '38'
   img: Bibiana Bielekova hitn.jpg
@@ -188,7 +218,9 @@
   scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
   year: '1969'
 - affiliation: Univerzita v Missouri, Columbia
+  affiliationurl: Univerzita_v_Missouri,_Columbia
   country: USA
+  countryurl: USA
   field: "Geol\xF3gia"
   hindex: '37'
   img: nabelek_photo.jpeg
@@ -202,7 +234,9 @@
   scholar: https://scholar.google.com/citations?user=bIXqQ6oAAAAJ&amp;hl=en
   year: '1955'
 - affiliation: Univerzita v Indiane, Bloomington
+  affiliationurl: Univerzita_v_Indiane,_Bloomington
   country: USA
+  countryurl: USA
   field: "Fyzika \u010Cast\xEDc"
   hindex: '34'
   img: dermisek.jpg
@@ -215,7 +249,9 @@
   year: ''
 - affiliation: "National High Magnetic Field Laboratory &amp  \u0160t\xE1tna univerzita\
     \ na Floride, Tallahassee, Florida"
+  affiliationurl: "National_High_Magnetic_Field_Laboratory_&amp__\u0160t\xE1tna_univerzita_na_Floride,_Tallahassee,_Florida"
   country: USA
+  countryurl: USA
   field: "Fyzika tuh\xFDch l\xE1tok"
   hindex: '33'
   img: vafek.jpg
@@ -229,7 +265,9 @@
   scholar: https://scholar.google.com/citations?user=-toxVLsAAAAJ&amp;hl=en
   year: ''
 - affiliation: Univerzita v Pittsburghu, Pittsburgh
+  affiliationurl: Univerzita_v_Pittsburghu,_Pittsburgh
   country: USA
+  countryurl: USA
   field: Informatika
   hindex: '33'
   img: Milos_IMG_9154_v2.jpg
@@ -241,7 +279,9 @@
   scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Havajsk\xE1 univerzita, Manoa"
+  affiliationurl: "Havajsk\xE1_univerzita,_Manoa"
   country: USA
+  countryurl: USA
   field: "Oce\xE1nografia"
   hindex: '31'
   img: FK190726-HenriettaDulai-20190812-Naranjo-6908.jpg
@@ -255,7 +295,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
   year: ''
 - affiliation: Microsoft Research, Redmont
+  affiliationurl: Microsoft_Research,_Redmont
   country: USA
+  countryurl: USA
   field: "Strojov\xE9 u\u010Denie"
   hindex: '31'
   img: 20161115_Microsoft_NYC_Miro_Dudik_01-1000x450.jpg
@@ -267,7 +309,9 @@
   scholar: https://scholar.google.sk/citations?user=wYMTld8AAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita v Pennsylv\xE1nii, Filadelfia"
+  affiliationurl: "Univerzita_v_Pennsylv\xE1nii,_Filadelfia"
   country: USA
+  countryurl: USA
   field: Pediatria
   hindex: '31'
   img: 15444061689569716.jpg
@@ -280,7 +324,9 @@
   scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
   year: ''
 - affiliation: Google, Mountain View
+  affiliationurl: Google,_Mountain_View
   country: USA
+  countryurl: USA
   field: "Strojov\xE9 u\u010Denie"
   hindex: '31'
   img: slideslive_branislav-kveton_nearoptimal-interactive-recommender-systems.jpg
@@ -292,7 +338,9 @@
   scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
   year: ''
 - affiliation: Univerzita v Chicagu, Chicago
+  affiliationurl: Univerzita_v_Chicagu,_Chicago
   country: USA
+  countryurl: USA
   field: "Ekon\xF3mia"
   hindex: '30'
   img: Screen Shot 2021-08-31 at 11.15.51 PM.png

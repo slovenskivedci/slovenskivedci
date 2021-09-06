@@ -1,5 +1,7 @@
 - affiliation: "Lek\xE1rska fakulta, Univerzita Komensk\xE9ho"
+  affiliationurl: "Lek\xE1rska_fakulta,_Univerzita_Komensk\xE9ho"
   country: Bratislava
+  countryurl: Bratislava
   field: "Epidemiol\xF3gia"
   hindex: '49'
   img: 180205_Dusevne_choroby_2_01.jpg
@@ -12,7 +14,9 @@
   scholar: https://scholar.google.com/citations?view_op=list_works&amp;hl=sk&amp;user=_tpva74AAAAJ&amp;gmla=AJsN-F4enZVXEbSLey5sIxs2iYX1b7cqmKalMsteEbPCoYJYJxTGQ_Zt-LvTIN2kkDL4gvas8IzPL_-d-a2pm35LzuGeTzsZ-_QtrpIO0EjpojuHFcUXAHqhiyBxqm1VoP8CFAzsgdRpPW7w8bg5bGlASKOHjuCzhA&amp;fbclid=IwAR3a7AhdjAeyLhXviBDKjED2xYkm112lWx5VvKswNvukEuxNdsJdW37SfLg
   year: '1971'
 - affiliation: "Matematick\xFD in\u0161tit\xFAt, Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: "Matematick\xFD_in\u0161tit\xFAt,_Slovensk\xE1_akad\xE9mia_vied"
   country: Bratislava
+  countryurl: Bratislava
   field: Matematika
   hindex: '31'
   img: 5246673.jpeg

@@ -1,5 +1,7 @@
 - affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
+  affiliationurl: "Technick\xE1_univerzita_vo_Zvolene,_Zvolen"
   country: Slovensko
+  countryurl: Slovensko
   field: "Genetika drev\xEDn"
   hindex: '31'
   img: gomory.photo.png
@@ -13,7 +15,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=RllC3asAAAAJ
   year: ''
 - affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
+  affiliationurl: "Technick\xE1_univerzita_vo_Zvolene,_Zvolen"
   country: Slovensko
+  countryurl: Slovensko
   field: "Fytol\xF3gia"
   hindex: '31'
   img: Ladislav_Paule.jpg

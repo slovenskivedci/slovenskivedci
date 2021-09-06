@@ -1,5 +1,7 @@
 - affiliation: Univerzita v Zurichu, Zurich
+  affiliationurl: Univerzita_v_Zurichu,_Zurich
   country: "\u0160vaj\u010Diarsko"
+  countryurl: "\u0160vaj\u010Diarsko"
   field: "Fyziol\xF3gia buniek"
   hindex: '45'
   img: L_Borsig photo 1-17-1.jpg.jpg
@@ -13,7 +15,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=XOPkMEAAAAAJ
   year: ''
 - affiliation: "ETH Z \xFC rich, Z \xFC rich"
+  affiliationurl: "ETH_Z_\xFC_rich,_Z_\xFC_rich"
   country: "\u0160vaj\u010Diarsko"
+  countryurl: "\u0160vaj\u010Diarsko"
   field: Informatika
   hindex: '37'
   img: image.imageformat.fullwidth.1393744474.jpg
@@ -29,7 +33,9 @@
   scholar: https://scholar.google.com/citations?user=xG2VV1UAAAAJ&amp;hl=de
   year: '1958'
 - affiliation: "ETH Z\xFCrich, Z\xFCrich"
+  affiliationurl: "ETH_Z\xFCrich,_Z\xFCrich"
   country: "\u0160vaj\u010Diarsko"
+  countryurl: "\u0160vaj\u010Diarsko"
   field: "Hydrol\xF3gia"
   hindex: '37'
   img: image.imageformat.twocolumn.436876598.png
@@ -42,7 +48,9 @@
   scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
   year: '1982'
 - affiliation: "Google, Z\xFCrich"
+  affiliationurl: "Google,_Z\xFCrich"
   country: "\u0160vaj\u010Diarsko"
+  countryurl: "\u0160vaj\u010Diarsko"
   field: INFORMATIKA
   hindex: '31'
   img: 00100lrPORTRAIT_00100_BURST20200705131802315_COVER.jpg

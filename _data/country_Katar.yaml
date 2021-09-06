@@ -1,5 +1,7 @@
 - affiliation: Katarska  univerzita, Doha
+  affiliationurl: Katarska__univerzita,_Doha
   country: Katar
+  countryurl: Katar
   field: "Materi\xE1lov\xE1 veda"
   hindex: '42'
   img: Photo-4.jpg
@@ -12,7 +14,9 @@
   scholar: https://scholar.google.com/citations?user=Pz7_cpAAAAAJ&amp;hl=en
   year: '1968'
 - affiliation: Univerzita v Katare, Doha
+  affiliationurl: Univerzita_v_Katare,_Doha
   country: Katar
+  countryurl: Katar
   field: "Ch\xE9mia"
   hindex: '31'
   img: De_gWKYUcAAMeb7.jpeg

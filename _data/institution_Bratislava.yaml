@@ -1,5 +1,7 @@
 - affiliation: Bratislava
+  affiliationurl: Bratislava
   country: Slovensko
+  countryurl: Slovensko
   field: "materi\xE1lov\xE1 veda"
   hindex: '33'
   img: Screen Shot 2020-12-26 at 5.29.43 PM.png
@@ -10,7 +12,9 @@
   scholar: https://scholar.google.com/citations?user=fxBzWQcAAAAJ&amp;hl=en
   year: ''
 - affiliation: Bratislava
+  affiliationurl: Bratislava
   country: Slovensko
+  countryurl: Slovensko
   field: "Patofyziol\xF3gia"
   hindex: '32'
   img: Foto-Profile-4.jpg

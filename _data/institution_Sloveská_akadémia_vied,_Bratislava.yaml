@@ -1,5 +1,7 @@
 - affiliation: "Slovesk\xE1 akad\xE9mia vied, Bratislava"
+  affiliationurl: "Slovesk\xE1_akad\xE9mia_vied,_Bratislava"
   country: Slovensko
+  countryurl: Slovensko
   field: "Patofyziol\xF3gia"
   hindex: '32'
   img: UKROPEC.jpg
@@ -15,7 +17,9 @@
   scholar: https://scholar.google.com/citations?user=geK1ms0AAAAJ&amp;hl=en
   year: '1974'
 - affiliation: "Slovesk\xE1 akad\xE9mia vied, Bratislava"
+  affiliationurl: "Slovesk\xE1_akad\xE9mia_vied,_Bratislava"
   country: Slovensko
+  countryurl: Slovensko
   field: "Molekul\xE1rna Biol\xF3gia"
   hindex: '31'
   img: 117686-biolog-imrich-barak-clanokW.jpg

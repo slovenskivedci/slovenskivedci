@@ -1,5 +1,7 @@
 - affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
+  affiliationurl: "\u0160t\xE1tna_univerzita_v_Severnej_Karol\xEDne,_Raleigh"
   country: USA
+  countryurl: USA
   field: fyzika
   hindex: '47'
   img: Lubos-Mitas.jpg
@@ -11,7 +13,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
   year: ''
 - affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
+  affiliationurl: "\u0160t\xE1tna_univerzita_v_Severnej_Karol\xEDne,_Raleigh"
   country: USA
+  countryurl: USA
   field: "Geovizualiz\xE1cia"
   hindex: '41'
   img: DSC02840-1024x768.jpg

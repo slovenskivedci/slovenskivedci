@@ -1,5 +1,7 @@
 - affiliation: "Technick\xE1 univerzita v Delfte, Delft"
+  affiliationurl: "Technick\xE1_univerzita_v_Delfte,_Delft"
   country: Holandsko
+  countryurl: Holandsko
   field: Fotovoltika
   hindex: '49'
   img: Miro-Zeman.JPG
@@ -11,7 +13,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YP4gwRsAAAAJ
   year: '1957'
 - affiliation: "Technick\xE1 univerzita v Delfte, Delft"
+  affiliationurl: "Technick\xE1_univerzita_v_Delfte,_Delft"
   country: Holandsko
+  countryurl: Holandsko
   field: Elektronika
   hindex: '47'
   img: pavol-bauer-square.jpg__300x300_q70_subsampling-2.jpg
@@ -23,7 +27,9 @@
   scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzitn\xE9 lek\xE1rske centrum, Utrecht"
+  affiliationurl: "Univerzitn\xE9_lek\xE1rske_centrum,_Utrecht"
   country: Holandsko
+  countryurl: Holandsko
   field: "Kardiovaskul\xE1rna Genetika"
   hindex: '35'
   img: 1-2.jpg

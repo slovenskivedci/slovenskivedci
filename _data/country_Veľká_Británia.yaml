@@ -1,5 +1,7 @@
 - affiliation: "Oxfordsk\xE1 univerzita, Oxford"
+  affiliationurl: "Oxfordsk\xE1_univerzita,_Oxford"
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
+  countryurl: "Ve\u013Ek\xE1_Brit\xE1nia"
   field: "Fyzik\xE1lna Ch\xE9mia"
   hindex: '44'
   img: 1228512_1200x.jpeg
@@ -12,7 +14,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NgHGnt0AAAAJ
   year: '1978'
 - affiliation: "Edinburgsk\xE1 univerzita, Edinburg"
+  affiliationurl: "Edinburgsk\xE1_univerzita,_Edinburg"
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
+  countryurl: "Ve\u013Ek\xE1_Brit\xE1nia"
   field: "Nukle\xE1rna Magnetick\xE1 Rezonancia"
   hindex: '43'
   img: nmr03.jpg
@@ -24,7 +28,9 @@
   scholar: https://scholar.google.com/citations?user=BSx7_CEAAAAJ&amp;hl=en
   year: ''
 - affiliation: Univerzita Strathclyde, Glasgow
+  affiliationurl: Univerzita_Strathclyde,_Glasgow
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
+  countryurl: "Ve\u013Ek\xE1_Brit\xE1nia"
   field: Elektrotechnika
   hindex: '40'
   img: Glesk.jpeg
@@ -37,7 +43,9 @@
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=2f6Yg78AAAAJ
   year: ''
 - affiliation: Univerzita v Birminghame, Birmingham
+  affiliationurl: Univerzita_v_Birminghame,_Birmingham
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
+  countryurl: "Ve\u013Ek\xE1_Brit\xE1nia"
   field: "Komplexn\xE9 a adapt\xEDvne syst\xE9my"
   hindex: '37'
   img: Peter-Tino-visita-Loyola.jpg
@@ -49,7 +57,9 @@
   scholar: https://scholar.google.sk/citations?user=jntY1osAAAAJ&amp;hl=sk
   year: ''
 - affiliation: Univerzita Strathclyde, Glasgow
+  affiliationurl: Univerzita_Strathclyde,_Glasgow
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
+  countryurl: "Ve\u013Ek\xE1_Brit\xE1nia"
   field: "Chemick\xE9 In\u017Einierstvo"
   hindex: '33'
   img: jan-s-500x500.jpeg

@@ -1,5 +1,7 @@
 - affiliation: Univerzita v Adelaide, Adelaide
+  affiliationurl: Univerzita_v_Adelaide,_Adelaide
   country: "Austr\xE1lia"
+  countryurl: "Austr\xE1lia"
   field: Neurogenetika
   hindex: '86'
   img: Gecz-Jozef.jpg
@@ -12,7 +14,9 @@
   scholar: https://scholar.google.com/citations?user=FTejMNwAAAAJ&amp;hl=en
   year: '1962'
 - affiliation: Monashova univerzita, Melbourne
+  affiliationurl: Monashova_univerzita,_Melbourne
   country: "Austr\xE1lia"
+  countryurl: "Austr\xE1lia"
   field: "Epidemiol\xF3gia"
   hindex: '54'
   img: de-courten-barbora.jpg
@@ -28,7 +32,9 @@
   scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
   year: "Voz\xE1rov\xE1"
 - affiliation: Univerzita v Adelaide, Adelaide
+  affiliationurl: Univerzita_v_Adelaide,_Adelaide
   country: "Austr\xE1lia"
+  countryurl: "Austr\xE1lia"
   field: "Bioch\xE9mia"
   hindex: '45'
   img: maria-hrmova-rastlinna-bielkovina-clanokW.jpg
@@ -42,7 +48,9 @@
   year: ''
 - affiliation: "Univerzita v Melbourne a Kr\xE1\u013Eovsk\xE1 nemocnica v Melbourne,\
     \ Melbourne"
+  affiliationurl: "Univerzita_v_Melbourne_a_Kr\xE1\u013Eovsk\xE1_nemocnica_v_Melbourne,_Melbourne"
   country: "Austr\xE1lia"
+  countryurl: "Austr\xE1lia"
   field: "Neurol\xF3gia"
   hindex: '33'
   img: Screen Shot 2021-01-01 at 2.18.08 PM.png
@@ -56,7 +64,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=uoit0TEAAAAJ
   year: '1982'
 - affiliation: Univerzita v New South Wales, Sydney
+  affiliationurl: Univerzita_v_New_South_Wales,_Sydney
   country: "Austr\xE1lia"
+  countryurl: "Austr\xE1lia"
   field: Energetika
   hindex: '32'
   img: img_4285.jpg
@@ -68,7 +78,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=LSvxvEIAAAAJ
   year: ''
 - affiliation: CSIRO, Brisbane
+  affiliationurl: CSIRO,_Brisbane
   country: "Austr\xE1lia"
+  countryurl: "Austr\xE1lia"
   field: "Bezdr\xF4tov\xE9 siete a syst\xE9my"
   hindex: '31'
   img: file-20170626-315-nt5yk4.jpg

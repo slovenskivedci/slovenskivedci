@@ -1,0 +1,44 @@
+---
+layout: default
+title: Home
+---
+
+
+
+
+ 
+
+{% for item in site.data.all %}
+-------------------------------------
+      
+                <div class="row">
+						 <i>{{ item.name }}</i> ({{ item.year }})
+						 <b><a href="{{ item.scholar }}" target="_blank">H-index: {{ item.hindex }}</a></b>
+						 
+						 <p>Country: <a href="{{ item.countryurl }}.html">{{ item.country }}</a></p>
+						 
+						 <p>Affiliation: {{ item.affiliation }}</p>
+
+						 <p>links: 
+						   <ol>
+						   {% for link in item.links %}
+						      <li><a href="{{ link[1] }}" target="_blank"> {{ link[0] }} </a></li>
+						   
+						   {% endfor %}
+						   </ol>
+						 
+						 </p>
+						 
+                    
+                </div>
+                
+                               
+
+  {% endfor %}
+
+ 
+
+
+
+
+

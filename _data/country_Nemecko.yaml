@@ -1,5 +1,7 @@
 - affiliation: Univerzita v Bonne, Bonn
+  affiliationurl: Univerzita_v_Bonne,_Bonn
   country: Nemecko
+  countryurl: Nemecko
   field: "Neurobiol\xF3gia rastl\xEDn"
   hindex: '77'
   img: 48607_1200x.jpg
@@ -10,7 +12,9 @@
   scholar: https://scholar.google.com/citations?user=KF4AYR4AAAAJ&amp;hl=en
   year: '1957'
 - affiliation: Univerzita v Regensburgu
+  affiliationurl: Univerzita_v_Regensburgu
   country: Nemecko
+  countryurl: Nemecko
   field: "Kvantov\xE1 fyzika"
   hindex: '53'
   img: VvC-2015-5-Fabian-14.jpg
@@ -22,7 +26,9 @@
   scholar: https://scholar.google.de/citations?user=bNu69CcAAAAJ&amp;hl=en
   year: '1967'
 - affiliation: RWTH  Aachen
+  affiliationurl: RWTH__Aachen
   country: Nemecko
+  countryurl: Nemecko
   field: "Patol\xD3GIA"
   hindex: '51'
   img: show_picture.jpeg
@@ -34,7 +40,9 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
   year: '1979'
 - affiliation: "Hannoversk\xE1 lek\xE1rska univezita, Hannover"
+  affiliationurl: "Hannoversk\xE1_lek\xE1rska_univezita,_Hannover"
   country: Nemecko
+  countryurl: Nemecko
   field: Neuroveda
   hindex: '39'
   img: Professor-Dr.-Dr.-Andrej-Kral.jpg
@@ -48,7 +56,9 @@
   scholar: https://scholar.google.com/citations?user=y0Fdk30AAAAJ&amp;hl=en
   year: '1969'
 - affiliation: Zeppelinova univerzita, Friedrichshafen
+  affiliationurl: Zeppelinova_univerzita,_Friedrichshafen
   country: Nemecko
+  countryurl: Nemecko
   field: "Medzin\xE1rodn\xE1 ekon\xF3mia"
   hindex: '34'
   img: Fidrmuc_Jarko_1-643634e73cf432age7c94daa9766a59a.jpg

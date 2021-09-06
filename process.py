@@ -11,6 +11,9 @@ for y in glob.glob("./people/*.yaml"):
 			countries[dic['country']] = []
 		if dic['affiliation'] not in institutions:
 			institutions[dic['affiliation']] = []
+		dic["countryurl"]=dic["country"].replace(" ","_")
+		dic["affiliationurl"]=dic["affiliation"].replace(" ","_")
+		
 		institutions[dic['affiliation']].append(dic)			
 		countries[dic['country']].append(dic)
 		alllst.append(dic)
