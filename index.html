@@ -16,7 +16,7 @@ title: Home
 						 	 
 					<div class="row">
 						<div class="column">
-							<img src="/images/{{ item.img }}" class="CENy8b" role="img" />							
+							<img src="/images/{{ item.img }}"  role="img" />							
 						</div>
 						<div class="column" >
 							<h1 class="blog-title"><i>{{ item.name }}</i> ({{ item.year }})</h1>
@@ -25,9 +25,9 @@ title: Home
 												 
 								 <b><a href="{{ item.scholar }}" target="_blank">H-index: {{ item.hindex }}</a></b>
 								 
-								 <p>Country: <a href="{{ item.countryurl }}.html">{{ item.country }}</a></p>
+								 <p>Country: <a href="country_{{ item.countryurl }}.html">{{ item.country }}</a></p>
 								 
-								 <p>Affiliation: {{ item.affiliation }}</p>
+								 <p>Affiliation: <a href="affiliation_{{ item.affiliationurl }}.html">{{ item.affiliation }}</a></p>
 
 							</p>
 							{% for link in item.links %}

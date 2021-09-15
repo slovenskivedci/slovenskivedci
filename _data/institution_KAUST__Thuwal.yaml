@@ -1,0 +1,32 @@
+- affiliation: KAUST, Thuwal
+  affiliationurl: KAUST__Thuwal
+  country: "Saudsk\xE1 Ar\xE1bia"
+  countryurl: Saudska_Arabia
+  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
+  hindex: '46'
+  img: KAUST-CEMSE-CS-AMCS-STAT-VCC-ECRC-P-RICHTARIK-Peter-Richtarik.jpg
+  links:
+    dblp: https://dblp.org/pid/62/8001.html
+    web: https://richtarik.org
+    "\u017Eivotopis": https://richtarik.org/docs/richtarik-cv-2021-03.pdf
+  name: "peter richt\xC1rik"
+  possition: profesor
+  scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp;hl=en
+  year: ''
+- affiliation: KAUST, Thuwal
+  affiliationurl: KAUST__Thuwal
+  country: "Saudsk\xE1 Ar\xE1bia"
+  countryurl: Saudska_Arabia
+  field: "Po\u010D\xEDta\u010Dov\xE1 Grafika a Vizualiz\xE1cia"
+  hindex: '30'
+  img: KAUST-CEMSE-VCC-NANOVIS-CS-Ivan-Viola-Photo.jpg
+  links:
+    LinkedIn: https://sa.linkedin.com/in/ivanviola
+    dblp: https://dblp.org/pid/21/4861.html
+    orcid: https://orcid.org/0000-0003-4248-6574
+    web: https://cemse.kaust.edu.sa/nanovis
+    "\u017Eivotopis": http://ii.uib.no/vis_old/team/viola/_pdfs/IvanViolaCV.pdf
+  name: Ivan Viola
+  possition: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=ELMPg_gAAAAJ
+  year: '1977'
