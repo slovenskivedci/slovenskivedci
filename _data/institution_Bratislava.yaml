@@ -1,10 +1,21 @@
 - affiliation: Bratislava
   affiliationurl: Bratislava
+  cited_by:
+  - citations:
+      all: 4717
+      since_2016: 1620
+  - h_index:
+      all: 34
+      since_2016: 19
+  - i10_index:
+      all: 51
+      since_2016: 30
   country: Slovensko
   countryurl: Slovensko
   field: "materi\xE1lov\xE1 veda"
-  hindex: '33'
+  hindex: 34
   img: Screen Shot 2020-12-26 at 5.29.43 PM.png
+  last_update: '2021-09-16'
   links:
     "\u017Eivotopis": https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
   name: "MilAn S\xFDkora"
@@ -13,11 +24,22 @@
   year: ''
 - affiliation: Bratislava
   affiliationurl: Bratislava
+  cited_by:
+  - citations:
+      all: 2935
+      since_2016: 1535
+  - h_index:
+      all: 32
+      since_2016: 25
+  - i10_index:
+      all: 52
+      since_2016: 41
   country: Slovensko
   countryurl: Slovensko
   field: "Patofyziol\xF3gia"
-  hindex: '32'
+  hindex: 32
   img: Foto-Profile-4.jpg
+  last_update: '2021-09-16'
   links:
     web: https://eccr.org/dr-ludovit-paulis/
   name: "\u013Dudov\xEDt Paulis"

@@ -1,10 +1,21 @@
 - affiliation: Univerzita v Kalifornii, Berkeley
   affiliationurl: Univerzita_v_Kalifornii__Berkeley
+  cited_by:
+  - citations:
+      all: 24095
+      since_2016: 7100
+  - h_index:
+      all: 72
+      since_2016: 39
+  - i10_index:
+      all: 295
+      since_2016: 129
   country: USA
   countryurl: USA
   field: "robotika a umel\xE1 inteligencia"
-  hindex: '70'
+  hindex: 72
   img: bajcsy.jpg
+  last_update: '2021-09-16'
   links:
     web: https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.htmlhttps://people.eecs.berkeley.edu/~bajcsy/
     wikipedia: https://en.wikipedia.org/wiki/Ruzena_Bajcsy

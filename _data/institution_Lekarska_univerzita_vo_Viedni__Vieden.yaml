@@ -5,6 +5,7 @@
   field: "Hematol\xF3gia"
   hindex: '54'
   img: 61838228_2202179663168724_1119563193698484224_n.jpg
+  last_update: '2020-12-31'
   links:
     LinkedIn: https://www.linkedin.com/in/robert-kralovics-0150ab32/
     orcid: https://orcid.org/0000-0002-6997-8539
@@ -16,11 +17,22 @@
   year: '1970'
 - affiliation: "Lek\xE1rska univerzita vo Viedni, Viede\u0148"
   affiliationurl: Lekarska_univerzita_vo_Viedni__Vieden
+  cited_by:
+  - citations:
+      all: 12241
+      since_2016: 5035
+  - h_index:
+      all: 45
+      since_2016: 30
+  - i10_index:
+      all: 109
+      since_2016: 95
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "Lek\xE1rska fyzika"
-  hindex: '43'
+  hindex: 45
   img: martin-krssak.1024x1024.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Martin_Krssak2
     web: https://www.meduniwien.ac.at/hp/programs-endocrinology/supervisors-topics/krssak-martin/
@@ -35,6 +47,7 @@
   field: "Fyzik\xE1lna ch\xE9mia"
   hindex: '42'
   img: 0e942390-ba5b-47f0-ae45-c2e4454d2e57.png.200x200_q95_crop_detail_upscale.png
+  last_update: '2020-12-31'
   links:
     prabook: https://prabook.com/web/vladimir.mlynarik/338489
     publons: https://publons.com/researcher/2791541/vladimir-mlynarik/

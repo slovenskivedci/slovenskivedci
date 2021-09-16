@@ -5,6 +5,7 @@
   field: Neurogenetika
   hindex: '86'
   img: Gecz-Jozef.jpg
+  last_update: '2020-12-31'
   links:
     web: https://researchers.adelaide.edu.au/profile/jozef.gecz
     wikipedia: "https://en.wikipedia.org/wiki/Jozef_G\xE9cz"
@@ -20,6 +21,7 @@
   field: "Epidemiol\xF3gia"
   hindex: '54'
   img: de-courten-barbora.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Barbora_De_Courten2
     loop: https://loop.frontiersin.org/people/371235/overview
@@ -33,11 +35,22 @@
   year: "Voz\xE1rov\xE1"
 - affiliation: Univerzita v Adelaide, Adelaide
   affiliationurl: Univerzita_v_Adelaide__Adelaide
+  cited_by:
+  - citations:
+      all: 6541
+      since_2016: 2555
+  - h_index:
+      all: 45
+      since_2016: 26
+  - i10_index:
+      all: 101
+      since_2016: 71
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "Bioch\xE9mia"
-  hindex: '45'
+  hindex: 45
   img: maria-hrmova-rastlinna-bielkovina-clanokW.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Maria_Hrmova
     orcid: https://orcid.org/0000-0002-3545-0605
@@ -49,11 +62,22 @@
 - affiliation: "Univerzita v Melbourne a Kr\xE1\u013Eovsk\xE1 nemocnica v Melbourne,\
     \ Melbourne"
   affiliationurl: Univerzita_v_Melbourne_a_Kralovska_nemocnica_v_Melbourne__Melbourne
+  cited_by:
+  - citations:
+      all: 3786
+      since_2016: 3342
+  - h_index:
+      all: 35
+      since_2016: 32
+  - i10_index:
+      all: 64
+      since_2016: 62
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "Neurol\xF3gia"
-  hindex: '33'
+  hindex: 35
   img: Screen Shot 2021-01-01 at 2.18.08 PM.png
+  last_update: '2021-09-16'
   links:
     Scopus: https://www.scopus.com/authid/detail.uri?authorId=8365701900
     orcid: https://orcid.org/0000-0003-3778-1376
@@ -65,11 +89,22 @@
   year: '1982'
 - affiliation: Univerzita v New South Wales, Sydney
   affiliationurl: Univerzita_v_New_South_Wales__Sydney
+  cited_by:
+  - citations:
+      all: 3866
+      since_2016: 3354
+  - h_index:
+      all: 33
+      since_2016: 30
+  - i10_index:
+      all: 67
+      since_2016: 55
   country: "Austr\xE1lia"
   countryurl: Australia
   field: Energetika
-  hindex: '32'
+  hindex: 33
   img: img_4285.jpg
+  last_update: '2021-09-16'
   links:
     orcid: https://orcid.org/0000-0002-4863-3419
     web: https://s324741.wixsite.com/bhredzak
@@ -79,11 +114,22 @@
   year: ''
 - affiliation: CSIRO, Brisbane
   affiliationurl: CSIRO__Brisbane
+  cited_by:
+  - citations:
+      all: 7105
+      since_2016: 2201
+  - h_index:
+      all: 31
+      since_2016: 23
+  - i10_index:
+      all: 64
+      since_2016: 45
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "Bezdr\xF4tov\xE9 siete a syst\xE9my"
-  hindex: '31'
+  hindex: 31
   img: file-20170626-315-nt5yk4.jpg
+  last_update: '2021-09-16'
   links:
     SemanticScholar: https://www.semanticscholar.org/author/Branislav-Kusy/1752891
     dblp: https://dblp.org/pid/19/3001.html

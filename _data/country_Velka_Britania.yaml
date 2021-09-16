@@ -5,6 +5,7 @@
   field: "Fyzik\xE1lna Ch\xE9mia"
   hindex: '44'
   img: 1228512_1200x.jpeg
+  last_update: '2020-12-31'
   links:
     web: http://kukura.chem.ox.ac.uk/
     "wikip\xE9dia": https://sk.wikipedia.org/wiki/Philipp_Kukura
@@ -20,6 +21,7 @@
   field: "Nukle\xE1rna Magnetick\xE1 Rezonancia"
   hindex: '43'
   img: nmr03.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Dusan-Uhrin
     web: https://uhringroup.wixsite.com/nmrgroup
@@ -29,11 +31,22 @@
   year: ''
 - affiliation: Univerzita Strathclyde, Glasgow
   affiliationurl: Univerzita_Strathclyde__Glasgow
+  cited_by:
+  - citations:
+      all: 5647
+      since_2016: 1342
+  - h_index:
+      all: 41
+      since_2016: 17
+  - i10_index:
+      all: 101
+      since_2016: 27
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: Elektrotechnika
-  hindex: '40'
+  hindex: 41
   img: Glesk.jpeg
+  last_update: '2021-09-16'
   links:
     orcid: https://orcid.org/0000-0002-3176-8069
     web: http://personal.strath.ac.uk/ivan.glesk/
@@ -44,11 +57,22 @@
   year: ''
 - affiliation: Univerzita v Birminghame, Birmingham
   affiliationurl: Univerzita_v_Birminghame__Birmingham
+  cited_by:
+  - citations:
+      all: 6412
+      since_2016: 3233
+  - h_index:
+      all: 38
+      since_2016: 24
+  - i10_index:
+      all: 99
+      since_2016: 66
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "Komplexn\xE9 a adapt\xEDvne syst\xE9my"
-  hindex: '37'
+  hindex: 38
   img: Peter-Tino-visita-Loyola.jpg
+  last_update: '2021-09-16'
   links:
     web: https://www.cs.bham.ac.uk/~pxt/
     "\u017Eivotopis": https://www.cs.bham.ac.uk/~pxt/cv_pt.pdf
@@ -58,11 +82,22 @@
   year: ''
 - affiliation: Univerzita Strathclyde, Glasgow
   affiliationurl: Univerzita_Strathclyde__Glasgow
+  cited_by:
+  - citations:
+      all: 3799
+      since_2016: 1943
+  - h_index:
+      all: 35
+      since_2016: 25
+  - i10_index:
+      all: 84
+      since_2016: 53
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "Chemick\xE9 In\u017Einierstvo"
-  hindex: '33'
+  hindex: 35
   img: jan-s-500x500.jpeg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Jan_Sefcik
     orcid: https://orcid.org/0000-0002-7181-5122

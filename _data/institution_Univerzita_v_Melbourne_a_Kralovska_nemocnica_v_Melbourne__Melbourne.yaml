@@ -1,11 +1,22 @@
 - affiliation: "Univerzita v Melbourne a Kr\xE1\u013Eovsk\xE1 nemocnica v Melbourne,\
     \ Melbourne"
   affiliationurl: Univerzita_v_Melbourne_a_Kralovska_nemocnica_v_Melbourne__Melbourne
+  cited_by:
+  - citations:
+      all: 3786
+      since_2016: 3342
+  - h_index:
+      all: 35
+      since_2016: 32
+  - i10_index:
+      all: 64
+      since_2016: 62
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "Neurol\xF3gia"
-  hindex: '33'
+  hindex: 35
   img: Screen Shot 2021-01-01 at 2.18.08 PM.png
+  last_update: '2021-09-16'
   links:
     Scopus: https://www.scopus.com/authid/detail.uri?authorId=8365701900
     orcid: https://orcid.org/0000-0003-3778-1376

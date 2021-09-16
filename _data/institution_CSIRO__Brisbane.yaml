@@ -1,10 +1,21 @@
 - affiliation: CSIRO, Brisbane
   affiliationurl: CSIRO__Brisbane
+  cited_by:
+  - citations:
+      all: 7105
+      since_2016: 2201
+  - h_index:
+      all: 31
+      since_2016: 23
+  - i10_index:
+      all: 64
+      since_2016: 45
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "Bezdr\xF4tov\xE9 siete a syst\xE9my"
-  hindex: '31'
+  hindex: 31
   img: file-20170626-315-nt5yk4.jpg
+  last_update: '2021-09-16'
   links:
     SemanticScholar: https://www.semanticscholar.org/author/Branislav-Kusy/1752891
     dblp: https://dblp.org/pid/19/3001.html

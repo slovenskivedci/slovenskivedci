@@ -1,10 +1,21 @@
 - affiliation: "Lek\xE1rska fakulta, Univerzita Komensk\xE9ho"
   affiliationurl: Lekarska_fakulta__Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 45683
+      since_2016: 44550
+  - h_index:
+      all: 49
+      since_2016: 45
+  - i10_index:
+      all: 74
+      since_2016: 71
   country: Bratislava
   countryurl: Bratislava
   field: "Epidemiol\xF3gia"
-  hindex: '49'
+  hindex: 49
   img: 180205_Dusevne_choroby_2_01.jpg
+  last_update: '2021-09-16'
   links:
     orcid: https://orcid.org/0000-0003-0625-256X
     publons: https://publons.com/researcher/2304958/alexandra-brazinova

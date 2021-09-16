@@ -1,10 +1,21 @@
 - affiliation: Univerzita v Zurichu, Zurich
   affiliationurl: Univerzita_v_Zurichu__Zurich
+  cited_by:
+  - citations:
+      all: 9550
+      since_2016: 4317
+  - h_index:
+      all: 45
+      since_2016: 33
+  - i10_index:
+      all: 76
+      since_2016: 63
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: "Fyziol\xF3gia buniek"
-  hindex: '45'
+  hindex: 45
   img: L_Borsig photo 1-17-1.jpg.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Lubor-Borsig
     loop: https://loop.frontiersin.org/people/108489/overview
@@ -21,6 +32,7 @@
   field: Informatika
   hindex: '37'
   img: image.imageformat.fullwidth.1393744474.jpg
+  last_update: '2020-12-31'
   links:
     LinkedIn: https://www.linkedin.com/in/juraj-hromkovic-b6359034/?originalSubdomain=ch
     MathGenealogy: https://www.mathgenealogy.org/id.php?id=117390
@@ -39,6 +51,7 @@
   field: "Hydrol\xF3gia"
   hindex: '37'
   img: image.imageformat.twocolumn.436876598.png
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Peter_Molnar11
     orcid: https://orcid.org/0000-0001-6437-4931
@@ -54,6 +67,7 @@
   field: INFORMATIKA
   hindex: '31'
   img: 00100lrPORTRAIT_00100_BURST20200705131802315_COVER.jpg
+  last_update: '2020-12-31'
   links:
     dblp: https://dblp.org/pid/p/MartinPal.html
     web: https://research.google/people/author20/

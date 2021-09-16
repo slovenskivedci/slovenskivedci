@@ -1,10 +1,21 @@
 - affiliation: "Slovensk\xE1 zdravotn\xEDcka univerzita, Bratislava"
   affiliationurl: Slovenska_zdravotnicka_univerzita__Bratislava
+  cited_by:
+  - citations:
+      all: 5346
+      since_2016: 2605
+  - h_index:
+      all: 42
+      since_2016: 26
+  - i10_index:
+      all: 93
+      since_2016: 68
   country: Slovensko
   countryurl: Slovensko
   field: "Farmakol\xF3gia"
-  hindex: '41'
+  hindex: 42
   img: profesor-tomas-trnovec-clanokW.jpg
+  last_update: '2021-09-16'
   links:
     '1': https://zurnal.pravda.sk/rozhovory/clanok/536256-tomas-trnovec-slovaci-su-rekorderi-v-jedoch-v-tele/
     LinkedIn: https://www.linkedin.com/in/tomas-trnovec-88a28238/?originalSubdomain=sk

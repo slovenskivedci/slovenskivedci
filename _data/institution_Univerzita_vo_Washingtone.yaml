@@ -1,10 +1,21 @@
 - affiliation: Univerzita vo Washingtone
   affiliationurl: Univerzita_vo_Washingtone
+  cited_by:
+  - citations:
+      all: 14531
+      since_2016: 6160
+  - h_index:
+      all: 48
+      since_2016: 33
+  - i10_index:
+      all: 90
+      since_2016: 74
   country: USA
   countryurl: USA
   field: Programovacie Jazyky
-  hindex: '47'
+  hindex: 48
   img: small.jpg
+  last_update: '2021-09-16'
   links:
     web: https://homes.cs.washington.edu/~bodik/
     "\u017Eivotopis": https://homes.cs.washington.edu/~bodik/cv.pdf

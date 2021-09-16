@@ -1,10 +1,21 @@
 - affiliation: "Eur\xF3pska komisia, Sevilla"
   affiliationurl: Europska_komisia__Sevilla
+  cited_by:
+  - citations:
+      all: 5705
+      since_2016: 3963
+  - h_index:
+      all: 35
+      since_2016: 31
+  - i10_index:
+      all: 84
+      since_2016: 64
   country: "\u0160panielsko"
   countryurl: Spanielsko
   field: "Ekon\xF3mia"
-  hindex: '34'
+  hindex: 35
   img: Ciaian_3.jpg
+  last_update: '2021-09-16'
   links:
     RePEc: https://ideas.repec.org/e/pci158.html
     ResearchGate: https://www.researchgate.net/profile/Pavel_Ciaian

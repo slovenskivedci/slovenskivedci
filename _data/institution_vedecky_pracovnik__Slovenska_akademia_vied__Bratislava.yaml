@@ -1,10 +1,21 @@
 - affiliation: "vedeck\xFD pracovn\xEDk, Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: vedecky_pracovnik__Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 5804
+      since_2016: 2112
+  - h_index:
+      all: 41
+      since_2016: 25
+  - i10_index:
+      all: 79
+      since_2016: 58
   country: Slovensko
   countryurl: Slovensko
   field: "Molekul\xE1rna Biol\xF3gia"
-  hindex: '41'
+  hindex: 41
   img: Stefan_Janecek.jpg
+  last_update: '2021-09-16'
   links:
     web: http://imb.savba.sk/~janecek/
     "\u017Eivotopis": https://fpv-kbio.webnode.sk/stefan-janecek/

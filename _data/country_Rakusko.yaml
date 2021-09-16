@@ -1,10 +1,21 @@
 - affiliation: IST Austria, Klosterneuburg
   affiliationurl: IST_Austria__Klosterneuburg
+  cited_by:
+  - citations:
+      all: 20494
+      since_2016: 9044
+  - h_index:
+      all: 55
+      since_2016: 49
+  - i10_index:
+      all: 83
+      since_2016: 81
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "BIOl\xD3GIA RASTL\xEDN"
-  hindex: '55'
+  hindex: 55
   img: ProfEvaBenkova-500x500.jpg
+  last_update: '2021-09-16'
   links:
     web: https://ist.ac.at/en/research/benkova-group/#career
     "\u017Eivotopis": https://ist.ac.at/wp-content/uploads/2019/11/CV_Benkova.pdf
@@ -19,6 +30,7 @@
   field: "Hematol\xF3gia"
   hindex: '54'
   img: 61838228_2202179663168724_1119563193698484224_n.jpg
+  last_update: '2020-12-31'
   links:
     LinkedIn: https://www.linkedin.com/in/robert-kralovics-0150ab32/
     orcid: https://orcid.org/0000-0002-6997-8539
@@ -28,6 +40,31 @@
   possition: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=-oTaCR8AAAAJ&amp;hl=en
   year: '1970'
+- affiliation: "Lek\xE1rska univerzita vo Viedni, Viede\u0148"
+  affiliationurl: Lekarska_univerzita_vo_Viedni__Vieden
+  cited_by:
+  - citations:
+      all: 12241
+      since_2016: 5035
+  - h_index:
+      all: 45
+      since_2016: 30
+  - i10_index:
+      all: 109
+      since_2016: 95
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "Lek\xE1rska fyzika"
+  hindex: 45
+  img: martin-krssak.1024x1024.jpg
+  last_update: '2021-09-16'
+  links:
+    ResearchGate: https://www.researchgate.net/profile/Martin_Krssak2
+    web: https://www.meduniwien.ac.at/hp/programs-endocrinology/supervisors-topics/krssak-martin/
+  name: "Martin Kr\u0161\u0161\xE1k"
+  possition: docent
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=Ynt9VvUAAAAJ
+  year: ''
 - affiliation: "Viedensk\xE1 technick\xE1 univerzita, Viede\u0148"
   affiliationurl: Viedenska_technicka_univerzita__Vieden
   country: "Rak\xFAsko"
@@ -35,6 +72,7 @@
   field: "Hydrol\xF3gia"
   hindex: '44'
   img: csm_Duro_2017_web_f3772b85bf.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Juraj_Parajka
     orcid: https://orcid.org/0000-0002-1177-5181
@@ -47,23 +85,10 @@
   affiliationurl: Lekarska_univerzita_vo_Viedni__Vieden
   country: "Rak\xFAsko"
   countryurl: Rakusko
-  field: "Lek\xE1rska fyzika"
-  hindex: '43'
-  img: martin-krssak.1024x1024.jpg
-  links:
-    ResearchGate: https://www.researchgate.net/profile/Martin_Krssak2
-    web: https://www.meduniwien.ac.at/hp/programs-endocrinology/supervisors-topics/krssak-martin/
-  name: "Martin Kr\u0161\u0161\xE1k"
-  possition: docent
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=Ynt9VvUAAAAJ
-  year: ''
-- affiliation: "Lek\xE1rska univerzita vo Viedni, Viede\u0148"
-  affiliationurl: Lekarska_univerzita_vo_Viedni__Vieden
-  country: "Rak\xFAsko"
-  countryurl: Rakusko
   field: "Fyzik\xE1lna ch\xE9mia"
   hindex: '42'
   img: 0e942390-ba5b-47f0-ae45-c2e4454d2e57.png.200x200_q95_crop_detail_upscale.png
+  last_update: '2020-12-31'
   links:
     prabook: https://prabook.com/web/vladimir.mlynarik/338489
     publons: https://publons.com/researcher/2791541/vladimir-mlynarik/
@@ -80,6 +105,7 @@
   field: "Fyzik\xE1lna Ch\xE9mia"
   hindex: '36'
   img: DSC_9176.JPG
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Daniel_Tunega
     orcid: https://orcid.org/0000-0003-0822-1580
@@ -91,11 +117,22 @@
   year: '1961'
 - affiliation: "Viede\u0148sk\xE1 univerzita, Viede\u0148"
   affiliationurl: Viedenska_univerzita__Vieden
+  cited_by:
+  - citations:
+      all: 5708
+      since_2016: 2592
+  - h_index:
+      all: 35
+      since_2016: 25
+  - i10_index:
+      all: 67
+      since_2016: 45
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "nanomateri\xE1ly"
-  hindex: '34'
+  hindex: 35
   img: photo_Viera_Skakalova.jpeg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Viera_Skakalova
     orcid: https://orcid.org/0000-0002-7016-8584

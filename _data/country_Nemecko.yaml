@@ -1,10 +1,21 @@
 - affiliation: Univerzita v Bonne, Bonn
   affiliationurl: Univerzita_v_Bonne__Bonn
+  cited_by:
+  - citations:
+      all: 20091
+      since_2016: 7965
+  - h_index:
+      all: 78
+      since_2016: 49
+  - i10_index:
+      all: 274
+      since_2016: 197
   country: Nemecko
   countryurl: Nemecko
   field: "Neurobiol\xF3gia rastl\xEDn"
-  hindex: '77'
+  hindex: 78
   img: 48607_1200x.jpg
+  last_update: '2021-09-16'
   links:
     web: http://ds9.botanik.uni-bonn.de/zellbio/AG-Baluska-Volkmann/index.php
   name: "Franti\u0161ek Balu\u0161ka"
@@ -13,11 +24,22 @@
   year: '1957'
 - affiliation: Univerzita v Regensburgu
   affiliationurl: Univerzita_v_Regensburgu
+  cited_by:
+  - citations:
+      all: 24076
+      since_2016: 11450
+  - h_index:
+      all: 53
+      since_2016: 41
+  - i10_index:
+      all: 141
+      since_2016: 113
   country: Nemecko
   countryurl: Nemecko
   field: "Kvantov\xE1 fyzika"
-  hindex: '53'
+  hindex: 53
   img: VvC-2015-5-Fabian-14.jpg
+  last_update: '2021-09-16'
   links:
     web: http://www.physik.uni-regensburg.de/forschung/fabian/
     "\u017Eivotopis": http://www.physik.uni-regensburg.de/forschung/fabian/pages/mainframes/people/JaroslavFabian/resume.pdf
@@ -27,11 +49,22 @@
   year: '1967'
 - affiliation: RWTH  Aachen
   affiliationurl: RWTH__Aachen
+  cited_by:
+  - citations:
+      all: 8563
+      since_2016: 6147
+  - h_index:
+      all: 52
+      since_2016: 46
+  - i10_index:
+      all: 140
+      since_2016: 128
   country: Nemecko
   countryurl: Nemecko
   field: "Patol\xD3GIA"
-  hindex: '51'
+  hindex: 52
   img: show_picture.jpeg
+  last_update: '2021-09-16'
   links:
     web: https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/
     "\u017Eivotopis": http://www.imbm.sk/wp-content/uploads/2018/01/cv-english-pb.pdf
@@ -41,11 +74,22 @@
   year: '1979'
 - affiliation: "Hannoversk\xE1 lek\xE1rska univezita, Hannover"
   affiliationurl: Hannoverska_lekarska_univezita__Hannover
+  cited_by:
+  - citations:
+      all: 7271
+      since_2016: 3950
+  - h_index:
+      all: 40
+      since_2016: 33
+  - i10_index:
+      all: 85
+      since_2016: 71
   country: Nemecko
   countryurl: Nemecko
   field: Neuroveda
-  hindex: '39'
+  hindex: 40
   img: Professor-Dr.-Dr.-Andrej-Kral.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Andrej-Kral
     loop: https://loop.frontiersin.org/people/84073/overview
@@ -62,6 +106,7 @@
   field: "Medzin\xE1rodn\xE1 ekon\xF3mia"
   hindex: '34'
   img: Fidrmuc_Jarko_1-643634e73cf432age7c94daa9766a59a.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Jarko_Fidrmuc
     orcid: https://orcid.org/0000-0003-2662-1991

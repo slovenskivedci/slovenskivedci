@@ -1,10 +1,21 @@
 - affiliation: Univerzita v Illinois, Urbana-Champaign
   affiliationurl: Univerzita_v_Illinois__Urbana-Champaign
+  cited_by:
+  - citations:
+      all: 32106
+      since_2016: 6487
+  - h_index:
+      all: 87
+      since_2016: 39
+  - i10_index:
+      all: 359
+      since_2016: 145
   country: USA
   countryurl: USA
   field: Informatika
-  hindex: '87'
+  hindex: 87
   img: 163208.jpg
+  last_update: '2021-09-16'
   links:
     dblp: https://dblp.org/pid/45/3224.html
     web: https://cs.illinois.edu/about/people/faculty/klara

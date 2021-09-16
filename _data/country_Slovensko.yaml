@@ -5,6 +5,7 @@
   field: "Jadrov\xE1 Fyzika"
   hindex: '123'
   img: "Nov\xE1 fyzika v CERN.JPG"
+  last_update: '2020-12-31'
   links:
     publons: https://publons.com/researcher/3258206/brano-sitar/
     web: https://fmph.uniba.sk/kontakt/zamestnanci/sitar1/
@@ -22,6 +23,7 @@
   field: "APLIKOVAN\xC1 matematika"
   hindex: '65'
   img: image_12007_21_v1.jpeg
+  last_update: '2020-12-31'
   links:
     web: https://www.math.sk/mesiar/
   name: Radko Mesiar
@@ -30,11 +32,22 @@
   year: '1951'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 17049
+      since_2016: 4225
+  - h_index:
+      all: 61
+      since_2016: 25
+  - i10_index:
+      all: 152
+      since_2016: 73
   country: Slovensko
   countryurl: Slovensko
   field: "Kvantov\xE1 Fyzika"
-  hindex: '61'
+  hindex: 61
   img: 119147-vladimir-buzek-clanokW.jpg
+  last_update: '2021-09-16'
   links:
     web: http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=buzek
     "\u017Eivotopis": https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf
@@ -44,11 +57,22 @@
   year: '1957'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
   affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 12079
+      since_2016: 4907
+  - h_index:
+      all: 60
+      since_2016: 37
+  - i10_index:
+      all: 160
+      since_2016: 104
   country: Slovensko
   countryurl: Slovensko
   field: "Jadrov\xE1 Fyzika"
-  hindex: '60'
+  hindex: 60
   img: simkovic_fedor_ESA.jpg
+  last_update: '2021-09-16'
   links:
     ESET Science Award: https://www.esetscienceaward.sk/sk/finalisti/fedor-simkovic
     loop: https://loop.frontiersin.org/people/406064/overview
@@ -66,6 +90,7 @@
   field: "Bioch\xE9mia"
   hindex: '57'
   img: PeterBiely_250.jpg
+  last_update: '2020-12-31'
   links:
     orcid: https://orcid.org/0000-0002-9915-7707
     publons: https://publons.com/researcher/4030831/peter-biely/
@@ -82,6 +107,7 @@
   field: fyzika
   hindex: '57'
   img: Umr65d3lS2Pui_hbgWXgpw.2560_Fyzik-Vladim-r-ern.jpg
+  last_update: '2020-12-31'
   links:
     web: http://davinci.fmph.uniba.sk/~cerny1/
   name: "Vladim\xEDr \u010Cern\xFD"
@@ -95,6 +121,7 @@
   field: "jadrov\xE1 fyzika"
   hindex: '56'
   img: TBEN1422.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Pavel_Povinec
     "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/ovv/2014/141112_Profesorska_prednaska_o_Fukusime-CV_Povinec.pdf
@@ -104,11 +131,22 @@
   year: '1942'
 - affiliation: "Trnavsk\xE1 univerzita, Trnava"
   affiliationurl: Trnavska_univerzita__Trnava
+  cited_by:
+  - citations:
+      all: 55906
+      since_2016: 54131
+  - h_index:
+      all: 55
+      since_2016: 49
+  - i10_index:
+      all: 93
+      since_2016: 91
   country: Slovensko
   countryurl: Slovensko
   field: "Epidemiol\xF3gia"
-  hindex: '55'
+  hindex: 55
   img: doc.m.majdan_004_0.jpg
+  last_update: '2021-09-16'
   links:
     LinkedIn: https://www.linkedin.com/in/marek-majdan-b7a9907
     ResearchGate: https://www.researchgate.net/profile/Marek-Majdan-3
@@ -119,11 +157,36 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 9489
+      since_2016: 3225
+  - h_index:
+      all: 52
+      since_2016: 27
+  - i10_index:
+      all: 219
+      since_2016: 111
+  country: Slovensko
+  countryurl: Slovensko
+  field: "Aplikovan\xC1 Mechanika"
+  hindex: 52
+  img: photo.png
+  last_update: '2021-09-16'
+  links:
+    "\u017Eivotopis": https://www.osobnosti.sk/osobnost/vladimir-sladek-591
+  name: "Vladim\xEDr Sl\xC1DEK"
+  possition: profesor
+  scholar: https://scholar.google.sk/citations?user=Z8DDt0kAAAAJ&amp;hl=en
+  year: '1954'
+- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+  affiliationurl: Slovenska_akademia_vied__Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "Aplikovan\xC1 Mechanika"
   hindex: '52'
   img: Sladek_Jan_small.jpg
+  last_update: '2020-12-31'
   links:
     osobnosti: https://www.osobnosti.sk/osobnost/jan-sladek-590
     "\u017Eivotopis": https://www.ae-info.org/ae/Member/Sladek_Jan
@@ -131,26 +194,24 @@
   possition: profesor
   scholar: https://scholar.google.com/citations?user=EuDw2JcAAAAJ&amp;hl=en
   year: '1952'
-- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
-  affiliationurl: Slovenska_akademia_vied__Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "Aplikovan\xC1 Mechanika"
-  hindex: '51'
-  img: photo.png
-  links:
-    "\u017Eivotopis": https://www.osobnosti.sk/osobnost/vladimir-sladek-591
-  name: "Vladim\xEDr Sl\xC1DEK"
-  possition: profesor
-  scholar: https://scholar.google.sk/citations?user=Z8DDt0kAAAAJ&amp;hl=en
-  year: '1954'
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita, Nitra"
   affiliationurl: Slovenska_polnohospodarska_univerzita__Nitra
+  cited_by:
+  - citations:
+      all: 8845
+      since_2016: 7921
+  - h_index:
+      all: 46
+      since_2016: 45
+  - i10_index:
+      all: 124
+      since_2016: 114
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia rastl\xEDn"
-  hindex: '44'
+  hindex: 46
   img: Brestic - Esset.jpg
+  last_update: '2021-09-16'
   links:
     ESET Science Award: https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/marian-brestic
     web: https://is.uniag.sk/lide/clovek.pl?id=1426
@@ -159,13 +220,48 @@
   possition: profesor
   scholar: https://scholar.google.com/citations?user=9LXjvp8AAAAJ&amp;hl=en&amp;oi=sra
   year: '1959'
+- affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+  affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 6851
+      since_2016: 4222
+  - h_index:
+      all: 44
+      since_2016: 35
+  - i10_index:
+      all: 127
+      since_2016: 107
+  country: Slovensko
+  countryurl: Slovensko
+  field: "behavior\xC1lna ekol\xF3giA"
+  hindex: 44
+  img: Screen Shot 2020-12-26 at 12.39.35 PM.png
+  last_update: '2021-09-16'
+  links:
+    web: https://fns.uniba.sk/pracoviska/environmentalna-sekcia/kee/zamestnanci/pavol-prokop/
+  name: pavol prokop
+  possition: profesor
+  scholar: https://scholar.google.sk/citations?user=q6uGy_4AAAAJ&amp;hl=sk
+  year: ''
 - affiliation: Univerzita sv. Cyrila a Metoda v Trnave, Trnava
   affiliationurl: Univerzita_sv._Cyrila_a_Metoda_v_Trnave__Trnava
+  cited_by:
+  - citations:
+      all: 8085
+      since_2016: 3821
+  - h_index:
+      all: 44
+      since_2016: 30
+  - i10_index:
+      all: 181
+      since_2016: 105
   country: Slovensko
   countryurl: Slovensko
   field: "Anorganick\xE1 Ch\xE9mia"
-  hindex: '44'
+  hindex: 44
   img: nas-profesor-1.jpg
+  last_update: '2021-09-16'
   links:
     vedec roka 2011: https://sk.wikipedia.org/wiki/Vedec_roka_SR
     web: https://www.ucm.sk/sk/rektor/
@@ -181,6 +277,7 @@
   field: "Materi\xE1lov\xE1 ch\xE9mia"
   hindex: '44'
   img: 6739bb0b-3423-4bee-a0ad-ea9c3fb6f8db_mk-svk-20201211-mariaomastova-chemickasav-h011.jpg
+  last_update: '2020-12-31'
   links:
     ESET Science Award: https://www.esetscienceaward.sk/sk/finalisti/maria-omastova
     web: http://www.polymer.sav.sk/OKM
@@ -196,6 +293,7 @@
   field: "Biotechnol\xF3gia"
   hindex: '43'
   img: 5858006_1200x.jpeg
+  last_update: '2020-12-31'
   links:
     ESET Science Award: https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/jan-tkac
     web: http://elena.sav.sk
@@ -205,41 +303,77 @@
   possition: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=jfkqa18AAAAJ&amp;hl=en
   year: '1972'
-- affiliation: "Univerzita Komensk\xE9ho, Bratislava"
-  affiliationurl: Univerzita_Komenskeho__Bratislava
+- affiliation: "Slovensk\xE1 zdravotn\xEDcka univerzita, Bratislava"
+  affiliationurl: Slovenska_zdravotnicka_univerzita__Bratislava
+  cited_by:
+  - citations:
+      all: 5346
+      since_2016: 2605
+  - h_index:
+      all: 42
+      since_2016: 26
+  - i10_index:
+      all: 93
+      since_2016: 68
   country: Slovensko
   countryurl: Slovensko
-  field: "behavior\xC1lna ekol\xF3giA"
-  hindex: '42'
-  img: Screen Shot 2020-12-26 at 12.39.35 PM.png
+  field: "Farmakol\xF3gia"
+  hindex: 42
+  img: profesor-tomas-trnovec-clanokW.jpg
+  last_update: '2021-09-16'
   links:
-    web: https://fns.uniba.sk/pracoviska/environmentalna-sekcia/kee/zamestnanci/pavol-prokop/
-  name: pavol prokop
+    '1': https://zurnal.pravda.sk/rozhovory/clanok/536256-tomas-trnovec-slovaci-su-rekorderi-v-jedoch-v-tele/
+    LinkedIn: https://www.linkedin.com/in/tomas-trnovec-88a28238/?originalSubdomain=sk
+    ResearchGate: https://www.researchgate.net/profile/Tomas-Trnovec
+    "\u010Dl\xE1nky": MISSING
+  name: "Tom\xE1\u0161 Trnovec"
   possition: profesor
-  scholar: https://scholar.google.sk/citations?user=q6uGy_4AAAAJ&amp;hl=sk
-  year: ''
-- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
-  affiliationurl: Slovenska_akademia_vied__Bratislava
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=iQivvkcAAAAJ
+  year: '1932'
+- affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
+  affiliationurl: Univerzita_PJ_Safarika__Kosice
+  cited_by:
+  - citations:
+      all: 8945
+      since_2016: 5102
+  - h_index:
+      all: 42
+      since_2016: 30
+  - i10_index:
+      all: 132
+      since_2016: 106
   country: Slovensko
   countryurl: Slovensko
-  field: "Biotechnol\xF3gia"
-  hindex: '42'
-  img: Screen Shot 2021-02-23 at 1.39.00 PM.png
+  field: "Soci\xE1lna Psychol\xF3gia"
+  hindex: 42
+  img: amg-foto.jpg
+  last_update: '2021-09-16'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Peter_Gemeiner
-    web: http://www.chem.sk/people/gemeinerpeter/
-    "\u017Eivotopis": https://prabook.com/web/peter.gemeiner/337833
-  name: Peter Gemeiner
-  possition: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
-  year: '1946'
+    ResearchGate: https://www.researchgate.net/profile/Andrea_Madarasova_Geckova2
+    orcid: https://orcid.org/0000-0003-2993-3798
+    web: https://www.upjs.sk/LF/zamestnanec/andrea.geckova/
+  name: "Andrea Madarasov\xE1 Geckov\xE1"
+  possition: profesorka
+  scholar: https://scholar.google.sk/citations?hl=sk&amp;user=VbZM3zYAAAAJ
+  year: '1972'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 6354
+      since_2016: 3061
+  - h_index:
+      all: 42
+      since_2016: 30
+  - i10_index:
+      all: 99
+      since_2016: 74
   country: Slovensko
   countryurl: Slovensko
   field: "makromolekul\xE1rna ch\xE9mia"
-  hindex: '42'
+  hindex: 42
   img: 5857999_1200x.jpeg
+  last_update: '2021-09-16'
   links:
     ESET Science Award: https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/igor-lacik
     web: http://www.polymer.sav.sk/OVB-Staff
@@ -257,6 +391,7 @@
   field: "Bioch\xE9mia"
   hindex: '42'
   img: olga-pechanova-clanokW.jpg
+  last_update: '2020-12-31'
   links:
     osobnosti: https://www.osobnosti.sk/osobnost/olga-pechanova-654
     web: http://cem.sav.sk/index.php/en/cem/
@@ -265,29 +400,50 @@
   possition: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=1bNNlZUAAAAJ
   year: '1962'
-- affiliation: "Slovensk\xE1 zdravotn\xEDcka univerzita, Bratislava"
-  affiliationurl: Slovenska_zdravotnicka_univerzita__Bratislava
+- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+  affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 6764
+      since_2016: 2196
+  - h_index:
+      all: 41
+      since_2016: 19
+  - i10_index:
+      all: 151
+      since_2016: 53
   country: Slovensko
   countryurl: Slovensko
-  field: "Farmakol\xF3gia"
-  hindex: '41'
-  img: profesor-tomas-trnovec-clanokW.jpg
+  field: "Biotechnol\xF3gia"
+  hindex: 41
+  img: Screen Shot 2021-02-23 at 1.39.00 PM.png
+  last_update: '2021-09-16'
   links:
-    '1': https://zurnal.pravda.sk/rozhovory/clanok/536256-tomas-trnovec-slovaci-su-rekorderi-v-jedoch-v-tele/
-    LinkedIn: https://www.linkedin.com/in/tomas-trnovec-88a28238/?originalSubdomain=sk
-    ResearchGate: https://www.researchgate.net/profile/Tomas-Trnovec
-    "\u010Dl\xE1nky": MISSING
-  name: "Tom\xE1\u0161 Trnovec"
-  possition: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=iQivvkcAAAAJ
-  year: '1932'
+    ResearchGate: https://www.researchgate.net/profile/Peter_Gemeiner
+    web: http://www.chem.sk/people/gemeinerpeter/
+    "\u017Eivotopis": https://prabook.com/web/peter.gemeiner/337833
+  name: Peter Gemeiner
+  possition: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
+  year: '1946'
 - affiliation: "vedeck\xFD pracovn\xEDk, Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: vedecky_pracovnik__Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 5804
+      since_2016: 2112
+  - h_index:
+      all: 41
+      since_2016: 25
+  - i10_index:
+      all: 79
+      since_2016: 58
   country: Slovensko
   countryurl: Slovensko
   field: "Molekul\xE1rna Biol\xF3gia"
-  hindex: '41'
+  hindex: 41
   img: Stefan_Janecek.jpg
+  last_update: '2021-09-16'
   links:
     web: http://imb.savba.sk/~janecek/
     "\u017Eivotopis": https://fpv-kbio.webnode.sk/stefan-janecek/
@@ -295,21 +451,6 @@
   possition: docent
   scholar: https://scholar.google.sk/citations?user=_l2tp6kAAAAJ&amp;hl=en
   year: ''
-- affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
-  affiliationurl: Univerzita_PJ_Safarika__Kosice
-  country: Slovensko
-  countryurl: Slovensko
-  field: "Soci\xE1lna Psychol\xF3gia"
-  hindex: '41'
-  img: amg-foto.jpg
-  links:
-    ResearchGate: https://www.researchgate.net/profile/Andrea_Madarasova_Geckova2
-    orcid: https://orcid.org/0000-0003-2993-3798
-    web: https://www.upjs.sk/LF/zamestnanec/andrea.geckova/
-  name: "Andrea Madarasov\xE1 Geckov\xE1"
-  possition: profesorka
-  scholar: https://scholar.google.sk/citations?hl=sk&amp;user=VbZM3zYAAAAJ
-  year: '1972'
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
   affiliationurl: Technicka_univerzita_v_Kosiciach__Kosice
   country: Slovensko
@@ -317,6 +458,7 @@
   field: "automatiz\xE1cia"
   hindex: '41'
   img: Petras.jpg
+  last_update: '2020-12-31'
   links:
     web: http://people.tuke.sk/ivo.petras/
     "\u017Eivotopis": https://www.uiam.sk/~fikar/drsc/petras/Navrh_VRSTU.pdf
@@ -326,11 +468,46 @@
   year: '1973'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
   affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 5046
+      since_2016: 2148
+  - h_index:
+      all: 40
+      since_2016: 24
+  - i10_index:
+      all: 123
+      since_2016: 62
+  country: Slovensko
+  countryurl: Slovensko
+  field: "ELEktr\xF3nov\xE1 a plazmov\xE1 FYZIKA"
+  hindex: 40
+  img: 181109_Elevate_02_006a5ec917.jpg
+  last_update: '2021-09-16'
+  links:
+    web: http://neon.dpp.fmph.uniba.sk/workgroup/index.php?option=com_content&view=article&id=1&Itemid=101
+  name: "\u0160TEFAN MATEJ\u010C\xCDK"
+  possition: profesor
+  scholar: https://scholar.google.sk/citations?hl=cs&amp;user=Bvdw6vIAAAAJ
+  year: ''
+- affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+  affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 5949
+      since_2016: 3519
+  - h_index:
+      all: 40
+      since_2016: 32
+  - i10_index:
+      all: 139
+      since_2016: 105
   country: Slovensko
   countryurl: Slovensko
   field: "molekul\xE1rna biomedic\xEDna"
-  hindex: '40'
+  hindex: 40
   img: TBEN2007.jpg
+  last_update: '2021-09-16'
   links:
     web: https://www.imbm.sk/sk/members/peter-celec-sk/
     "\u017Eivotopis": http://www.imbm.sk/wp-content/uploads/2017/03/cv_peter-celec-short-en.pdf
@@ -340,24 +517,22 @@
   year: '1979'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
   affiliationurl: Univerzita_Komenskeho__Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "ELEktr\xF3nov\xE1 a plazmov\xE1 FYZIKA"
-  hindex: '39'
-  img: 181109_Elevate_02_006a5ec917.jpg
-  links:
-    web: http://neon.dpp.fmph.uniba.sk/workgroup/index.php?option=com_content&view=article&id=1&Itemid=101
-  name: "\u0160TEFAN MATEJ\u010C\xCDK"
-  possition: profesor
-  scholar: https://scholar.google.sk/citations?hl=cs&amp;user=Bvdw6vIAAAAJ
-  year: ''
-- affiliation: "Univerzita Komensk\xE9ho, Bratislava"
-  affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 3991
+      since_2016: 2512
+  - h_index:
+      all: 38
+      since_2016: 24
+  - i10_index:
+      all: 57
+      since_2016: 50
   country: Slovensko
   countryurl: Slovensko
   field: "fyzik\xE1lna Ch\xC9MIA"
-  hindex: '38'
+  hindex: 38
   img: 989c3ce1fd8c4f3a8c5253a1c1f5cbd9.png.200x200_q95_crop_detail_upscale.png
+  last_update: '2021-09-16'
   links:
     publons: https://publons.com/researcher/1378264/tomas-bucko/
     web: https://fns.uniba.sk/en/departments/chemistry/department-of-physical-and-theoretical-chemistry/people/central-database-of-staff/?tx_unibausers_pi1[person]=bucko19
@@ -367,11 +542,22 @@
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
   affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 6431
+      since_2016: 1407
+  - h_index:
+      all: 38
+      since_2016: 21
+  - i10_index:
+      all: 76
+      since_2016: 43
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 FYZIKA"
-  hindex: '38'
+  hindex: 38
   img: 3049399_1200x.jpg
+  last_update: '2021-09-16'
   links:
     web: https://uniba.sk/o-univerzite/organy-uk/vedenie/prorektor-pre-vedu-doktorandske-studium-a-projektovu-cinnost/
     "wikip\xE9dia": https://sk.wikipedia.org/wiki/Jozef_Masarik
@@ -382,38 +568,70 @@
   year: '1959'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
   affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 5715
+      since_2016: 2138
+  - h_index:
+      all: 37
+      since_2016: 22
+  - i10_index:
+      all: 138
+      since_2016: 67
   country: Slovensko
   countryurl: Slovensko
   field: Biofyzika
-  hindex: '37'
+  hindex: 37
   img: maxresdefault.jpg
+  last_update: '2021-09-16'
   links:
     web: https://uniba.sk/ludia/hianik1/
   name: Tibor hianik
   possition: profesor
   scholar: https://scholar.google.com/citations?user=FNfPewQAAAAJ&amp;hl=en
   year: ''
-- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
-  affiliationurl: Slovenska_akademia_vied__Bratislava
+- affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita, Nitra"
+  affiliationurl: Slovenska_polnohospodarska_univerzita__Nitra
+  cited_by:
+  - citations:
+      all: 5794
+      since_2016: 5369
+  - h_index:
+      all: 37
+      since_2016: 36
+  - i10_index:
+      all: 67
+      since_2016: 63
   country: Slovensko
   countryurl: Slovensko
-  field: fyzika
-  hindex: '37'
-  img: andrej-liptaj-sav-clanokW.jpg
+  field: "Fyziol\xF3gia rastl\xEDn"
+  hindex: 37
+  img: ocenenie_zivcak.jpg
+  last_update: '2021-09-16'
   links:
-    web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=5352
-    "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20191219104536_138_zivotopis.pdf
-  name: Andrej Liptaj
-  possition: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.com/citations?user=cwsmFUUAAAAJ&amp;hl=sk
-  year: '1980'
+    web: https://is.uniag.sk/lide/clovek.pl?id=1211;zalozka=3;lang=en
+  name: "MarEK \u017Div\u010D\xE1k"
+  possition: docent
+  scholar: https://scholar.google.sk/citations?user=fbrMtJsAAAAJ&amp;hl=sk
+  year: ''
 - affiliation: "Univerzita Kon\u0161tant\xEDna Filozofa, Nitra"
   affiliationurl: Univerzita_Konstantina_Filozofa__Nitra
+  cited_by:
+  - citations:
+      all: 5206
+      since_2016: 2347
+  - h_index:
+      all: 37
+      since_2016: 21
+  - i10_index:
+      all: 131
+      since_2016: 73
   country: Slovensko
   countryurl: Slovensko
   field: "BIOl\xF3gia REPRODUKCIE"
-  hindex: '37'
+  hindex: 37
   img: Portret 2 4.09.17.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Alexander_Sirotkin
     publons: https://publons.com/researcher/2009031/alexander-v-sirotkin/
@@ -424,11 +642,22 @@
   year: '1954'
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
   affiliationurl: Technicka_univerzita_v_Kosiciach__Kosice
+  cited_by:
+  - citations:
+      all: 44509
+      since_2016: 24365
+  - h_index:
+      all: 37
+      since_2016: 29
+  - i10_index:
+      all: 72
+      since_2016: 49
   country: Slovensko
   countryurl: Slovensko
   field: "Aplikovan\xE1 matematika"
-  hindex: '37'
+  hindex: 37
   img: 5857995_1200x.jpeg
+  last_update: '2021-09-16'
   links:
     ESET Science Award: https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/igor-podlubny
     learned.sk: https://www.learned.sk/prof-rndr-igor-podlubny-drsc/
@@ -438,19 +667,31 @@
   possition: profesor
   scholar: http://scholar.google.com/citations?user=4H2CInEAAAAJ
   year: '1961'
-- affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita, Nitra"
-  affiliationurl: Slovenska_polnohospodarska_univerzita__Nitra
+- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+  affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 6101
+      since_2016: 1781
+  - h_index:
+      all: 36
+      since_2016: 21
+  - i10_index:
+      all: 52
+      since_2016: 32
   country: Slovensko
   countryurl: Slovensko
-  field: "Fyziol\xF3gia rastl\xEDn"
-  hindex: '36'
-  img: ocenenie_zivcak.jpg
+  field: fyzika
+  hindex: 36
+  img: andrej-liptaj-sav-clanokW.jpg
+  last_update: '2021-09-16'
   links:
-    web: https://is.uniag.sk/lide/clovek.pl?id=1211;zalozka=3;lang=en
-  name: "MarEK \u017Div\u010D\xE1k"
-  possition: docent
-  scholar: https://scholar.google.sk/citations?user=fbrMtJsAAAAJ&amp;hl=sk
-  year: ''
+    web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=5352
+    "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20191219104536_138_zivotopis.pdf
+  name: Andrej Liptaj
+  possition: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=cwsmFUUAAAAJ&amp;hl=sk
+  year: '1980'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
   affiliationurl: Univerzita_Komenskeho__Bratislava
   country: Slovensko
@@ -458,6 +699,7 @@
   field: GEOfyzika
   hindex: '36'
   img: om2ubySZ.jpg
+  last_update: '2020-12-31'
   links:
     web: http://www.nuquake.eu
     "wikip\xE9dia": https://sk.wikipedia.org/wiki/Peter_Moczo
@@ -473,6 +715,7 @@
   field: "Bioanalytick\xE1 ch\xE9mia"
   hindex: '36'
   img: 116742-stanislav-miertus-clanokW.jpg
+  last_update: '2020-12-31'
   links:
     orcid: https://orcid.org/0000-0001-6766-4571
     osobnosti: https://www.osobnosti.sk/osobnost/stanislav-miertus-2026
@@ -483,6 +726,54 @@
   possition: profesor
   scholar: https://scholar.google.sk/citations?user=MhwlHXIAAAAJ
   year: '1948'
+- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+  affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 4851
+      since_2016: 865
+  - h_index:
+      all: 35
+      since_2016: 16
+  - i10_index:
+      all: 108
+      since_2016: 26
+  country: Slovensko
+  countryurl: Slovensko
+  field: "v\xFDpo\u010Dtov\xE1 Ch\xE9mia"
+  hindex: 35
+  img: IT.jpg
+  last_update: '2021-09-16'
+  links:
+    web: http://www.chem.sk/people/tvaroskaigor/
+  name: "IGOR TVARO\u0160KA"
+  possition: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=v71jEjAAAAAJ
+  year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+  affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 3420
+      since_2016: 1389
+  - h_index:
+      all: 35
+      since_2016: 17
+  - i10_index:
+      all: 75
+      since_2016: 40
+  country: Slovensko
+  countryurl: Slovensko
+  field: "Fyziol\xF3gia"
+  hindex: 35
+  img: Bernatova Iveta_kto je kto SAV_250_350.jpg
+  last_update: '2021-09-16'
+  links:
+    ResearchGate: https://www.researchgate.net/profile/Iveta_Bernatova/2
+  name: "Iveta Bern\xE1tov\xE1"
+  possition: "vedeck\xE1 pracovn\xED\u010Dka"
+  scholar: https://scholar.google.sk/citations?user=S9nvaAkAAAAJ&amp;hl=sk
+  year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
   affiliationurl: Univerzita_Komenskeho__Bratislava
   country: Slovensko
@@ -490,6 +781,7 @@
   field: "BioL\xF3gia"
   hindex: '35'
   img: 116902-michal-zeman-clanokW.jpg
+  last_update: '2020-12-31'
   links:
     web: https://fns.uniba.sk/kontakt/zamestnanci-prif-uk/?tx_unibausers_pi1[person]=zeman1
   name: MICHAL ZEMAN
@@ -503,58 +795,79 @@
   field: "Onkol\xF3gia"
   hindex: '35'
   img: 4-07d4f7880dbb838f170f340db17382613636ca36.jpg
+  last_update: '2020-12-31'
   links:
     "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
   name: Michal Mego
   possition: profesor
   scholar: https://scholar.google.com/citations?user=NvHY0EcAAAAJ&amp;hl=en&amp;oi=ao
   year: '1977'
-- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
-  affiliationurl: Slovenska_akademia_vied__Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "v\xFDpo\u010Dtov\xE1 Ch\xE9mia"
-  hindex: '34'
-  img: IT.jpg
-  links:
-    web: http://www.chem.sk/people/tvaroskaigor/
-  name: "IGOR TVARO\u0160KA"
-  possition: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=v71jEjAAAAAJ
-  year: ''
-- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
-  affiliationurl: Slovenska_akademia_vied__Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "Fyziol\xF3gia"
-  hindex: '34'
-  img: Bernatova Iveta_kto je kto SAV_250_350.jpg
-  links:
-    ResearchGate: https://www.researchgate.net/profile/Iveta_Bernatova/2
-  name: "Iveta Bern\xE1tov\xE1"
-  possition: "vedeck\xE1 pracovn\xED\u010Dka"
-  scholar: https://scholar.google.sk/citations?user=S9nvaAkAAAAJ&amp;hl=sk
-  year: ''
 - affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
   affiliationurl: Univerzita_PJ_Safarika__Kosice
+  cited_by:
+  - citations:
+      all: 2921
+      since_2016: 1601
+  - h_index:
+      all: 34
+      since_2016: 23
+  - i10_index:
+      all: 61
+      since_2016: 52
   country: Slovensko
   countryurl: Slovensko
   field: "Behavior\xE1lna Medic\xEDna"
-  hindex: '34'
+  hindex: 34
   img: Iveta_Nagyova.jpg
+  last_update: '2021-09-16'
   links:
     web: https://mc3.sk/autor/iveta-nagyova/
   name: "Iveta Nagyov\xE1"
   possition: "vedeck\xE1 v\xFDskumn\xED\u010Dka"
   scholar: https://scholar.google.com/citations?user=A2l-bV8AAAAJ&amp;hl=en
   year: ''
+- affiliation: Bratislava
+  affiliationurl: Bratislava
+  cited_by:
+  - citations:
+      all: 4717
+      since_2016: 1620
+  - h_index:
+      all: 34
+      since_2016: 19
+  - i10_index:
+      all: 51
+      since_2016: 30
+  country: Slovensko
+  countryurl: Slovensko
+  field: "materi\xE1lov\xE1 veda"
+  hindex: 34
+  img: Screen Shot 2020-12-26 at 5.29.43 PM.png
+  last_update: '2021-09-16'
+  links:
+    "\u017Eivotopis": https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
+  name: "MilAn S\xFDkora"
+  possition: "Univerzita Komensk\xE9ho"
+  scholar: https://scholar.google.com/citations?user=fxBzWQcAAAAJ&amp;hl=en
+  year: ''
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
   affiliationurl: Slovenska_technicka_univerzita__Bratislava
+  cited_by:
+  - citations:
+      all: 39905
+      since_2016: 19218
+  - h_index:
+      all: 34
+      since_2016: 27
+  - i10_index:
+      all: 93
+      since_2016: 49
   country: Slovensko
   countryurl: Slovensko
   field: "Ch\xE9mia"
-  hindex: '34'
+  hindex: 34
   img: 4096035_1200x.jpeg
+  last_update: '2021-09-16'
   links:
     loop: https://loop.frontiersin.org/people/127211/overview
     web: http://edisk.cvt.stuba.sk/~valkom/Homepage.html
@@ -569,6 +882,7 @@
   field: "Nanomateri\xE1ly"
   hindex: '34'
   img: "J\xE1n-Dusza.jpg"
+  last_update: '2020-12-31'
   links:
     web: https://promatech.sk
   name: "J\xE1n Dusza"
@@ -582,6 +896,7 @@
   field: "INTERN\xC1 MEDIC\xCDNA"
   hindex: '34'
   img: sebekova-katarina.jpg
+  last_update: '2020-12-31'
   links:
     web: https://www.imbm.sk/members/katarina-sebekova/
     "\u017Eivotopis": http://www.imbm.sk/wp-content/uploads/2017/03/cv-ks-3.pdf
@@ -591,11 +906,22 @@
   year: '1955'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
   affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 4247
+      since_2016: 2058
+  - h_index:
+      all: 33
+      since_2016: 24
+  - i10_index:
+      all: 74
+      since_2016: 61
   country: Slovensko
   countryurl: Slovensko
   field: "Jadrov\xE1 Fyzika"
-  hindex: '33'
+  hindex: 33
   img: antalics_1500.jpg
+  last_update: '2021-09-16'
   links:
     web: http://antalic.dnp.fmph.uniba.sk/index.php
     "\u017Eivotopis": http://antalic.dnp.fmph.uniba.sk/cv.php
@@ -605,37 +931,46 @@
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
   affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 3000
+      since_2016: 716
+  - h_index:
+      all: 33
+      since_2016: 14
+  - i10_index:
+      all: 67
+      since_2016: 31
   country: Slovensko
   countryurl: Slovensko
   field: MATEMATIKA
-  hindex: '33'
+  hindex: 33
   img: fila_1500_02.jpg
+  last_update: '2021-09-16'
   links:
     web: http://www.iam.fmph.uniba.sk/institute/fila/
   name: MAREK FILA
   possition: profesor
   scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ&amp;hl=en
   year: '1959'
-- affiliation: Bratislava
-  affiliationurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "materi\xE1lov\xE1 veda"
-  hindex: '33'
-  img: Screen Shot 2020-12-26 at 5.29.43 PM.png
-  links:
-    "\u017Eivotopis": https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
-  name: "MilAn S\xFDkora"
-  possition: "Univerzita Komensk\xE9ho"
-  scholar: https://scholar.google.com/citations?user=fxBzWQcAAAAJ&amp;hl=en
-  year: ''
 - affiliation: "Slovesk\xE1 akad\xE9mia vied, Ko\u0161ice"
   affiliationurl: Sloveska_akademia_vied__Kosice
+  cited_by:
+  - citations:
+      all: 4059
+      since_2016: 2029
+  - h_index:
+      all: 32
+      since_2016: 23
+  - i10_index:
+      all: 108
+      since_2016: 60
   country: Slovensko
   countryurl: Slovensko
   field: Fyzika magnetizmu
-  hindex: '32'
+  hindex: 32
   img: Timko..jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Milan_Timko
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=2393
@@ -644,13 +979,50 @@
   possition: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=ckojWlAAAAAJ
   year: '1954'
+- affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+  affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 5133
+      since_2016: 2969
+  - h_index:
+      all: 32
+      since_2016: 28
+  - i10_index:
+      all: 121
+      since_2016: 76
+  country: Slovensko
+  countryurl: Slovensko
+  field: MATEMATIKA
+  hindex: 32
+  img: 191125_Michal_Feckan_patri_medzi_najcitovanejsich__ed4b7c8d16.jpg
+  last_update: '2021-09-16'
+  links:
+    ESET Science Award: https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
+    web: https://www.mat.savba.sk/~feckan/
+    "\u017Eivotopis": https://www.mat.savba.sk/~feckan/#_toc16
+  name: "Michal Fe\u010CKAN"
+  possition: profesor
+  scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
+  year: '1960'
 - affiliation: Bratislava
   affiliationurl: Bratislava
+  cited_by:
+  - citations:
+      all: 2935
+      since_2016: 1535
+  - h_index:
+      all: 32
+      since_2016: 25
+  - i10_index:
+      all: 52
+      since_2016: 41
   country: Slovensko
   countryurl: Slovensko
   field: "Patofyziol\xF3gia"
-  hindex: '32'
+  hindex: 32
   img: Foto-Profile-4.jpg
+  last_update: '2021-09-16'
   links:
     web: https://eccr.org/dr-ludovit-paulis/
   name: "\u013Dudov\xEDt Paulis"
@@ -659,11 +1031,22 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Ko\u0161ice"
   affiliationurl: Slovenska_akademia_vied__Kosice
+  cited_by:
+  - citations:
+      all: 4386
+      since_2016: 2492
+  - h_index:
+      all: 32
+      since_2016: 23
+  - i10_index:
+      all: 121
+      since_2016: 77
   country: Slovensko
   countryurl: Slovensko
   field: "Experiment\xE1lna fyzika"
-  hindex: '32'
+  hindex: 32
   img: Mvy-cFU9pupBpcPAxJY2PmN_J0ZkMYobAMcDwX8HtMMGv1ukh4P8seEDmC2iHTJOwDK2fzDrxJZk_WwCxLSVyaaxjfKfQ2zALELajy3GipEJskFhKm1GkbW38zeXr2amXg=w1280
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Peter_Kopcansky
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=4000
@@ -674,11 +1057,22 @@
   year: '1955'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
   affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 4549
+      since_2016: 1877
+  - h_index:
+      all: 32
+      since_2016: 20
+  - i10_index:
+      all: 63
+      since_2016: 33
   country: Slovensko
   countryurl: Slovensko
   field: "Fyzika KOndenzovan\xFDch L\xE1tok"
-  hindex: '32'
+  hindex: 32
   img: jdxjF1Sp.JPG
+  last_update: '2021-09-16'
   links:
     orcid: https://orcid.org/0000-0002-4013-9117
     web: https://dep.fmph.uniba.sk/cv-rm/
@@ -688,11 +1082,22 @@
   year: '1964'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 3630
+      since_2016: 1614
+  - h_index:
+      all: 32
+      since_2016: 23
+  - i10_index:
+      all: 97
+      since_2016: 48
   country: Slovensko
   countryurl: Slovensko
   field: "Materi\xE1lov\xE1 veda"
-  hindex: '32'
+  hindex: 32
   img: 4114567_1200x.jpeg
+  last_update: '2021-09-16'
   links:
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9228
     "wikip\xE9dia": "https://sk.wikipedia.org/wiki/Pavol_\u0160ajgal\xEDk"
@@ -707,6 +1112,7 @@
   field: Fyzika
   hindex: '32'
   img: unnamed-4.jpg
+  last_update: '2020-12-31'
   links:
     web: http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=grajcar
     "\u017Eivotopis": https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9067&action=cv
@@ -721,6 +1127,7 @@
   field: "Aplikovan\xE1 Matematika"
   hindex: '32'
   img: profesor-karol-mikula-clanokW.jpg
+  last_update: '2020-12-31'
   links:
     web: http://www.math.sk/mikula/
   name: Karol Mikula
@@ -734,6 +1141,7 @@
   field: "Fyziol\xF3gia"
   hindex: '32'
   img: Tanya_Ravingerova.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Tanya_Ravingerova
     "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20181126205307_445_CV_Ravingerova_15.11.2018.doc
@@ -748,6 +1156,7 @@
   field: "Patofyziol\xF3gia"
   hindex: '32'
   img: UKROPEC.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Jozef_Ukropec
     loop: https://loop.frontiersin.org/people/506233/overview
@@ -766,6 +1175,7 @@
   field: "Farmakol\xF3gia"
   hindex: '32'
   img: cena-rektora-Mojzis.JPG
+  last_update: '2020-12-31'
   links:
     web: https://www.upjs.sk/LF/zamestnanec/jan.mojzis/
   name: "J\xE1n Moj\u017Ei\u0161"
@@ -779,6 +1189,7 @@
   field: "Lek\xE1rska Bioch\xE9mia"
   hindex: '32'
   img: 02-21 JL.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Jan_Lehotsky
     loop: https://loop.frontiersin.org/people/362858/overview
@@ -795,6 +1206,7 @@
   field: "Molekul\xE1rna biol\xF3gia"
   hindex: '32'
   img: DSC6516.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Juraj_Majtan
     orcid: https://orcid.org/0000-0002-7268-1584
@@ -805,11 +1217,22 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 2688
+      since_2016: 645
+  - h_index:
+      all: 31
+      since_2016: 13
+  - i10_index:
+      all: 69
+      since_2016: 17
   country: Slovensko
   countryurl: Slovensko
   field: Fyzika
-  hindex: '31'
+  hindex: 31
   img: KRAJCI  Marian_kto je kto SAV_250_350.JPG
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Marian_Krajci
     "\u017Eivotopis": http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2056-marian-krajci
@@ -817,28 +1240,24 @@
   possition: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=WawpXZIAAAAJ&amp;hl=en
   year: ''
-- affiliation: "Univerzita Komensk\xE9ho, Bratislava"
-  affiliationurl: Univerzita_Komenskeho__Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: MATEMATIKA
-  hindex: '31'
-  img: 191125_Michal_Feckan_patri_medzi_najcitovanejsich__ed4b7c8d16.jpg
-  links:
-    ESET Science Award: https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
-    web: https://www.mat.savba.sk/~feckan/
-    "\u017Eivotopis": https://www.mat.savba.sk/~feckan/#_toc16
-  name: "Michal Fe\u010CKAN"
-  possition: profesor
-  scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
-  year: '1960'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 5131
+      since_2016: 1280
+  - h_index:
+      all: 31
+      since_2016: 18
+  - i10_index:
+      all: 74
+      since_2016: 34
   country: Slovensko
   countryurl: Slovensko
   field: "Biomedic\xEDna"
-  hindex: '31'
+  hindex: 31
   img: Screen Shot 2020-12-27 at 9.01.24 AM.png
+  last_update: '2021-09-16'
   links:
     web: http://www.ondrias.sk
     "wikip\xE9dia": "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"
@@ -846,29 +1265,74 @@
   possition: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
   year: '1952'
-- affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
-  affiliationurl: Technicka_univerzita_vo_Zvolene__Zvolen
+- affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+  affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 3606
+      since_2016: 1412
+  - h_index:
+      all: 31
+      since_2016: 14
+  - i10_index:
+      all: 55
+      since_2016: 27
   country: Slovensko
   countryurl: Slovensko
-  field: "Genetika drev\xEDn"
-  hindex: '31'
-  img: gomory.photo.png
+  field: Matematika
+  hindex: 31
+  img: Pavol_Quittner.jpg
+  last_update: '2021-09-16'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Dusan-Goemoery
-    loop: https://loop.frontiersin.org/people/299224/overview
-    orcid: https://orcid.org/0000-0002-9426-4247
-    web: https://www.tuzvo.sk/en/ludia-na-tuzvo/792
-  name: "Du\u0161an G\xF6m\xF6ry"
+    web: http://www.iam.fmph.uniba.sk/institute/quittner/
+    "wikip\xE9dia": https://sk.wikipedia.org/wiki/Pavol_Quittner
+  name: Pavol Quittner
   possition: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=RllC3asAAAAJ
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=QhrxwOcAAAAJ
+  year: '1958'
+- affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
+  affiliationurl: Technicka_univerzita_v_Kosiciach__Kosice
+  cited_by:
+  - citations:
+      all: 3723
+      since_2016: 2167
+  - h_index:
+      all: 31
+      since_2016: 23
+  - i10_index:
+      all: 93
+      since_2016: 55
+  country: Slovensko
+  countryurl: Slovensko
+  field: "Te\xF3ria grafov"
+  hindex: 31
+  img: Baca-Photo-2017 (1).jpeg
+  last_update: '2021-09-16'
+  links:
+    '30': https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
+    web: http://people.tuke.sk/martin.baca/
+  name: "Martin Ba\u010Da"
+  possition: 30 profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
   year: ''
 - affiliation: "Slovesk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Sloveska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 3046
+      since_2016: 1096
+  - h_index:
+      all: 31
+      since_2016: 18
+  - i10_index:
+      all: 60
+      since_2016: 33
   country: Slovensko
   countryurl: Slovensko
   field: "Molekul\xE1rna Biol\xF3gia"
-  hindex: '31'
+  hindex: 31
   img: 117686-biolog-imrich-barak-clanokW.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Imrich-Barak
     loop: https://loop.frontiersin.org/people/104180/overview
@@ -879,26 +1343,50 @@
   possition: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
   year: '1961'
-- affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
-  affiliationurl: Technicka_univerzita_vo_Zvolene__Zvolen
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
+  affiliationurl: Slovenska_technicka_univerzita__Bratislava
+  cited_by:
+  - citations:
+      all: 3116
+      since_2016: 1463
+  - h_index:
+      all: 31
+      since_2016: 18
+  - i10_index:
+      all: 75
+      since_2016: 43
   country: Slovensko
   countryurl: Slovensko
-  field: "Fytol\xF3gia"
-  hindex: '31'
-  img: Ladislav_Paule.jpg
+  field: "Biotechnol\xF3gia"
+  hindex: 31
+  img: unnamed-16.jpg
+  last_update: '2021-09-16'
   links:
-    web: http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
-  name: Ladislav Paule
-  possition: profesor
-  scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
-  year: ''
+    LinkedIn: https://www.linkedin.com/in/milan-certik-65a0834b/?originalSubdomain=sk
+    ResearchGate: https://www.researchgate.net/profile/Milan-Certik
+    prabook: https://prabook.com/web/milan.certik/335639
+  name: "Milan \u010Cert\xEDk"
+  possition: docent
+  scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp;hl=sk
+  year: '1962'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
   affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 4550
+      since_2016: 2335
+  - h_index:
+      all: 31
+      since_2016: 24
+  - i10_index:
+      all: 47
+      since_2016: 37
   country: Slovensko
   countryurl: Slovensko
   field: geofyzika
-  hindex: '31'
+  hindex: 31
   img: JoKr.jpg
+  last_update: '2021-09-16'
   links:
     web: http://www.nuquake.eu
   name: Jozef Kristek
@@ -912,62 +1400,58 @@
   field: "v\xFDrobn\xE9 technol\xF3gie"
   hindex: '31'
   img: 887add6b566289fe97ba3c44d5d6.jpeg
+  last_update: '2020-12-31'
   links:
     web: http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
   name: Sergej Hloch
   possition: profesor
   scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
   year: ''
-- affiliation: "Univerzita Komensk\xE9ho, Bratislava"
-  affiliationurl: Univerzita_Komenskeho__Bratislava
+- affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
+  affiliationurl: Technicka_univerzita_vo_Zvolene__Zvolen
+  cited_by:
+  - citations:
+      all: 4298
+      since_2016: 1947
+  - h_index:
+      all: 30
+      since_2016: 20
+  - i10_index:
+      all: 86
+      since_2016: 57
   country: Slovensko
   countryurl: Slovensko
-  field: Matematika
-  hindex: '30'
-  img: Pavol_Quittner.jpg
-  links:
-    web: http://www.iam.fmph.uniba.sk/institute/quittner/
-    "wikip\xE9dia": https://sk.wikipedia.org/wiki/Pavol_Quittner
-  name: Pavol Quittner
-  possition: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=QhrxwOcAAAAJ
-  year: '1958'
-- affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
-  affiliationurl: Technicka_univerzita_v_Kosiciach__Kosice
-  country: Slovensko
-  countryurl: Slovensko
-  field: "Te\xF3ria grafov"
+  field: "Genetika drev\xEDn"
   hindex: 30
-  img: Baca-Photo-2017 (1).jpeg
+  img: gomory.photo.png
+  last_update: '2021-09-16'
   links:
-    '30': https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
-    web: http://people.tuke.sk/martin.baca/
-  name: "Martin Ba\u010Da"
-  possition: 30 profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
+    ResearchGate: https://www.researchgate.net/profile/Dusan-Goemoery
+    loop: https://loop.frontiersin.org/people/299224/overview
+    orcid: https://orcid.org/0000-0002-9426-4247
+    web: https://www.tuzvo.sk/en/ludia-na-tuzvo/792
+  name: "Du\u0161an G\xF6m\xF6ry"
+  possition: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=RllC3asAAAAJ
   year: ''
-- affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
-  affiliationurl: Slovenska_technicka_univerzita__Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "Biotechnol\xF3gia"
-  hindex: '30'
-  img: unnamed-16.jpg
-  links:
-    LinkedIn: https://www.linkedin.com/in/milan-certik-65a0834b/?originalSubdomain=sk
-    ResearchGate: https://www.researchgate.net/profile/Milan-Certik
-    prabook: https://prabook.com/web/milan.certik/335639
-  name: "Milan \u010Cert\xEDk"
-  possition: docent
-  scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp;hl=sk
-  year: '1962'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
   affiliationurl: Univerzita_Komenskeho__Bratislava
+  cited_by:
+  - citations:
+      all: 3068
+      since_2016: 1391
+  - h_index:
+      all: 30
+      since_2016: 20
+  - i10_index:
+      all: 71
+      since_2016: 37
   country: Slovensko
   countryurl: Slovensko
   field: "GEol\xF3gia"
-  hindex: '30'
+  hindex: 30
   img: plasienka-foto.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Dusan_Plasienka
     web: https://geopaleo.sk/plasienka-dusan/
@@ -976,13 +1460,62 @@
   possition: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=JCOUk6EAAAAJ
   year: '1953'
+- affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
+  affiliationurl: Technicka_univerzita_vo_Zvolene__Zvolen
+  cited_by:
+  - citations:
+      all: 3995
+      since_2016: 1655
+  - h_index:
+      all: 30
+      since_2016: 20
+  - i10_index:
+      all: 72
+      since_2016: 42
+  country: Slovensko
+  countryurl: Slovensko
+  field: "Fytol\xF3gia"
+  hindex: 30
+  img: Ladislav_Paule.jpg
+  last_update: '2021-09-16'
+  links:
+    web: http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
+  name: Ladislav Paule
+  possition: profesor
+  scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
+  year: ''
+- affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
+  affiliationurl: Univerzita_PJ_Safarika__Kosice
+  country: Slovensko
+  countryurl: Slovensko
+  field: "TEORETICK\xC1 FYzika"
+  hindex: '30'
+  img: Gmitra.jpg
+  last_update: '2020-12-31'
+  links:
+    web: https://ktfa.science.upjs.sk/people/martin-gmitra/
+  name: Martin Gmitra
+  possition: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&amp;hl=en
+  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 4480
+      since_2016: 1112
+  - h_index:
+      all: 29
+      since_2016: 16
+  - i10_index:
+      all: 55
+      since_2016: 28
   country: Slovensko
   countryurl: Slovensko
   field: Biofyzika
-  hindex: '30'
+  hindex: 29
   img: Screen Shot 2021-06-21 at 10.40.18 AM.png
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/lab/Lubica-Lacinova-Lab
     "pam\xE4\u0165n\xE1roda": https://www.pametnaroda.cz/en/lacinova-lubica-1959
@@ -992,16 +1525,3 @@
   possition: profesorka
   scholar: https://scholar.google.com/citations?user=GLiFrtgAAAAJ&amp;hl=sk
   year: '1959'
-- affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
-  affiliationurl: Univerzita_PJ_Safarika__Kosice
-  country: Slovensko
-  countryurl: Slovensko
-  field: "TEORETICK\xC1 FYzika"
-  hindex: '30'
-  img: Gmitra.jpg
-  links:
-    web: https://ktfa.science.upjs.sk/people/martin-gmitra/
-  name: Martin Gmitra
-  possition: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&amp;hl=en
-  year: ''

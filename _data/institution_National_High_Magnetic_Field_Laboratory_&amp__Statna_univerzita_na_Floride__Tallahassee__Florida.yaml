@@ -1,11 +1,22 @@
 - affiliation: "National High Magnetic Field Laboratory &amp  \u0160t\xE1tna univerzita\
     \ na Floride, Tallahassee, Florida"
   affiliationurl: National_High_Magnetic_Field_Laboratory_&amp__Statna_univerzita_na_Floride__Tallahassee__Florida
+  cited_by:
+  - citations:
+      all: 4844
+      since_2016: 2547
+  - h_index:
+      all: 33
+      since_2016: 28
+  - i10_index:
+      all: 55
+      since_2016: 45
   country: USA
   countryurl: USA
   field: "Fyzika tuh\xFDch l\xE1tok"
-  hindex: '33'
+  hindex: 33
   img: vafek.jpg
+  last_update: '2021-09-16'
   links:
     orcid: https://orcid.org/0000-0001-7561-9287
     web: https://physics.fsu.edu/person/oskar-vafek

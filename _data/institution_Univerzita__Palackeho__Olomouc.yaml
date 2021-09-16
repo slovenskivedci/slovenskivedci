@@ -1,10 +1,21 @@
 - affiliation: "Univerzita  Palack\xE9ho, Olomouc"
   affiliationurl: Univerzita__Palackeho__Olomouc
+  cited_by:
+  - citations:
+      all: 3805
+      since_2016: 2226
+  - h_index:
+      all: 38
+      since_2016: 29
+  - i10_index:
+      all: 88
+      since_2016: 77
   country: "\u010Cesko"
   countryurl: Cesko
   field: "Behavior\xE1lna Ekol\xF3gia"
-  hindex: '38'
+  hindex: 38
   img: unnamed-14.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Tomas-Grim
     loop: https://loop.frontiersin.org/people/392854/bio

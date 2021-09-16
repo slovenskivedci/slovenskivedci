@@ -5,6 +5,7 @@
   field: "Mikrobiol\xF3gia"
   hindex: '47'
   img: 03118445.jpeg
+  last_update: '2020-12-31'
   links:
     LinkedIn: https://www.linkedin.com/in/peter-sebo-30584819/?originalSubdomain=cz
     ResearchGate: https://www.researchgate.net/profile/Peter-Sebo
@@ -20,11 +21,22 @@
   year: 1960
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
   affiliationurl: Ceska_akademia_vied__Praha
+  cited_by:
+  - citations:
+      all: 5740
+      since_2016: 2200
+  - h_index:
+      all: 37
+      since_2016: 25
+  - i10_index:
+      all: 78
+      since_2016: 48
   country: "\u010Cesko"
   countryurl: Cesko
   field: "Komplexn\xE9 Syst\xE9my"
-  hindex: '37'
+  hindex: 37
   img: slideslive_milan-palus_kauzalita-informace-a-cas.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Milan-Palus
     dblp: https://dblp.org/pid/64/7857.html
@@ -36,11 +48,22 @@
   year: '1963'
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
   affiliationurl: Ceska_akademia_vied__Praha
+  cited_by:
+  - citations:
+      all: 3530
+      since_2016: 1020
+  - h_index:
+      all: 34
+      since_2016: 16
+  - i10_index:
+      all: 82
+      since_2016: 34
   country: "\u010Cesko"
   countryurl: Cesko
   field: "Bioch\xE9mia"
-  hindex: '34'
+  hindex: 34
   img: Juraj-Harmatha.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Juraj-Harmatha/10
     orcid: https://orcid.org/0000-0003-4385-0841

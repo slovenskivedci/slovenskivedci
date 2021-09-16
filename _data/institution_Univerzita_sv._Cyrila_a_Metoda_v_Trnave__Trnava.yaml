@@ -1,10 +1,21 @@
 - affiliation: Univerzita sv. Cyrila a Metoda v Trnave, Trnava
   affiliationurl: Univerzita_sv._Cyrila_a_Metoda_v_Trnave__Trnava
+  cited_by:
+  - citations:
+      all: 8085
+      since_2016: 3821
+  - h_index:
+      all: 44
+      since_2016: 30
+  - i10_index:
+      all: 181
+      since_2016: 105
   country: Slovensko
   countryurl: Slovensko
   field: "Anorganick\xE1 Ch\xE9mia"
-  hindex: '44'
+  hindex: 44
   img: nas-profesor-1.jpg
+  last_update: '2021-09-16'
   links:
     vedec roka 2011: https://sk.wikipedia.org/wiki/Vedec_roka_SR
     web: https://www.ucm.sk/sk/rektor/
@@ -20,6 +31,7 @@
   field: "Bioanalytick\xE1 ch\xE9mia"
   hindex: '36'
   img: 116742-stanislav-miertus-clanokW.jpg
+  last_update: '2020-12-31'
   links:
     orcid: https://orcid.org/0000-0001-6766-4571
     osobnosti: https://www.osobnosti.sk/osobnost/stanislav-miertus-2026

@@ -1,10 +1,21 @@
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 17049
+      since_2016: 4225
+  - h_index:
+      all: 61
+      since_2016: 25
+  - i10_index:
+      all: 152
+      since_2016: 73
   country: Slovensko
   countryurl: Slovensko
   field: "Kvantov\xE1 Fyzika"
-  hindex: '61'
+  hindex: 61
   img: 119147-vladimir-buzek-clanokW.jpg
+  last_update: '2021-09-16'
   links:
     web: http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=buzek
     "\u017Eivotopis": https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf
@@ -19,6 +30,7 @@
   field: "Bioch\xE9mia"
   hindex: '57'
   img: PeterBiely_250.jpg
+  last_update: '2020-12-31'
   links:
     orcid: https://orcid.org/0000-0002-9915-7707
     publons: https://publons.com/researcher/4030831/peter-biely/
@@ -30,11 +42,36 @@
   year: '1941'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 9489
+      since_2016: 3225
+  - h_index:
+      all: 52
+      since_2016: 27
+  - i10_index:
+      all: 219
+      since_2016: 111
+  country: Slovensko
+  countryurl: Slovensko
+  field: "Aplikovan\xC1 Mechanika"
+  hindex: 52
+  img: photo.png
+  last_update: '2021-09-16'
+  links:
+    "\u017Eivotopis": https://www.osobnosti.sk/osobnost/vladimir-sladek-591
+  name: "Vladim\xEDr Sl\xC1DEK"
+  possition: profesor
+  scholar: https://scholar.google.sk/citations?user=Z8DDt0kAAAAJ&amp;hl=en
+  year: '1954'
+- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+  affiliationurl: Slovenska_akademia_vied__Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "Aplikovan\xC1 Mechanika"
   hindex: '52'
   img: Sladek_Jan_small.jpg
+  last_update: '2020-12-31'
   links:
     osobnosti: https://www.osobnosti.sk/osobnost/jan-sladek-590
     "\u017Eivotopis": https://www.ae-info.org/ae/Member/Sladek_Jan
@@ -46,22 +83,10 @@
   affiliationurl: Slovenska_akademia_vied__Bratislava
   country: Slovensko
   countryurl: Slovensko
-  field: "Aplikovan\xC1 Mechanika"
-  hindex: '51'
-  img: photo.png
-  links:
-    "\u017Eivotopis": https://www.osobnosti.sk/osobnost/vladimir-sladek-591
-  name: "Vladim\xEDr Sl\xC1DEK"
-  possition: profesor
-  scholar: https://scholar.google.sk/citations?user=Z8DDt0kAAAAJ&amp;hl=en
-  year: '1954'
-- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
-  affiliationurl: Slovenska_akademia_vied__Bratislava
-  country: Slovensko
-  countryurl: Slovensko
   field: "Biotechnol\xF3gia"
   hindex: '43'
   img: 5858006_1200x.jpeg
+  last_update: '2020-12-31'
   links:
     ESET Science Award: https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/jan-tkac
     web: http://elena.sav.sk
@@ -73,26 +98,22 @@
   year: '1972'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "Biotechnol\xF3gia"
-  hindex: '42'
-  img: Screen Shot 2021-02-23 at 1.39.00 PM.png
-  links:
-    ResearchGate: https://www.researchgate.net/profile/Peter_Gemeiner
-    web: http://www.chem.sk/people/gemeinerpeter/
-    "\u017Eivotopis": https://prabook.com/web/peter.gemeiner/337833
-  name: Peter Gemeiner
-  possition: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
-  year: '1946'
-- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
-  affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 6354
+      since_2016: 3061
+  - h_index:
+      all: 42
+      since_2016: 30
+  - i10_index:
+      all: 99
+      since_2016: 74
   country: Slovensko
   countryurl: Slovensko
   field: "makromolekul\xE1rna ch\xE9mia"
-  hindex: '42'
+  hindex: 42
   img: 5857999_1200x.jpeg
+  last_update: '2021-09-16'
   links:
     ESET Science Award: https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/igor-lacik
     web: http://www.polymer.sav.sk/OVB-Staff
@@ -110,6 +131,7 @@
   field: "Bioch\xE9mia"
   hindex: '42'
   img: olga-pechanova-clanokW.jpg
+  last_update: '2020-12-31'
   links:
     osobnosti: https://www.osobnosti.sk/osobnost/olga-pechanova-654
     web: http://cem.sav.sk/index.php/en/cem/
@@ -120,11 +142,48 @@
   year: '1962'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 6764
+      since_2016: 2196
+  - h_index:
+      all: 41
+      since_2016: 19
+  - i10_index:
+      all: 151
+      since_2016: 53
+  country: Slovensko
+  countryurl: Slovensko
+  field: "Biotechnol\xF3gia"
+  hindex: 41
+  img: Screen Shot 2021-02-23 at 1.39.00 PM.png
+  last_update: '2021-09-16'
+  links:
+    ResearchGate: https://www.researchgate.net/profile/Peter_Gemeiner
+    web: http://www.chem.sk/people/gemeinerpeter/
+    "\u017Eivotopis": https://prabook.com/web/peter.gemeiner/337833
+  name: Peter Gemeiner
+  possition: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
+  year: '1946'
+- affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+  affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 6101
+      since_2016: 1781
+  - h_index:
+      all: 36
+      since_2016: 21
+  - i10_index:
+      all: 52
+      since_2016: 32
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
-  hindex: '37'
+  hindex: 36
   img: andrej-liptaj-sav-clanokW.jpg
+  last_update: '2021-09-16'
   links:
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=5352
     "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20191219104536_138_zivotopis.pdf
@@ -134,11 +193,22 @@
   year: '1980'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 4851
+      since_2016: 865
+  - h_index:
+      all: 35
+      since_2016: 16
+  - i10_index:
+      all: 108
+      since_2016: 26
   country: Slovensko
   countryurl: Slovensko
   field: "v\xFDpo\u010Dtov\xE1 Ch\xE9mia"
-  hindex: '34'
+  hindex: 35
   img: IT.jpg
+  last_update: '2021-09-16'
   links:
     web: http://www.chem.sk/people/tvaroskaigor/
   name: "IGOR TVARO\u0160KA"
@@ -147,11 +217,22 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 3420
+      since_2016: 1389
+  - h_index:
+      all: 35
+      since_2016: 17
+  - i10_index:
+      all: 75
+      since_2016: 40
   country: Slovensko
   countryurl: Slovensko
   field: "Fyziol\xF3gia"
-  hindex: '34'
+  hindex: 35
   img: Bernatova Iveta_kto je kto SAV_250_350.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Iveta_Bernatova/2
   name: "Iveta Bern\xE1tov\xE1"
@@ -160,11 +241,22 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 3630
+      since_2016: 1614
+  - h_index:
+      all: 32
+      since_2016: 23
+  - i10_index:
+      all: 97
+      since_2016: 48
   country: Slovensko
   countryurl: Slovensko
   field: "Materi\xE1lov\xE1 veda"
-  hindex: '32'
+  hindex: 32
   img: 4114567_1200x.jpeg
+  last_update: '2021-09-16'
   links:
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9228
     "wikip\xE9dia": "https://sk.wikipedia.org/wiki/Pavol_\u0160ajgal\xEDk"
@@ -179,6 +271,7 @@
   field: "Fyziol\xF3gia"
   hindex: '32'
   img: Tanya_Ravingerova.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Tanya_Ravingerova
     "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20181126205307_445_CV_Ravingerova_15.11.2018.doc
@@ -193,6 +286,7 @@
   field: "Molekul\xE1rna biol\xF3gia"
   hindex: '32'
   img: DSC6516.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Juraj_Majtan
     orcid: https://orcid.org/0000-0002-7268-1584
@@ -203,11 +297,22 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 2688
+      since_2016: 645
+  - h_index:
+      all: 31
+      since_2016: 13
+  - i10_index:
+      all: 69
+      since_2016: 17
   country: Slovensko
   countryurl: Slovensko
   field: Fyzika
-  hindex: '31'
+  hindex: 31
   img: KRAJCI  Marian_kto je kto SAV_250_350.JPG
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Marian_Krajci
     "\u017Eivotopis": http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2056-marian-krajci
@@ -217,11 +322,22 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 5131
+      since_2016: 1280
+  - h_index:
+      all: 31
+      since_2016: 18
+  - i10_index:
+      all: 74
+      since_2016: 34
   country: Slovensko
   countryurl: Slovensko
   field: "Biomedic\xEDna"
-  hindex: '31'
+  hindex: 31
   img: Screen Shot 2020-12-27 at 9.01.24 AM.png
+  last_update: '2021-09-16'
   links:
     web: http://www.ondrias.sk
     "wikip\xE9dia": "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"
@@ -231,11 +347,22 @@
   year: '1952'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
   affiliationurl: Slovenska_akademia_vied__Bratislava
+  cited_by:
+  - citations:
+      all: 4480
+      since_2016: 1112
+  - h_index:
+      all: 29
+      since_2016: 16
+  - i10_index:
+      all: 55
+      since_2016: 28
   country: Slovensko
   countryurl: Slovensko
   field: Biofyzika
-  hindex: '30'
+  hindex: 29
   img: Screen Shot 2021-06-21 at 10.40.18 AM.png
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/lab/Lubica-Lacinova-Lab
     "pam\xE4\u0165n\xE1roda": https://www.pametnaroda.cz/en/lacinova-lubica-1959

@@ -5,6 +5,7 @@
   field: "Mikrobiol\xF3gia"
   hindex: '104'
   img: jan-vilcek-laska-a-veda-clanokW.jpg
+  last_update: '2020-12-31'
   links:
     web: http://www.janvilcek.com
     wikipedia: "https://en.wikipedia.org/wiki/Jan_Vil\u010Dek"
@@ -14,11 +15,22 @@
   year: '1933'
 - affiliation: Univerzita v Illinois, Urbana-Champaign
   affiliationurl: Univerzita_v_Illinois__Urbana-Champaign
+  cited_by:
+  - citations:
+      all: 32106
+      since_2016: 6487
+  - h_index:
+      all: 87
+      since_2016: 39
+  - i10_index:
+      all: 359
+      since_2016: 145
   country: USA
   countryurl: USA
   field: Informatika
-  hindex: '87'
+  hindex: 87
   img: 163208.jpg
+  last_update: '2021-09-16'
   links:
     dblp: https://dblp.org/pid/45/3224.html
     web: https://cs.illinois.edu/about/people/faculty/klara
@@ -29,11 +41,22 @@
   year: Bajcsy
 - affiliation: Univerzita v Kalifornii, Berkeley
   affiliationurl: Univerzita_v_Kalifornii__Berkeley
+  cited_by:
+  - citations:
+      all: 24095
+      since_2016: 7100
+  - h_index:
+      all: 72
+      since_2016: 39
+  - i10_index:
+      all: 295
+      since_2016: 129
   country: USA
   countryurl: USA
   field: "robotika a umel\xE1 inteligencia"
-  hindex: '70'
+  hindex: 72
   img: bajcsy.jpg
+  last_update: '2021-09-16'
   links:
     web: https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.htmlhttps://people.eecs.berkeley.edu/~bajcsy/
     wikipedia: https://en.wikipedia.org/wiki/Ruzena_Bajcsy
@@ -49,6 +72,7 @@
   field: "Reproduk\u010Dn\xE1 biol\xF3gia"
   hindex: '56'
   img: EKZEBeBU0AAGMrF.jpeg
+  last_update: '2020-12-31'
   links:
     "na\u0161i-a-svetov\xED": https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
     web: https://cafnrfaculty.missouri.edu/sutovskylab/
@@ -60,11 +84,22 @@
   year: '1967'
 - affiliation: George Mason University
   affiliationurl: George_Mason_University
+  cited_by:
+  - citations:
+      all: 10337
+      since_2016: 4311
+  - h_index:
+      all: 48
+      since_2016: 33
+  - i10_index:
+      all: 92
+      since_2016: 58
   country: USA
   countryurl: USA
   field: "robotika a strojov\xE9 videnie"
-  hindex: '47'
+  hindex: 48
   img: C57X6nj7.jpg
+  last_update: '2021-09-16'
   links:
     web: https://cs.gmu.edu/~kosecka/
     wikipedia: "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
@@ -74,11 +109,22 @@
   year: ''
 - affiliation: Univerzita vo Washingtone
   affiliationurl: Univerzita_vo_Washingtone
+  cited_by:
+  - citations:
+      all: 14531
+      since_2016: 6160
+  - h_index:
+      all: 48
+      since_2016: 33
+  - i10_index:
+      all: 90
+      since_2016: 74
   country: USA
   countryurl: USA
   field: Programovacie Jazyky
-  hindex: '47'
+  hindex: 48
   img: small.jpg
+  last_update: '2021-09-16'
   links:
     web: https://homes.cs.washington.edu/~bodik/
     "\u017Eivotopis": https://homes.cs.washington.edu/~bodik/cv.pdf
@@ -93,6 +139,7 @@
   field: Neuroveda
   hindex: '47'
   img: martinmarsala-1.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Martin_Marsala
     web: http://www.marsala-lab.com/team/
@@ -107,6 +154,7 @@
   field: fyzika
   hindex: '47'
   img: Lubos-Mitas.jpg
+  last_update: '2020-12-31'
   links:
     web: https://physics.sciences.ncsu.edu/people/lmitas/
     "\u017Eivotopis": http://altair.physics.ncsu.edu/cv.html
@@ -121,6 +169,7 @@
   field: "Neurol\xF3gia"
   hindex: '45'
   img: Hedera-Peter-1646-crop.jpg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Peter_Hedera
     loop: https://loop.frontiersin.org/people/118500/overview
@@ -131,11 +180,22 @@
   year: ''
 - affiliation: Apple
   affiliationurl: Apple
+  cited_by:
+  - citations:
+      all: 9848
+      since_2016: 2185
+  - h_index:
+      all: 44
+      since_2016: 20
+  - i10_index:
+      all: 99
+      since_2016: 39
   country: USA
   countryurl: USA
   field: "AplIkovan\xC1 Informatika"
-  hindex: '44'
+  hindex: 44
   img: Martin_Pelikan.jpg
+  last_update: '2021-09-16'
   links:
     dblp: https://dblp.org/pid/18/963.html
   name: "Martin Pelik\xC1N"
@@ -149,6 +209,7 @@
   field: "R\xE1diol\xF3gia"
   hindex: '44'
   img: 1516866753875.jpeg
+  last_update: '2020-12-31'
   links:
     orcid: https://orcid.org/0000-0001-5054-0150
     web: https://www.cmrr.umn.edu/facultystaff/ivan/
@@ -160,11 +221,22 @@
   year: '1954'
 - affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
   affiliationurl: Statna_univerzita_v_Severnej_Karoline__Raleigh
+  cited_by:
+  - citations:
+      all: 9157
+      since_2016: 3290
+  - h_index:
+      all: 41
+      since_2016: 26
+  - i10_index:
+      all: 98
+      since_2016: 68
   country: USA
   countryurl: USA
   field: "Geovizualiz\xE1cia"
-  hindex: '41'
+  hindex: 41
   img: DSC02840-1024x768.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Helena_Mitasova
     web: https://meas.sciences.ncsu.edu/people/hmitaso/
@@ -180,6 +252,7 @@
   field: "Seizmol\xF3gia"
   hindex: '41'
   img: 4418748_1200x.jpeg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/John_Nabelek
     web: https://ceoas.oregonstate.edu/people/john-nabelek
@@ -189,11 +262,22 @@
   year: '1952'
 - affiliation: "Arizonsk\xE1 univerzita, Tucson"
   affiliationurl: Arizonska_univerzita__Tucson
+  cited_by:
+  - citations:
+      all: 6999
+      since_2016: 2917
+  - h_index:
+      all: 40
+      since_2016: 25
+  - i10_index:
+      all: 105
+      since_2016: 58
   country: USA
   countryurl: USA
   field: Optika
-  hindex: '40'
+  hindex: 40
   img: 21-Kolesik,Miroslav (12Nov2019).jpg
+  last_update: '2021-09-16'
   links:
     web: http://acms.arizona.edu/FemtoTheory/MK_personal/index.html
   name: "Miroslav Koles\xEDk"
@@ -202,11 +286,22 @@
   year: ''
 - affiliation: "N\xE1rodn\xFD in\u0161tit\xFAt zdravia, Bethesda"
   affiliationurl: Narodny_institut_zdravia__Bethesda
+  cited_by:
+  - citations:
+      all: 8371
+      since_2016: 3488
+  - h_index:
+      all: 38
+      since_2016: 28
+  - i10_index:
+      all: 75
+      since_2016: 62
   country: USA
   countryurl: USA
   field: "Neuroimunol\xF3gia"
-  hindex: '38'
+  hindex: 38
   img: Bibiana Bielekova hitn.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Bibiana_Bielekova
     loop: https://loop.frontiersin.org/people/147850/overview
@@ -225,6 +320,7 @@
   field: "Geol\xF3gia"
   hindex: '37'
   img: nabelek_photo.jpeg
+  last_update: '2020-12-31'
   links:
     ResearchGate: https://www.researchgate.net/profile/Peter_Nabelek
     web: https://geology.missouri.edu/people/nabelek
@@ -236,11 +332,22 @@
   year: '1955'
 - affiliation: Univerzita v Indiane, Bloomington
   affiliationurl: Univerzita_v_Indiane__Bloomington
+  cited_by:
+  - citations:
+      all: 4373
+      since_2016: 1127
+  - h_index:
+      all: 34
+      since_2016: 19
+  - i10_index:
+      all: 55
+      since_2016: 33
   country: USA
   countryurl: USA
   field: "Fyzika \u010Cast\xEDc"
-  hindex: '34'
+  hindex: 34
   img: dermisek.jpg
+  last_update: '2021-09-16'
   links:
     web: https://physics.indiana.edu/about/directory/all-faculty-scientists/dermisek-radovan.html
     "\u017Eivotopis": https://dermisek.pages.iu.edu/dermisek_CV.pdf
@@ -251,11 +358,22 @@
 - affiliation: "National High Magnetic Field Laboratory &amp  \u0160t\xE1tna univerzita\
     \ na Floride, Tallahassee, Florida"
   affiliationurl: National_High_Magnetic_Field_Laboratory_&amp__Statna_univerzita_na_Floride__Tallahassee__Florida
+  cited_by:
+  - citations:
+      all: 4844
+      since_2016: 2547
+  - h_index:
+      all: 33
+      since_2016: 28
+  - i10_index:
+      all: 55
+      since_2016: 45
   country: USA
   countryurl: USA
   field: "Fyzika tuh\xFDch l\xE1tok"
-  hindex: '33'
+  hindex: 33
   img: vafek.jpg
+  last_update: '2021-09-16'
   links:
     orcid: https://orcid.org/0000-0001-7561-9287
     web: https://physics.fsu.edu/person/oskar-vafek
@@ -265,6 +383,32 @@
   possition: profesor
   scholar: https://scholar.google.com/citations?user=-toxVLsAAAAJ&amp;hl=en
   year: ''
+- affiliation: "Univerzita v Pennsylv\xE1nii, Filadelfia"
+  affiliationurl: Univerzita_v_Pennsylvanii__Filadelfia
+  cited_by:
+  - citations:
+      all: 3717
+      since_2016: 1845
+  - h_index:
+      all: 33
+      since_2016: 25
+  - i10_index:
+      all: 51
+      since_2016: 44
+  country: USA
+  countryurl: USA
+  field: Pediatria
+  hindex: 33
+  img: 15444061689569716.jpg
+  last_update: '2021-09-16'
+  links:
+    ResearchGate: https://www.researchgate.net/profile/Lubica_Rauova
+    orcid: https://orcid.org/0000-0003-1990-3077
+    web: https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
+  name: "\u013Dubica Rauov\xE1"
+  possition: docentka
+  scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
+  year: ''
 - affiliation: Univerzita v Pittsburghu, Pittsburgh
   affiliationurl: Univerzita_v_Pittsburghu__Pittsburgh
   country: USA
@@ -272,6 +416,7 @@
   field: Informatika
   hindex: '33'
   img: Milos_IMG_9154_v2.jpg
+  last_update: '2020-12-31'
   links:
     web: http://people.cs.pitt.edu/~milos/
     "\u017Eivotopis": http://people.cs.pitt.edu/~milos/CV.pdf
@@ -279,13 +424,49 @@
   possition: profesor
   scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp;hl=en
   year: ''
+- affiliation: Microsoft Research, Redmont
+  affiliationurl: Microsoft_Research__Redmont
+  cited_by:
+  - citations:
+      all: 28631
+      since_2016: 17185
+  - h_index:
+      all: 32
+      since_2016: 31
+  - i10_index:
+      all: 48
+      since_2016: 40
+  country: USA
+  countryurl: USA
+  field: "Strojov\xE9 u\u010Denie"
+  hindex: 32
+  img: 20161115_Microsoft_NYC_Miro_Dudik_01-1000x450.jpg
+  last_update: '2021-09-16'
+  links:
+    dblp: https://dblp.org/pid/30/2146.html
+    web: https://www.microsoft.com/en-us/research/people/mdudik/
+  name: "Miroslav Dud\xEDk"
+  possition: "vedeck\xFD pracovn\xEDk (Sr principal researcher)"
+  scholar: https://scholar.google.sk/citations?user=wYMTld8AAAAJ&amp;hl=en
+  year: ''
 - affiliation: "Havajsk\xE1 univerzita, Manoa"
   affiliationurl: Havajska_univerzita__Manoa
+  cited_by:
+  - citations:
+      all: 3792
+      since_2016: 2105
+  - h_index:
+      all: 31
+      since_2016: 27
+  - i10_index:
+      all: 54
+      since_2016: 49
   country: USA
   countryurl: USA
   field: "Oce\xE1nografia"
-  hindex: '31'
+  hindex: 31
   img: FK190726-HenriettaDulai-20190812-Naranjo-6908.jpg
+  last_update: '2021-09-16'
   links:
     "na\u0161i-a-svetov\xED": https://www.slovenskezahranicie.sk/sk/udalost/2475/nasi-a-svetovi-v-rtvs-henrietta-dulaiova-oceanografka-na-havaji
     orcid: https://orcid.org/0000-0001-5970-1483
@@ -295,35 +476,6 @@
   possition: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
   year: ''
-- affiliation: Microsoft Research, Redmont
-  affiliationurl: Microsoft_Research__Redmont
-  country: USA
-  countryurl: USA
-  field: "Strojov\xE9 u\u010Denie"
-  hindex: '31'
-  img: 20161115_Microsoft_NYC_Miro_Dudik_01-1000x450.jpg
-  links:
-    dblp: https://dblp.org/pid/30/2146.html
-    web: https://www.microsoft.com/en-us/research/people/mdudik/
-  name: "Miroslav Dud\xEDk"
-  possition: "vedeck\xFD pracovn\xEDk (Sr principal researcher)"
-  scholar: https://scholar.google.sk/citations?user=wYMTld8AAAAJ&amp;hl=en
-  year: ''
-- affiliation: "Univerzita v Pennsylv\xE1nii, Filadelfia"
-  affiliationurl: Univerzita_v_Pennsylvanii__Filadelfia
-  country: USA
-  countryurl: USA
-  field: Pediatria
-  hindex: '31'
-  img: 15444061689569716.jpg
-  links:
-    ResearchGate: https://www.researchgate.net/profile/Lubica_Rauova
-    orcid: https://orcid.org/0000-0003-1990-3077
-    web: https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
-  name: "\u013Dubica Rauov\xE1"
-  possition: docentka
-  scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
-  year: ''
 - affiliation: Google, Mountain View
   affiliationurl: Google__Mountain_View
   country: USA
@@ -331,6 +483,7 @@
   field: "Strojov\xE9 u\u010Denie"
   hindex: '31'
   img: slideslive_branislav-kveton_nearoptimal-interactive-recommender-systems.jpg
+  last_update: '2020-12-31'
   links:
     dblp: https://dblp.org/pid/92/5526.html
     web: http://www.bkveton.com
@@ -340,11 +493,22 @@
   year: ''
 - affiliation: Univerzita v Chicagu, Chicago
   affiliationurl: Univerzita_v_Chicagu__Chicago
+  cited_by:
+  - citations:
+      all: 18191
+      since_2016: 9524
+  - h_index:
+      all: 30
+      since_2016: 30
+  - i10_index:
+      all: 34
+      since_2016: 34
   country: USA
   countryurl: USA
   field: "Ekon\xF3mia"
-  hindex: '30'
+  hindex: 30
   img: Screen Shot 2021-08-31 at 11.15.51 PM.png
+  last_update: '2021-09-16'
   links:
     NBS: https://www.nbs.sk/en/about-the-bank/bank-board-of-the-nbs/the-bank-board-member-lubos-pastor
     web: https://faculty.chicagobooth.edu/lubos-pastor

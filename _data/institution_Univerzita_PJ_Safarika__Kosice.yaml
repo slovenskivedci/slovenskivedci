@@ -1,10 +1,21 @@
 - affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
   affiliationurl: Univerzita_PJ_Safarika__Kosice
+  cited_by:
+  - citations:
+      all: 8945
+      since_2016: 5102
+  - h_index:
+      all: 42
+      since_2016: 30
+  - i10_index:
+      all: 132
+      since_2016: 106
   country: Slovensko
   countryurl: Slovensko
   field: "Soci\xE1lna Psychol\xF3gia"
-  hindex: '41'
+  hindex: 42
   img: amg-foto.jpg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Andrea_Madarasova_Geckova2
     orcid: https://orcid.org/0000-0003-2993-3798
@@ -15,11 +26,22 @@
   year: '1972'
 - affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
   affiliationurl: Univerzita_PJ_Safarika__Kosice
+  cited_by:
+  - citations:
+      all: 2921
+      since_2016: 1601
+  - h_index:
+      all: 34
+      since_2016: 23
+  - i10_index:
+      all: 61
+      since_2016: 52
   country: Slovensko
   countryurl: Slovensko
   field: "Behavior\xE1lna Medic\xEDna"
-  hindex: '34'
+  hindex: 34
   img: Iveta_Nagyova.jpg
+  last_update: '2021-09-16'
   links:
     web: https://mc3.sk/autor/iveta-nagyova/
   name: "Iveta Nagyov\xE1"
@@ -33,6 +55,7 @@
   field: "Farmakol\xF3gia"
   hindex: '32'
   img: cena-rektora-Mojzis.JPG
+  last_update: '2020-12-31'
   links:
     web: https://www.upjs.sk/LF/zamestnanec/jan.mojzis/
   name: "J\xE1n Moj\u017Ei\u0161"
@@ -46,6 +69,7 @@
   field: "TEORETICK\xC1 FYzika"
   hindex: '30'
   img: Gmitra.jpg
+  last_update: '2020-12-31'
   links:
     web: https://ktfa.science.upjs.sk/people/martin-gmitra/
   name: Martin Gmitra

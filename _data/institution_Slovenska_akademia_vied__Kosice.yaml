@@ -5,6 +5,7 @@
   field: "Nanomateri\xE1ly"
   hindex: '34'
   img: "J\xE1n-Dusza.jpg"
+  last_update: '2020-12-31'
   links:
     web: https://promatech.sk
   name: "J\xE1n Dusza"
@@ -13,11 +14,22 @@
   year: '1952'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Ko\u0161ice"
   affiliationurl: Slovenska_akademia_vied__Kosice
+  cited_by:
+  - citations:
+      all: 4386
+      since_2016: 2492
+  - h_index:
+      all: 32
+      since_2016: 23
+  - i10_index:
+      all: 121
+      since_2016: 77
   country: Slovensko
   countryurl: Slovensko
   field: "Experiment\xE1lna fyzika"
-  hindex: '32'
+  hindex: 32
   img: Mvy-cFU9pupBpcPAxJY2PmN_J0ZkMYobAMcDwX8HtMMGv1ukh4P8seEDmC2iHTJOwDK2fzDrxJZk_WwCxLSVyaaxjfKfQ2zALELajy3GipEJskFhKm1GkbW38zeXr2amXg=w1280
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Peter_Kopcansky
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=4000

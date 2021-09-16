@@ -1,10 +1,21 @@
 - affiliation: Univerzita Strathclyde, Glasgow
   affiliationurl: Univerzita_Strathclyde__Glasgow
+  cited_by:
+  - citations:
+      all: 5647
+      since_2016: 1342
+  - h_index:
+      all: 41
+      since_2016: 17
+  - i10_index:
+      all: 101
+      since_2016: 27
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: Elektrotechnika
-  hindex: '40'
+  hindex: 41
   img: Glesk.jpeg
+  last_update: '2021-09-16'
   links:
     orcid: https://orcid.org/0000-0002-3176-8069
     web: http://personal.strath.ac.uk/ivan.glesk/
@@ -15,11 +26,22 @@
   year: ''
 - affiliation: Univerzita Strathclyde, Glasgow
   affiliationurl: Univerzita_Strathclyde__Glasgow
+  cited_by:
+  - citations:
+      all: 3799
+      since_2016: 1943
+  - h_index:
+      all: 35
+      since_2016: 25
+  - i10_index:
+      all: 84
+      since_2016: 53
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "Chemick\xE9 In\u017Einierstvo"
-  hindex: '33'
+  hindex: 35
   img: jan-s-500x500.jpeg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Jan_Sefcik
     orcid: https://orcid.org/0000-0002-7181-5122

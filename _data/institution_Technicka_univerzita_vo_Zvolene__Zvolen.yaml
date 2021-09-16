@@ -1,10 +1,21 @@
 - affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
   affiliationurl: Technicka_univerzita_vo_Zvolene__Zvolen
+  cited_by:
+  - citations:
+      all: 4298
+      since_2016: 1947
+  - h_index:
+      all: 30
+      since_2016: 20
+  - i10_index:
+      all: 86
+      since_2016: 57
   country: Slovensko
   countryurl: Slovensko
   field: "Genetika drev\xEDn"
-  hindex: '31'
+  hindex: 30
   img: gomory.photo.png
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Dusan-Goemoery
     loop: https://loop.frontiersin.org/people/299224/overview
@@ -16,11 +27,22 @@
   year: ''
 - affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
   affiliationurl: Technicka_univerzita_vo_Zvolene__Zvolen
+  cited_by:
+  - citations:
+      all: 3995
+      since_2016: 1655
+  - h_index:
+      all: 30
+      since_2016: 20
+  - i10_index:
+      all: 72
+      since_2016: 42
   country: Slovensko
   countryurl: Slovensko
   field: "Fytol\xF3gia"
-  hindex: '31'
+  hindex: 30
   img: Ladislav_Paule.jpg
+  last_update: '2021-09-16'
   links:
     web: http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
   name: Ladislav Paule

@@ -5,6 +5,7 @@
   field: "automatiz\xE1cia"
   hindex: '41'
   img: Petras.jpg
+  last_update: '2020-12-31'
   links:
     web: http://people.tuke.sk/ivo.petras/
     "\u017Eivotopis": https://www.uiam.sk/~fikar/drsc/petras/Navrh_VRSTU.pdf
@@ -14,11 +15,22 @@
   year: '1973'
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
   affiliationurl: Technicka_univerzita_v_Kosiciach__Kosice
+  cited_by:
+  - citations:
+      all: 44509
+      since_2016: 24365
+  - h_index:
+      all: 37
+      since_2016: 29
+  - i10_index:
+      all: 72
+      since_2016: 49
   country: Slovensko
   countryurl: Slovensko
   field: "Aplikovan\xE1 matematika"
-  hindex: '37'
+  hindex: 37
   img: 5857995_1200x.jpeg
+  last_update: '2021-09-16'
   links:
     ESET Science Award: https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/igor-podlubny
     learned.sk: https://www.learned.sk/prof-rndr-igor-podlubny-drsc/
@@ -30,28 +42,40 @@
   year: '1961'
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
   affiliationurl: Technicka_univerzita_v_Kosiciach__Kosice
-  country: Slovensko
-  countryurl: Slovensko
-  field: "v\xFDrobn\xE9 technol\xF3gie"
-  hindex: '31'
-  img: 887add6b566289fe97ba3c44d5d6.jpeg
-  links:
-    web: http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
-  name: Sergej Hloch
-  possition: profesor
-  scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
-  year: ''
-- affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
-  affiliationurl: Technicka_univerzita_v_Kosiciach__Kosice
+  cited_by:
+  - citations:
+      all: 3723
+      since_2016: 2167
+  - h_index:
+      all: 31
+      since_2016: 23
+  - i10_index:
+      all: 93
+      since_2016: 55
   country: Slovensko
   countryurl: Slovensko
   field: "Te\xF3ria grafov"
-  hindex: 30
+  hindex: 31
   img: Baca-Photo-2017 (1).jpeg
+  last_update: '2021-09-16'
   links:
     '30': https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
     web: http://people.tuke.sk/martin.baca/
   name: "Martin Ba\u010Da"
   possition: 30 profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
+  year: ''
+- affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
+  affiliationurl: Technicka_univerzita_v_Kosiciach__Kosice
+  country: Slovensko
+  countryurl: Slovensko
+  field: "v\xFDrobn\xE9 technol\xF3gie"
+  hindex: '31'
+  img: 887add6b566289fe97ba3c44d5d6.jpeg
+  last_update: '2020-12-31'
+  links:
+    web: http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
+  name: Sergej Hloch
+  possition: profesor
+  scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
   year: ''

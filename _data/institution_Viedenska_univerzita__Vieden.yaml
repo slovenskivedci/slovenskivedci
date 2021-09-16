@@ -1,10 +1,21 @@
 - affiliation: "Viede\u0148sk\xE1 univerzita, Viede\u0148"
   affiliationurl: Viedenska_univerzita__Vieden
+  cited_by:
+  - citations:
+      all: 5708
+      since_2016: 2592
+  - h_index:
+      all: 35
+      since_2016: 25
+  - i10_index:
+      all: 67
+      since_2016: 45
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "nanomateri\xE1ly"
-  hindex: '34'
+  hindex: 35
   img: photo_Viera_Skakalova.jpeg
+  last_update: '2021-09-16'
   links:
     ResearchGate: https://www.researchgate.net/profile/Viera_Skakalova
     orcid: https://orcid.org/0000-0002-7016-8584
