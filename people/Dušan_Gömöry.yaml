@@ -1,9 +1,19 @@
 affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
+cited_by:
+- citations:
+    all: 4298
+    since_2016: 1947
+- h_index:
+    all: 30
+    since_2016: 20
+- i10_index:
+    all: 86
+    since_2016: 57
 country: Slovensko
 field: "Genetika drev\xEDn"
-hindex: '31'
+hindex: 30
 img: gomory.photo.png
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Dusan-Goemoery
   loop: https://loop.frontiersin.org/people/299224/overview

@@ -1,9 +1,19 @@
 affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+cited_by:
+- citations:
+    all: 5131
+    since_2016: 1280
+- h_index:
+    all: 31
+    since_2016: 18
+- i10_index:
+    all: 74
+    since_2016: 34
 country: Slovensko
 field: "Biomedic\xEDna"
-hindex: '31'
+hindex: 31
 img: Screen Shot 2020-12-27 at 9.01.24 AM.png
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: http://www.ondrias.sk
   "wikip\xE9dia": "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"

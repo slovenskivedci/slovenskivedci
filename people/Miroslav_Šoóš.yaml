@@ -1,9 +1,19 @@
 affiliation: "Vysok\xE1 \u0161kola chemicko-technologick\xE1, Praha"
+cited_by:
+- citations:
+    all: 2719
+    since_2016: 1813
+- h_index:
+    all: 30
+    since_2016: 26
+- i10_index:
+    all: 67
+    since_2016: 56
 country: "\u010Ce sko"
 field: "Chemick\xE9 In\u017Einierstvo"
-hindex: '30'
+hindex: 30
 img: Miroslav-Soos.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   LinkedIn: https://www.linkedin.com/in/miroslav-soos-184a7b8/?originalSubdomain=cz
   ResearchGate: https://www.researchgate.net/profile/Miroslav_Soos

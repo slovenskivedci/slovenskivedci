@@ -1,9 +1,19 @@
 affiliation: Abu Dhabi
+cited_by:
+- citations:
+    all: 5829
+    since_2016: 3373
+- h_index:
+    all: 38
+    since_2016: 30
+- i10_index:
+    all: 111
+    since_2016: 88
 country: "Spojen\xE9 Arabsk\xE9 Emir\xE1ty"
 field: "Oftalmol\xF3gia"
-hindex: '37'
+hindex: 38
 img: image-full.jpeg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Igor-Kozak/5
   web: https://moorfields.ae/medical-team/ophthalmologists/dr-igor-kozak/

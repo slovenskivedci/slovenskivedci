@@ -1,9 +1,19 @@
 affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+cited_by:
+- citations:
+    all: 3000
+    since_2016: 716
+- h_index:
+    all: 33
+    since_2016: 14
+- i10_index:
+    all: 67
+    since_2016: 31
 country: Slovensko
 field: MATEMATIKA
-hindex: '33'
+hindex: 33
 img: fila_1500_02.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: http://www.iam.fmph.uniba.sk/institute/fila/
 name: MAREK FILA

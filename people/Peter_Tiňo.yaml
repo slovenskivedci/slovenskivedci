@@ -1,9 +1,19 @@
 affiliation: Univerzita v Birminghame, Birmingham
+cited_by:
+- citations:
+    all: 6412
+    since_2016: 3233
+- h_index:
+    all: 38
+    since_2016: 24
+- i10_index:
+    all: 99
+    since_2016: 66
 country: "Ve\u013Ek\xE1 Brit\xE1nia"
 field: "Komplexn\xE9 a adapt\xEDvne syst\xE9my"
-hindex: '37'
+hindex: 38
 img: Peter-Tino-visita-Loyola.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: https://www.cs.bham.ac.uk/~pxt/
   "\u017Eivotopis": https://www.cs.bham.ac.uk/~pxt/cv_pt.pdf

@@ -1,9 +1,19 @@
 affiliation: "Z\xE1pado\u010Desk\xE1 univerzita v Plzni, Plze\u0148"
+cited_by:
+- citations:
+    all: 6632
+    since_2016: 4243
+- h_index:
+    all: 42
+    since_2016: 31
+- i10_index:
+    all: 133
+    since_2016: 106
 country: "\u010Cesko"
 field: "Aplikovan\xE1 Fyzika"
-hindex: '41'
+hindex: 42
 img: 1608215138998.jpeg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Jan-Minar
   web: https://cedam.ntc.zcu.cz/cz/kontakt.html

@@ -1,9 +1,19 @@
 affiliation: "Havajsk\xE1 univerzita, Manoa"
+cited_by:
+- citations:
+    all: 3792
+    since_2016: 2105
+- h_index:
+    all: 31
+    since_2016: 27
+- i10_index:
+    all: 54
+    since_2016: 49
 country: USA
 field: "Oce\xE1nografia"
-hindex: '31'
+hindex: 31
 img: FK190726-HenriettaDulai-20190812-Naranjo-6908.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   "na\u0161i-a-svetov\xED": https://www.slovenskezahranicie.sk/sk/udalost/2475/nasi-a-svetovi-v-rtvs-henrietta-dulaiova-oceanografka-na-havaji
   orcid: https://orcid.org/0000-0001-5970-1483

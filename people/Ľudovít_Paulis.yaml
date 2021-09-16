@@ -1,9 +1,19 @@
 affiliation: Bratislava
+cited_by:
+- citations:
+    all: 2935
+    since_2016: 1535
+- h_index:
+    all: 32
+    since_2016: 25
+- i10_index:
+    all: 52
+    since_2016: 41
 country: Slovensko
 field: "Patofyziol\xF3gia"
-hindex: '32'
+hindex: 32
 img: Foto-Profile-4.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: https://eccr.org/dr-ludovit-paulis/
 name: "\u013Dudov\xEDt Paulis"

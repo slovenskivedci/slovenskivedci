@@ -1,9 +1,19 @@
 affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+cited_by:
+- citations:
+    all: 3420
+    since_2016: 1389
+- h_index:
+    all: 35
+    since_2016: 17
+- i10_index:
+    all: 75
+    since_2016: 40
 country: Slovensko
 field: "Fyziol\xF3gia"
-hindex: '34'
+hindex: 35
 img: Bernatova Iveta_kto je kto SAV_250_350.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Iveta_Bernatova/2
 name: "Iveta Bern\xE1tov\xE1"

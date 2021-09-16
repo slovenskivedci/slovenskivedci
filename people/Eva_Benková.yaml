@@ -1,9 +1,19 @@
 affiliation: IST Austria, Klosterneuburg
+cited_by:
+- citations:
+    all: 20494
+    since_2016: 9044
+- h_index:
+    all: 55
+    since_2016: 49
+- i10_index:
+    all: 83
+    since_2016: 81
 country: "Rak\xFAsko"
 field: "BIOl\xD3GIA RASTL\xEDN"
-hindex: '55'
+hindex: 55
 img: ProfEvaBenkova-500x500.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: https://ist.ac.at/en/research/benkova-group/#career
   "\u017Eivotopis": https://ist.ac.at/wp-content/uploads/2019/11/CV_Benkova.pdf

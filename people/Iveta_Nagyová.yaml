@@ -1,9 +1,19 @@
 affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
+cited_by:
+- citations:
+    all: 2921
+    since_2016: 1601
+- h_index:
+    all: 34
+    since_2016: 23
+- i10_index:
+    all: 61
+    since_2016: 52
 country: Slovensko
 field: "Behavior\xE1lna Medic\xEDna"
-hindex: '34'
+hindex: 34
 img: Iveta_Nagyova.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: https://mc3.sk/autor/iveta-nagyova/
 name: "Iveta Nagyov\xE1"

@@ -1,9 +1,19 @@
 affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+cited_by:
+- citations:
+    all: 3606
+    since_2016: 1412
+- h_index:
+    all: 31
+    since_2016: 14
+- i10_index:
+    all: 55
+    since_2016: 27
 country: Slovensko
 field: Matematika
-hindex: '30'
+hindex: 31
 img: Pavol_Quittner.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: http://www.iam.fmph.uniba.sk/institute/quittner/
   "wikip\xE9dia": https://sk.wikipedia.org/wiki/Pavol_Quittner

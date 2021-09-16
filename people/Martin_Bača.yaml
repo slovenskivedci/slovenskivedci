@@ -1,9 +1,19 @@
 affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
+cited_by:
+- citations:
+    all: 3723
+    since_2016: 2167
+- h_index:
+    all: 31
+    since_2016: 23
+- i10_index:
+    all: 93
+    since_2016: 55
 country: Slovensko
 field: "Te\xF3ria grafov"
-hindex: 30
+hindex: 31
 img: Baca-Photo-2017 (1).jpeg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   '30': https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
   web: http://people.tuke.sk/martin.baca/

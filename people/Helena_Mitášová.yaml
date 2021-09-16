@@ -1,9 +1,19 @@
 affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
+cited_by:
+- citations:
+    all: 9157
+    since_2016: 3290
+- h_index:
+    all: 41
+    since_2016: 26
+- i10_index:
+    all: 98
+    since_2016: 68
 country: USA
 field: "Geovizualiz\xE1cia"
-hindex: '41'
+hindex: 41
 img: DSC02840-1024x768.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Helena_Mitasova
   web: https://meas.sciences.ncsu.edu/people/hmitaso/

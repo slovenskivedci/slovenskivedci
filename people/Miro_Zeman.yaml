@@ -1,9 +1,19 @@
 affiliation: "Technick\xE1 univerzita v Delfte, Delft"
+cited_by:
+- citations:
+    all: 11293
+    since_2016: 6621
+- h_index:
+    all: 49
+    since_2016: 37
+- i10_index:
+    all: 198
+    since_2016: 158
 country: Holandsko
 field: Fotovoltika
-hindex: '49'
+hindex: 49
 img: Miro-Zeman.JPG
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Miro_Zeman
   web: https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/photovoltaic-materials-and-devices/staff/miro-zeman/

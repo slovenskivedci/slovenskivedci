@@ -1,9 +1,19 @@
 affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+cited_by:
+- citations:
+    all: 6101
+    since_2016: 1781
+- h_index:
+    all: 36
+    since_2016: 21
+- i10_index:
+    all: 52
+    since_2016: 32
 country: Slovensko
 field: fyzika
-hindex: '37'
+hindex: 36
 img: andrej-liptaj-sav-clanokW.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=5352
   "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20191219104536_138_zivotopis.pdf

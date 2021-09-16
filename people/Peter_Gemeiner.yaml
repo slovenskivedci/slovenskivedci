@@ -1,9 +1,19 @@
 affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+cited_by:
+- citations:
+    all: 6764
+    since_2016: 2196
+- h_index:
+    all: 41
+    since_2016: 19
+- i10_index:
+    all: 151
+    since_2016: 53
 country: Slovensko
 field: "Biotechnol\xF3gia"
-hindex: '42'
+hindex: 41
 img: Screen Shot 2021-02-23 at 1.39.00 PM.png
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Peter_Gemeiner
   web: http://www.chem.sk/people/gemeinerpeter/

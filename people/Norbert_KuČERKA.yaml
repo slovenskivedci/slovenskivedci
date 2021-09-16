@@ -1,9 +1,19 @@
 affiliation: Dubna
+cited_by:
+- citations:
+    all: 7190
+    since_2016: 3629
+- h_index:
+    all: 38
+    since_2016: 32
+- i10_index:
+    all: 64
+    since_2016: 51
 country: "Rusk\xE1 Feder\xE1cia"
 field: Biofyzika
-hindex: '38'
+hindex: 38
 img: kucerka.jpeg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Norbert_Kucerka3
   web: http://www.norbbi.com

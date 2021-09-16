@@ -1,9 +1,19 @@
 affiliation: Univerzita v Regensburgu
+cited_by:
+- citations:
+    all: 24076
+    since_2016: 11450
+- h_index:
+    all: 53
+    since_2016: 41
+- i10_index:
+    all: 141
+    since_2016: 113
 country: Nemecko
 field: "Kvantov\xE1 fyzika"
-hindex: '53'
+hindex: 53
 img: VvC-2015-5-Fabian-14.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: http://www.physik.uni-regensburg.de/forschung/fabian/
   "\u017Eivotopis": http://www.physik.uni-regensburg.de/forschung/fabian/pages/mainframes/people/JaroslavFabian/resume.pdf

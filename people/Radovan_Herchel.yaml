@@ -1,9 +1,19 @@
 affiliation: "Palack\xE9ho univerzita, Olomouc"
+cited_by:
+- citations:
+    all: 2865
+    since_2016: 1872
+- h_index:
+    all: 31
+    since_2016: 24
+- i10_index:
+    all: 84
+    since_2016: 61
 country: "\u010Cesko"
 field: "Ch\xE9mia"
-hindex: '32'
+hindex: 31
 img: csm_herchel_cde545613b.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Radovan-Herchel
   loop: https://loop.frontiersin.org/people/61544/overview

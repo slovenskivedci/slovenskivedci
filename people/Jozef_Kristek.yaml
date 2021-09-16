@@ -1,9 +1,19 @@
 affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+cited_by:
+- citations:
+    all: 4550
+    since_2016: 2335
+- h_index:
+    all: 31
+    since_2016: 24
+- i10_index:
+    all: 47
+    since_2016: 37
 country: Slovensko
 field: geofyzika
-hindex: '31'
+hindex: 31
 img: JoKr.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: http://www.nuquake.eu
 name: Jozef Kristek

@@ -1,9 +1,19 @@
 affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
+cited_by:
+- citations:
+    all: 8945
+    since_2016: 5102
+- h_index:
+    all: 42
+    since_2016: 30
+- i10_index:
+    all: 132
+    since_2016: 106
 country: Slovensko
 field: "Soci\xE1lna Psychol\xF3gia"
-hindex: '41'
+hindex: 42
 img: amg-foto.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Andrea_Madarasova_Geckova2
   orcid: https://orcid.org/0000-0003-2993-3798

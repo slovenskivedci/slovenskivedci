@@ -1,9 +1,19 @@
 affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
+cited_by:
+- citations:
+    all: 3116
+    since_2016: 1463
+- h_index:
+    all: 31
+    since_2016: 18
+- i10_index:
+    all: 75
+    since_2016: 43
 country: Slovensko
 field: "Biotechnol\xF3gia"
-hindex: '30'
+hindex: 31
 img: unnamed-16.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   LinkedIn: https://www.linkedin.com/in/milan-certik-65a0834b/?originalSubdomain=sk
   ResearchGate: https://www.researchgate.net/profile/Milan-Certik

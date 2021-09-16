@@ -1,9 +1,19 @@
 affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+cited_by:
+- citations:
+    all: 9489
+    since_2016: 3225
+- h_index:
+    all: 52
+    since_2016: 27
+- i10_index:
+    all: 219
+    since_2016: 111
 country: Slovensko
 field: "Aplikovan\xC1 Mechanika"
-hindex: '51'
+hindex: 52
 img: photo.png
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   "\u017Eivotopis": https://www.osobnosti.sk/osobnost/vladimir-sladek-591
 name: "Vladim\xEDr Sl\xC1DEK"

@@ -1,9 +1,19 @@
 affiliation: Univerzita v Indiane, Bloomington
+cited_by:
+- citations:
+    all: 4373
+    since_2016: 1127
+- h_index:
+    all: 34
+    since_2016: 19
+- i10_index:
+    all: 55
+    since_2016: 33
 country: USA
 field: "Fyzika \u010Cast\xEDc"
-hindex: '34'
+hindex: 34
 img: dermisek.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: https://physics.indiana.edu/about/directory/all-faculty-scientists/dermisek-radovan.html
   "\u017Eivotopis": https://dermisek.pages.iu.edu/dermisek_CV.pdf

@@ -1,9 +1,19 @@
 affiliation: Microsoft Research, Redmont
+cited_by:
+- citations:
+    all: 28631
+    since_2016: 17185
+- h_index:
+    all: 32
+    since_2016: 31
+- i10_index:
+    all: 48
+    since_2016: 40
 country: USA
 field: "Strojov\xE9 u\u010Denie"
-hindex: '31'
+hindex: 32
 img: 20161115_Microsoft_NYC_Miro_Dudik_01-1000x450.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   dblp: https://dblp.org/pid/30/2146.html
   web: https://www.microsoft.com/en-us/research/people/mdudik/

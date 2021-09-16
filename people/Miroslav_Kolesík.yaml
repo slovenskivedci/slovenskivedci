@@ -1,9 +1,19 @@
 affiliation: "Arizonsk\xE1 univerzita, Tucson"
+cited_by:
+- citations:
+    all: 6999
+    since_2016: 2917
+- h_index:
+    all: 40
+    since_2016: 25
+- i10_index:
+    all: 105
+    since_2016: 58
 country: USA
 field: Optika
-hindex: '40'
+hindex: 40
 img: 21-Kolesik,Miroslav (12Nov2019).jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: http://acms.arizona.edu/FemtoTheory/MK_personal/index.html
 name: "Miroslav Koles\xEDk"

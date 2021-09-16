@@ -1,9 +1,19 @@
 affiliation: Apple
+cited_by:
+- citations:
+    all: 9848
+    since_2016: 2185
+- h_index:
+    all: 44
+    since_2016: 20
+- i10_index:
+    all: 99
+    since_2016: 39
 country: USA
 field: "AplIkovan\xC1 Informatika"
-hindex: '44'
+hindex: 44
 img: Martin_Pelikan.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   dblp: https://dblp.org/pid/18/963.html
 name: "Martin Pelik\xC1N"

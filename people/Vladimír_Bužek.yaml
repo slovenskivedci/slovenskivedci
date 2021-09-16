@@ -1,9 +1,19 @@
 affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+cited_by:
+- citations:
+    all: 17049
+    since_2016: 4225
+- h_index:
+    all: 61
+    since_2016: 25
+- i10_index:
+    all: 152
+    since_2016: 73
 country: Slovensko
 field: "Kvantov\xE1 Fyzika"
-hindex: '61'
+hindex: 61
 img: 119147-vladimir-buzek-clanokW.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=buzek
   "\u017Eivotopis": https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf

@@ -1,9 +1,19 @@
 affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+cited_by:
+- citations:
+    all: 5715
+    since_2016: 2138
+- h_index:
+    all: 37
+    since_2016: 22
+- i10_index:
+    all: 138
+    since_2016: 67
 country: Slovensko
 field: Biofyzika
-hindex: '37'
+hindex: 37
 img: maxresdefault.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: https://uniba.sk/ludia/hianik1/
 name: Tibor hianik

@@ -1,9 +1,19 @@
 affiliation: "Slovesk\xE1 akad\xE9mia vied, Bratislava"
+cited_by:
+- citations:
+    all: 3046
+    since_2016: 1096
+- h_index:
+    all: 31
+    since_2016: 18
+- i10_index:
+    all: 60
+    since_2016: 33
 country: Slovensko
 field: "Molekul\xE1rna Biol\xF3gia"
-hindex: '31'
+hindex: 31
 img: 117686-biolog-imrich-barak-clanokW.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Imrich-Barak
   loop: https://loop.frontiersin.org/people/104180/overview

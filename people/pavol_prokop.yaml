@@ -1,9 +1,19 @@
 affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+cited_by:
+- citations:
+    all: 6851
+    since_2016: 4222
+- h_index:
+    all: 44
+    since_2016: 35
+- i10_index:
+    all: 127
+    since_2016: 107
 country: Slovensko
 field: "behavior\xC1lna ekol\xF3giA"
-hindex: '42'
+hindex: 44
 img: Screen Shot 2020-12-26 at 12.39.35 PM.png
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: https://fns.uniba.sk/pracoviska/environmentalna-sekcia/kee/zamestnanci/pavol-prokop/
 name: pavol prokop

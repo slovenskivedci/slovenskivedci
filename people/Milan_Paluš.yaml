@@ -1,9 +1,19 @@
 affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
+cited_by:
+- citations:
+    all: 5740
+    since_2016: 2200
+- h_index:
+    all: 37
+    since_2016: 25
+- i10_index:
+    all: 78
+    since_2016: 48
 country: "\u010Cesko"
 field: "Komplexn\xE9 Syst\xE9my"
-hindex: '37'
+hindex: 37
 img: slideslive_milan-palus_kauzalita-informace-a-cas.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Milan-Palus
   dblp: https://dblp.org/pid/64/7857.html

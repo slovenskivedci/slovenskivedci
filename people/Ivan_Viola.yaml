@@ -1,9 +1,19 @@
 affiliation: KAUST, Thuwal
+cited_by:
+- citations:
+    all: 3495
+    since_2016: 1666
+- h_index:
+    all: 30
+    since_2016: 23
+- i10_index:
+    all: 78
+    since_2016: 56
 country: "Saudsk\xE1 Ar\xE1bia"
 field: "Po\u010D\xEDta\u010Dov\xE1 Grafika a Vizualiz\xE1cia"
-hindex: '30'
+hindex: 30
 img: KAUST-CEMSE-VCC-NANOVIS-CS-Ivan-Viola-Photo.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   LinkedIn: https://sa.linkedin.com/in/ivanviola
   dblp: https://dblp.org/pid/21/4861.html

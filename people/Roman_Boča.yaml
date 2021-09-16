@@ -1,9 +1,19 @@
 affiliation: Univerzita sv. Cyrila a Metoda v Trnave, Trnava
+cited_by:
+- citations:
+    all: 8085
+    since_2016: 3821
+- h_index:
+    all: 44
+    since_2016: 30
+- i10_index:
+    all: 181
+    since_2016: 105
 country: Slovensko
 field: "Anorganick\xE1 Ch\xE9mia"
-hindex: '44'
+hindex: 44
 img: nas-profesor-1.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   vedec roka 2011: https://sk.wikipedia.org/wiki/Vedec_roka_SR
   web: https://www.ucm.sk/sk/rektor/

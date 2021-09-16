@@ -1,9 +1,19 @@
 affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+cited_by:
+- citations:
+    all: 3991
+    since_2016: 2512
+- h_index:
+    all: 38
+    since_2016: 24
+- i10_index:
+    all: 57
+    since_2016: 50
 country: Slovensko
 field: "fyzik\xE1lna Ch\xC9MIA"
-hindex: '38'
+hindex: 38
 img: 989c3ce1fd8c4f3a8c5253a1c1f5cbd9.png.200x200_q95_crop_detail_upscale.png
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   publons: https://publons.com/researcher/1378264/tomas-bucko/
   web: https://fns.uniba.sk/en/departments/chemistry/department-of-physical-and-theoretical-chemistry/people/central-database-of-staff/?tx_unibausers_pi1[person]=bucko19

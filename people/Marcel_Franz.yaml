@@ -1,9 +1,19 @@
 affiliation: "Univerzita v Britskej Kolumbii, Britsk\xE1 Kolumbia"
+cited_by:
+- citations:
+    all: 10095
+    since_2016: 4863
+- h_index:
+    all: 55
+    since_2016: 33
+- i10_index:
+    all: 107
+    since_2016: 78
 country: Kanada
 field: fyzika
-hindex: '54'
+hindex: 55
 img: maxresdefault-2.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: https://phas.ubc.ca/~franz/
 name: Marcel Franz

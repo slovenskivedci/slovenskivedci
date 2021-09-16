@@ -1,8 +1,11 @@
 
 import yaml
 import os
-
+from serpapi import GoogleSearch
 import glob
+import pickle 
+from datetime import datetime
+
 
 for y in glob.glob("./config/conf.yaml"):
 	with open(y) as f: conf = yaml.safe_load(f)
@@ -16,6 +19,47 @@ for y in glob.glob("./people/*.yaml"):
 			dic["last_update"]="2020-12-31"
 			with open(y, 'w') as file:
 			   documents = yaml.dump(dic, file)
+		people.append([y,dic])
+		
+people = sorted(people, key = lambda kv: kv[1]["last_update"])
+
+for kv in people: # we start updating the last updated person
+	y, dic = kv
+	url = dic["scholar"]
+	id = url.split("user=")[1][:12]
+	 
+
+
+	params = {
+	  "engine": "google_scholar_author",
+	  "author_id": id,
+	  "api_key": conf["key"]
+	}
+
+	search = GoogleSearch(params)
+	results = search.get_dict()
+	author = results['author']
+	
+
+	cited_by = results["cited_by"]["table"]
+	for e in cited_by:
+		if "h_index" in e:
+			
+			dic["hindex"] = e["h_index"]["all"]
+			if int(dic["hindex"]) < 25:
+				
+				print(y)
+				print(cited_by)
+				pickle.dump(results,open("/tmp/debug.pkl","wb"))
+				
+				print("error", y); die
+			dic["cited_by"] = cited_by
+			print("\n\n processing....")
+			print(y, dic["hindex"])
+			dic["last_update"] = datetime.today().strftime('%Y-%m-%d')
+			with open(y, 'w') as file:
+			   documents = yaml.dump(dic, file) 
+			#print(dic)
 
 
  

@@ -1,9 +1,19 @@
 affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
+cited_by:
+- citations:
+    all: 3530
+    since_2016: 1020
+- h_index:
+    all: 34
+    since_2016: 16
+- i10_index:
+    all: 82
+    since_2016: 34
 country: "\u010Cesko"
 field: "Bioch\xE9mia"
-hindex: '34'
+hindex: 34
 img: Juraj-Harmatha.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Juraj-Harmatha/10
   orcid: https://orcid.org/0000-0003-4385-0841

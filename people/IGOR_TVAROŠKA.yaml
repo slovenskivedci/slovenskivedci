@@ -1,9 +1,19 @@
 affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+cited_by:
+- citations:
+    all: 4851
+    since_2016: 865
+- h_index:
+    all: 35
+    since_2016: 16
+- i10_index:
+    all: 108
+    since_2016: 26
 country: Slovensko
 field: "v\xFDpo\u010Dtov\xE1 Ch\xE9mia"
-hindex: '34'
+hindex: 35
 img: IT.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: http://www.chem.sk/people/tvaroskaigor/
 name: "IGOR TVARO\u0160KA"

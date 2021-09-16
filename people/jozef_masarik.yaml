@@ -1,9 +1,19 @@
 affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+cited_by:
+- citations:
+    all: 6431
+    since_2016: 1407
+- h_index:
+    all: 38
+    since_2016: 21
+- i10_index:
+    all: 76
+    since_2016: 43
 country: Slovensko
 field: "jadrov\xE1 FYZIKA"
-hindex: '38'
+hindex: 38
 img: 3049399_1200x.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: https://uniba.sk/o-univerzite/organy-uk/vedenie/prorektor-pre-vedu-doktorandske-studium-a-projektovu-cinnost/
   "wikip\xE9dia": https://sk.wikipedia.org/wiki/Jozef_Masarik

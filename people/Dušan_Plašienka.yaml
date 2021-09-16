@@ -1,9 +1,19 @@
 affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+cited_by:
+- citations:
+    all: 3068
+    since_2016: 1391
+- h_index:
+    all: 30
+    since_2016: 20
+- i10_index:
+    all: 71
+    since_2016: 37
 country: Slovensko
 field: "GEol\xF3gia"
-hindex: '30'
+hindex: 30
 img: plasienka-foto.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Dusan_Plasienka
   web: https://geopaleo.sk/plasienka-dusan/

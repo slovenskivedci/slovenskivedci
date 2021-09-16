@@ -1,9 +1,19 @@
 affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+cited_by:
+- citations:
+    all: 5133
+    since_2016: 2969
+- h_index:
+    all: 32
+    since_2016: 28
+- i10_index:
+    all: 121
+    since_2016: 76
 country: Slovensko
 field: MATEMATIKA
-hindex: '31'
+hindex: 32
 img: 191125_Michal_Feckan_patri_medzi_najcitovanejsich__ed4b7c8d16.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ESET Science Award: https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
   web: https://www.mat.savba.sk/~feckan/

@@ -1,9 +1,19 @@
 affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
+cited_by:
+- citations:
+    all: 39905
+    since_2016: 19218
+- h_index:
+    all: 34
+    since_2016: 27
+- i10_index:
+    all: 93
+    since_2016: 49
 country: Slovensko
 field: "Ch\xE9mia"
-hindex: '34'
+hindex: 34
 img: 4096035_1200x.jpeg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   loop: https://loop.frontiersin.org/people/127211/overview
   web: http://edisk.cvt.stuba.sk/~valkom/Homepage.html

@@ -1,9 +1,19 @@
 affiliation: Univerzita Strathclyde, Glasgow
+cited_by:
+- citations:
+    all: 5647
+    since_2016: 1342
+- h_index:
+    all: 41
+    since_2016: 17
+- i10_index:
+    all: 101
+    since_2016: 27
 country: "Ve\u013Ek\xE1 Brit\xE1nia"
 field: Elektrotechnika
-hindex: '40'
+hindex: 41
 img: Glesk.jpeg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   orcid: https://orcid.org/0000-0002-3176-8069
   web: http://personal.strath.ac.uk/ivan.glesk/

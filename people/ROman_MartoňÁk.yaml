@@ -1,9 +1,19 @@
 affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+cited_by:
+- citations:
+    all: 4549
+    since_2016: 1877
+- h_index:
+    all: 32
+    since_2016: 20
+- i10_index:
+    all: 63
+    since_2016: 33
 country: Slovensko
 field: "Fyzika KOndenzovan\xFDch L\xE1tok"
-hindex: '32'
+hindex: 32
 img: jdxjF1Sp.JPG
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   orcid: https://orcid.org/0000-0002-4013-9117
   web: https://dep.fmph.uniba.sk/cv-rm/

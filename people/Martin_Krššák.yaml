@@ -1,9 +1,19 @@
 affiliation: "Lek\xE1rska univerzita vo Viedni, Viede\u0148"
+cited_by:
+- citations:
+    all: 12241
+    since_2016: 5035
+- h_index:
+    all: 45
+    since_2016: 30
+- i10_index:
+    all: 109
+    since_2016: 95
 country: "Rak\xFAsko"
 field: "Lek\xE1rska fyzika"
-hindex: '43'
+hindex: 45
 img: martin-krssak.1024x1024.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Martin_Krssak2
   web: https://www.meduniwien.ac.at/hp/programs-endocrinology/supervisors-topics/krssak-martin/

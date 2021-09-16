@@ -1,9 +1,19 @@
 affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+cited_by:
+- citations:
+    all: 4480
+    since_2016: 1112
+- h_index:
+    all: 29
+    since_2016: 16
+- i10_index:
+    all: 55
+    since_2016: 28
 country: Slovensko
 field: Biofyzika
-hindex: '30'
+hindex: 29
 img: Screen Shot 2021-06-21 at 10.40.18 AM.png
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/lab/Lubica-Lacinova-Lab
   "pam\xE4\u0165n\xE1roda": https://www.pametnaroda.cz/en/lacinova-lubica-1959

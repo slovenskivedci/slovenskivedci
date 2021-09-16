@@ -1,9 +1,19 @@
 affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+cited_by:
+- citations:
+    all: 5949
+    since_2016: 3519
+- h_index:
+    all: 40
+    since_2016: 32
+- i10_index:
+    all: 139
+    since_2016: 105
 country: Slovensko
 field: "molekul\xE1rna biomedic\xEDna"
-hindex: '40'
+hindex: 40
 img: TBEN2007.jpg
-last_update: '2020-12-31'
+last_update: '2021-09-16'
 links:
   web: https://www.imbm.sk/sk/members/peter-celec-sk/
   "\u017Eivotopis": http://www.imbm.sk/wp-content/uploads/2017/03/cv_peter-celec-short-en.pdf
