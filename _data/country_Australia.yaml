@@ -11,7 +11,7 @@
     wikipedia: "https://en.wikipedia.org/wiki/Jozef_G\xE9cz"
     "\u017Eivotopis": https://prabook.com/web/jozef.gecz/418497
   name: "Jozef G\xE9cz"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=FTejMNwAAAAJ&amp;hl=en
   year: '1962'
 - affiliation: Monashova univerzita, Melbourne
@@ -30,7 +30,7 @@
     web: https://www.monash.edu/medicine/scs/researchers/barbora-de-courten
     web2: https://research.monash.edu/en/persons/barbora-de-courten
   name: Barbora
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
   year: "Voz\xE1rov\xE1"
 - affiliation: Univerzita v Adelaide, Adelaide
@@ -56,7 +56,7 @@
     orcid: https://orcid.org/0000-0002-3545-0605
     web: https://www.adelaide.edu.au/directory/maria.hrmova
   name: "M\xE1ria Hrmov\xE1"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.sk/citations?user=Hvt2QdYAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita v Melbourne a Kr\xE1\u013Eovsk\xE1 nemocnica v Melbourne,\
@@ -84,7 +84,7 @@
     web: https://core.melbourne
     web2: https://findanexpert.unimelb.edu.au/profile/458758-tomas-kalincik
   name: "Tom\xE1\u0161 Kalin\u010D\xEDk"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=uoit0TEAAAAJ
   year: '1982'
 - affiliation: Univerzita v New South Wales, Sydney
@@ -109,7 +109,7 @@
     orcid: https://orcid.org/0000-0002-4863-3419
     web: https://s324741.wixsite.com/bhredzak
   name: "Branislav Hredz\xE1k"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=LSvxvEIAAAAJ
   year: ''
 - affiliation: CSIRO, Brisbane
@@ -138,6 +138,6 @@
     web: https://sites.google.com/site/branislavkusy/
     "\u017Eivotopis": https://sites.google.com/site/branislavkusy/cv
   name: "Branislav Kus\xFD"
-  possition: "vedeck\xFD pracovn\xEDk (principal research scientist)"
+  position: "vedeck\xFD pracovn\xEDk (principal research scientist)"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=G9w7WT4AAAAJ
   year: ''

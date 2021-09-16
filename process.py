@@ -52,6 +52,7 @@ for k in institutions:
 			documents = yaml.dump(institutions[k], file)		
 	os.system("sed 's/DATAFILE/institution_%s/g' template.style > affiliation_%s.html"%(affcode,affcode))
 
+os.system("sed 's/DATAFILE/all/g' template.style > index.html")
 
 
 alllst = sorted(alllst,key= lambda e: -int(e['hindex']))		

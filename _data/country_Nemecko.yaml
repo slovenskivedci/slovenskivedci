@@ -19,7 +19,7 @@
   links:
     web: http://ds9.botanik.uni-bonn.de/zellbio/AG-Baluska-Volkmann/index.php
   name: "Franti\u0161ek Balu\u0161ka"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=KF4AYR4AAAAJ&amp;hl=en
   year: '1957'
 - affiliation: Univerzita v Regensburgu
@@ -44,7 +44,7 @@
     web: http://www.physik.uni-regensburg.de/forschung/fabian/
     "\u017Eivotopis": http://www.physik.uni-regensburg.de/forschung/fabian/pages/mainframes/people/JaroslavFabian/resume.pdf
   name: "Jaroslav Fabi\xE1n"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.de/citations?user=bNu69CcAAAAJ&amp;hl=en
   year: '1967'
 - affiliation: RWTH  Aachen
@@ -69,7 +69,7 @@
     web: https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/
     "\u017Eivotopis": http://www.imbm.sk/wp-content/uploads/2018/01/cv-english-pb.pdf
   name: PETER BOOR
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
   year: '1979'
 - affiliation: "Hannoversk\xE1 lek\xE1rska univezita, Hannover"
@@ -96,7 +96,7 @@
     orcid: https://orcid.org/0000-0002-7762-4642
     web: https://www.neuroprostheses.com/AK/Main.html
   name: "Andrej Kr\xE1\u013E"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=y0Fdk30AAAAJ&amp;hl=en
   year: '1969'
 - affiliation: Zeppelinova univerzita, Friedrichshafen
@@ -113,6 +113,6 @@
     web: https://www.zeppelin-university.com/chairs/international-economics/index.php
     "\u017Eivotopis": https://henuecon.education/images/CV-Fidrmuc.pdf
   name: Jarko Fidrmuc
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=wOi5anQAAAAJ
   year: '1968'

@@ -10,7 +10,7 @@
     web: http://people.tuke.sk/ivo.petras/
     "\u017Eivotopis": https://www.uiam.sk/~fikar/drsc/petras/Navrh_VRSTU.pdf
   name: "ivo petr\xE1\u0160"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=01msi28AAAAJ&amp;hl=en
   year: '1973'
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
@@ -37,7 +37,7 @@
     publons: https://publons.com/researcher/2691427/igor-podlubny/
     web: http://people.tuke.sk/igor.podlubny/index.html
   name: "Igor Podlubn\xDD"
-  possition: profesor
+  position: profesor
   scholar: http://scholar.google.com/citations?user=4H2CInEAAAAJ
   year: '1961'
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
@@ -62,7 +62,7 @@
     '30': https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
     web: http://people.tuke.sk/martin.baca/
   name: "Martin Ba\u010Da"
-  possition: 30 profesor
+  position: 30 profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
   year: ''
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
@@ -76,6 +76,6 @@
   links:
     web: http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
   name: Sergej Hloch
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
   year: ''

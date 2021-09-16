@@ -18,17 +18,25 @@ title: Home
 						<div class="column">
 							<img src="/images/{{ item.img }}"  role="img" />							
 						</div>
+						<div class="columnsep">&nbsp;&nbsp;&nbsp;
+						</div>						
 						<div class="column" >
 							<h1 class="blog-title"><i>{{ item.name }}</i> ({{ item.year }})</h1>
 							
 							<p class="post-summary">
+
+								<i>{{ item.field }}</i>
+								
+								<br/>
+								
 												 
 								 <b><a href="{{ item.scholar }}" target="_blank">H-index: {{ item.hindex }}</a></b>
+								
 								 
-								 <p>Country: <a href="country_{{ item.countryurl }}.html">{{ item.country }}</a></p>
-								 
-								 <p>Affiliation: <a href="affiliation_{{ item.affiliationurl }}.html">{{ item.affiliation }}</a></p>
-
+								 <p>{{ item.position }},  <a href="affiliation_{{ item.affiliationurl }}.html">{{ item.affiliation }}</a>, 
+								 <a href="country_{{ item.countryurl }}.html">{{ item.country }}</a> </p>
+								
+								
 							</p>
 							{% for link in item.links %}
 								<a href="{{ link[1] }}" class="button-round w-button">{{ link[0] }}</a>

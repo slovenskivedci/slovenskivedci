@@ -10,7 +10,7 @@
     web: http://www.janvilcek.com
     wikipedia: "https://en.wikipedia.org/wiki/Jan_Vil\u010Dek"
   name: "J\xE1n Vil\u010Dek"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=zG9xTAcAAAAJ&amp;hl=en
   year: '1933'
 - affiliation: Univerzita v Illinois, Urbana-Champaign
@@ -36,7 +36,7 @@
     web: https://cs.illinois.edu/about/people/faculty/klara
     wikipedia: https://en.wikipedia.org/wiki/Klara_Nahrstedt
   name: "Kl\xE1ra"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
   year: Bajcsy
 - affiliation: Univerzita v Kalifornii, Berkeley
@@ -62,7 +62,7 @@
     wikipedia: https://en.wikipedia.org/wiki/Ruzena_Bajcsy
     "\u017Eivotopis": https://www.memoryofnations.eu/en/bajcsy-ruzena-1933
   name: "Ru\u017Eena Bajcsy"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.com/citations?user=s9Ikf1EAAAAJ&amp;hl=en
   year: '1933'
 - affiliation: Univerzita v Missouri, Columbia
@@ -79,7 +79,7 @@
     "\u017Eivotopis": https://cafnrfaculty.missouri.edu/sutovskylab/cv-peter-sutovsky/
     "\u017Eivotopis2": https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf
   name: "Peter \u0160utovsk\xFD"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp;hl=en
   year: '1967'
 - affiliation: George Mason University
@@ -104,7 +104,7 @@
     web: https://cs.gmu.edu/~kosecka/
     wikipedia: "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
   name: "JANA KO\u0160ECK\xC1"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
   year: ''
 - affiliation: Univerzita vo Washingtone
@@ -129,7 +129,7 @@
     web: https://homes.cs.washington.edu/~bodik/
     "\u017Eivotopis": https://homes.cs.washington.edu/~bodik/cv.pdf
   name: "Rastislav Bod\xEDk"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
   year: '1968'
 - affiliation: Universita v Kalifornii, San Diego
@@ -144,7 +144,7 @@
     ResearchGate: https://www.researchgate.net/profile/Martin_Marsala
     web: http://www.marsala-lab.com/team/
   name: "Martin Mar\u0161ala"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
   year: ''
 - affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
@@ -159,7 +159,7 @@
     web: https://physics.sciences.ncsu.edu/people/lmitas/
     "\u017Eivotopis": http://altair.physics.ncsu.edu/cv.html
   name: "Lubo\u0161 Mit\xE1\u0161"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
   year: ''
 - affiliation: U niverzita v Louisville, Louisville
@@ -175,7 +175,7 @@
     loop: https://loop.frontiersin.org/people/118500/overview
     web: https://uoflphysicians.com/provider/peter-hedera/
   name: Peter Hedera
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?user=QB0X-6sAAAAJ
   year: ''
 - affiliation: Apple
@@ -199,7 +199,7 @@
   links:
     dblp: https://dblp.org/pid/18/963.html
   name: "Martin Pelik\xC1N"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=f59x6y4AAAAJ
   year: ''
 - affiliation: Univerzita v Minnesote, Twin Cities
@@ -216,7 +216,7 @@
     "\u017Eivotopis": https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda
       v Centre 2011/Tkac- curriculum vitae 2011-02-14.pdf
   name: "Ivan Tk\xE1\u010D"
-  possition: "odborn\xFD asistent"
+  position: "odborn\xFD asistent"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=DNCCZHYAAAAJ
   year: '1954'
 - affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
@@ -242,7 +242,7 @@
     web: https://meas.sciences.ncsu.edu/people/hmitaso/
     "\u017Eivotopis": https://meas.sciences.ncsu.edu/wp-content/uploads/sites/3/2015/08/Mitasova_CV2p_Dec2020.pdf
   name: "Helena Mit\xE1\u0161ov\xE1"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.com/citations?user=TIVMwT4AAAAJ
   year: ''
 - affiliation: "Oregonsk\xE1 \u0161t\xE1tna univerzita, Corvallis"
@@ -257,7 +257,7 @@
     ResearchGate: https://www.researchgate.net/profile/John_Nabelek
     web: https://ceoas.oregonstate.edu/people/john-nabelek
   name: "John Nabelek - J\xE1n Ludv\xEDk N\xE1b\u011Blek"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=G0MJo3UAAAAJ&amp;hl=en
   year: '1952'
 - affiliation: "Arizonsk\xE1 univerzita, Tucson"
@@ -281,7 +281,7 @@
   links:
     web: http://acms.arizona.edu/FemtoTheory/MK_personal/index.html
   name: "Miroslav Koles\xEDk"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=1tCBM2kAAAAJ
   year: ''
 - affiliation: "N\xE1rodn\xFD in\u0161tit\xFAt zdravia, Bethesda"
@@ -310,7 +310,7 @@
     web: https://www.niaid.nih.gov/research/bibi-bielekova-md
     "\u017Eivotopis": https://demystifyingmedicine.od.nih.gov/dm11/biosketch/dm0301-bielekova-bibiana.pdf
   name: "Bibiana Bielekov\xE1"
-  possition: "vedeck\xE1 pracovn\xED\u010Dka"
+  position: "vedeck\xE1 pracovn\xED\u010Dka"
   scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
   year: '1969'
 - affiliation: Univerzita v Missouri, Columbia
@@ -327,7 +327,7 @@
     web2: http://faculty.missouri.edu/nabelekp/Welcome.html
     "\u017Eivotopis": https://geology.missouri.edu/sites/default/files/people-files/2019-09/nabelek_cv.pdf
   name: Peter I. Nabelek
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=bIXqQ6oAAAAJ&amp;hl=en
   year: '1955'
 - affiliation: Univerzita v Indiane, Bloomington
@@ -352,7 +352,7 @@
     web: https://physics.indiana.edu/about/directory/all-faculty-scientists/dermisek-radovan.html
     "\u017Eivotopis": https://dermisek.pages.iu.edu/dermisek_CV.pdf
   name: "Radovan Derm\xED\u0161ek"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ell1TQQAAAAJ
   year: ''
 - affiliation: "National High Magnetic Field Laboratory &amp  \u0160t\xE1tna univerzita\
@@ -380,7 +380,7 @@
     web2: https://fs.magnet.fsu.edu/~vafek/
     "\u017Eivotopis": https://fs.magnet.fsu.edu/~vafek/cv2015 Apr.pdf
   name: Oskar Vafek
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=-toxVLsAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita v Pennsylv\xE1nii, Filadelfia"
@@ -406,7 +406,7 @@
     orcid: https://orcid.org/0000-0003-1990-3077
     web: https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
   name: "\u013Dubica Rauov\xE1"
-  possition: docentka
+  position: docentka
   scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
   year: ''
 - affiliation: Univerzita v Pittsburghu, Pittsburgh
@@ -421,7 +421,7 @@
     web: http://people.cs.pitt.edu/~milos/
     "\u017Eivotopis": http://people.cs.pitt.edu/~milos/CV.pdf
   name: "Milo\u0161 hauskrecht"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp;hl=en
   year: ''
 - affiliation: Microsoft Research, Redmont
@@ -446,7 +446,7 @@
     dblp: https://dblp.org/pid/30/2146.html
     web: https://www.microsoft.com/en-us/research/people/mdudik/
   name: "Miroslav Dud\xEDk"
-  possition: "vedeck\xFD pracovn\xEDk (Sr principal researcher)"
+  position: "vedeck\xFD pracovn\xEDk (Sr principal researcher)"
   scholar: https://scholar.google.sk/citations?user=wYMTld8AAAAJ&amp;hl=en
   year: ''
 - affiliation: "Havajsk\xE1 univerzita, Manoa"
@@ -473,7 +473,7 @@
     web: http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/
     "\u017Eivotopis": http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/files/CV_henrietta.pdf
   name: Henrietta Dulai
-  possition: docentka
+  position: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
   year: ''
 - affiliation: Google, Mountain View
@@ -488,7 +488,7 @@
     dblp: https://dblp.org/pid/92/5526.html
     web: http://www.bkveton.com
   name: "Branislav Kveto\u0148"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
   year: ''
 - affiliation: Univerzita v Chicagu, Chicago
@@ -513,6 +513,6 @@
     NBS: https://www.nbs.sk/en/about-the-bank/bank-board-of-the-nbs/the-bank-board-member-lubos-pastor
     web: https://faculty.chicagobooth.edu/lubos-pastor
   name: "\u013Eubo\u0161 P\xE1stor"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
   year: '1974'

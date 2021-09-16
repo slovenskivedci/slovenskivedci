@@ -22,7 +22,7 @@
     wikipedia: https://en.wikipedia.org/wiki/Igor_Jurisica
     "\u017Eivotopis": https://www.fmb.unesp.br/Home/ensino/Pos-Graduacao/mestradoacademicoedoutorado/pgbasesgeraisdacirurgia/igor-jurisica_curriculum-vitae-july-2015-1.pdf
   name: "Igor Juri\u0161ica"
-  possition: "v\xFDskumn\xFD pracovn\xEDk"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ
   year: '1967'
 - affiliation: "V\xFDskumn\xFD in\u0161tit\xFAt torontskej v\u0161eobecnej nemocnice,\
@@ -45,16 +45,12 @@
   img: jDgBXcYH.jpg
   last_update: '2021-09-16'
   links:
-    M: https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
-    P: https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
-    P ub M ed: MISSING
+    PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
     ResearchGate: https://www.researchgate.net/profile/Vladimir-Dzavik
     Scopus: https://www.scopus.com/authid/detail.uri?authorId=7004450973
-    ed: https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
-    ub: https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
     web: https://www.uhnresearch.ca/researcher/vladimir-dzavic
   name: "Vladim\xEDr D\u017Eav\xEDk"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=psbZKP4AAAAJ
   year: ''
 - affiliation: "n\xE1rodn\xE1 v\xFDskumn\xE1 rada"
@@ -70,7 +66,7 @@
     web: https://nrc.canada.ca/en/stories/drs-pavel-cheben-laura-ferrarese-inducted-royal-society-canada
     "\u017Eivotopis": https://drive.google.com/file/d/1uc5JzZPAZjk8NoGP0xPp_eEs1lv1gGcn/view?usp=sharing
   name: Pavel Cheben
-  possition: principal research officer
+  position: principal research officer
   scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ&amp;hl=sk&amp;oi=ao
   year: '1967'
 - affiliation: "Univerzita v Britskej Kolumbii, Britsk\xE1 Kolumbia"
@@ -94,7 +90,7 @@
   links:
     web: https://phas.ubc.ca/~franz/
   name: Marcel Franz
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=qOmkOIAAAAAJ&amp;hl=en
   year: ''
 - affiliation: Lunenfeld Tanenbaum Research Institute, Nemocnica Mount Sinai a Univerzita
@@ -111,7 +107,7 @@
     publons: https://publons.com/researcher/2649349/andrea-jurisicova/
     web: http://www.lunenfeld.ca/?page=jurisicova-andrea
   name: "Andrea Juri\u0161icov\xE1"
-  possition: "v\xFDskumn\xE1 pracovn\xED\u010Dka a docentka"
+  position: "v\xFDskumn\xE1 pracovn\xED\u010Dka a docentka"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=JPCdl08AAAAJ
   year: ''
 - affiliation: Univerzita Simona Frasera, Burnaby
@@ -126,7 +122,7 @@
     web: https://www2.cs.sfu.ca/~pavol/
     wikipedia: https://en.wikipedia.org/wiki/Pavol_Hell
   name: PAvol Hell
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=8KDwlbEAAAAJ
   year: '1946'
 - affiliation: McMaster University
@@ -142,7 +138,7 @@
     web: https://cs.gmu.edu/~kosecka/https://experts.mcmaster.ca/display/rosa
     wikipedia: https://sk.wikipedia.org/wiki/Alexander_Rosa
   name: ALEXANDER ROSA
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=7lVA1vkAAAAJ&amp;hl=en&amp;oi=sra
   year: '1937'
 - affiliation: Univerzita Simona Frasera, Surrey
@@ -166,6 +162,6 @@
   links:
     web: https://www.sfu.ca/siat/people/research-faculty/marek-hatala.html
   name: marEK HATALA
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ApdHT0UAAAAJ
   year: ''

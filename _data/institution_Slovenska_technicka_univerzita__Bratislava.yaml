@@ -9,7 +9,7 @@
   links:
     web: https://www.math.sk/mesiar/
   name: Radko Mesiar
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=_kXpl5YAAAAJ&amp;hl=en
   year: '1951'
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
@@ -34,7 +34,7 @@
     loop: https://loop.frontiersin.org/people/127211/overview
     web: http://edisk.cvt.stuba.sk/~valkom/Homepage.html
   name: "Mari\xE1n Valko"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=Csnoq7QAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
@@ -48,7 +48,7 @@
   links:
     web: http://www.math.sk/mikula/
   name: Karol Mikula
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=nM3oZ78AAAAJ&amp;hl=en&amp;oi=ao
   year: '1963'
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
@@ -74,6 +74,6 @@
     ResearchGate: https://www.researchgate.net/profile/Milan-Certik
     prabook: https://prabook.com/web/milan.certik/335639
   name: "Milan \u010Cert\xEDk"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp;hl=sk
   year: '1962'

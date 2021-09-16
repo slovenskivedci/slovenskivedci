@@ -13,7 +13,7 @@
     "\u017Eivotopis": "https://www.vedatechnika.sk/SK/enoviny/RozhovoryReportaze/Documents/Profesijn\xFD\
       \ \u017Eivotopis_Branislav Sit\xE1r.pdf"
   name: "Branislav Sit\xE1r"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=4ymEP0sAAAAJ
   year: '1946'
 - affiliation: Univerzita v New Yorku, New York
@@ -28,7 +28,7 @@
     web: http://www.janvilcek.com
     wikipedia: "https://en.wikipedia.org/wiki/Jan_Vil\u010Dek"
   name: "J\xE1n Vil\u010Dek"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=zG9xTAcAAAAJ&amp;hl=en
   year: '1933'
 - affiliation: Univerzita v Illinois, Urbana-Champaign
@@ -54,7 +54,7 @@
     web: https://cs.illinois.edu/about/people/faculty/klara
     wikipedia: https://en.wikipedia.org/wiki/Klara_Nahrstedt
   name: "Kl\xE1ra"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
   year: Bajcsy
 - affiliation: Univerzita v Adelaide, Adelaide
@@ -70,7 +70,7 @@
     wikipedia: "https://en.wikipedia.org/wiki/Jozef_G\xE9cz"
     "\u017Eivotopis": https://prabook.com/web/jozef.gecz/418497
   name: "Jozef G\xE9cz"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=FTejMNwAAAAJ&amp;hl=en
   year: '1962'
 - affiliation: Schroeder Arthritis Institute, Toronto, Kanada profesor, Univerzita
@@ -97,7 +97,7 @@
     wikipedia: https://en.wikipedia.org/wiki/Igor_Jurisica
     "\u017Eivotopis": https://www.fmb.unesp.br/Home/ensino/Pos-Graduacao/mestradoacademicoedoutorado/pgbasesgeraisdacirurgia/igor-jurisica_curriculum-vitae-july-2015-1.pdf
   name: "Igor Juri\u0161ica"
-  possition: "v\xFDskumn\xFD pracovn\xEDk"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ
   year: '1967'
 - affiliation: Univerzita v Bonne, Bonn
@@ -121,7 +121,7 @@
   links:
     web: http://ds9.botanik.uni-bonn.de/zellbio/AG-Baluska-Volkmann/index.php
   name: "Franti\u0161ek Balu\u0161ka"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=KF4AYR4AAAAJ&amp;hl=en
   year: '1957'
 - affiliation: Univerzita v Kalifornii, Berkeley
@@ -147,7 +147,7 @@
     wikipedia: https://en.wikipedia.org/wiki/Ruzena_Bajcsy
     "\u017Eivotopis": https://www.memoryofnations.eu/en/bajcsy-ruzena-1933
   name: "Ru\u017Eena Bajcsy"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.com/citations?user=s9Ikf1EAAAAJ&amp;hl=en
   year: '1933'
 - affiliation: "V\xFDskumn\xFD in\u0161tit\xFAt torontskej v\u0161eobecnej nemocnice,\
@@ -170,16 +170,12 @@
   img: jDgBXcYH.jpg
   last_update: '2021-09-16'
   links:
-    M: https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
-    P: https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
-    P ub M ed: MISSING
+    PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
     ResearchGate: https://www.researchgate.net/profile/Vladimir-Dzavik
     Scopus: https://www.scopus.com/authid/detail.uri?authorId=7004450973
-    ed: https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
-    ub: https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
     web: https://www.uhnresearch.ca/researcher/vladimir-dzavic
   name: "Vladim\xEDr D\u017Eav\xEDk"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=psbZKP4AAAAJ
   year: ''
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
@@ -193,7 +189,7 @@
   links:
     web: https://www.math.sk/mesiar/
   name: Radko Mesiar
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=_kXpl5YAAAAJ&amp;hl=en
   year: '1951'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -218,7 +214,7 @@
     web: http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=buzek
     "\u017Eivotopis": https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf
   name: "Vladim\xEDr Bu\u017Eek"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=m2hSZWQAAAAJ&amp;hl=en
   year: '1957'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -246,7 +242,7 @@
     web: http://www.dnp.fmph.uniba.sk/people.php
     "\u017Eivotopis": https://drive.google.com/file/d/1blN4ByXStaQ2gcbCpD7J7Ra0uTVTZio8/view?usp=sharing
   name: "Fedor \u0160imkovic"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=aC__pxUAAAAJ&amp;hl=en&amp;oi=ao
   year: '1959'
 - affiliation: "n\xE1rodn\xE1 v\xFDskumn\xE1 rada"
@@ -262,7 +258,7 @@
     web: https://nrc.canada.ca/en/stories/drs-pavel-cheben-laura-ferrarese-inducted-royal-society-canada
     "\u017Eivotopis": https://drive.google.com/file/d/1uc5JzZPAZjk8NoGP0xPp_eEs1lv1gGcn/view?usp=sharing
   name: Pavel Cheben
-  possition: principal research officer
+  position: principal research officer
   scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ&amp;hl=sk&amp;oi=ao
   year: '1967'
 - affiliation: "Palack\xE9ho univerzia, Olomouc"
@@ -288,7 +284,7 @@
     "\u017Eivotopis": "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160\
       amaj.pdf"
   name: "Jozef \u0160amaj"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
   year: '1964'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -305,7 +301,7 @@
     web: http://www.chem.sk/people/bielypeter/
     "\u017Eivotopis": "https://www.learned.sk/wp-content/uploads/2020/03/\u017Divotopis-Peter-Biely.pdf"
   name: Peter Biely
-  possition: "v\xFDskumn\xFD pracovn\xEDk"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
   year: '1941'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -319,7 +315,7 @@
   links:
     web: http://davinci.fmph.uniba.sk/~cerny1/
   name: "Vladim\xEDr \u010Cern\xFD"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=m-twF5IAAAAJ
   year: '1952'
 - affiliation: Univerzita v Missouri, Columbia
@@ -336,7 +332,7 @@
     "\u017Eivotopis": https://cafnrfaculty.missouri.edu/sutovskylab/cv-peter-sutovsky/
     "\u017Eivotopis2": https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf
   name: "Peter \u0160utovsk\xFD"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp;hl=en
   year: '1967'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -351,7 +347,7 @@
     ResearchGate: https://www.researchgate.net/profile/Pavel_Povinec
     "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/ovv/2014/141112_Profesorska_prednaska_o_Fukusime-CV_Povinec.pdf
   name: PAVEL POVINEC
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
   year: '1942'
 - affiliation: "Univerzita v Britskej Kolumbii, Britsk\xE1 Kolumbia"
@@ -375,7 +371,7 @@
   links:
     web: https://phas.ubc.ca/~franz/
   name: Marcel Franz
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=qOmkOIAAAAAJ&amp;hl=en
   year: ''
 - affiliation: IST Austria, Klosterneuburg
@@ -400,7 +396,7 @@
     web: https://ist.ac.at/en/research/benkova-group/#career
     "\u017Eivotopis": https://ist.ac.at/wp-content/uploads/2019/11/CV_Benkova.pdf
   name: "Eva Benkov\xE1"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=3knjVQkAAAAJ
   year: '1969'
 - affiliation: "Trnavsk\xE1 univerzita, Trnava"
@@ -426,7 +422,7 @@
     ResearchGate: https://www.researchgate.net/profile/Marek-Majdan-3
     orcid: https://orcid.org/0000-0001-8037-742X
   name: Marek Majdan
-  possition: docent
+  position: docent
   scholar: https://scholar.google.sk/citations?user=xwG1s8YAAAAJ&amp;hl=sk&amp;oi=sra
   year: ''
 - affiliation: "Lek\xE1rska univerzita vo Viedni, Viede\u0148"
@@ -443,7 +439,7 @@
     web: https://www.meduniwien.ac.at/hp/sfb-mpn/projects/project-02-somatic-aberration-networks-in-mpn/principal-investigator/
     wikipedia: https://en.wikipedia.org/wiki/Robert_Kralovics
   name: "R\xF3bert Kr\xE1lovics"
-  possition: "v\xFDskumn\xFD pracovn\xEDk"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=-oTaCR8AAAAJ&amp;hl=en
   year: '1970'
 - affiliation: Monashova univerzita, Melbourne
@@ -462,7 +458,7 @@
     web: https://www.monash.edu/medicine/scs/researchers/barbora-de-courten
     web2: https://research.monash.edu/en/persons/barbora-de-courten
   name: Barbora
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
   year: "Voz\xE1rov\xE1"
 - affiliation: Univerzita v Regensburgu
@@ -487,7 +483,7 @@
     web: http://www.physik.uni-regensburg.de/forschung/fabian/
     "\u017Eivotopis": http://www.physik.uni-regensburg.de/forschung/fabian/pages/mainframes/people/JaroslavFabian/resume.pdf
   name: "Jaroslav Fabi\xE1n"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.de/citations?user=bNu69CcAAAAJ&amp;hl=en
   year: '1967'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -511,7 +507,7 @@
   links:
     "\u017Eivotopis": https://www.osobnosti.sk/osobnost/vladimir-sladek-591
   name: "Vladim\xEDr Sl\xC1DEK"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=Z8DDt0kAAAAJ&amp;hl=en
   year: '1954'
 - affiliation: RWTH  Aachen
@@ -536,7 +532,7 @@
     web: https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/
     "\u017Eivotopis": http://www.imbm.sk/wp-content/uploads/2018/01/cv-english-pb.pdf
   name: PETER BOOR
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
   year: '1979'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -551,7 +547,7 @@
     osobnosti: https://www.osobnosti.sk/osobnost/jan-sladek-590
     "\u017Eivotopis": https://www.ae-info.org/ae/Member/Sladek_Jan
   name: "J\xE1N Sl\xC1DEK"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=EuDw2JcAAAAJ&amp;hl=en
   year: '1952'
 - affiliation: "Lek\xE1rska fakulta, Univerzita Komensk\xE9ho"
@@ -577,7 +573,7 @@
     publons: https://publons.com/researcher/2304958/alexandra-brazinova
     "\u017Eivotopis": https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
   name: "Alexandra Bra\u017Einov\xE1"
-  possition: docentka
+  position: docentka
   scholar: https://scholar.google.com/citations?view_op=list_works&amp;hl=sk&amp;user=_tpva74AAAAJ&amp;gmla=AJsN-F4enZVXEbSLey5sIxs2iYX1b7cqmKalMsteEbPCoYJYJxTGQ_Zt-LvTIN2kkDL4gvas8IzPL_-d-a2pm35LzuGeTzsZ-_QtrpIO0EjpojuHFcUXAHqhiyBxqm1VoP8CFAzsgdRpPW7w8bg5bGlASKOHjuCzhA&amp;fbclid=IwAR3a7AhdjAeyLhXviBDKjED2xYkm112lWx5VvKswNvukEuxNdsJdW37SfLg
   year: '1971'
 - affiliation: "Technick\xE1 univerzita v Delfte, Delft"
@@ -602,7 +598,7 @@
     ResearchGate: https://www.researchgate.net/profile/Miro_Zeman
     web: https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/photovoltaic-materials-and-devices/staff/miro-zeman/
   name: Miro Zeman
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YP4gwRsAAAAJ
   year: '1957'
 - affiliation: Lunenfeld Tanenbaum Research Institute, Nemocnica Mount Sinai a Univerzita
@@ -619,7 +615,7 @@
     publons: https://publons.com/researcher/2649349/andrea-jurisicova/
     web: http://www.lunenfeld.ca/?page=jurisicova-andrea
   name: "Andrea Juri\u0161icov\xE1"
-  possition: "v\xFDskumn\xE1 pracovn\xED\u010Dka a docentka"
+  position: "v\xFDskumn\xE1 pracovn\xED\u010Dka a docentka"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=JPCdl08AAAAJ
   year: ''
 - affiliation: George Mason University
@@ -644,7 +640,7 @@
     web: https://cs.gmu.edu/~kosecka/
     wikipedia: "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
   name: "JANA KO\u0160ECK\xC1"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
   year: ''
 - affiliation: "Technick\xE1 univerzita v Delfte, Delft"
@@ -669,7 +665,7 @@
     web: https://www.tudelft.nl/staff/p.bauer/?cHash=96dc8f6d55c5ea75995f7e9d5b68a50d
     "\u017Eivotopis": https://www.tudelft.nl/en/staff/p.bauer/
   name: Pavol Bauer
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp;hl=en
   year: ''
 - affiliation: Univerzita vo Washingtone
@@ -694,7 +690,7 @@
     web: https://homes.cs.washington.edu/~bodik/
     "\u017Eivotopis": https://homes.cs.washington.edu/~bodik/cv.pdf
   name: "Rastislav Bod\xEDk"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
   year: '1968'
 - affiliation: Univerzita Simona Frasera, Burnaby
@@ -709,7 +705,7 @@
     web: https://www2.cs.sfu.ca/~pavol/
     wikipedia: https://en.wikipedia.org/wiki/Pavol_Hell
   name: PAvol Hell
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=8KDwlbEAAAAJ
   year: '1946'
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
@@ -730,7 +726,7 @@
     web: https://mbucas.cz/en/research/microbiology/laboratory-of-molecular-biology-of-bacterial-pathogens/
     "\u017Eivotopis": https://independent.academia.edu/PeterSebo/CurriculumVitae
   name: Peter u0161ebo
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp;hl=en
   year: 1960
 - affiliation: Universita v Kalifornii, San Diego
@@ -745,7 +741,7 @@
     ResearchGate: https://www.researchgate.net/profile/Martin_Marsala
     web: http://www.marsala-lab.com/team/
   name: "Martin Mar\u0161ala"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
   year: ''
 - affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
@@ -760,7 +756,7 @@
     web: https://physics.sciences.ncsu.edu/people/lmitas/
     "\u017Eivotopis": http://altair.physics.ncsu.edu/cv.html
   name: "Lubo\u0161 Mit\xE1\u0161"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
   year: ''
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita, Nitra"
@@ -786,7 +782,7 @@
     web: https://is.uniag.sk/lide/clovek.pl?id=1426
     "\u017Eivotopis": https://uniag.academia.edu/MarianBrestic/CurriculumVitae
   name: "mari\xE1n bresti\u010D"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=9LXjvp8AAAAJ&amp;hl=en&amp;oi=sra
   year: '1959'
 - affiliation: "\u010CVUT, Praha"
@@ -801,7 +797,7 @@
     orcid: https://orcid.org/0000-0002-5569-1254
     web: https://www.meltingpotforum.com/cs/archiv/recnici-2019/katarina-krizkova-gajdosova-svk-cze
   name: "Katar\xEDna K\u0159\xED\u017Ekov\xE1 Gajdo\u0161ov\xE1"
-  possition: "vedeck\xE1 pracovn\xED\u010Dka"
+  position: "vedeck\xE1 pracovn\xED\u010Dka"
   scholar: https://scholar.google.com/citations?user=n1zAfusAAAAJ&amp;hl=en
   year: ''
 - affiliation: KAUST, Thuwal
@@ -827,7 +823,7 @@
     web: https://richtarik.org
     "\u017Eivotopis": https://richtarik.org/docs/richtarik-cv-2021-03.pdf
   name: "peter richt\xC1rik"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp;hl=en
   year: ''
 - affiliation: Univerzita v Adelaide, Adelaide
@@ -853,7 +849,7 @@
     orcid: https://orcid.org/0000-0002-3545-0605
     web: https://www.adelaide.edu.au/directory/maria.hrmova
   name: "M\xE1ria Hrmov\xE1"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.sk/citations?user=Hvt2QdYAAAAJ&amp;hl=en
   year: ''
 - affiliation: Univerzita v Zurichu, Zurich
@@ -880,7 +876,7 @@
     web: https://www.to2.uzh.ch/en/aboutus/researchgroups/groupwengerborsig/luborborsig.html
     web2: https://www.physiol.uzh.ch/en/research/institutegroups/grborsig/membersgrborsig.html
   name: Lubor Borsig
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=XOPkMEAAAAAJ
   year: ''
 - affiliation: "Lek\xE1rska univerzita vo Viedni, Viede\u0148"
@@ -905,7 +901,7 @@
     ResearchGate: https://www.researchgate.net/profile/Martin_Krssak2
     web: https://www.meduniwien.ac.at/hp/programs-endocrinology/supervisors-topics/krssak-martin/
   name: "Martin Kr\u0161\u0161\xE1k"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ynt9VvUAAAAJ
   year: ''
 - affiliation: U niverzita v Louisville, Louisville
@@ -921,7 +917,7 @@
     loop: https://loop.frontiersin.org/people/118500/overview
     web: https://uoflphysicians.com/provider/peter-hedera/
   name: Peter Hedera
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?user=QB0X-6sAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -945,7 +941,7 @@
   links:
     web: https://fns.uniba.sk/pracoviska/environmentalna-sekcia/kee/zamestnanci/pavol-prokop/
   name: pavol prokop
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=q6uGy_4AAAAJ&amp;hl=sk
   year: ''
 - affiliation: Univerzita sv. Cyrila a Metoda v Trnave, Trnava
@@ -971,7 +967,7 @@
     web: https://www.ucm.sk/sk/rektor/
     "\u017Eivotopis": https://www.stuba.sk/new/docs//stu/uradna_tabula/2010volby/_boca.pdf
   name: "Roman Bo\u010Da"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=I5zYMOsAAAAJ&amp;hl=en
   year: '1950'
 - affiliation: Apple
@@ -995,7 +991,7 @@
   links:
     dblp: https://dblp.org/pid/18/963.html
   name: "Martin Pelik\xC1N"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=f59x6y4AAAAJ
   year: ''
 - affiliation: "\xDAstav polym\xE9rov, Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -1011,7 +1007,7 @@
     web: http://www.polymer.sav.sk/OKM
     "\u017Eivotopis": https://drive.google.com/file/d/1N08kDcSaK0QsIq5_lGpbp-D4Xp1e7xGO/view?usp=sharing
   name: "M\xE1ria Omastov\xE1"
-  possition: "vedeck\xE1 pracovn\xED\u010Dka"
+  position: "vedeck\xE1 pracovn\xED\u010Dka"
   scholar: https://scholar.google.sk/citations?user=8X3B8LAAAAAJ&amp;hl=en&amp;oi=ao
   year: '1962'
 - affiliation: "Oxfordsk\xE1 univerzita, Oxford"
@@ -1027,7 +1023,7 @@
     "wikip\xE9dia": https://sk.wikipedia.org/wiki/Philipp_Kukura
     "\u017Eivotopis": https://www.phys.uniroma1.it/fisica/sites/default/files/bandi/CV/CurrentCVKukura.pdf
   name: Philipp Kukura
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NgHGnt0AAAAJ
   year: '1978'
 - affiliation: Univerzita v Minnesote, Twin Cities
@@ -1044,7 +1040,7 @@
     "\u017Eivotopis": https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda
       v Centre 2011/Tkac- curriculum vitae 2011-02-14.pdf
   name: "Ivan Tk\xE1\u010D"
-  possition: "odborn\xFD asistent"
+  position: "odborn\xFD asistent"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=DNCCZHYAAAAJ
   year: '1954'
 - affiliation: "Viedensk\xE1 technick\xE1 univerzita, Viede\u0148"
@@ -1060,7 +1056,7 @@
     orcid: https://orcid.org/0000-0002-1177-5181
     web: https://www.waterresources.at/index.php?id=113
   name: Juraj Parajka
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=EI8VHcMAAAAJ
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava, Slovensko a Karlova univerzita,\
@@ -1076,7 +1072,7 @@
     publons: https://publons.com/researcher/1220455/karol-marhold/
     web: https://ibot.sav.sk/usr/Karol/
   name: Karol Marhold
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=uA0tObYAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Edinburgsk\xE1 univerzita, Edinburg"
@@ -1091,7 +1087,7 @@
     ResearchGate: https://www.researchgate.net/profile/Dusan-Uhrin
     web: https://uhringroup.wixsite.com/nmrgroup
   name: "Du\u0161an Uhr\xEDn"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=BSx7_CEAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -1108,7 +1104,7 @@
     "\u017Eivotopis": "https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda\
       \ v Centre Ba 2013/CV_Ing_J\xE1n Tk\xE1\u010D_DrSc.pdf"
   name: "J\xE1n Tk\xE1\u010D"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=jfkqa18AAAAJ&amp;hl=en
   year: '1972'
 - affiliation: Katarska  univerzita, Doha
@@ -1135,7 +1131,7 @@
     "\u017Eivotopis": https://cam.qu.edu.qa/static_file/qu/Faculty and Staff/images/Prof.
       Igor Krupa.pdf
   name: Igor Krupa
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=Pz7_cpAAAAAJ&amp;hl=en
   year: '1968'
 - affiliation: "Slovensk\xE1 zdravotn\xEDcka univerzita, Bratislava"
@@ -1162,7 +1158,7 @@
     ResearchGate: https://www.researchgate.net/profile/Tomas-Trnovec
     "\u010Dl\xE1nky": MISSING
   name: "Tom\xE1\u0161 Trnovec"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iQivvkcAAAAJ
   year: '1932'
 - affiliation: "Z\xE1pado\u010Desk\xE1 univerzita v Plzni, Plze\u0148"
@@ -1188,7 +1184,7 @@
     web: https://cedam.ntc.zcu.cz/cz/kontakt.html
     "\u017Eivotopis": https://drive.google.com/file/d/1-pg-_rFi7oDd62TJW8nJh7ffCWBr6y-M/view?usp=sharing
   name: "J\xE1n Min\xE1r"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=EZ8YetQAAAAJ&amp;hl=en
   year: '1975'
 - affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
@@ -1214,7 +1210,7 @@
     orcid: https://orcid.org/0000-0003-2993-3798
     web: https://www.upjs.sk/LF/zamestnanec/andrea.geckova/
   name: "Andrea Madarasov\xE1 Geckov\xE1"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=VbZM3zYAAAAJ
   year: '1972'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -1242,7 +1238,7 @@
     "\u017Eivotopis1": http://www.polymer.sav.sk/CVcka/cvlacik.pdf
     "\u017Eivotopis2": https://www.learned.sk/wp-content/uploads/2020/01/ZIVOTOPIS_Lacik_Europass-Jan-2020_pre-UcSS.pdf
   name: "Igor Lac\xEDk"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=SB6Z-ScAAAAJ&amp;hl=en
   year: '1962'
 - affiliation: "Lek\xE1rska univerzita vo Viedni, Viede\u0148"
@@ -1259,7 +1255,7 @@
     web: https://hfmr.meduniwien.ac.at/general-information/staff/mlynarik/?L=1
     "\u017Eivotopis": https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/Mlynarik_CV_webpage-1.pdf
   name: "Vladim\xEDr Mlyn\xE1rik"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=OYXbmu0AAAAJ
   year: '1951'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -1275,7 +1271,7 @@
     web: http://cem.sav.sk/index.php/en/cem/
     "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Pechanova/H13_RNDr._Pechanova_-_zivotopis.pdf
   name: "O\u013Ega Pech\xE1\u0148ov\xE1"
-  possition: docentka
+  position: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=1bNNlZUAAAAJ
   year: '1962'
 - affiliation: McMaster University
@@ -1291,7 +1287,7 @@
     web: https://cs.gmu.edu/~kosecka/https://experts.mcmaster.ca/display/rosa
     wikipedia: https://sk.wikipedia.org/wiki/Alexander_Rosa
   name: ALEXANDER ROSA
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=7lVA1vkAAAAJ&amp;hl=en&amp;oi=sra
   year: '1937'
 - affiliation: Univerzita Strathclyde, Glasgow
@@ -1317,7 +1313,7 @@
     web: http://personal.strath.ac.uk/ivan.glesk/
     web2: https://pureportal.strath.ac.uk/en/persons/ivan-glesk
   name: Ivan Glesk
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=2f6Yg78AAAAJ
   year: ''
 - affiliation: Masarykova  Univerzita, Brno
@@ -1343,7 +1339,7 @@
     orcid: https://orcid.org/0000-0003-4221-5774
     web: https://www.recetox.muni.cz/en/research/principal-investigators/dr-branislav-vrana
   name: Branislav Vrana
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?user=50d9fJAAAAAJ&amp;hl=sk
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -1369,7 +1365,7 @@
     web: http://www.chem.sk/people/gemeinerpeter/
     "\u017Eivotopis": https://prabook.com/web/peter.gemeiner/337833
   name: Peter Gemeiner
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
   year: '1946'
 - affiliation: "vedeck\xFD pracovn\xEDk, Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -1394,7 +1390,7 @@
     web: http://imb.savba.sk/~janecek/
     "\u017Eivotopis": https://fpv-kbio.webnode.sk/stefan-janecek/
   name: "\u0160tefan Jane\u010Dek"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.sk/citations?user=_l2tp6kAAAAJ&amp;hl=en
   year: ''
 - affiliation: Univerzita Simona Frasera, Surrey
@@ -1418,7 +1414,7 @@
   links:
     web: https://www.sfu.ca/siat/people/research-faculty/marek-hatala.html
   name: marEK HATALA
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ApdHT0UAAAAJ
   year: ''
 - affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
@@ -1444,7 +1440,7 @@
     web: https://meas.sciences.ncsu.edu/people/hmitaso/
     "\u017Eivotopis": https://meas.sciences.ncsu.edu/wp-content/uploads/sites/3/2015/08/Mitasova_CV2p_Dec2020.pdf
   name: "Helena Mit\xE1\u0161ov\xE1"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.com/citations?user=TIVMwT4AAAAJ
   year: ''
 - affiliation: "Oregonsk\xE1 \u0161t\xE1tna univerzita, Corvallis"
@@ -1459,7 +1455,7 @@
     ResearchGate: https://www.researchgate.net/profile/John_Nabelek
     web: https://ceoas.oregonstate.edu/people/john-nabelek
   name: "John Nabelek - J\xE1n Ludv\xEDk N\xE1b\u011Blek"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=G0MJo3UAAAAJ&amp;hl=en
   year: '1952'
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
@@ -1474,7 +1470,7 @@
     web: http://people.tuke.sk/ivo.petras/
     "\u017Eivotopis": https://www.uiam.sk/~fikar/drsc/petras/Navrh_VRSTU.pdf
   name: "ivo petr\xE1\u0160"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=01msi28AAAAJ&amp;hl=en
   year: '1973'
 - affiliation: "Hannoversk\xE1 lek\xE1rska univezita, Hannover"
@@ -1501,7 +1497,7 @@
     orcid: https://orcid.org/0000-0002-7762-4642
     web: https://www.neuroprostheses.com/AK/Main.html
   name: "Andrej Kr\xE1\u013E"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=y0Fdk30AAAAJ&amp;hl=en
   year: '1969'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -1525,7 +1521,7 @@
   links:
     web: http://neon.dpp.fmph.uniba.sk/workgroup/index.php?option=com_content&view=article&id=1&Itemid=101
   name: "\u0160TEFAN MATEJ\u010C\xCDK"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?hl=cs&amp;user=Bvdw6vIAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -1550,7 +1546,7 @@
     web: https://www.imbm.sk/sk/members/peter-celec-sk/
     "\u017Eivotopis": http://www.imbm.sk/wp-content/uploads/2017/03/cv_peter-celec-short-en.pdf
   name: peter celec
-  possition: docent
+  position: docent
   scholar: https://scholar.google.sk/citations?user=iPch8vQAAAAJ&amp;hl=en
   year: '1979'
 - affiliation: "Arizonsk\xE1 univerzita, Tucson"
@@ -1574,7 +1570,7 @@
   links:
     web: http://acms.arizona.edu/FemtoTheory/MK_personal/index.html
   name: "Miroslav Koles\xEDk"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=1tCBM2kAAAAJ
   year: ''
 - affiliation: Univerzita v Birminghame, Birmingham
@@ -1599,7 +1595,7 @@
     web: https://www.cs.bham.ac.uk/~pxt/
     "\u017Eivotopis": https://www.cs.bham.ac.uk/~pxt/cv_pt.pdf
   name: "Peter Ti\u0148o"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=jntY1osAAAAJ&amp;hl=sk
   year: ''
 - affiliation: "N\xE1rodn\xFD in\u0161tit\xFAt zdravia, Bethesda"
@@ -1628,7 +1624,7 @@
     web: https://www.niaid.nih.gov/research/bibi-bielekova-md
     "\u017Eivotopis": https://demystifyingmedicine.od.nih.gov/dm11/biosketch/dm0301-bielekova-bibiana.pdf
   name: "Bibiana Bielekov\xE1"
-  possition: "vedeck\xE1 pracovn\xED\u010Dka"
+  position: "vedeck\xE1 pracovn\xED\u010Dka"
   scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
   year: '1969'
 - affiliation: Dubna
@@ -1654,7 +1650,7 @@
     web: http://www.norbbi.com
     "\u017Eivotopis": http://www.norbbi.com/curriculum/curriculum.html
   name: "Norbert Ku\u010CERKA"
-  possition: Joint Institute for Nuclear Research
+  position: Joint Institute for Nuclear Research
   scholar: https://scholar.google.com/citations?user=W9ls60kAAAAJ
   year: ''
 - affiliation: "Univerzita  Palack\xE9ho, Olomouc"
@@ -1681,7 +1677,7 @@
     orcid: https://orcid.org/0000-0002-5775-6269
     web: http://www.tomasgrim.com
   name: "TOM\xC1\u0160 Grim"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=T0MNJGgAAAAJ
   year: '1973'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -1706,7 +1702,7 @@
     publons: https://publons.com/researcher/1378264/tomas-bucko/
     web: https://fns.uniba.sk/en/departments/chemistry/department-of-physical-and-theoretical-chemistry/people/central-database-of-staff/?tx_unibausers_pi1[person]=bucko19
   name: "TOM\xC1\u0160 BU\u010CKO"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.de/citations?user=wsJN2SMAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -1732,7 +1728,7 @@
     "wikip\xE9dia": https://sk.wikipedia.org/wiki/Jozef_Masarik
     "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/ovv/2018/181031_Volby-JozefMasarikZivotopis.pdf
   name: jozef masarik
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=DkqU0V4AAAAJ&amp;hl=th
   year: '1959'
 - affiliation: Abu Dhabi
@@ -1757,7 +1753,7 @@
     ResearchGate: https://www.researchgate.net/profile/Igor-Kozak/5
     web: https://moorfields.ae/medical-team/ophthalmologists/dr-igor-kozak/
   name: "Igor Koz\xE1k"
-  possition: Moorfields Eye Hospital Centre
+  position: Moorfields Eye Hospital Centre
   scholar: https://scholar.google.com/citations?hl=en&amp;user=uQGtqxoAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -1781,7 +1777,7 @@
   links:
     web: https://uniba.sk/ludia/hianik1/
   name: Tibor hianik
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=FNfPewQAAAAJ&amp;hl=en
   year: ''
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
@@ -1808,7 +1804,7 @@
     publons: https://publons.com/researcher/2698944/milan-palus
     web: http://www.cs.cas.cz/mp/
   name: "Milan Palu\u0161"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
   year: '1963'
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita, Nitra"
@@ -1832,7 +1828,7 @@
   links:
     web: https://is.uniag.sk/lide/clovek.pl?id=1211;zalozka=3;lang=en
   name: "MarEK \u017Div\u010D\xE1k"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.sk/citations?user=fbrMtJsAAAAJ&amp;hl=sk
   year: ''
 - affiliation: "Univerzita Kon\u0161tant\xEDna Filozofa, Nitra"
@@ -1858,7 +1854,7 @@
     publons: https://publons.com/researcher/2009031/alexander-v-sirotkin/
     "\u017Eivotopis": https://portal.ukf.sk/kvalita/upload/inauguracie/5/1428071166_1440_551ea2fe525e0_zivotopis_asirotkin.pdf
   name: Alexander V. Sirotkin
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=hVqCXAcAAAAJ
   year: '1954'
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
@@ -1885,7 +1881,7 @@
     publons: https://publons.com/researcher/2691427/igor-podlubny/
     web: http://people.tuke.sk/igor.podlubny/index.html
   name: "Igor Podlubn\xDD"
-  possition: profesor
+  position: profesor
   scholar: http://scholar.google.com/citations?user=4H2CInEAAAAJ
   year: '1961'
 - affiliation: "ETH Z \xFC rich, Z \xFC rich"
@@ -1904,7 +1900,7 @@
     web: https://inf.ethz.ch/people/person-detail.hromkovic.html
     "wikip\xE9dia": "https://en.wikipedia.org/wiki/Juraj_Hromkovi\u010D"
   name: "Juraj Hromkovi\u010D"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=xG2VV1UAAAAJ&amp;hl=de
   year: '1958'
 - affiliation: "ETH Z\xFCrich, Z\xFCrich"
@@ -1920,7 +1916,7 @@
     orcid: https://orcid.org/0000-0001-6437-4931
     web: https://hyd.ifu.ethz.ch/the-group/people/person-detail.html?persid=100330
   name: "Peter Moln\xE1r"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
   year: '1982'
 - affiliation: Univerzita v Missouri, Columbia
@@ -1937,7 +1933,7 @@
     web2: http://faculty.missouri.edu/nabelekp/Welcome.html
     "\u017Eivotopis": https://geology.missouri.edu/sites/default/files/people-files/2019-09/nabelek_cv.pdf
   name: Peter I. Nabelek
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=bIXqQ6oAAAAJ&amp;hl=en
   year: '1955'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -1962,7 +1958,7 @@
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=5352
     "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20191219104536_138_zivotopis.pdf
   name: Andrej Liptaj
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=cwsmFUUAAAAJ&amp;hl=sk
   year: '1980'
 - affiliation: "Univerzita pr\xEDrodn\xFDch zdrojov a vied, Viede\u0148"
@@ -1979,7 +1975,7 @@
     web: https://forschung.boku.ac.at/fis/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=5610
     "\u017Eivotopis": http://202.113.8.3/oneschool/Upload/activity/201605/627386.pdf
   name: Daniel Tunega
-  possition: docent
+  position: docent
   scholar: https://scholar.google.sk/citations?user=6XPvlE8AAAAJ&amp;hl=en
   year: '1961'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -1995,7 +1991,7 @@
     "wikip\xE9dia": https://sk.wikipedia.org/wiki/Peter_Moczo
     "\u017Eivotopis": https://vedanadosah.cvtisr.sk/prof-peter-moczo-sme-radi-ze-sme-sucastou-spickoveho-vyskumu
   name: PETER MOCZO
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=OF5iXJQAAAAJ&amp;hl=sk
   year: '1956'
 - affiliation: Univerzita sv. Cyrila a Metoda v Trnave, Trnava
@@ -2013,7 +2009,7 @@
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=5352
     "\u017Eivotopis": https://www.icarst.org/prof-s-miertus/
   name: "Stanislav Miertu\u0161"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=MhwlHXIAAAAJ
   year: '1948'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -2037,7 +2033,7 @@
   links:
     web: http://www.chem.sk/people/tvaroskaigor/
   name: "IGOR TVARO\u0160KA"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=v71jEjAAAAAJ
   year: ''
 - affiliation: "Univerzita v Melbourne a Kr\xE1\u013Eovsk\xE1 nemocnica v Melbourne,\
@@ -2065,7 +2061,7 @@
     web: https://core.melbourne
     web2: https://findanexpert.unimelb.edu.au/profile/458758-tomas-kalincik
   name: "Tom\xE1\u0161 Kalin\u010D\xEDk"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=uoit0TEAAAAJ
   year: '1982'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -2089,7 +2085,7 @@
   links:
     ResearchGate: https://www.researchgate.net/profile/Iveta_Bernatova/2
   name: "Iveta Bern\xE1tov\xE1"
-  possition: "vedeck\xE1 pracovn\xED\u010Dka"
+  position: "vedeck\xE1 pracovn\xED\u010Dka"
   scholar: https://scholar.google.sk/citations?user=S9nvaAkAAAAJ&amp;hl=sk
   year: ''
 - affiliation: "Viede\u0148sk\xE1 univerzita, Viede\u0148"
@@ -2116,7 +2112,7 @@
     web: https://ufind.univie.ac.at/en/person.html?id=46790
     "\u017Eivotopis": https://iea.u-cergy.fr/en/invited-researchers-cv/fellows-in-residence-2019-2020/viera-skakalova.html
   name: "Viera Sk\xE1kalov\xE1"
-  possition: "vedeck\xE1 pracovn\xED\u010Dka"
+  position: "vedeck\xE1 pracovn\xED\u010Dka"
   scholar: https://scholar.google.com/citations?user=3PIAo10AAAAJ&amp;hl=en
   year: ''
 - affiliation: Univerzita Strathclyde, Glasgow
@@ -2144,7 +2140,7 @@
     web: https://www.strath.ac.uk/staff/sefcikjanprof/
     web2: https://pureportal.strath.ac.uk/en/persons/jan-sefcik
   name: "J\xE1n \u0160ef\u010D\xEDk"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5akXP_8AAAAJ
   year: ''
 - affiliation: "Eur\xF3pska komisia, Sevilla"
@@ -2171,7 +2167,7 @@
     orcid: https://orcid.org/0000-0003-2405-5850
     web: http://ciaian.szm.sk/
   name: Pavel Ciaian
-  possition: "v\xFDskumn\xFD pracovn\xEDk"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=s_AVnN0AAAAJ
   year: ''
 - affiliation: "Univerzitn\xE9 lek\xE1rske centrum, Utrecht"
@@ -2186,7 +2182,7 @@
     ResearchGate: https://www.researchgate.net/profile/Michal_Mokry
     web: https://www.umcutrecht.nl/en/research/researchers/mokry-michal-m
   name: "Michal Mokr\xFD"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=rX7GiUAAAAAJ
   year: '1982'
 - affiliation: "Fyzik\xE1lny in\u0161tit\xFAt, \u010Cesk\xE1 akad\xE9mia vied"
@@ -2203,7 +2199,7 @@
     web: https://www.fzu.cz/~kromka/
     "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
   name: Alexander Kromka
-  possition: docent
+  position: docent
   scholar: https://scholar.google.cz/citations?user=3S5wnV8AAAAJ&amp;hl=cs
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -2217,7 +2213,7 @@
   links:
     web: https://fns.uniba.sk/kontakt/zamestnanci-prif-uk/?tx_unibausers_pi1[person]=zeman1
   name: MICHAL ZEMAN
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=dWhSd2wAAAAJ&amp;hl=en&amp;oi=sra
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -2231,7 +2227,7 @@
   links:
     "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
   name: Michal Mego
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=NvHY0EcAAAAJ&amp;hl=en&amp;oi=ao
   year: '1977'
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
@@ -2256,7 +2252,7 @@
     ResearchGate: https://www.researchgate.net/profile/Juraj-Harmatha/10
     orcid: https://orcid.org/0000-0003-4385-0841
   name: Juraj Harmatha
-  possition: "emeritn\xFD vedeck\xFD pracovn\xEDk"
+  position: "emeritn\xFD vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=AZDDb3gAAAAJ&amp;hl=en
   year: ''
 - affiliation: Univerzita v Indiane, Bloomington
@@ -2281,7 +2277,7 @@
     web: https://physics.indiana.edu/about/directory/all-faculty-scientists/dermisek-radovan.html
     "\u017Eivotopis": https://dermisek.pages.iu.edu/dermisek_CV.pdf
   name: "Radovan Derm\xED\u0161ek"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ell1TQQAAAAJ
   year: ''
 - affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
@@ -2305,7 +2301,7 @@
   links:
     web: https://mc3.sk/autor/iveta-nagyova/
   name: "Iveta Nagyov\xE1"
-  possition: "vedeck\xE1 v\xFDskumn\xED\u010Dka"
+  position: "vedeck\xE1 v\xFDskumn\xED\u010Dka"
   scholar: https://scholar.google.com/citations?user=A2l-bV8AAAAJ&amp;hl=en
   year: ''
 - affiliation: Bratislava
@@ -2329,7 +2325,7 @@
   links:
     "\u017Eivotopis": https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
   name: "MilAn S\xFDkora"
-  possition: "Univerzita Komensk\xE9ho"
+  position: "Univerzita Komensk\xE9ho"
   scholar: https://scholar.google.com/citations?user=fxBzWQcAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
@@ -2354,7 +2350,7 @@
     loop: https://loop.frontiersin.org/people/127211/overview
     web: http://edisk.cvt.stuba.sk/~valkom/Homepage.html
   name: "Mari\xE1n Valko"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=Csnoq7QAAAAJ&amp;hl=en
   year: ''
 - affiliation: Zeppelinova univerzita, Friedrichshafen
@@ -2371,7 +2367,7 @@
     web: https://www.zeppelin-university.com/chairs/international-economics/index.php
     "\u017Eivotopis": https://henuecon.education/images/CV-Fidrmuc.pdf
   name: Jarko Fidrmuc
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=wOi5anQAAAAJ
   year: '1968'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Ko\u0161ice"
@@ -2385,7 +2381,7 @@
   links:
     web: https://promatech.sk
   name: "J\xE1n Dusza"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=FMHHfNAAAAAJ&amp;hl=en
   year: '1952'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -2400,7 +2396,7 @@
     web: https://www.imbm.sk/members/katarina-sebekova/
     "\u017Eivotopis": http://www.imbm.sk/wp-content/uploads/2017/03/cv-ks-3.pdf
   name: "Katar\xEDna \u0160ebekov\xE1"
-  possition: docentka
+  position: docentka
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=jsJC9WgAAAAJ
   year: '1955'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -2425,7 +2421,7 @@
     web: http://antalic.dnp.fmph.uniba.sk/index.php
     "\u017Eivotopis": http://antalic.dnp.fmph.uniba.sk/cv.php
   name: "Stanislav Antali\u010C"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?user=h08MR_wAAAAJ&amp;hl=en
   year: ''
 - affiliation: "National High Magnetic Field Laboratory &amp  \u0160t\xE1tna univerzita\
@@ -2453,7 +2449,7 @@
     web2: https://fs.magnet.fsu.edu/~vafek/
     "\u017Eivotopis": https://fs.magnet.fsu.edu/~vafek/cv2015 Apr.pdf
   name: Oskar Vafek
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=-toxVLsAAAAJ&amp;hl=en
   year: ''
 - affiliation: Univerzita v New South Wales, Sydney
@@ -2478,7 +2474,7 @@
     orcid: https://orcid.org/0000-0002-4863-3419
     web: https://s324741.wixsite.com/bhredzak
   name: "Branislav Hredz\xE1k"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=LSvxvEIAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -2502,7 +2498,7 @@
   links:
     web: http://www.iam.fmph.uniba.sk/institute/fila/
   name: MAREK FILA
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ&amp;hl=en
   year: '1959'
 - affiliation: "Univerzita v Pennsylv\xE1nii, Filadelfia"
@@ -2528,7 +2524,7 @@
     orcid: https://orcid.org/0000-0003-1990-3077
     web: https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
   name: "\u013Dubica Rauov\xE1"
-  possition: docentka
+  position: docentka
   scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
   year: ''
 - affiliation: Univerzita Karlova, Praha
@@ -2544,7 +2540,7 @@
     web: https://sites.google.com/view/horvath/
     "\u017Eivotopis": http://ies.fsv.cuni.cz/en/staff/horvath
   name: "Roman Horv\xE1th"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=QCr9FugAAAAJ
   year: '1978'
 - affiliation: Univerzita v Pittsburghu, Pittsburgh
@@ -2559,7 +2555,7 @@
     web: http://people.cs.pitt.edu/~milos/
     "\u017Eivotopis": http://people.cs.pitt.edu/~milos/CV.pdf
   name: "Milo\u0161 hauskrecht"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Slovesk\xE1 akad\xE9mia vied, Ko\u0161ice"
@@ -2585,7 +2581,7 @@
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=2393
     "\u017Eivotopis": https://www.osobnosti.sk/osobnost/milan-timko-846
   name: Milan Timko
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=ckojWlAAAAAJ
   year: '1954'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -2611,7 +2607,7 @@
     web: https://www.mat.savba.sk/~feckan/
     "\u017Eivotopis": https://www.mat.savba.sk/~feckan/#_toc16
   name: "Michal Fe\u010CKAN"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
   year: '1960'
 - affiliation: Univerzita v Katare, Doha
@@ -2636,7 +2632,7 @@
     web: http://www.qu.edu.qa/research/CAM/about-us/staff
     "\u017Eivotopis": http://www.qu.edu.qa/static_file/qu/Faculty and Staff/images/resume_1464862560.pdf
   name: "Peter Kas\xE1k"
-  possition: "technick\xFD mana\u017E\xE9r"
+  position: "technick\xFD mana\u017E\xE9r"
   scholar: https://scholar.google.sk/citations?user=9uNi5IMAAAAJ&amp;hl=en
   year: ''
 - affiliation: Bratislava
@@ -2660,7 +2656,7 @@
   links:
     web: https://eccr.org/dr-ludovit-paulis/
   name: "\u013Dudov\xEDt Paulis"
-  possition: "Univerzita Komensk\xE9ho"
+  position: "Univerzita Komensk\xE9ho"
   scholar: https://scholar.google.sk/citations?user=eBoisLQAAAAJ&amp;hl=sk&amp;oi=ao
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Ko\u0161ice"
@@ -2686,7 +2682,7 @@
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=4000
     "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20160108133831_137_2015_PK_Vedeckyzivotopis_ENG.pdf
   name: "Peter Kop\u010Dansk\xFD"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.co.il/citations?user=ZCMAk9sAAAAJ
   year: '1955'
 - affiliation: Microsoft Research, Redmont
@@ -2711,7 +2707,7 @@
     dblp: https://dblp.org/pid/30/2146.html
     web: https://www.microsoft.com/en-us/research/people/mdudik/
   name: "Miroslav Dud\xEDk"
-  possition: "vedeck\xFD pracovn\xEDk (Sr principal researcher)"
+  position: "vedeck\xFD pracovn\xEDk (Sr principal researcher)"
   scholar: https://scholar.google.sk/citations?user=wYMTld8AAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -2736,7 +2732,7 @@
     orcid: https://orcid.org/0000-0002-4013-9117
     web: https://dep.fmph.uniba.sk/cv-rm/
   name: "ROman Marto\u0148\xC1k"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=FNaaPIwAAAAJ&amp;hl=en
   year: '1964'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -2761,7 +2757,7 @@
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9228
     "wikip\xE9dia": "https://sk.wikipedia.org/wiki/Pavol_\u0160ajgal\xEDk"
   name: "Pavol \u0160ajgal\xEDk"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?user=AULzHfIAAAAJ&amp;hl=en
   year: '1955'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -2776,7 +2772,7 @@
     web: http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=grajcar
     "\u017Eivotopis": https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9067&action=cv
   name: MIROSLAV GRAJCAR
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.co.in/citations?user=KPgJyEAAAAAJ&amp;hl=en
   year: '1966'
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
@@ -2790,7 +2786,7 @@
   links:
     web: http://www.math.sk/mikula/
   name: Karol Mikula
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=nM3oZ78AAAAJ&amp;hl=en&amp;oi=ao
   year: '1963'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -2805,7 +2801,7 @@
     ResearchGate: https://www.researchgate.net/profile/Tanya_Ravingerova
     "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20181126205307_445_CV_Ravingerova_15.11.2018.doc
   name: "Tanya Ravingerov\xE1"
-  possition: "vedeck\xE1 pracovn\xED\u010Dka"
+  position: "vedeck\xE1 pracovn\xED\u010Dka"
   scholar: https://scholar.google.com/citations?user=_fONjMIAAAAJ&amp;hl=en
   year: '1951'
 - affiliation: "Slovesk\xE1 akad\xE9mia vied, Bratislava"
@@ -2824,7 +2820,7 @@
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273
     "\u017Eivotopis": https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273&action=cv
   name: Jozef Ukropec
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=geK1ms0AAAAJ&amp;hl=en
   year: '1974'
 - affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
@@ -2838,7 +2834,7 @@
   links:
     web: https://www.upjs.sk/LF/zamestnanec/jan.mojzis/
   name: "J\xE1n Moj\u017Ei\u0161"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=TjtaxQ8AAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -2855,7 +2851,7 @@
     osobnosti: https://www.osobnosti.sk/osobnost/jan-lehotsky-1982
     web: https://www.jfmed.uniba.sk/pracoviska/vedecko-pedagogicke-pracoviska/teoreticke-ustavy/ustav-lekarskej-biochemie/zamestnanci-ustavu/prof-rndr-jan-lehotsky-drsc-zastupca-veduceho/
   name: "J\xE1n Lehotsk\xFD"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=rXl9hY0AAAAJ&amp;hl=sk&amp;oi=sra
   year: '1954'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -2871,7 +2867,7 @@
     orcid: https://orcid.org/0000-0002-7268-1584
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10368
   name: "Juraj Majt\xE1n"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=Wt7wd3QAAAAJ
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -2896,7 +2892,7 @@
     ResearchGate: https://www.researchgate.net/profile/Marian_Krajci
     "\u017Eivotopis": http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2056-marian-krajci
   name: "Mari\xE1n Kraj\u010D\xED"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=WawpXZIAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -2921,7 +2917,7 @@
     web: http://www.ondrias.sk
     "wikip\xE9dia": "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"
   name: "Karol Ondria\u0161"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
   year: '1952'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -2946,7 +2942,7 @@
     web: http://www.iam.fmph.uniba.sk/institute/quittner/
     "wikip\xE9dia": https://sk.wikipedia.org/wiki/Pavol_Quittner
   name: Pavol Quittner
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=QhrxwOcAAAAJ
   year: '1958'
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
@@ -2971,7 +2967,7 @@
     '30': https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
     web: http://people.tuke.sk/martin.baca/
   name: "Martin Ba\u010Da"
-  possition: 30 profesor
+  position: 30 profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
   year: ''
 - affiliation: "Havajsk\xE1 univerzita, Manoa"
@@ -2998,7 +2994,7 @@
     web: http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/
     "\u017Eivotopis": http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/files/CV_henrietta.pdf
   name: Henrietta Dulai
-  possition: docentka
+  position: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
   year: ''
 - affiliation: CSIRO, Brisbane
@@ -3027,7 +3023,7 @@
     web: https://sites.google.com/site/branislavkusy/
     "\u017Eivotopis": https://sites.google.com/site/branislavkusy/cv
   name: "Branislav Kus\xFD"
-  possition: "vedeck\xFD pracovn\xEDk (principal research scientist)"
+  position: "vedeck\xFD pracovn\xEDk (principal research scientist)"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=G9w7WT4AAAAJ
   year: ''
 - affiliation: "Slovesk\xE1 akad\xE9mia vied, Bratislava"
@@ -3055,7 +3051,7 @@
     osobnosti: https://www.osobnosti.sk/osobnost/imrich-barak-537
     web: http://imb.savba.sk/~barak/
   name: "Imrich Bar\xE1k"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
   year: '1961'
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
@@ -3081,7 +3077,7 @@
     ResearchGate: https://www.researchgate.net/profile/Milan-Certik
     prabook: https://prabook.com/web/milan.certik/335639
   name: "Milan \u010Cert\xEDk"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp;hl=sk
   year: '1962'
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -3105,7 +3101,7 @@
   links:
     web: http://www.nuquake.eu
   name: Jozef Kristek
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?user=CgbiV4EAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Palack\xE9ho univerzita, Olomouc"
@@ -3133,7 +3129,7 @@
     publons: https://publons.com/researcher/1372193/radovan-herchel/
     web: https://www.prf.upol.cz/nc/afc/kontakty/vizitka/empid/22158/
   name: Radovan Herchel
-  possition: docent
+  position: docent
   scholar: https://scholar.google.cz/citations?user=t_V_OnwAAAAJ&amp;hl=cs
   year: ''
 - affiliation: Google, Mountain View
@@ -3148,7 +3144,7 @@
     dblp: https://dblp.org/pid/92/5526.html
     web: http://www.bkveton.com
   name: "Branislav Kveto\u0148"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
   year: ''
 - affiliation: "Google, Z\xFCrich"
@@ -3164,7 +3160,7 @@
     web: https://research.google/people/author20/
     "\u017Eivotopis": http://martin.palenica.com/cv2.pdf
   name: "Martin P\xC1L"
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NDhlLv0AAAAJ
   year: ''
 - affiliation: Univerzita v Aalborgu, Aalborg
@@ -3180,7 +3176,7 @@
     dblp: https://dblp.org/pid/d/PeterDolog.html
     web: https://peterdolog.wordpress.com
   name: Peter Dolog
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?user=gCafUI0AAAAJ&amp;hl=en
   year: ''
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
@@ -3194,7 +3190,7 @@
   links:
     web: http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
   name: Sergej Hloch
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
   year: ''
 - affiliation: "Matematick\xFD in\u0161tit\xFAt, Slovensk\xE1 akad\xE9mia vied"
@@ -3212,7 +3208,7 @@
     publons: https://publons.com/researcher/4012335/anatolij-dvurecenskij/
     web: http://www.mat.savba.sk/~dvurecenskij/
   name: "Anatolij Dvure\u010Denskij"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC
   year: '1949'
 - affiliation: "Vysok\xE1 \u0161kola chemicko-technologick\xE1, Praha"
@@ -3241,7 +3237,7 @@
     web: http://labsoos.vscht.cz
     "\u017Eivotopis": http://www.biotech2017.cz/domains/biotech2017.cz/data/uploads/CV_MSoos.pdf
   name: "Miroslav \u0160o\xF3\u0161"
-  possition: docent
+  position: docent
   scholar: https://scholar.google.com/citations?user=5sAJJkgAAAAJ
   year: ''
 - affiliation: Univerzita v Chicagu, Chicago
@@ -3266,7 +3262,7 @@
     NBS: https://www.nbs.sk/en/about-the-bank/bank-board-of-the-nbs/the-bank-board-member-lubos-pastor
     web: https://faculty.chicagobooth.edu/lubos-pastor
   name: "\u013Eubo\u0161 P\xE1stor"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
   year: '1974'
 - affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
@@ -3293,7 +3289,7 @@
     orcid: https://orcid.org/0000-0002-9426-4247
     web: https://www.tuzvo.sk/en/ludia-na-tuzvo/792
   name: "Du\u0161an G\xF6m\xF6ry"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=RllC3asAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho, Bratislava"
@@ -3319,7 +3315,7 @@
     web: https://geopaleo.sk/plasienka-dusan/
     "\u017Eivotopis": https://geopaleo.sk/plasienka-dusan/plasienka-dusan-cv/
   name: "Du\u0161an Pla\u0161ienka"
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=JCOUk6EAAAAJ
   year: '1953'
 - affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
@@ -3343,7 +3339,7 @@
   links:
     web: http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
   name: Ladislav Paule
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
   year: ''
 - affiliation: KAUST, Thuwal
@@ -3371,7 +3367,7 @@
     web: https://cemse.kaust.edu.sa/nanovis
     "\u017Eivotopis": http://ii.uib.no/vis_old/team/viola/_pdfs/IvanViolaCV.pdf
   name: Ivan Viola
-  possition: profesor
+  position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ELMPg_gAAAAJ
   year: '1977'
 - affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
@@ -3385,7 +3381,7 @@
   links:
     web: https://ktfa.science.upjs.sk/people/martin-gmitra/
   name: Martin Gmitra
-  possition: "vedeck\xFD pracovn\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
@@ -3412,6 +3408,6 @@
     publons: https://publons.com/researcher/463170/lubica-lacinova/
     web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1384
   name: "\u013Dubica Lacinov\xE1"
-  possition: profesorka
+  position: profesorka
   scholar: https://scholar.google.com/citations?user=GLiFrtgAAAAJ&amp;hl=sk
   year: '1959'
