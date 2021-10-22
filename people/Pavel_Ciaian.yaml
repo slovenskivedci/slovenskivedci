@@ -1,4 +1,4 @@
-affiliation: "Eur\xF3pska komisia, Sevilla"
+affiliation: "Eur\xF3pska komisia"
 cited_by:
 - citations:
     all: 5705
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 84
     since_2016: 64
+city: ' Sevilla'
 country: "\u0160panielsko"
-field: "Ekon\xF3mia"
+field: "ekon\xF3mia"
 hindex: 35
 img: Ciaian_3.jpg
 last_update: '2021-09-16'

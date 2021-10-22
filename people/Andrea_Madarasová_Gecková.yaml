@@ -1,4 +1,4 @@
-affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
+affiliation: "Univerzita PJ \u0160af\xE1rika"
 cited_by:
 - citations:
     all: 8945
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 132
     since_2016: 106
+city: " Ko\u0161ice"
 country: Slovensko
-field: "Soci\xE1lna Psychol\xF3gia"
+field: "soci\xE1lna psychol\xF3gia"
 hindex: 42
 img: amg-foto.jpg
 last_update: '2021-09-16'

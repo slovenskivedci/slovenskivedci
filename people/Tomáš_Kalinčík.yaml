@@ -1,5 +1,4 @@
-affiliation: "Univerzita v Melbourne a Kr\xE1\u013Eovsk\xE1 nemocnica v Melbourne,\
-  \ Melbourne"
+affiliation: "Univerzita v Melbourne a Kr\xE1\u013Eovsk\xE1 nemocnica v Melbourne"
 cited_by:
 - citations:
     all: 3786
@@ -10,8 +9,9 @@ cited_by:
 - i10_index:
     all: 64
     since_2016: 62
+city: ' Melbourne'
 country: "Austr\xE1lia"
-field: "Neurol\xF3gia"
+field: "neurol\xF3gia"
 hindex: 35
 img: Screen Shot 2021-01-01 at 2.18.08 PM.png
 last_update: '2021-09-16'

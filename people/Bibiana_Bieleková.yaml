@@ -1,4 +1,4 @@
-affiliation: "N\xE1rodn\xFD in\u0161tit\xFAt zdravia, Bethesda"
+affiliation: "N\xE1rodn\xFD in\u0161tit\xFAt zdravia"
 cited_by:
 - citations:
     all: 8371
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 75
     since_2016: 62
+city: ' Bethesda'
 country: USA
-field: "Neuroimunol\xF3gia"
+field: "neuroimunol\xF3gia"
 hindex: 38
 img: Bibiana Bielekova hitn.jpg
 last_update: '2021-09-16'

@@ -1,4 +1,4 @@
-affiliation: Univerzita v Bonne, Bonn
+affiliation: Univerzita v Bonne
 cited_by:
 - citations:
     all: 20091
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 274
     since_2016: 197
+city: ' Bonn'
 country: Nemecko
-field: "Neurobiol\xF3gia rastl\xEDn"
+field: "neurobiol\xF3gia rastl\xEDn"
 hindex: 78
 img: 48607_1200x.jpg
 last_update: '2021-09-16'

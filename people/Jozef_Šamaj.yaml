@@ -1,4 +1,4 @@
-affiliation: "Palack\xE9ho univerzia, Olomouc"
+affiliation: "Palack\xE9ho univerzia"
 cited_by:
 - citations:
     all: 10511
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 154
     since_2016: 108
+city: ' Olomouc'
 country: "\u010Cesk\xE1 republika"
-field: Botanika
+field: botanika
 hindex: 57
 img: csm_prof._Samaj_469a2c4176.jpg
 last_update: '2021-09-16'

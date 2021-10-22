@@ -1,4 +1,4 @@
-affiliation: "Univerzita v Pennsylv\xE1nii, Filadelfia"
+affiliation: "Univerzita v Pennsylv\xE1nii"
 cited_by:
 - citations:
     all: 3717
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 51
     since_2016: 44
+city: ' Filadelfia'
 country: USA
-field: Pediatria
+field: pediatria
 hindex: 33
 img: 15444061689569716.jpg
 last_update: '2021-09-16'

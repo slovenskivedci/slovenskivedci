@@ -1,4 +1,4 @@
-affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
+affiliation: "Technick\xE1 univerzita vo Zvolene"
 cited_by:
 - citations:
     all: 3995
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 72
     since_2016: 42
+city: ' Zvolen'
 country: Slovensko
-field: "Fytol\xF3gia"
+field: "fytol\xF3gia"
 hindex: 30
 img: Ladislav_Paule.jpg
 last_update: '2021-09-16'

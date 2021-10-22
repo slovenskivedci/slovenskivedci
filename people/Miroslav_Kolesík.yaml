@@ -1,4 +1,4 @@
-affiliation: "Arizonsk\xE1 univerzita, Tucson"
+affiliation: "Arizonsk\xE1 univerzita"
 cited_by:
 - citations:
     all: 6999
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 105
     since_2016: 58
+city: ' Tucson'
 country: USA
-field: Optika
+field: optika
 hindex: 40
 img: 21-Kolesik,Miroslav (12Nov2019).jpg
 last_update: '2021-09-16'

@@ -1,4 +1,4 @@
-affiliation: Katarska  univerzita, Doha
+affiliation: Katarska  univerzita
 cited_by:
 - citations:
     all: 5078
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 104
     since_2016: 86
+city: ' Doha'
 country: Katar
-field: "Materi\xE1lov\xE1 veda"
+field: "materi\xE1lov\xE1 veda"
 hindex: 42
 img: Photo-4.jpg
 last_update: '2021-09-16'

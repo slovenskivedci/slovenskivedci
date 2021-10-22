@@ -1,4 +1,4 @@
-affiliation: "Univerzita PJ \u0160af\xE1rika, Ko\u0161ice"
+affiliation: "Univerzita PJ \u0160af\xE1rika"
 cited_by:
 - citations:
     all: 2921
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 61
     since_2016: 52
+city: " Ko\u0161ice"
 country: Slovensko
-field: "Behavior\xE1lna Medic\xEDna"
+field: "behavior\xE1lna medic\xEDna"
 hindex: 34
 img: Iveta_Nagyova.jpg
 last_update: '2021-09-16'

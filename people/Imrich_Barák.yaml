@@ -1,4 +1,4 @@
-affiliation: "Slovesk\xE1 akad\xE9mia vied, Bratislava"
+affiliation: "Slovesk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
     all: 3046
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 60
     since_2016: 33
+city: ' Bratislava'
 country: Slovensko
-field: "Molekul\xE1rna Biol\xF3gia"
+field: "molekul\xE1rna biol\xF3gia"
 hindex: 31
 img: 117686-biolog-imrich-barak-clanokW.jpg
 last_update: '2021-09-16'

@@ -1,4 +1,4 @@
-affiliation: Univerzita v Zurichu, Zurich
+affiliation: Univerzita v Zurichu
 cited_by:
 - citations:
     all: 9550
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 76
     since_2016: 63
+city: ' Zurich'
 country: "\u0160vaj\u010Diarsko"
-field: "Fyziol\xF3gia buniek"
+field: "fyziol\xF3gia buniek"
 hindex: 45
 img: L_Borsig photo 1-17-1.jpg.jpg
 last_update: '2021-09-16'

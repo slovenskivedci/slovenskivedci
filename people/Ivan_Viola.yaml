@@ -1,4 +1,4 @@
-affiliation: KAUST, Thuwal
+affiliation: KAUST
 cited_by:
 - citations:
     all: 3495
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 78
     since_2016: 56
+city: ' Thuwal'
 country: "Saudsk\xE1 Ar\xE1bia"
-field: "Po\u010D\xEDta\u010Dov\xE1 Grafika a Vizualiz\xE1cia"
+field: "po\u010D\xEDta\u010Dov\xE1 grafika a vizualiz\xE1cia"
 hindex: 30
 img: KAUST-CEMSE-VCC-NANOVIS-CS-Ivan-Viola-Photo.jpg
 last_update: '2021-09-16'

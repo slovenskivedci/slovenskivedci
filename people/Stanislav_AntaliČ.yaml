@@ -1,4 +1,4 @@
-affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+affiliation: "Univerzita Komensk\xE9ho"
 cited_by:
 - citations:
     all: 4247
@@ -9,15 +9,16 @@ cited_by:
 - i10_index:
     all: 74
     since_2016: 61
+city: ' Bratislava'
 country: Slovensko
-field: "Jadrov\xE1 Fyzika"
+field: "jadrov\xE1 fyzika"
 hindex: 33
 img: antalics_1500.jpg
 last_update: '2021-09-16'
 links:
   web: http://antalic.dnp.fmph.uniba.sk/index.php
   "\u017Eivotopis": http://antalic.dnp.fmph.uniba.sk/cv.php
-name: "Stanislav Antali\u010C"
+name: "Stanislav Antali\u010D"
 position: docent
 scholar: https://scholar.google.com/citations?user=h08MR_wAAAAJ&amp;hl=en
 year: ''

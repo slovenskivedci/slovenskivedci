@@ -1,4 +1,4 @@
-affiliation: Univerzita v Indiane, Bloomington
+affiliation: Univerzita v Indiane
 cited_by:
 - citations:
     all: 4373
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 55
     since_2016: 33
+city: ' Bloomington'
 country: USA
-field: "Fyzika \u010Cast\xEDc"
+field: "fyzika \u010Dast\xEDc"
 hindex: 34
 img: dermisek.jpg
 last_update: '2021-09-16'

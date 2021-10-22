@@ -1,0 +1,26 @@
+- affiliation: Univerzita v Bonne
+  affiliationurl: Univerzita_v_Bonne
+  cited_by:
+  - citations:
+      all: 20091
+      since_2016: 7965
+  - h_index:
+      all: 78
+      since_2016: 49
+  - i10_index:
+      all: 274
+      since_2016: 197
+  city: ' Bonn'
+  country: Nemecko
+  countryurl: Nemecko
+  field: "neurobiol\xF3gia rastl\xEDn"
+  hindex: 78
+  img: 48607_1200x.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - http://ds9.botanik.uni-bonn.de/zellbio/AG-Baluska-Volkmann/index.php
+  name: "Franti\u0161ek Balu\u0161ka"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=KF4AYR4AAAAJ&amp;hl=en
+  year: '1957'

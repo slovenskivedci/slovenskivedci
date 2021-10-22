@@ -1,4 +1,4 @@
-affiliation: "Slovensk\xE1 technick\xE1 univerzita, Bratislava"
+affiliation: "Slovensk\xE1 technick\xE1 univerzita"
 cited_by:
 - citations:
     all: 3116
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 75
     since_2016: 43
+city: ' Bratislava'
 country: Slovensko
-field: "Biotechnol\xF3gia"
+field: "biotechnol\xF3gia"
 hindex: 31
 img: unnamed-16.jpg
 last_update: '2021-09-16'

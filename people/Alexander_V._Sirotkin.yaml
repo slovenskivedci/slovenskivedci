@@ -1,4 +1,4 @@
-affiliation: "Univerzita Kon\u0161tant\xEDna Filozofa, Nitra"
+affiliation: "Univerzita Kon\u0161tant\xEDna Filozofa"
 cited_by:
 - citations:
     all: 5206
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 131
     since_2016: 73
+city: ' Nitra'
 country: Slovensko
-field: "BIOl\xF3gia REPRODUKCIE"
+field: "biol\xF3gia reprodukcie"
 hindex: 37
 img: Portret 2 4.09.17.jpg
 last_update: '2021-09-16'

@@ -1,0 +1,30 @@
+- affiliation: "Trnavsk\xE1 univerzita"
+  affiliationurl: Trnavska_univerzita
+  cited_by:
+  - citations:
+      all: 55906
+      since_2016: 54131
+  - h_index:
+      all: 55
+      since_2016: 49
+  - i10_index:
+      all: 93
+      since_2016: 91
+  city: ' Trnava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "epidemiol\xF3gia"
+  hindex: 55
+  img: doc.m.majdan_004_0.jpg
+  last_update: '2021-09-16'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/marek-majdan-b7a9907
+  - - orcid
+    - https://orcid.org/0000-0001-8037-742X
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marek-Majdan-3
+  name: Marek Majdan
+  position: docent
+  scholar: https://scholar.google.sk/citations?user=xwG1s8YAAAAJ&amp;hl=sk&amp;oi=sra
+  year: ''

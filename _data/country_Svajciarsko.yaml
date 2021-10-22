@@ -1,5 +1,5 @@
-- affiliation: Univerzita v Zurichu, Zurich
-  affiliationurl: Univerzita_v_Zurichu__Zurich
+- affiliation: Univerzita v Zurichu
+  affiliationurl: Univerzita_v_Zurichu
   cited_by:
   - citations:
       all: 9550
@@ -10,69 +10,89 @@
   - i10_index:
       all: 76
       since_2016: 63
+  city: ' Zurich'
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
-  field: "Fyziol\xF3gia buniek"
+  field: "fyziol\xF3gia buniek"
   hindex: 45
   img: L_Borsig photo 1-17-1.jpg.jpg
   last_update: '2021-09-16'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Lubor-Borsig
-    loop: https://loop.frontiersin.org/people/108489/overview
-    web: https://www.to2.uzh.ch/en/aboutus/researchgroups/groupwengerborsig/luborborsig.html
-    web2: https://www.physiol.uzh.ch/en/research/institutegroups/grborsig/membersgrborsig.html
+  - - loop
+    - https://loop.frontiersin.org/people/108489/overview
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Lubor-Borsig
+  - - web
+    - https://www.to2.uzh.ch/en/aboutus/researchgroups/groupwengerborsig/luborborsig.html
+  - - web2
+    - https://www.physiol.uzh.ch/en/research/institutegroups/grborsig/membersgrborsig.html
   name: Lubor Borsig
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=XOPkMEAAAAAJ
   year: ''
-- affiliation: "ETH Z \xFC rich, Z \xFC rich"
-  affiliationurl: ETH_Z_u_rich__Z_u_rich
+- affiliation: "ETH Z \xFC rich"
+  affiliationurl: ETH_Z_u_rich
+  city: " Z \xFC rich"
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
-  field: Informatika
+  field: informatika
   hindex: '37'
   img: image.imageformat.fullwidth.1393744474.jpg
   last_update: '2020-12-31'
   links:
-    LinkedIn: https://www.linkedin.com/in/juraj-hromkovic-b6359034/?originalSubdomain=ch
-    MathGenealogy: https://www.mathgenealogy.org/id.php?id=117390
-    ResearchGate: https://www.researchgate.net/profile/Juraj-Hromkovic
-    dblp: https://dblp.org/pid/h/JurajHromkovic.html
-    web: https://inf.ethz.ch/people/person-detail.hromkovic.html
-    "wikip\xE9dia": "https://en.wikipedia.org/wiki/Juraj_Hromkovi\u010D"
+  - - dblp
+    - https://dblp.org/pid/h/JurajHromkovic.html
+  - - LinkedIn
+    - https://www.linkedin.com/in/juraj-hromkovic-b6359034/?originalSubdomain=ch
+  - - MathGenealogy
+    - https://www.mathgenealogy.org/id.php?id=117390
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Juraj-Hromkovic
+  - - web
+    - https://inf.ethz.ch/people/person-detail.hromkovic.html
+  - - "wikip\xE9dia"
+    - "https://en.wikipedia.org/wiki/Juraj_Hromkovi\u010D"
   name: "Juraj Hromkovi\u010D"
   position: profesor
   scholar: https://scholar.google.com/citations?user=xG2VV1UAAAAJ&amp;hl=de
   year: '1958'
-- affiliation: "ETH Z\xFCrich, Z\xFCrich"
-  affiliationurl: ETH_Zurich__Zurich
+- affiliation: "ETH Z\xFCrich"
+  affiliationurl: ETH_Zurich
+  city: " Z\xFCrich"
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
-  field: "Hydrol\xF3gia"
+  field: "hydrol\xF3gia"
   hindex: '37'
   img: image.imageformat.twocolumn.436876598.png
   last_update: '2020-12-31'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Peter_Molnar11
-    orcid: https://orcid.org/0000-0001-6437-4931
-    web: https://hyd.ifu.ethz.ch/the-group/people/person-detail.html?persid=100330
+  - - orcid
+    - https://orcid.org/0000-0001-6437-4931
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter_Molnar11
+  - - web
+    - https://hyd.ifu.ethz.ch/the-group/people/person-detail.html?persid=100330
   name: "Peter Moln\xE1r"
   position: profesor
   scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
   year: '1982'
-- affiliation: "Google, Z\xFCrich"
-  affiliationurl: Google__Zurich
+- affiliation: Google
+  affiliationurl: Google
+  city: " Z\xFCrich"
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
-  field: INFORMATIKA
+  field: informatika
   hindex: '31'
   img: 00100lrPORTRAIT_00100_BURST20200705131802315_COVER.jpg
   last_update: '2020-12-31'
   links:
-    dblp: https://dblp.org/pid/p/MartinPal.html
-    web: https://research.google/people/author20/
-    "\u017Eivotopis": http://martin.palenica.com/cv2.pdf
-  name: "Martin P\xC1L"
+  - - dblp
+    - https://dblp.org/pid/p/MartinPal.html
+  - - web
+    - https://research.google/people/author20/
+  - - "\u017Eivotopis"
+    - http://martin.palenica.com/cv2.pdf
+  name: "Martin P\xE1l"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NDhlLv0AAAAJ
   year: ''

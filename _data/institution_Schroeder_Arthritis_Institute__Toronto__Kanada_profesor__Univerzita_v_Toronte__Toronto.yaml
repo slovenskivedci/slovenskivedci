@@ -11,16 +11,20 @@
   - i10_index:
       all: 208
       since_2016: 161
+  city: THIS HAS TO BE FIXED
   country: Kanada
   countryurl: Kanada
-  field: Bioinformatika
+  field: bioinformatika
   hindex: 79
   img: 2015-Nov-Jurisica1-Rescomm2c4-2.png
   last_update: '2021-09-16'
   links:
-    web: https://www.cs.toronto.edu/~juris/home.html
-    wikipedia: https://en.wikipedia.org/wiki/Igor_Jurisica
-    "\u017Eivotopis": https://www.fmb.unesp.br/Home/ensino/Pos-Graduacao/mestradoacademicoedoutorado/pgbasesgeraisdacirurgia/igor-jurisica_curriculum-vitae-july-2015-1.pdf
+  - - web
+    - https://www.cs.toronto.edu/~juris/home.html
+  - - wikipedia
+    - https://en.wikipedia.org/wiki/Igor_Jurisica
+  - - "\u017Eivotopis"
+    - https://www.fmb.unesp.br/Home/ensino/Pos-Graduacao/mestradoacademicoedoutorado/pgbasesgeraisdacirurgia/igor-jurisica_curriculum-vitae-july-2015-1.pdf
   name: "Igor Juri\u0161ica"
   position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ

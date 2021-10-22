@@ -1,4 +1,4 @@
-affiliation: Univerzita v Kalifornii, Berkeley
+affiliation: Univerzita v Kalifornii
 cited_by:
 - citations:
     all: 24095
@@ -9,6 +9,7 @@ cited_by:
 - i10_index:
     all: 295
     since_2016: 129
+city: ' Berkeley'
 country: USA
 field: "robotika a umel\xE1 inteligencia"
 hindex: 72

@@ -1,4 +1,4 @@
-affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
     all: 2688
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 69
     since_2016: 17
+city: ' Bratislava'
 country: Slovensko
-field: Fyzika
+field: fyzika
 hindex: 31
 img: KRAJCI  Marian_kto je kto SAV_250_350.JPG
 last_update: '2021-09-16'

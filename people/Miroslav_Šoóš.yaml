@@ -1,4 +1,4 @@
-affiliation: "Vysok\xE1 \u0161kola chemicko-technologick\xE1, Praha"
+affiliation: "Vysok\xE1 \u0161kola chemicko-technologick\xE1"
 cited_by:
 - citations:
     all: 2719
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 67
     since_2016: 56
+city: ' Praha'
 country: "\u010Ce sko"
-field: "Chemick\xE9 In\u017Einierstvo"
+field: "chemick\xE9 in\u017Einierstvo"
 hindex: 30
 img: Miroslav-Soos.jpg
 last_update: '2021-09-16'

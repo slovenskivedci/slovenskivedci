@@ -16,12 +16,20 @@ title: Home
 						 	 
 					<div class="row">
 						<div class="column">
-							<img src="/images/{{ item.img }}"  role="img" />							
+							<img src="/images/{{ item.img }}" width="100%" role="img" />							
 						</div>
 						<div class="columnsep">&nbsp;&nbsp;&nbsp;
 						</div>						
 						<div class="column" >
-							<h1 class="blog-title"><i>{{ item.name }}</i> ({{ item.year }})</h1>
+							<h1 class="blog-title"><i>{{ item.name }}</i> 
+
+							{% if item.year.size > 0 %}
+							 ({{ item.year }})
+							{% endif %}
+
+							
+							
+							</h1>
 							
 							<p class="post-summary">
 
@@ -33,11 +41,23 @@ title: Home
 								 <b><a href="{{ item.scholar }}" target="_blank">H-index: {{ item.hindex }}</a></b>
 								
 								 
-								 <p>{{ item.position }},  <a href="affiliation_{{ item.affiliationurl }}.html">{{ item.affiliation }}</a>, 
+								 <p>
+								   {{ item.position }}
+								    <br/>
+								 
+								  <a href="affiliation_{{ item.affiliationurl }}.html">{{ item.affiliation }}</a>
+								    <br/>
+								   {{ item.city }}
+								    <br/>
+								  
+								  
+								  
 								 <a href="country_{{ item.countryurl }}.html">{{ item.country }}</a> </p>
 								
 								
 							</p>
+							
+
 							{% for link in item.links %}
 								<a href="{{ link[1] }}" class="button-round w-button">{{ link[0] }}</a>
 							{% endfor %}

@@ -1,4 +1,4 @@
-affiliation: Univerzita v Adelaide, Adelaide
+affiliation: Univerzita v Adelaide
 cited_by:
 - citations:
     all: 6541
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 101
     since_2016: 71
+city: ' Adelaide'
 country: "Austr\xE1lia"
-field: "Bioch\xE9mia"
+field: "bioch\xE9mia"
 hindex: 45
 img: maria-hrmova-rastlinna-bielkovina-clanokW.jpg
 last_update: '2021-09-16'

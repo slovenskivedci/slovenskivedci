@@ -1,4 +1,4 @@
-affiliation: "Palack\xE9ho univerzita, Olomouc"
+affiliation: "Palack\xE9ho univerzita"
 cited_by:
 - citations:
     all: 2865
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 84
     since_2016: 61
+city: ' Olomouc'
 country: "\u010Cesko"
-field: "Ch\xE9mia"
+field: "ch\xE9mia"
 hindex: 31
 img: csm_herchel_cde545613b.jpg
 last_update: '2021-09-16'

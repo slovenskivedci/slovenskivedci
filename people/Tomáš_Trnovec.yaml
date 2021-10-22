@@ -1,4 +1,4 @@
-affiliation: "Slovensk\xE1 zdravotn\xEDcka univerzita, Bratislava"
+affiliation: "Slovensk\xE1 zdravotn\xEDcka univerzita"
 cited_by:
 - citations:
     all: 5346
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 93
     since_2016: 68
+city: ' Bratislava'
 country: Slovensko
-field: "Farmakol\xF3gia"
+field: "farmakol\xF3gia"
 hindex: 42
 img: profesor-tomas-trnovec-clanokW.jpg
 last_update: '2021-09-16'

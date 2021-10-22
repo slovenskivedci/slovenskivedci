@@ -1,0 +1,93 @@
+---
+layout: default
+title: Home
+---
+
+
+
+
+ 
+
+{% for item in site.data.institution_ETH_Zurich %}
+
+			<div role="list" class="w-dyn-items">
+				<div role="listitem" class="w-dyn-item">
+					<div class="post-wrapper" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+						 	 
+					<div class="row">
+						<div class="column">
+							<img src="/images/{{ item.img }}" width="100%" role="img" />							
+						</div>
+						<div class="columnsep">&nbsp;&nbsp;&nbsp;
+						</div>						
+						<div class="column" >
+							<h1 class="blog-title"><i>{{ item.name }}</i> 
+
+							{% if item.year.size > 0 %}
+							 ({{ item.year }})
+							{% endif %}
+
+							
+							
+							</h1>
+							
+							<p class="post-summary">
+
+								<i>{{ item.field }}</i>
+								
+								<br/>
+								
+												 
+								 <b><a href="{{ item.scholar }}" target="_blank">H-index: {{ item.hindex }}</a></b>
+								
+								 
+								 <p>
+								   {{ item.position }}
+								    <br/>
+								 
+								  <a href="affiliation_{{ item.affiliationurl }}.html">{{ item.affiliation }}</a>
+								    <br/>
+								   {{ item.city }}
+								    <br/>
+								  
+								  
+								  
+								 <a href="country_{{ item.countryurl }}.html">{{ item.country }}</a> </p>
+								
+								
+							</p>
+							
+
+							{% for link in item.links %}
+								<a href="{{ link[1] }}" class="button-round w-button">{{ link[0] }}</a>
+							{% endfor %}
+
+							
+							
+						</div>
+					</div>
+					
+					
+					
+
+
+
+					
+					
+					
+				</div>
+			</div>
+
+
+      </div>
+                 
+                               
+
+  {% endfor %}
+
+ 
+
+
+
+
+

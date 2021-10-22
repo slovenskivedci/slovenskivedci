@@ -1,6 +1,7 @@
-affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+affiliation: "Univerzita Komensk\xE9ho"
+city: ' Bratislava'
 country: Slovensko
-field: "Jadrov\xE1 Fyzika"
+field: "jadrov\xE1 fyzika"
 hindex: '123'
 img: "Nov\xE1 fyzika v CERN.JPG"
 last_update: '2020-12-31'

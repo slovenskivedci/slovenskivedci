@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 79
     since_2016: 58
+city: THIS HAS TO BE FIXED
 country: Slovensko
-field: "Molekul\xE1rna Biol\xF3gia"
+field: "molekul\xE1rna biol\xF3gia"
 hindex: 41
 img: Stefan_Janecek.jpg
 last_update: '2021-09-16'

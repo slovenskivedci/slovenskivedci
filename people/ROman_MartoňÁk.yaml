@@ -1,4 +1,4 @@
-affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+affiliation: "Univerzita Komensk\xE9ho"
 cited_by:
 - citations:
     all: 4549
@@ -9,15 +9,16 @@ cited_by:
 - i10_index:
     all: 63
     since_2016: 33
+city: ' Bratislava'
 country: Slovensko
-field: "Fyzika KOndenzovan\xFDch L\xE1tok"
+field: "fyzika kondenzovan\xFDch l\xE1tok"
 hindex: 32
 img: jdxjF1Sp.JPG
 last_update: '2021-09-16'
 links:
   orcid: https://orcid.org/0000-0002-4013-9117
   web: https://dep.fmph.uniba.sk/cv-rm/
-name: "ROman Marto\u0148\xC1k"
+name: "Roman Marto\u0148\xE1k"
 position: profesor
 scholar: https://scholar.google.com/citations?user=FNaaPIwAAAAJ&amp;hl=en
 year: '1964'

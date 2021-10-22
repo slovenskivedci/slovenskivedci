@@ -1,4 +1,4 @@
-affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
     all: 6764
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 151
     since_2016: 53
+city: ' Bratislava'
 country: Slovensko
-field: "Biotechnol\xF3gia"
+field: "biotechnol\xF3gia"
 hindex: 41
 img: Screen Shot 2021-02-23 at 1.39.00 PM.png
 last_update: '2021-09-16'

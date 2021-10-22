@@ -1,4 +1,4 @@
-affiliation: "Univerzita v Britskej Kolumbii, Britsk\xE1 Kolumbia"
+affiliation: Univerzita v Britskej Kolumbii
 cited_by:
 - citations:
     all: 10095
@@ -9,6 +9,7 @@ cited_by:
 - i10_index:
     all: 107
     since_2016: 78
+city: " Britsk\xE1 Kolumbia"
 country: Kanada
 field: fyzika
 hindex: 55

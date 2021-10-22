@@ -1,6 +1,7 @@
-affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
+affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
+city: ' Praha'
 country: "\u010Cesko"
-field: "Mikrobiol\xF3gia"
+field: "mikrobiol\xF3gia"
 hindex: '47'
 img: 03118445.jpeg
 last_update: '2020-12-31'
@@ -13,7 +14,7 @@ links:
   publons: https://publons.com/researcher/1400445/peter-sebo/
   web: https://mbucas.cz/en/research/microbiology/laboratory-of-molecular-biology-of-bacterial-pathogens/
   "\u017Eivotopis": https://independent.academia.edu/PeterSebo/CurriculumVitae
-name: Peter u0161ebo
+name: Peter U0161ebo
 position: profesor
 scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp;hl=en
 year: 1960

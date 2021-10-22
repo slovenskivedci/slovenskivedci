@@ -1,4 +1,4 @@
-affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
     all: 4480
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 55
     since_2016: 28
+city: ' Bratislava'
 country: Slovensko
-field: Biofyzika
+field: biofyzika
 hindex: 29
 img: Screen Shot 2021-06-21 at 10.40.18 AM.png
 last_update: '2021-09-16'

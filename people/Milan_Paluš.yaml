@@ -1,4 +1,4 @@
-affiliation: "\u010Cesk\xE1 akad\xE9mia vied, Praha"
+affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
     all: 5740
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 78
     since_2016: 48
+city: ' Praha'
 country: "\u010Cesko"
-field: "Komplexn\xE9 Syst\xE9my"
+field: "komplexn\xE9 syst\xE9my"
 hindex: 37
 img: slideslive_milan-palus_kauzalita-informace-a-cas.jpg
 last_update: '2021-09-16'

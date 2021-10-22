@@ -1,4 +1,4 @@
-affiliation: "Z\xE1pado\u010Desk\xE1 univerzita v Plzni, Plze\u0148"
+affiliation: "Z\xE1pado\u010Desk\xE1 univerzita v Plzni"
 cited_by:
 - citations:
     all: 6632
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 133
     since_2016: 106
+city: " Plze\u0148"
 country: "\u010Cesko"
-field: "Aplikovan\xE1 Fyzika"
+field: "aplikovan\xE1 fyzika"
 hindex: 42
 img: 1608215138998.jpeg
 last_update: '2021-09-16'

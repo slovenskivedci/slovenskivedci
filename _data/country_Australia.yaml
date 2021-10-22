@@ -1,40 +1,51 @@
-- affiliation: Univerzita v Adelaide, Adelaide
-  affiliationurl: Univerzita_v_Adelaide__Adelaide
+- affiliation: Univerzita v Adelaide
+  affiliationurl: Univerzita_v_Adelaide
+  city: ' Adelaide'
   country: "Austr\xE1lia"
   countryurl: Australia
-  field: Neurogenetika
+  field: neurogenetika
   hindex: '86'
   img: Gecz-Jozef.jpg
   last_update: '2020-12-31'
   links:
-    web: https://researchers.adelaide.edu.au/profile/jozef.gecz
-    wikipedia: "https://en.wikipedia.org/wiki/Jozef_G\xE9cz"
-    "\u017Eivotopis": https://prabook.com/web/jozef.gecz/418497
+  - - web
+    - https://researchers.adelaide.edu.au/profile/jozef.gecz
+  - - wikipedia
+    - "https://en.wikipedia.org/wiki/Jozef_G\xE9cz"
+  - - "\u017Eivotopis"
+    - https://prabook.com/web/jozef.gecz/418497
   name: "Jozef G\xE9cz"
   position: profesor
   scholar: https://scholar.google.com/citations?user=FTejMNwAAAAJ&amp;hl=en
   year: '1962'
-- affiliation: Monashova univerzita, Melbourne
-  affiliationurl: Monashova_univerzita__Melbourne
+- affiliation: Monashova univerzita
+  affiliationurl: Monashova_univerzita
+  city: ' Melbourne'
   country: "Austr\xE1lia"
   countryurl: Australia
-  field: "Epidemiol\xF3gia"
+  field: "epidemiol\xF3gia"
   hindex: '54'
   img: de-courten-barbora.jpg
   last_update: '2020-12-31'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Barbora_De_Courten2
-    loop: https://loop.frontiersin.org/people/371235/overview
-    orcid: https://orcid.org/0000-0001-8760-2511
-    publons: https://publons.com/researcher/1662815/barbora-de-courten/
-    web: https://www.monash.edu/medicine/scs/researchers/barbora-de-courten
-    web2: https://research.monash.edu/en/persons/barbora-de-courten
+  - - loop
+    - https://loop.frontiersin.org/people/371235/overview
+  - - orcid
+    - https://orcid.org/0000-0001-8760-2511
+  - - publons
+    - https://publons.com/researcher/1662815/barbora-de-courten/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Barbora_De_Courten2
+  - - web
+    - https://www.monash.edu/medicine/scs/researchers/barbora-de-courten
+  - - web2
+    - https://research.monash.edu/en/persons/barbora-de-courten
   name: Barbora
   position: profesorka
   scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
   year: "Voz\xE1rov\xE1"
-- affiliation: Univerzita v Adelaide, Adelaide
-  affiliationurl: Univerzita_v_Adelaide__Adelaide
+- affiliation: Univerzita v Adelaide
+  affiliationurl: Univerzita_v_Adelaide
   cited_by:
   - citations:
       all: 6541
@@ -45,23 +56,26 @@
   - i10_index:
       all: 101
       since_2016: 71
+  city: ' Adelaide'
   country: "Austr\xE1lia"
   countryurl: Australia
-  field: "Bioch\xE9mia"
+  field: "bioch\xE9mia"
   hindex: 45
   img: maria-hrmova-rastlinna-bielkovina-clanokW.jpg
   last_update: '2021-09-16'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Maria_Hrmova
-    orcid: https://orcid.org/0000-0002-3545-0605
-    web: https://www.adelaide.edu.au/directory/maria.hrmova
+  - - orcid
+    - https://orcid.org/0000-0002-3545-0605
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Maria_Hrmova
+  - - web
+    - https://www.adelaide.edu.au/directory/maria.hrmova
   name: "M\xE1ria Hrmov\xE1"
   position: profesorka
   scholar: https://scholar.google.sk/citations?user=Hvt2QdYAAAAJ&amp;hl=en
   year: ''
-- affiliation: "Univerzita v Melbourne a Kr\xE1\u013Eovsk\xE1 nemocnica v Melbourne,\
-    \ Melbourne"
-  affiliationurl: Univerzita_v_Melbourne_a_Kralovska_nemocnica_v_Melbourne__Melbourne
+- affiliation: "Univerzita v Melbourne a Kr\xE1\u013Eovsk\xE1 nemocnica v Melbourne"
+  affiliationurl: Univerzita_v_Melbourne_a_Kralovska_nemocnica_v_Melbourne
   cited_by:
   - citations:
       all: 3786
@@ -72,23 +86,28 @@
   - i10_index:
       all: 64
       since_2016: 62
+  city: ' Melbourne'
   country: "Austr\xE1lia"
   countryurl: Australia
-  field: "Neurol\xF3gia"
+  field: "neurol\xF3gia"
   hindex: 35
   img: Screen Shot 2021-01-01 at 2.18.08 PM.png
   last_update: '2021-09-16'
   links:
-    Scopus: https://www.scopus.com/authid/detail.uri?authorId=8365701900
-    orcid: https://orcid.org/0000-0003-3778-1376
-    web: https://core.melbourne
-    web2: https://findanexpert.unimelb.edu.au/profile/458758-tomas-kalincik
+  - - orcid
+    - https://orcid.org/0000-0003-3778-1376
+  - - Scopus
+    - https://www.scopus.com/authid/detail.uri?authorId=8365701900
+  - - web
+    - https://core.melbourne
+  - - web2
+    - https://findanexpert.unimelb.edu.au/profile/458758-tomas-kalincik
   name: "Tom\xE1\u0161 Kalin\u010D\xEDk"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=uoit0TEAAAAJ
   year: '1982'
-- affiliation: Univerzita v New South Wales, Sydney
-  affiliationurl: Univerzita_v_New_South_Wales__Sydney
+- affiliation: Univerzita v New South Wales
+  affiliationurl: Univerzita_v_New_South_Wales
   cited_by:
   - citations:
       all: 3866
@@ -99,21 +118,24 @@
   - i10_index:
       all: 67
       since_2016: 55
+  city: ' Sydney'
   country: "Austr\xE1lia"
   countryurl: Australia
-  field: Energetika
+  field: energetika
   hindex: 33
   img: img_4285.jpg
   last_update: '2021-09-16'
   links:
-    orcid: https://orcid.org/0000-0002-4863-3419
-    web: https://s324741.wixsite.com/bhredzak
+  - - orcid
+    - https://orcid.org/0000-0002-4863-3419
+  - - web
+    - https://s324741.wixsite.com/bhredzak
   name: "Branislav Hredz\xE1k"
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=LSvxvEIAAAAJ
   year: ''
-- affiliation: CSIRO, Brisbane
-  affiliationurl: CSIRO__Brisbane
+- affiliation: CSIRO
+  affiliationurl: CSIRO
   cited_by:
   - citations:
       all: 7105
@@ -124,19 +146,26 @@
   - i10_index:
       all: 64
       since_2016: 45
+  city: ' Brisbane'
   country: "Austr\xE1lia"
   countryurl: Australia
-  field: "Bezdr\xF4tov\xE9 siete a syst\xE9my"
+  field: "bezdr\xF4tov\xE9 siete a syst\xE9my"
   hindex: 31
   img: file-20170626-315-nt5yk4.jpg
   last_update: '2021-09-16'
   links:
-    SemanticScholar: https://www.semanticscholar.org/author/Branislav-Kusy/1752891
-    dblp: https://dblp.org/pid/19/3001.html
-    ieeexplore: https://ieeexplore.ieee.org/author/37272332400
-    publons: https://publons.com/researcher/2806804/branislav-kusy/
-    web: https://sites.google.com/site/branislavkusy/
-    "\u017Eivotopis": https://sites.google.com/site/branislavkusy/cv
+  - - dblp
+    - https://dblp.org/pid/19/3001.html
+  - - ieeexplore
+    - https://ieeexplore.ieee.org/author/37272332400
+  - - publons
+    - https://publons.com/researcher/2806804/branislav-kusy/
+  - - SemanticScholar
+    - https://www.semanticscholar.org/author/Branislav-Kusy/1752891
+  - - web
+    - https://sites.google.com/site/branislavkusy/
+  - - "\u017Eivotopis"
+    - https://sites.google.com/site/branislavkusy/cv
   name: "Branislav Kus\xFD"
   position: "vedeck\xFD pracovn\xEDk (principal research scientist)"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=G9w7WT4AAAAJ

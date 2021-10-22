@@ -1,4 +1,4 @@
-affiliation: "Technick\xE1 univerzita v Delfte, Delft"
+affiliation: "Technick\xE1 univerzita v Delfte"
 cited_by:
 - citations:
     all: 11293
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 198
     since_2016: 158
+city: ' Delft'
 country: Holandsko
-field: Fotovoltika
+field: fotovoltika
 hindex: 49
 img: Miro-Zeman.JPG
 last_update: '2021-09-16'

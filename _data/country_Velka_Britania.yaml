@@ -1,36 +1,43 @@
-- affiliation: "Oxfordsk\xE1 univerzita, Oxford"
-  affiliationurl: Oxfordska_univerzita__Oxford
+- affiliation: "Oxfordsk\xE1 univerzita"
+  affiliationurl: Oxfordska_univerzita
+  city: ' Oxford'
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
-  field: "Fyzik\xE1lna Ch\xE9mia"
+  field: "fyzik\xE1lna ch\xE9mia"
   hindex: '44'
   img: 1228512_1200x.jpeg
   last_update: '2020-12-31'
   links:
-    web: http://kukura.chem.ox.ac.uk/
-    "wikip\xE9dia": https://sk.wikipedia.org/wiki/Philipp_Kukura
-    "\u017Eivotopis": https://www.phys.uniroma1.it/fisica/sites/default/files/bandi/CV/CurrentCVKukura.pdf
+  - - web
+    - http://kukura.chem.ox.ac.uk/
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Philipp_Kukura
+  - - "\u017Eivotopis"
+    - https://www.phys.uniroma1.it/fisica/sites/default/files/bandi/CV/CurrentCVKukura.pdf
   name: Philipp Kukura
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NgHGnt0AAAAJ
   year: '1978'
-- affiliation: "Edinburgsk\xE1 univerzita, Edinburg"
-  affiliationurl: Edinburgska_univerzita__Edinburg
+- affiliation: "Edinburgsk\xE1 univerzita"
+  affiliationurl: Edinburgska_univerzita
+  city: ' Edinburg'
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
-  field: "Nukle\xE1rna Magnetick\xE1 Rezonancia"
+  field: "nukle\xE1rna magnetick\xE1 rezonancia"
   hindex: '43'
   img: nmr03.jpg
   last_update: '2020-12-31'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Dusan-Uhrin
-    web: https://uhringroup.wixsite.com/nmrgroup
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Dusan-Uhrin
+  - - web
+    - https://uhringroup.wixsite.com/nmrgroup
   name: "Du\u0161an Uhr\xEDn"
   position: profesor
   scholar: https://scholar.google.com/citations?user=BSx7_CEAAAAJ&amp;hl=en
   year: ''
-- affiliation: Univerzita Strathclyde, Glasgow
-  affiliationurl: Univerzita_Strathclyde__Glasgow
+- affiliation: Univerzita Strathclyde
+  affiliationurl: Univerzita_Strathclyde
   cited_by:
   - citations:
       all: 5647
@@ -41,22 +48,26 @@
   - i10_index:
       all: 101
       since_2016: 27
+  city: ' Glasgow'
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
-  field: Elektrotechnika
+  field: elektrotechnika
   hindex: 41
   img: Glesk.jpeg
   last_update: '2021-09-16'
   links:
-    orcid: https://orcid.org/0000-0002-3176-8069
-    web: http://personal.strath.ac.uk/ivan.glesk/
-    web2: https://pureportal.strath.ac.uk/en/persons/ivan-glesk
+  - - orcid
+    - https://orcid.org/0000-0002-3176-8069
+  - - web
+    - http://personal.strath.ac.uk/ivan.glesk/
+  - - web2
+    - https://pureportal.strath.ac.uk/en/persons/ivan-glesk
   name: Ivan Glesk
   position: profesor
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=2f6Yg78AAAAJ
   year: ''
-- affiliation: Univerzita v Birminghame, Birmingham
-  affiliationurl: Univerzita_v_Birminghame__Birmingham
+- affiliation: Univerzita v Birminghame
+  affiliationurl: Univerzita_v_Birminghame
   cited_by:
   - citations:
       all: 6412
@@ -67,21 +78,24 @@
   - i10_index:
       all: 99
       since_2016: 66
+  city: ' Birmingham'
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
-  field: "Komplexn\xE9 a adapt\xEDvne syst\xE9my"
+  field: "komplexn\xE9 a adapt\xEDvne syst\xE9my"
   hindex: 38
   img: Peter-Tino-visita-Loyola.jpg
   last_update: '2021-09-16'
   links:
-    web: https://www.cs.bham.ac.uk/~pxt/
-    "\u017Eivotopis": https://www.cs.bham.ac.uk/~pxt/cv_pt.pdf
+  - - web
+    - https://www.cs.bham.ac.uk/~pxt/
+  - - "\u017Eivotopis"
+    - https://www.cs.bham.ac.uk/~pxt/cv_pt.pdf
   name: "Peter Ti\u0148o"
   position: profesor
   scholar: https://scholar.google.sk/citations?user=jntY1osAAAAJ&amp;hl=sk
   year: ''
-- affiliation: Univerzita Strathclyde, Glasgow
-  affiliationurl: Univerzita_Strathclyde__Glasgow
+- affiliation: Univerzita Strathclyde
+  affiliationurl: Univerzita_Strathclyde
   cited_by:
   - citations:
       all: 3799
@@ -92,18 +106,24 @@
   - i10_index:
       all: 84
       since_2016: 53
+  city: ' Glasgow'
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
-  field: "Chemick\xE9 In\u017Einierstvo"
+  field: "chemick\xE9 in\u017Einierstvo"
   hindex: 35
   img: jan-s-500x500.jpeg
   last_update: '2021-09-16'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Jan_Sefcik
-    orcid: https://orcid.org/0000-0002-7181-5122
-    publons: https://publons.com/researcher/2864717/jan-sefcik/
-    web: https://www.strath.ac.uk/staff/sefcikjanprof/
-    web2: https://pureportal.strath.ac.uk/en/persons/jan-sefcik
+  - - orcid
+    - https://orcid.org/0000-0002-7181-5122
+  - - publons
+    - https://publons.com/researcher/2864717/jan-sefcik/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jan_Sefcik
+  - - web
+    - https://www.strath.ac.uk/staff/sefcikjanprof/
+  - - web2
+    - https://pureportal.strath.ac.uk/en/persons/jan-sefcik
   name: "J\xE1n \u0160ef\u010D\xEDk"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5akXP_8AAAAJ

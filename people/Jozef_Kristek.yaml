@@ -1,4 +1,4 @@
-affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+affiliation: "Univerzita Komensk\xE9ho"
 cited_by:
 - citations:
     all: 4550
@@ -9,6 +9,7 @@ cited_by:
 - i10_index:
     all: 47
     since_2016: 37
+city: ' Bratislava'
 country: Slovensko
 field: geofyzika
 hindex: 31

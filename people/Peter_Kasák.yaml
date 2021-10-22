@@ -1,4 +1,4 @@
-affiliation: Univerzita v Katare, Doha
+affiliation: Univerzita v Katare
 cited_by:
 - citations:
     all: 3253
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 76
     since_2016: 63
+city: ' Doha'
 country: Katar
-field: "Ch\xE9mia"
+field: "ch\xE9mia"
 hindex: 32
 img: De_gWKYUcAAMeb7.jpeg
 last_update: '2021-09-16'

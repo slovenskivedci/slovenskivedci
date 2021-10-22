@@ -1,4 +1,4 @@
-affiliation: "Technick\xE1 univerzita v Delfte, Delft"
+affiliation: "Technick\xE1 univerzita v Delfte"
 cited_by:
 - citations:
     all: 8984
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 200
     since_2016: 124
+city: ' Delft'
 country: Holandsko
-field: Elektronika
+field: elektronika
 hindex: 48
 img: pavol-bauer-square.jpg__300x300_q70_subsampling-2.jpg
 last_update: '2021-09-16'

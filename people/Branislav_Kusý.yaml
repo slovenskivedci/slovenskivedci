@@ -1,4 +1,4 @@
-affiliation: CSIRO, Brisbane
+affiliation: CSIRO
 cited_by:
 - citations:
     all: 7105
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 64
     since_2016: 45
+city: ' Brisbane'
 country: "Austr\xE1lia"
-field: "Bezdr\xF4tov\xE9 siete a syst\xE9my"
+field: "bezdr\xF4tov\xE9 siete a syst\xE9my"
 hindex: 31
 img: file-20170626-315-nt5yk4.jpg
 last_update: '2021-09-16'

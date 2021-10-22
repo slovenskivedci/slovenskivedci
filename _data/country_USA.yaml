@@ -1,20 +1,23 @@
-- affiliation: Univerzita v New Yorku, New York
-  affiliationurl: Univerzita_v_New_Yorku__New_York
+- affiliation: Univerzita v New Yorku
+  affiliationurl: Univerzita_v_New_Yorku
+  city: ' New York'
   country: USA
   countryurl: USA
-  field: "Mikrobiol\xF3gia"
+  field: "mikrobiol\xF3gia"
   hindex: '104'
   img: jan-vilcek-laska-a-veda-clanokW.jpg
   last_update: '2020-12-31'
   links:
-    web: http://www.janvilcek.com
-    wikipedia: "https://en.wikipedia.org/wiki/Jan_Vil\u010Dek"
+  - - web
+    - http://www.janvilcek.com
+  - - wikipedia
+    - "https://en.wikipedia.org/wiki/Jan_Vil\u010Dek"
   name: "J\xE1n Vil\u010Dek"
   position: profesor
   scholar: https://scholar.google.com/citations?user=zG9xTAcAAAAJ&amp;hl=en
   year: '1933'
-- affiliation: Univerzita v Illinois, Urbana-Champaign
-  affiliationurl: Univerzita_v_Illinois__Urbana-Champaign
+- affiliation: Univerzita v Illinois
+  affiliationurl: Univerzita_v_Illinois
   cited_by:
   - citations:
       all: 32106
@@ -25,22 +28,26 @@
   - i10_index:
       all: 359
       since_2016: 145
+  city: ' Urbana-Champaign'
   country: USA
   countryurl: USA
-  field: Informatika
+  field: informatika
   hindex: 87
   img: 163208.jpg
   last_update: '2021-09-16'
   links:
-    dblp: https://dblp.org/pid/45/3224.html
-    web: https://cs.illinois.edu/about/people/faculty/klara
-    wikipedia: https://en.wikipedia.org/wiki/Klara_Nahrstedt
+  - - dblp
+    - https://dblp.org/pid/45/3224.html
+  - - web
+    - https://cs.illinois.edu/about/people/faculty/klara
+  - - wikipedia
+    - https://en.wikipedia.org/wiki/Klara_Nahrstedt
   name: "Kl\xE1ra"
   position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
   year: Bajcsy
-- affiliation: Univerzita v Kalifornii, Berkeley
-  affiliationurl: Univerzita_v_Kalifornii__Berkeley
+- affiliation: Univerzita v Kalifornii
+  affiliationurl: Univerzita_v_Kalifornii
   cited_by:
   - citations:
       all: 24095
@@ -51,6 +58,7 @@
   - i10_index:
       all: 295
       since_2016: 129
+  city: ' Berkeley'
   country: USA
   countryurl: USA
   field: "robotika a umel\xE1 inteligencia"
@@ -58,26 +66,34 @@
   img: bajcsy.jpg
   last_update: '2021-09-16'
   links:
-    web: https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.htmlhttps://people.eecs.berkeley.edu/~bajcsy/
-    wikipedia: https://en.wikipedia.org/wiki/Ruzena_Bajcsy
-    "\u017Eivotopis": https://www.memoryofnations.eu/en/bajcsy-ruzena-1933
+  - - web
+    - https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.htmlhttps://people.eecs.berkeley.edu/~bajcsy/
+  - - wikipedia
+    - https://en.wikipedia.org/wiki/Ruzena_Bajcsy
+  - - "\u017Eivotopis"
+    - https://www.memoryofnations.eu/en/bajcsy-ruzena-1933
   name: "Ru\u017Eena Bajcsy"
   position: profesorka
   scholar: https://scholar.google.com/citations?user=s9Ikf1EAAAAJ&amp;hl=en
   year: '1933'
-- affiliation: Univerzita v Missouri, Columbia
-  affiliationurl: Univerzita_v_Missouri__Columbia
+- affiliation: Univerzita v Missouri
+  affiliationurl: Univerzita_v_Missouri
+  city: ' Columbia'
   country: USA
   countryurl: USA
-  field: "Reproduk\u010Dn\xE1 biol\xF3gia"
+  field: "reproduk\u010Dn\xE1 biol\xF3gia"
   hindex: '56'
   img: EKZEBeBU0AAGMrF.jpeg
   last_update: '2020-12-31'
   links:
-    "na\u0161i-a-svetov\xED": https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
-    web: https://cafnrfaculty.missouri.edu/sutovskylab/
-    "\u017Eivotopis": https://cafnrfaculty.missouri.edu/sutovskylab/cv-peter-sutovsky/
-    "\u017Eivotopis2": https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf
+  - - "na\u0161i-a-svetov\xED"
+    - https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
+  - - web
+    - https://cafnrfaculty.missouri.edu/sutovskylab/
+  - - "\u017Eivotopis"
+    - https://cafnrfaculty.missouri.edu/sutovskylab/cv-peter-sutovsky/
+  - - "\u017Eivotopis2"
+    - https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf
   name: "Peter \u0160utovsk\xFD"
   position: profesor
   scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp;hl=en
@@ -94,6 +110,7 @@
   - i10_index:
       all: 92
       since_2016: 58
+  city: THIS HAS TO BE FIXED
   country: USA
   countryurl: USA
   field: "robotika a strojov\xE9 videnie"
@@ -101,9 +118,11 @@
   img: C57X6nj7.jpg
   last_update: '2021-09-16'
   links:
-    web: https://cs.gmu.edu/~kosecka/
-    wikipedia: "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
-  name: "JANA KO\u0160ECK\xC1"
+  - - web
+    - https://cs.gmu.edu/~kosecka/
+  - - wikipedia
+    - "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
+  name: "Jana Ko\u0161eck\xE1"
   position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
   year: ''
@@ -119,36 +138,43 @@
   - i10_index:
       all: 90
       since_2016: 74
+  city: THIS HAS TO BE FIXED
   country: USA
   countryurl: USA
-  field: Programovacie Jazyky
+  field: programovacie jazyky
   hindex: 48
   img: small.jpg
   last_update: '2021-09-16'
   links:
-    web: https://homes.cs.washington.edu/~bodik/
-    "\u017Eivotopis": https://homes.cs.washington.edu/~bodik/cv.pdf
+  - - web
+    - https://homes.cs.washington.edu/~bodik/
+  - - "\u017Eivotopis"
+    - https://homes.cs.washington.edu/~bodik/cv.pdf
   name: "Rastislav Bod\xEDk"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
   year: '1968'
-- affiliation: Universita v Kalifornii, San Diego
-  affiliationurl: Universita_v_Kalifornii__San_Diego
+- affiliation: Universita v Kalifornii
+  affiliationurl: Universita_v_Kalifornii
+  city: ' San Diego'
   country: USA
   countryurl: USA
-  field: Neuroveda
+  field: neuroveda
   hindex: '47'
   img: martinmarsala-1.jpg
   last_update: '2020-12-31'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Martin_Marsala
-    web: http://www.marsala-lab.com/team/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin_Marsala
+  - - web
+    - http://www.marsala-lab.com/team/
   name: "Martin Mar\u0161ala"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
   year: ''
-- affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
-  affiliationurl: Statna_univerzita_v_Severnej_Karoline__Raleigh
+- affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne"
+  affiliationurl: Statna_univerzita_v_Severnej_Karoline
+  city: ' Raleigh'
   country: USA
   countryurl: USA
   field: fyzika
@@ -156,24 +182,30 @@
   img: Lubos-Mitas.jpg
   last_update: '2020-12-31'
   links:
-    web: https://physics.sciences.ncsu.edu/people/lmitas/
-    "\u017Eivotopis": http://altair.physics.ncsu.edu/cv.html
+  - - web
+    - https://physics.sciences.ncsu.edu/people/lmitas/
+  - - "\u017Eivotopis"
+    - http://altair.physics.ncsu.edu/cv.html
   name: "Lubo\u0161 Mit\xE1\u0161"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
   year: ''
-- affiliation: U niverzita v Louisville, Louisville
-  affiliationurl: U_niverzita_v_Louisville__Louisville
+- affiliation: U niverzita v Louisville
+  affiliationurl: U_niverzita_v_Louisville
+  city: ' Louisville'
   country: USA
   countryurl: USA
-  field: "Neurol\xF3gia"
+  field: "neurol\xF3gia"
   hindex: '45'
   img: Hedera-Peter-1646-crop.jpg
   last_update: '2020-12-31'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Peter_Hedera
-    loop: https://loop.frontiersin.org/people/118500/overview
-    web: https://uoflphysicians.com/provider/peter-hedera/
+  - - loop
+    - https://loop.frontiersin.org/people/118500/overview
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter_Hedera
+  - - web
+    - https://uoflphysicians.com/provider/peter-hedera/
   name: Peter Hedera
   position: docent
   scholar: https://scholar.google.com/citations?user=QB0X-6sAAAAJ
@@ -190,37 +222,43 @@
   - i10_index:
       all: 99
       since_2016: 39
+  city: THIS HAS TO BE FIXED
   country: USA
   countryurl: USA
-  field: "AplIkovan\xC1 Informatika"
+  field: "aplikovan\xE1 informatika"
   hindex: 44
   img: Martin_Pelikan.jpg
   last_update: '2021-09-16'
   links:
-    dblp: https://dblp.org/pid/18/963.html
-  name: "Martin Pelik\xC1N"
+  - - dblp
+    - https://dblp.org/pid/18/963.html
+  name: "Martin Pelik\xE1n"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=f59x6y4AAAAJ
   year: ''
-- affiliation: Univerzita v Minnesote, Twin Cities
-  affiliationurl: Univerzita_v_Minnesote__Twin_Cities
+- affiliation: Univerzita v Minnesote
+  affiliationurl: Univerzita_v_Minnesote
+  city: ' Twin Cities'
   country: USA
   countryurl: USA
-  field: "R\xE1diol\xF3gia"
+  field: "r\xE1diol\xF3gia"
   hindex: '44'
   img: 1516866753875.jpeg
   last_update: '2020-12-31'
   links:
-    orcid: https://orcid.org/0000-0001-5054-0150
-    web: https://www.cmrr.umn.edu/facultystaff/ivan/
-    "\u017Eivotopis": https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda
-      v Centre 2011/Tkac- curriculum vitae 2011-02-14.pdf
+  - - orcid
+    - https://orcid.org/0000-0001-5054-0150
+  - - web
+    - https://www.cmrr.umn.edu/facultystaff/ivan/
+  - - "\u017Eivotopis"
+    - https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda v Centre
+      2011/Tkac- curriculum vitae 2011-02-14.pdf
   name: "Ivan Tk\xE1\u010D"
   position: "odborn\xFD asistent"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=DNCCZHYAAAAJ
   year: '1954'
-- affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
-  affiliationurl: Statna_univerzita_v_Severnej_Karoline__Raleigh
+- affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne"
+  affiliationurl: Statna_univerzita_v_Severnej_Karoline
   cited_by:
   - citations:
       all: 9157
@@ -231,37 +269,44 @@
   - i10_index:
       all: 98
       since_2016: 68
+  city: ' Raleigh'
   country: USA
   countryurl: USA
-  field: "Geovizualiz\xE1cia"
+  field: "geovizualiz\xE1cia"
   hindex: 41
   img: DSC02840-1024x768.jpg
   last_update: '2021-09-16'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Helena_Mitasova
-    web: https://meas.sciences.ncsu.edu/people/hmitaso/
-    "\u017Eivotopis": https://meas.sciences.ncsu.edu/wp-content/uploads/sites/3/2015/08/Mitasova_CV2p_Dec2020.pdf
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Helena_Mitasova
+  - - web
+    - https://meas.sciences.ncsu.edu/people/hmitaso/
+  - - "\u017Eivotopis"
+    - https://meas.sciences.ncsu.edu/wp-content/uploads/sites/3/2015/08/Mitasova_CV2p_Dec2020.pdf
   name: "Helena Mit\xE1\u0161ov\xE1"
   position: profesorka
   scholar: https://scholar.google.com/citations?user=TIVMwT4AAAAJ
   year: ''
-- affiliation: "Oregonsk\xE1 \u0161t\xE1tna univerzita, Corvallis"
-  affiliationurl: Oregonska_statna_univerzita__Corvallis
+- affiliation: "Oregonsk\xE1 \u0161t\xE1tna univerzita"
+  affiliationurl: Oregonska_statna_univerzita
+  city: ' Corvallis'
   country: USA
   countryurl: USA
-  field: "Seizmol\xF3gia"
+  field: "seizmol\xF3gia"
   hindex: '41'
   img: 4418748_1200x.jpeg
   last_update: '2020-12-31'
   links:
-    ResearchGate: https://www.researchgate.net/profile/John_Nabelek
-    web: https://ceoas.oregonstate.edu/people/john-nabelek
+  - - ResearchGate
+    - https://www.researchgate.net/profile/John_Nabelek
+  - - web
+    - https://ceoas.oregonstate.edu/people/john-nabelek
   name: "John Nabelek - J\xE1n Ludv\xEDk N\xE1b\u011Blek"
   position: profesor
   scholar: https://scholar.google.com/citations?user=G0MJo3UAAAAJ&amp;hl=en
   year: '1952'
-- affiliation: "Arizonsk\xE1 univerzita, Tucson"
-  affiliationurl: Arizonska_univerzita__Tucson
+- affiliation: "Arizonsk\xE1 univerzita"
+  affiliationurl: Arizonska_univerzita
   cited_by:
   - citations:
       all: 6999
@@ -272,20 +317,22 @@
   - i10_index:
       all: 105
       since_2016: 58
+  city: ' Tucson'
   country: USA
   countryurl: USA
-  field: Optika
+  field: optika
   hindex: 40
   img: 21-Kolesik,Miroslav (12Nov2019).jpg
   last_update: '2021-09-16'
   links:
-    web: http://acms.arizona.edu/FemtoTheory/MK_personal/index.html
+  - - web
+    - http://acms.arizona.edu/FemtoTheory/MK_personal/index.html
   name: "Miroslav Koles\xEDk"
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=1tCBM2kAAAAJ
   year: ''
-- affiliation: "N\xE1rodn\xFD in\u0161tit\xFAt zdravia, Bethesda"
-  affiliationurl: Narodny_institut_zdravia__Bethesda
+- affiliation: "N\xE1rodn\xFD in\u0161tit\xFAt zdravia"
+  affiliationurl: Narodny_institut_zdravia
   cited_by:
   - citations:
       all: 8371
@@ -296,42 +343,54 @@
   - i10_index:
       all: 75
       since_2016: 62
+  city: ' Bethesda'
   country: USA
   countryurl: USA
-  field: "Neuroimunol\xF3gia"
+  field: "neuroimunol\xF3gia"
   hindex: 38
   img: Bibiana Bielekova hitn.jpg
   last_update: '2021-09-16'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Bibiana_Bielekova
-    loop: https://loop.frontiersin.org/people/147850/overview
-    orcid: https://orcid.org/0000-0002-0959-9430
-    publons: https://publons.com/researcher/2002829/bibiana-bielekova/
-    web: https://www.niaid.nih.gov/research/bibi-bielekova-md
-    "\u017Eivotopis": https://demystifyingmedicine.od.nih.gov/dm11/biosketch/dm0301-bielekova-bibiana.pdf
+  - - loop
+    - https://loop.frontiersin.org/people/147850/overview
+  - - orcid
+    - https://orcid.org/0000-0002-0959-9430
+  - - publons
+    - https://publons.com/researcher/2002829/bibiana-bielekova/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Bibiana_Bielekova
+  - - web
+    - https://www.niaid.nih.gov/research/bibi-bielekova-md
+  - - "\u017Eivotopis"
+    - https://demystifyingmedicine.od.nih.gov/dm11/biosketch/dm0301-bielekova-bibiana.pdf
   name: "Bibiana Bielekov\xE1"
   position: "vedeck\xE1 pracovn\xED\u010Dka"
   scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
   year: '1969'
-- affiliation: Univerzita v Missouri, Columbia
-  affiliationurl: Univerzita_v_Missouri__Columbia
+- affiliation: Univerzita v Missouri
+  affiliationurl: Univerzita_v_Missouri
+  city: ' Columbia'
   country: USA
   countryurl: USA
-  field: "Geol\xF3gia"
+  field: "geol\xF3gia"
   hindex: '37'
   img: nabelek_photo.jpeg
   last_update: '2020-12-31'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Peter_Nabelek
-    web: https://geology.missouri.edu/people/nabelek
-    web2: http://faculty.missouri.edu/nabelekp/Welcome.html
-    "\u017Eivotopis": https://geology.missouri.edu/sites/default/files/people-files/2019-09/nabelek_cv.pdf
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter_Nabelek
+  - - web
+    - https://geology.missouri.edu/people/nabelek
+  - - web2
+    - http://faculty.missouri.edu/nabelekp/Welcome.html
+  - - "\u017Eivotopis"
+    - https://geology.missouri.edu/sites/default/files/people-files/2019-09/nabelek_cv.pdf
   name: Peter I. Nabelek
   position: profesor
   scholar: https://scholar.google.com/citations?user=bIXqQ6oAAAAJ&amp;hl=en
   year: '1955'
-- affiliation: Univerzita v Indiane, Bloomington
-  affiliationurl: Univerzita_v_Indiane__Bloomington
+- affiliation: Univerzita v Indiane
+  affiliationurl: Univerzita_v_Indiane
   cited_by:
   - citations:
       all: 4373
@@ -342,15 +401,18 @@
   - i10_index:
       all: 55
       since_2016: 33
+  city: ' Bloomington'
   country: USA
   countryurl: USA
-  field: "Fyzika \u010Cast\xEDc"
+  field: "fyzika \u010Dast\xEDc"
   hindex: 34
   img: dermisek.jpg
   last_update: '2021-09-16'
   links:
-    web: https://physics.indiana.edu/about/directory/all-faculty-scientists/dermisek-radovan.html
-    "\u017Eivotopis": https://dermisek.pages.iu.edu/dermisek_CV.pdf
+  - - web
+    - https://physics.indiana.edu/about/directory/all-faculty-scientists/dermisek-radovan.html
+  - - "\u017Eivotopis"
+    - https://dermisek.pages.iu.edu/dermisek_CV.pdf
   name: "Radovan Derm\xED\u0161ek"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ell1TQQAAAAJ
@@ -368,23 +430,28 @@
   - i10_index:
       all: 55
       since_2016: 45
+  city: THIS HAS TO BE FIXED
   country: USA
   countryurl: USA
-  field: "Fyzika tuh\xFDch l\xE1tok"
+  field: "fyzika tuh\xFDch l\xE1tok"
   hindex: 33
   img: vafek.jpg
   last_update: '2021-09-16'
   links:
-    orcid: https://orcid.org/0000-0001-7561-9287
-    web: https://physics.fsu.edu/person/oskar-vafek
-    web2: https://fs.magnet.fsu.edu/~vafek/
-    "\u017Eivotopis": https://fs.magnet.fsu.edu/~vafek/cv2015 Apr.pdf
+  - - orcid
+    - https://orcid.org/0000-0001-7561-9287
+  - - web
+    - https://physics.fsu.edu/person/oskar-vafek
+  - - web2
+    - https://fs.magnet.fsu.edu/~vafek/
+  - - "\u017Eivotopis"
+    - https://fs.magnet.fsu.edu/~vafek/cv2015 Apr.pdf
   name: Oskar Vafek
   position: profesor
   scholar: https://scholar.google.com/citations?user=-toxVLsAAAAJ&amp;hl=en
   year: ''
-- affiliation: "Univerzita v Pennsylv\xE1nii, Filadelfia"
-  affiliationurl: Univerzita_v_Pennsylvanii__Filadelfia
+- affiliation: "Univerzita v Pennsylv\xE1nii"
+  affiliationurl: Univerzita_v_Pennsylvanii
   cited_by:
   - citations:
       all: 3717
@@ -395,37 +462,44 @@
   - i10_index:
       all: 51
       since_2016: 44
+  city: ' Filadelfia'
   country: USA
   countryurl: USA
-  field: Pediatria
+  field: pediatria
   hindex: 33
   img: 15444061689569716.jpg
   last_update: '2021-09-16'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Lubica_Rauova
-    orcid: https://orcid.org/0000-0003-1990-3077
-    web: https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
+  - - orcid
+    - https://orcid.org/0000-0003-1990-3077
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Lubica_Rauova
+  - - web
+    - https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
   name: "\u013Dubica Rauov\xE1"
   position: docentka
   scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
   year: ''
-- affiliation: Univerzita v Pittsburghu, Pittsburgh
-  affiliationurl: Univerzita_v_Pittsburghu__Pittsburgh
+- affiliation: Univerzita v Pittsburghu
+  affiliationurl: Univerzita_v_Pittsburghu
+  city: ' Pittsburgh'
   country: USA
   countryurl: USA
-  field: Informatika
+  field: informatika
   hindex: '33'
   img: Milos_IMG_9154_v2.jpg
   last_update: '2020-12-31'
   links:
-    web: http://people.cs.pitt.edu/~milos/
-    "\u017Eivotopis": http://people.cs.pitt.edu/~milos/CV.pdf
-  name: "Milo\u0161 hauskrecht"
+  - - web
+    - http://people.cs.pitt.edu/~milos/
+  - - "\u017Eivotopis"
+    - http://people.cs.pitt.edu/~milos/CV.pdf
+  name: "Milo\u0161 Hauskrecht"
   position: profesor
   scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp;hl=en
   year: ''
-- affiliation: Microsoft Research, Redmont
-  affiliationurl: Microsoft_Research__Redmont
+- affiliation: Microsoft Research
+  affiliationurl: Microsoft_Research
   cited_by:
   - citations:
       all: 28631
@@ -436,21 +510,24 @@
   - i10_index:
       all: 48
       since_2016: 40
+  city: ' Redmont'
   country: USA
   countryurl: USA
-  field: "Strojov\xE9 u\u010Denie"
+  field: "strojov\xE9 u\u010Denie"
   hindex: 32
   img: 20161115_Microsoft_NYC_Miro_Dudik_01-1000x450.jpg
   last_update: '2021-09-16'
   links:
-    dblp: https://dblp.org/pid/30/2146.html
-    web: https://www.microsoft.com/en-us/research/people/mdudik/
+  - - dblp
+    - https://dblp.org/pid/30/2146.html
+  - - web
+    - https://www.microsoft.com/en-us/research/people/mdudik/
   name: "Miroslav Dud\xEDk"
-  position: "vedeck\xFD pracovn\xEDk (Sr principal researcher)"
+  position: "vedeck\xFD pracovn\xEDk (sr principal researcher)"
   scholar: https://scholar.google.sk/citations?user=wYMTld8AAAAJ&amp;hl=en
   year: ''
-- affiliation: "Havajsk\xE1 univerzita, Manoa"
-  affiliationurl: Havajska_univerzita__Manoa
+- affiliation: "Havajsk\xE1 univerzita"
+  affiliationurl: Havajska_univerzita
   cited_by:
   - citations:
       all: 3792
@@ -461,38 +538,46 @@
   - i10_index:
       all: 54
       since_2016: 49
+  city: ' Manoa'
   country: USA
   countryurl: USA
-  field: "Oce\xE1nografia"
+  field: "oce\xE1nografia"
   hindex: 31
   img: FK190726-HenriettaDulai-20190812-Naranjo-6908.jpg
   last_update: '2021-09-16'
   links:
-    "na\u0161i-a-svetov\xED": https://www.slovenskezahranicie.sk/sk/udalost/2475/nasi-a-svetovi-v-rtvs-henrietta-dulaiova-oceanografka-na-havaji
-    orcid: https://orcid.org/0000-0001-5970-1483
-    web: http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/
-    "\u017Eivotopis": http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/files/CV_henrietta.pdf
+  - - "na\u0161i-a-svetov\xED"
+    - https://www.slovenskezahranicie.sk/sk/udalost/2475/nasi-a-svetovi-v-rtvs-henrietta-dulaiova-oceanografka-na-havaji
+  - - orcid
+    - https://orcid.org/0000-0001-5970-1483
+  - - web
+    - http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/
+  - - "\u017Eivotopis"
+    - http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/files/CV_henrietta.pdf
   name: Henrietta Dulai
   position: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
   year: ''
-- affiliation: Google, Mountain View
-  affiliationurl: Google__Mountain_View
+- affiliation: Google
+  affiliationurl: Google
+  city: ' Mountain View'
   country: USA
   countryurl: USA
-  field: "Strojov\xE9 u\u010Denie"
+  field: "strojov\xE9 u\u010Denie"
   hindex: '31'
   img: slideslive_branislav-kveton_nearoptimal-interactive-recommender-systems.jpg
   last_update: '2020-12-31'
   links:
-    dblp: https://dblp.org/pid/92/5526.html
-    web: http://www.bkveton.com
+  - - dblp
+    - https://dblp.org/pid/92/5526.html
+  - - web
+    - http://www.bkveton.com
   name: "Branislav Kveto\u0148"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
   year: ''
-- affiliation: Univerzita v Chicagu, Chicago
-  affiliationurl: Univerzita_v_Chicagu__Chicago
+- affiliation: Univerzita v Chicagu
+  affiliationurl: Univerzita_v_Chicagu
   cited_by:
   - citations:
       all: 18191
@@ -503,16 +588,19 @@
   - i10_index:
       all: 34
       since_2016: 34
+  city: ' Chicago'
   country: USA
   countryurl: USA
-  field: "Ekon\xF3mia"
+  field: "ekon\xF3mia"
   hindex: 30
   img: Screen Shot 2021-08-31 at 11.15.51 PM.png
   last_update: '2021-09-16'
   links:
-    NBS: https://www.nbs.sk/en/about-the-bank/bank-board-of-the-nbs/the-bank-board-member-lubos-pastor
-    web: https://faculty.chicagobooth.edu/lubos-pastor
-  name: "\u013Eubo\u0161 P\xE1stor"
+  - - NBS
+    - https://www.nbs.sk/en/about-the-bank/bank-board-of-the-nbs/the-bank-board-member-lubos-pastor
+  - - web
+    - https://faculty.chicagobooth.edu/lubos-pastor
+  name: "\u013Dubo\u0161 P\xE1stor"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
   year: '1974'

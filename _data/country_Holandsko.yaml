@@ -1,5 +1,5 @@
-- affiliation: "Technick\xE1 univerzita v Delfte, Delft"
-  affiliationurl: Technicka_univerzita_v_Delfte__Delft
+- affiliation: "Technick\xE1 univerzita v Delfte"
+  affiliationurl: Technicka_univerzita_v_Delfte
   cited_by:
   - citations:
       all: 11293
@@ -10,21 +10,24 @@
   - i10_index:
       all: 198
       since_2016: 158
+  city: ' Delft'
   country: Holandsko
   countryurl: Holandsko
-  field: Fotovoltika
+  field: fotovoltika
   hindex: 49
   img: Miro-Zeman.JPG
   last_update: '2021-09-16'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Miro_Zeman
-    web: https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/photovoltaic-materials-and-devices/staff/miro-zeman/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Miro_Zeman
+  - - web
+    - https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/photovoltaic-materials-and-devices/staff/miro-zeman/
   name: Miro Zeman
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YP4gwRsAAAAJ
   year: '1957'
-- affiliation: "Technick\xE1 univerzita v Delfte, Delft"
-  affiliationurl: Technicka_univerzita_v_Delfte__Delft
+- affiliation: "Technick\xE1 univerzita v Delfte"
+  affiliationurl: Technicka_univerzita_v_Delfte
   cited_by:
   - citations:
       all: 8984
@@ -35,30 +38,36 @@
   - i10_index:
       all: 200
       since_2016: 124
+  city: ' Delft'
   country: Holandsko
   countryurl: Holandsko
-  field: Elektronika
+  field: elektronika
   hindex: 48
   img: pavol-bauer-square.jpg__300x300_q70_subsampling-2.jpg
   last_update: '2021-09-16'
   links:
-    web: https://www.tudelft.nl/staff/p.bauer/?cHash=96dc8f6d55c5ea75995f7e9d5b68a50d
-    "\u017Eivotopis": https://www.tudelft.nl/en/staff/p.bauer/
+  - - web
+    - https://www.tudelft.nl/staff/p.bauer/?cHash=96dc8f6d55c5ea75995f7e9d5b68a50d
+  - - "\u017Eivotopis"
+    - https://www.tudelft.nl/en/staff/p.bauer/
   name: Pavol Bauer
   position: profesor
   scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp;hl=en
   year: ''
-- affiliation: "Univerzitn\xE9 lek\xE1rske centrum, Utrecht"
-  affiliationurl: Univerzitne_lekarske_centrum__Utrecht
+- affiliation: "Univerzitn\xE9 lek\xE1rske centrum"
+  affiliationurl: Univerzitne_lekarske_centrum
+  city: ' Utrecht'
   country: Holandsko
   countryurl: Holandsko
-  field: "Kardiovaskul\xE1rna Genetika"
+  field: "kardiovaskul\xE1rna genetika"
   hindex: '35'
   img: 1-2.jpg
   last_update: '2020-12-31'
   links:
-    ResearchGate: https://www.researchgate.net/profile/Michal_Mokry
-    web: https://www.umcutrecht.nl/en/research/researchers/mokry-michal-m
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Michal_Mokry
+  - - web
+    - https://www.umcutrecht.nl/en/research/researchers/mokry-michal-m
   name: "Michal Mokr\xFD"
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=rX7GiUAAAAAJ

@@ -1,4 +1,4 @@
-affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
+affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
 cited_by:
 - citations:
     all: 44509
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 72
     since_2016: 49
+city: " Ko\u0161ice"
 country: Slovensko
-field: "Aplikovan\xE1 matematika"
+field: "aplikovan\xE1 matematika"
 hindex: 37
 img: 5857995_1200x.jpeg
 last_update: '2021-09-16'
@@ -19,7 +20,7 @@ links:
   learned.sk: https://www.learned.sk/prof-rndr-igor-podlubny-drsc/
   publons: https://publons.com/researcher/2691427/igor-podlubny/
   web: http://people.tuke.sk/igor.podlubny/index.html
-name: "Igor Podlubn\xDD"
+name: "Igor Podlubn\xFD"
 position: profesor
 scholar: http://scholar.google.com/citations?user=4H2CInEAAAAJ
 year: '1961'

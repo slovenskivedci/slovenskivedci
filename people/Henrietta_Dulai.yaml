@@ -1,4 +1,4 @@
-affiliation: "Havajsk\xE1 univerzita, Manoa"
+affiliation: "Havajsk\xE1 univerzita"
 cited_by:
 - citations:
     all: 3792
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 54
     since_2016: 49
+city: ' Manoa'
 country: USA
-field: "Oce\xE1nografia"
+field: "oce\xE1nografia"
 hindex: 31
 img: FK190726-HenriettaDulai-20190812-Naranjo-6908.jpg
 last_update: '2021-09-16'

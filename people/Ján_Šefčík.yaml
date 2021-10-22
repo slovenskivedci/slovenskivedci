@@ -1,4 +1,4 @@
-affiliation: Univerzita Strathclyde, Glasgow
+affiliation: Univerzita Strathclyde
 cited_by:
 - citations:
     all: 3799
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 84
     since_2016: 53
+city: ' Glasgow'
 country: "Ve\u013Ek\xE1 Brit\xE1nia"
-field: "Chemick\xE9 In\u017Einierstvo"
+field: "chemick\xE9 in\u017Einierstvo"
 hindex: 35
 img: jan-s-500x500.jpeg
 last_update: '2021-09-16'

@@ -1,4 +1,4 @@
-affiliation: Univerzita v Birminghame, Birmingham
+affiliation: Univerzita v Birminghame
 cited_by:
 - citations:
     all: 6412
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 99
     since_2016: 66
+city: ' Birmingham'
 country: "Ve\u013Ek\xE1 Brit\xE1nia"
-field: "Komplexn\xE9 a adapt\xEDvne syst\xE9my"
+field: "komplexn\xE9 a adapt\xEDvne syst\xE9my"
 hindex: 38
 img: Peter-Tino-visita-Loyola.jpg
 last_update: '2021-09-16'

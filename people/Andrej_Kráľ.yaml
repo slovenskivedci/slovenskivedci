@@ -1,4 +1,4 @@
-affiliation: "Hannoversk\xE1 lek\xE1rska univezita, Hannover"
+affiliation: "Hannoversk\xE1 lek\xE1rska univezita"
 cited_by:
 - citations:
     all: 7271
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 85
     since_2016: 71
+city: ' Hannover'
 country: Nemecko
-field: Neuroveda
+field: neuroveda
 hindex: 40
 img: Professor-Dr.-Dr.-Andrej-Kral.jpg
 last_update: '2021-09-16'

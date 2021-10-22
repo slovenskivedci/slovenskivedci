@@ -1,4 +1,4 @@
-affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
     all: 6354
@@ -9,6 +9,7 @@ cited_by:
 - i10_index:
     all: 99
     since_2016: 74
+city: ' Bratislava'
 country: Slovensko
 field: "makromolekul\xE1rna ch\xE9mia"
 hindex: 42

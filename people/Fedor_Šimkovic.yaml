@@ -1,4 +1,4 @@
-affiliation: "Univerzita Komensk\xE9ho, Bratislava"
+affiliation: "Univerzita Komensk\xE9ho"
 cited_by:
 - citations:
     all: 12079
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 160
     since_2016: 104
+city: ' Bratislava'
 country: Slovensko
-field: "Jadrov\xE1 Fyzika"
+field: "jadrov\xE1 fyzika"
 hindex: 60
 img: simkovic_fedor_ESA.jpg
 last_update: '2021-09-16'

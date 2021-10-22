@@ -1,4 +1,4 @@
-affiliation: "Slovesk\xE1 akad\xE9mia vied, Ko\u0161ice"
+affiliation: "Slovesk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
     all: 4059
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 108
     since_2016: 60
+city: " Ko\u0161ice"
 country: Slovensko
-field: Fyzika magnetizmu
+field: fyzika magnetizmu
 hindex: 32
 img: Timko..jpg
 last_update: '2021-09-16'

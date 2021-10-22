@@ -1,4 +1,4 @@
-affiliation: Univerzita sv. Cyrila a Metoda v Trnave, Trnava
+affiliation: Univerzita sv. Cyrila a Metoda v Trnave
 cited_by:
 - citations:
     all: 8085
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 181
     since_2016: 105
+city: ' Trnava'
 country: Slovensko
-field: "Anorganick\xE1 Ch\xE9mia"
+field: "anorganick\xE1 ch\xE9mia"
 hindex: 44
 img: nas-profesor-1.jpg
 last_update: '2021-09-16'

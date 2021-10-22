@@ -1,4 +1,4 @@
-affiliation: "Technick\xE1 univerzita vo Zvolene, Zvolen"
+affiliation: "Technick\xE1 univerzita vo Zvolene"
 cited_by:
 - citations:
     all: 4298
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 86
     since_2016: 57
+city: ' Zvolen'
 country: Slovensko
-field: "Genetika drev\xEDn"
+field: "genetika drev\xEDn"
 hindex: 30
 img: gomory.photo.png
 last_update: '2021-09-16'

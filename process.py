@@ -27,6 +27,14 @@ for y in glob.glob("./people/*.yaml"):
 		dic["countryurl"]=repl(dic["country"].replace(" ","_"))
 		dic["affiliationurl"]=repl(dic["affiliation"].replace(" ","_"))
 		
+		links=dic['links']
+		links=[ [k, links[k]] for k in links]
+		
+		links = sorted(links, key=lambda kv: kv[0].lower())
+		
+		dic['links'] = links
+		
+		
 		institutions[dic['affiliation']].append(dic)			
 		countries[dic['country']].append(dic)
 		alllst.append(dic)

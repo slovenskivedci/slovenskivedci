@@ -1,6 +1,7 @@
-affiliation: "Google, Z\xFCrich"
+affiliation: Google
+city: " Z\xFCrich"
 country: "\u0160vaj\u010Diarsko"
-field: INFORMATIKA
+field: informatika
 hindex: '31'
 img: 00100lrPORTRAIT_00100_BURST20200705131802315_COVER.jpg
 last_update: '2020-12-31'
@@ -8,7 +9,7 @@ links:
   dblp: https://dblp.org/pid/p/MartinPal.html
   web: https://research.google/people/author20/
   "\u017Eivotopis": http://martin.palenica.com/cv2.pdf
-name: "Martin P\xC1L"
+name: "Martin P\xE1l"
 position: "vedeck\xFD pracovn\xEDk"
 scholar: https://scholar.google.com/citations?hl=en&amp;user=NDhlLv0AAAAJ
 year: ''

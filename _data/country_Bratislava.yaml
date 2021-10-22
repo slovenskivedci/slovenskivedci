@@ -1,5 +1,5 @@
-- affiliation: "Lek\xE1rska fakulta, Univerzita Komensk\xE9ho"
-  affiliationurl: Lekarska_fakulta__Univerzita_Komenskeho
+- affiliation: "Lek\xE1rska fakulta"
+  affiliationurl: Lekarska_fakulta
   cited_by:
   - citations:
       all: 45683
@@ -10,34 +10,44 @@
   - i10_index:
       all: 74
       since_2016: 71
+  city: " Univerzita Komensk\xE9ho"
   country: Bratislava
   countryurl: Bratislava
-  field: "Epidemiol\xF3gia"
+  field: "epidemiol\xF3gia"
   hindex: 49
   img: 180205_Dusevne_choroby_2_01.jpg
   last_update: '2021-09-16'
   links:
-    orcid: https://orcid.org/0000-0003-0625-256X
-    publons: https://publons.com/researcher/2304958/alexandra-brazinova
-    "\u017Eivotopis": https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
+  - - orcid
+    - https://orcid.org/0000-0003-0625-256X
+  - - publons
+    - https://publons.com/researcher/2304958/alexandra-brazinova
+  - - "\u017Eivotopis"
+    - https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
   name: "Alexandra Bra\u017Einov\xE1"
   position: docentka
   scholar: https://scholar.google.com/citations?view_op=list_works&amp;hl=sk&amp;user=_tpva74AAAAJ&amp;gmla=AJsN-F4enZVXEbSLey5sIxs2iYX1b7cqmKalMsteEbPCoYJYJxTGQ_Zt-LvTIN2kkDL4gvas8IzPL_-d-a2pm35LzuGeTzsZ-_QtrpIO0EjpojuHFcUXAHqhiyBxqm1VoP8CFAzsgdRpPW7w8bg5bGlASKOHjuCzhA&amp;fbclid=IwAR3a7AhdjAeyLhXviBDKjED2xYkm112lWx5VvKswNvukEuxNdsJdW37SfLg
   year: '1971'
-- affiliation: "Matematick\xFD in\u0161tit\xFAt, Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Matematicky_institut__Slovenska_akademia_vied
+- affiliation: "Matematick\xFD in\u0161tit\xFAt"
+  affiliationurl: Matematicky_institut
+  city: " Slovensk\xE1 akad\xE9mia vied"
   country: Bratislava
   countryurl: Bratislava
-  field: Matematika
+  field: matematika
   hindex: '31'
   img: 5246673.jpeg
   last_update: '2020-12-31'
   links:
-    ResearchGate: https://www.researchgate.net/scientific-contributions/Anatolij-Dvurecenskij-77457283
-    dblp: https://dblp.org/pid/15/2733.html
-    osobnosti: https://www.osobnosti.sk/osobnost/anatolij-dvurecenskij-559
-    publons: https://publons.com/researcher/4012335/anatolij-dvurecenskij/
-    web: http://www.mat.savba.sk/~dvurecenskij/
+  - - dblp
+    - https://dblp.org/pid/15/2733.html
+  - - osobnosti
+    - https://www.osobnosti.sk/osobnost/anatolij-dvurecenskij-559
+  - - publons
+    - https://publons.com/researcher/4012335/anatolij-dvurecenskij/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Anatolij-Dvurecenskij-77457283
+  - - web
+    - http://www.mat.savba.sk/~dvurecenskij/
   name: "Anatolij Dvure\u010Denskij"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC

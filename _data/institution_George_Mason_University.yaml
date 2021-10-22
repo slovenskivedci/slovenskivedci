@@ -10,6 +10,7 @@
   - i10_index:
       all: 92
       since_2016: 58
+  city: THIS HAS TO BE FIXED
   country: USA
   countryurl: USA
   field: "robotika a strojov\xE9 videnie"
@@ -17,9 +18,11 @@
   img: C57X6nj7.jpg
   last_update: '2021-09-16'
   links:
-    web: https://cs.gmu.edu/~kosecka/
-    wikipedia: "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
-  name: "JANA KO\u0160ECK\xC1"
+  - - web
+    - https://cs.gmu.edu/~kosecka/
+  - - wikipedia
+    - "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
+  name: "Jana Ko\u0161eck\xE1"
   position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
   year: ''

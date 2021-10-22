@@ -1,4 +1,4 @@
-affiliation: "Technick\xE1 univerzita v Ko\u0161iciach, Ko\u0161ice"
+affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
 cited_by:
 - citations:
     all: 3723
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 93
     since_2016: 55
+city: " Ko\u0161ice"
 country: Slovensko
-field: "Te\xF3ria grafov"
+field: "te\xF3ria grafov"
 hindex: 31
 img: Baca-Photo-2017 (1).jpeg
 last_update: '2021-09-16'

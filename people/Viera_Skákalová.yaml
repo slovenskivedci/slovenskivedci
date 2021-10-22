@@ -1,4 +1,4 @@
-affiliation: "Viede\u0148sk\xE1 univerzita, Viede\u0148"
+affiliation: "Viede\u0148sk\xE1 univerzita"
 cited_by:
 - citations:
     all: 5708
@@ -9,6 +9,7 @@ cited_by:
 - i10_index:
     all: 67
     since_2016: 45
+city: " Viede\u0148"
 country: "Rak\xFAsko"
 field: "nanomateri\xE1ly"
 hindex: 35

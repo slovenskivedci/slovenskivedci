@@ -1,4 +1,4 @@
-affiliation: "Slovensk\xE1 akad\xE9mia vied, Ko\u0161ice"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
     all: 4386
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 121
     since_2016: 77
+city: " Ko\u0161ice"
 country: Slovensko
-field: "Experiment\xE1lna fyzika"
+field: "experiment\xE1lna fyzika"
 hindex: 32
 img: Mvy-cFU9pupBpcPAxJY2PmN_J0ZkMYobAMcDwX8HtMMGv1ukh4P8seEDmC2iHTJOwDK2fzDrxJZk_WwCxLSVyaaxjfKfQ2zALELajy3GipEJskFhKm1GkbW38zeXr2amXg=w1280
 last_update: '2021-09-16'

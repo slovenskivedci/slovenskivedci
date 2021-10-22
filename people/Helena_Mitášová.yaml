@@ -1,4 +1,4 @@
-affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne, Raleigh"
+affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne"
 cited_by:
 - citations:
     all: 9157
@@ -9,8 +9,9 @@ cited_by:
 - i10_index:
     all: 98
     since_2016: 68
+city: ' Raleigh'
 country: USA
-field: "Geovizualiz\xE1cia"
+field: "geovizualiz\xE1cia"
 hindex: 41
 img: DSC02840-1024x768.jpg
 last_update: '2021-09-16'

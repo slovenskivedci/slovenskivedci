@@ -1,0 +1,561 @@
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "jadrov\xE1 fyzika"
+  hindex: '123'
+  img: "Nov\xE1 fyzika v CERN.JPG"
+  last_update: '2020-12-31'
+  links:
+  - - publons
+    - https://publons.com/researcher/3258206/brano-sitar/
+  - - web
+    - https://fmph.uniba.sk/kontakt/zamestnanci/sitar1/
+  - - wikipedia
+    - "https://sk.wikipedia.org/wiki/Branislav_Sit\xE1r"
+  - - "\u017Eivotopis"
+    - "https://www.vedatechnika.sk/SK/enoviny/RozhovoryReportaze/Documents/Profesijn\xFD\
+      \ \u017Eivotopis_Branislav Sit\xE1r.pdf"
+  name: "Branislav Sit\xE1r"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=4ymEP0sAAAAJ
+  year: '1946'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 12079
+      since_2016: 4907
+  - h_index:
+      all: 60
+      since_2016: 37
+  - i10_index:
+      all: 160
+      since_2016: 104
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "jadrov\xE1 fyzika"
+  hindex: 60
+  img: simkovic_fedor_ESA.jpg
+  last_update: '2021-09-16'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/fedor-simkovic
+  - - loop
+    - https://loop.frontiersin.org/people/406064/overview
+  - - orcid
+    - https://orcid.org/0000-0003-2414-0414
+  - - web
+    - http://www.dnp.fmph.uniba.sk/people.php
+  - - "\u017Eivotopis"
+    - https://drive.google.com/file/d/1blN4ByXStaQ2gcbCpD7J7Ra0uTVTZio8/view?usp=sharing
+  name: "Fedor \u0160imkovic"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=aC__pxUAAAAJ&amp;hl=en&amp;oi=ao
+  year: '1959'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: fyzika
+  hindex: '57'
+  img: Umr65d3lS2Pui_hbgWXgpw.2560_Fyzik-Vladim-r-ern.jpg
+  last_update: '2020-12-31'
+  links:
+  - - web
+    - http://davinci.fmph.uniba.sk/~cerny1/
+  name: "Vladim\xEDr \u010Cern\xFD"
+  position: docent
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=m-twF5IAAAAJ
+  year: '1952'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "jadrov\xE1 fyzika"
+  hindex: '56'
+  img: TBEN1422.jpg
+  last_update: '2020-12-31'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Pavel_Povinec
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/ovv/2014/141112_Profesorska_prednaska_o_Fukusime-CV_Povinec.pdf
+  name: Pavel Povinec
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
+  year: '1942'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 6851
+      since_2016: 4222
+  - h_index:
+      all: 44
+      since_2016: 35
+  - i10_index:
+      all: 127
+      since_2016: 107
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "behavior\xE1lna ekol\xF3gia"
+  hindex: 44
+  img: Screen Shot 2020-12-26 at 12.39.35 PM.png
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - https://fns.uniba.sk/pracoviska/environmentalna-sekcia/kee/zamestnanci/pavol-prokop/
+  name: Pavol Prokop
+  position: profesor
+  scholar: https://scholar.google.sk/citations?user=q6uGy_4AAAAJ&amp;hl=sk
+  year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 5046
+      since_2016: 2148
+  - h_index:
+      all: 40
+      since_2016: 24
+  - i10_index:
+      all: 123
+      since_2016: 62
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "elektr\xF3nov\xE1 a plazmov\xE1 fyzika"
+  hindex: 40
+  img: 181109_Elevate_02_006a5ec917.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - http://neon.dpp.fmph.uniba.sk/workgroup/index.php?option=com_content&view=article&id=1&Itemid=101
+  name: "\u0160tefan Matej\u010D\xEDk"
+  position: profesor
+  scholar: https://scholar.google.sk/citations?hl=cs&amp;user=Bvdw6vIAAAAJ
+  year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 5949
+      since_2016: 3519
+  - h_index:
+      all: 40
+      since_2016: 32
+  - i10_index:
+      all: 139
+      since_2016: 105
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "molekul\xE1rna biomedic\xEDna"
+  hindex: 40
+  img: TBEN2007.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - https://www.imbm.sk/sk/members/peter-celec-sk/
+  - - "\u017Eivotopis"
+    - http://www.imbm.sk/wp-content/uploads/2017/03/cv_peter-celec-short-en.pdf
+  name: Peter Celec
+  position: docent
+  scholar: https://scholar.google.sk/citations?user=iPch8vQAAAAJ&amp;hl=en
+  year: '1979'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 3991
+      since_2016: 2512
+  - h_index:
+      all: 38
+      since_2016: 24
+  - i10_index:
+      all: 57
+      since_2016: 50
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyzik\xE1lna ch\xE9mia"
+  hindex: 38
+  img: 989c3ce1fd8c4f3a8c5253a1c1f5cbd9.png.200x200_q95_crop_detail_upscale.png
+  last_update: '2021-09-16'
+  links:
+  - - publons
+    - https://publons.com/researcher/1378264/tomas-bucko/
+  - - web
+    - https://fns.uniba.sk/en/departments/chemistry/department-of-physical-and-theoretical-chemistry/people/central-database-of-staff/?tx_unibausers_pi1[person]=bucko19
+  name: "Tom\xE1\u0161 Bu\u010Dko"
+  position: docent
+  scholar: https://scholar.google.de/citations?user=wsJN2SMAAAAJ&amp;hl=en
+  year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 6431
+      since_2016: 1407
+  - h_index:
+      all: 38
+      since_2016: 21
+  - i10_index:
+      all: 76
+      since_2016: 43
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "jadrov\xE1 fyzika"
+  hindex: 38
+  img: 3049399_1200x.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - https://uniba.sk/o-univerzite/organy-uk/vedenie/prorektor-pre-vedu-doktorandske-studium-a-projektovu-cinnost/
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Jozef_Masarik
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/ovv/2018/181031_Volby-JozefMasarikZivotopis.pdf
+  name: Jozef Masarik
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=DkqU0V4AAAAJ&amp;hl=th
+  year: '1959'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 5715
+      since_2016: 2138
+  - h_index:
+      all: 37
+      since_2016: 22
+  - i10_index:
+      all: 138
+      since_2016: 67
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: biofyzika
+  hindex: 37
+  img: maxresdefault.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - https://uniba.sk/ludia/hianik1/
+  name: Tibor Hianik
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=FNfPewQAAAAJ&amp;hl=en
+  year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: geofyzika
+  hindex: '36'
+  img: om2ubySZ.jpg
+  last_update: '2020-12-31'
+  links:
+  - - web
+    - http://www.nuquake.eu
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Peter_Moczo
+  - - "\u017Eivotopis"
+    - https://vedanadosah.cvtisr.sk/prof-peter-moczo-sme-radi-ze-sme-sucastou-spickoveho-vyskumu
+  name: Peter Moczo
+  position: profesor
+  scholar: https://scholar.google.sk/citations?user=OF5iXJQAAAAJ&amp;hl=sk
+  year: '1956'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "biol\xF3gia"
+  hindex: '35'
+  img: 116902-michal-zeman-clanokW.jpg
+  last_update: '2020-12-31'
+  links:
+  - - web
+    - https://fns.uniba.sk/kontakt/zamestnanci-prif-uk/?tx_unibausers_pi1[person]=zeman1
+  name: Michal Zeman
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=dWhSd2wAAAAJ&amp;hl=en&amp;oi=sra
+  year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "onkol\xF3gia"
+  hindex: '35'
+  img: 4-07d4f7880dbb838f170f340db17382613636ca36.jpg
+  last_update: '2020-12-31'
+  links:
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
+  name: Michal Mego
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=NvHY0EcAAAAJ&amp;hl=en&amp;oi=ao
+  year: '1977'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "intern\xE1 medic\xEDna"
+  hindex: '34'
+  img: sebekova-katarina.jpg
+  last_update: '2020-12-31'
+  links:
+  - - web
+    - https://www.imbm.sk/members/katarina-sebekova/
+  - - "\u017Eivotopis"
+    - http://www.imbm.sk/wp-content/uploads/2017/03/cv-ks-3.pdf
+  name: "Katar\xEDna \u0160ebekov\xE1"
+  position: docentka
+  scholar: https://scholar.google.sk/citations?hl=sk&amp;user=jsJC9WgAAAAJ
+  year: '1955'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 4247
+      since_2016: 2058
+  - h_index:
+      all: 33
+      since_2016: 24
+  - i10_index:
+      all: 74
+      since_2016: 61
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "jadrov\xE1 fyzika"
+  hindex: 33
+  img: antalics_1500.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - http://antalic.dnp.fmph.uniba.sk/index.php
+  - - "\u017Eivotopis"
+    - http://antalic.dnp.fmph.uniba.sk/cv.php
+  name: "Stanislav Antali\u010D"
+  position: docent
+  scholar: https://scholar.google.com/citations?user=h08MR_wAAAAJ&amp;hl=en
+  year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 3000
+      since_2016: 716
+  - h_index:
+      all: 33
+      since_2016: 14
+  - i10_index:
+      all: 67
+      since_2016: 31
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: matematika
+  hindex: 33
+  img: fila_1500_02.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - http://www.iam.fmph.uniba.sk/institute/fila/
+  name: Marek Fila
+  position: profesor
+  scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ&amp;hl=en
+  year: '1959'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 5133
+      since_2016: 2969
+  - h_index:
+      all: 32
+      since_2016: 28
+  - i10_index:
+      all: 121
+      since_2016: 76
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: matematika
+  hindex: 32
+  img: 191125_Michal_Feckan_patri_medzi_najcitovanejsich__ed4b7c8d16.jpg
+  last_update: '2021-09-16'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
+  - - web
+    - https://www.mat.savba.sk/~feckan/
+  - - "\u017Eivotopis"
+    - https://www.mat.savba.sk/~feckan/#_toc16
+  name: "Michal Fe\u010Dkan"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
+  year: '1960'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 4549
+      since_2016: 1877
+  - h_index:
+      all: 32
+      since_2016: 20
+  - i10_index:
+      all: 63
+      since_2016: 33
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyzika kondenzovan\xFDch l\xE1tok"
+  hindex: 32
+  img: jdxjF1Sp.JPG
+  last_update: '2021-09-16'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-4013-9117
+  - - web
+    - https://dep.fmph.uniba.sk/cv-rm/
+  name: "Roman Marto\u0148\xE1k"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=FNaaPIwAAAAJ&amp;hl=en
+  year: '1964'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: fyzika
+  hindex: '32'
+  img: unnamed-4.jpg
+  last_update: '2020-12-31'
+  links:
+  - - web
+    - http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=grajcar
+  - - "\u017Eivotopis"
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9067&action=cv
+  name: Miroslav Grajcar
+  position: profesor
+  scholar: https://scholar.google.co.in/citations?user=KPgJyEAAAAAJ&amp;hl=en
+  year: '1966'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "lek\xE1rska bioch\xE9mia"
+  hindex: '32'
+  img: 02-21 JL.jpg
+  last_update: '2020-12-31'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/362858/overview
+  - - osobnosti
+    - https://www.osobnosti.sk/osobnost/jan-lehotsky-1982
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jan_Lehotsky
+  - - web
+    - https://www.jfmed.uniba.sk/pracoviska/vedecko-pedagogicke-pracoviska/teoreticke-ustavy/ustav-lekarskej-biochemie/zamestnanci-ustavu/prof-rndr-jan-lehotsky-drsc-zastupca-veduceho/
+  name: "J\xE1n Lehotsk\xFD"
+  position: profesor
+  scholar: https://scholar.google.sk/citations?user=rXl9hY0AAAAJ&amp;hl=sk&amp;oi=sra
+  year: '1954'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 3606
+      since_2016: 1412
+  - h_index:
+      all: 31
+      since_2016: 14
+  - i10_index:
+      all: 55
+      since_2016: 27
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: matematika
+  hindex: 31
+  img: Pavol_Quittner.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - http://www.iam.fmph.uniba.sk/institute/quittner/
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Pavol_Quittner
+  name: Pavol Quittner
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=QhrxwOcAAAAJ
+  year: '1958'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 4550
+      since_2016: 2335
+  - h_index:
+      all: 31
+      since_2016: 24
+  - i10_index:
+      all: 47
+      since_2016: 37
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: geofyzika
+  hindex: 31
+  img: JoKr.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - http://www.nuquake.eu
+  name: Jozef Kristek
+  position: docent
+  scholar: https://scholar.google.com/citations?user=CgbiV4EAAAAJ&amp;hl=en
+  year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 3068
+      since_2016: 1391
+  - h_index:
+      all: 30
+      since_2016: 20
+  - i10_index:
+      all: 71
+      since_2016: 37
+  city: ' Bratislava'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "geol\xF3gia"
+  hindex: 30
+  img: plasienka-foto.jpg
+  last_update: '2021-09-16'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Dusan_Plasienka
+  - - web
+    - https://geopaleo.sk/plasienka-dusan/
+  - - "\u017Eivotopis"
+    - https://geopaleo.sk/plasienka-dusan/plasienka-dusan-cv/
+  name: "Du\u0161an Pla\u0161ienka"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=JCOUk6EAAAAJ
+  year: '1953'

@@ -10,15 +10,18 @@
   - i10_index:
       all: 141
       since_2016: 113
+  city: THIS HAS TO BE FIXED
   country: Nemecko
   countryurl: Nemecko
-  field: "Kvantov\xE1 fyzika"
+  field: "kvantov\xE1 fyzika"
   hindex: 53
   img: VvC-2015-5-Fabian-14.jpg
   last_update: '2021-09-16'
   links:
-    web: http://www.physik.uni-regensburg.de/forschung/fabian/
-    "\u017Eivotopis": http://www.physik.uni-regensburg.de/forschung/fabian/pages/mainframes/people/JaroslavFabian/resume.pdf
+  - - web
+    - http://www.physik.uni-regensburg.de/forschung/fabian/
+  - - "\u017Eivotopis"
+    - http://www.physik.uni-regensburg.de/forschung/fabian/pages/mainframes/people/JaroslavFabian/resume.pdf
   name: "Jaroslav Fabi\xE1n"
   position: profesor
   scholar: https://scholar.google.de/citations?user=bNu69CcAAAAJ&amp;hl=en

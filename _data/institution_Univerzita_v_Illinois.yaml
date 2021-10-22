@@ -1,0 +1,30 @@
+- affiliation: Univerzita v Illinois
+  affiliationurl: Univerzita_v_Illinois
+  cited_by:
+  - citations:
+      all: 32106
+      since_2016: 6487
+  - h_index:
+      all: 87
+      since_2016: 39
+  - i10_index:
+      all: 359
+      since_2016: 145
+  city: ' Urbana-Champaign'
+  country: USA
+  countryurl: USA
+  field: informatika
+  hindex: 87
+  img: 163208.jpg
+  last_update: '2021-09-16'
+  links:
+  - - dblp
+    - https://dblp.org/pid/45/3224.html
+  - - web
+    - https://cs.illinois.edu/about/people/faculty/klara
+  - - wikipedia
+    - https://en.wikipedia.org/wiki/Klara_Nahrstedt
+  name: "Kl\xE1ra"
+  position: profesorka
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
+  year: Bajcsy

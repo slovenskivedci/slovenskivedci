@@ -1,4 +1,4 @@
-affiliation: "Slovensk\xE1 akad\xE9mia vied, Bratislava"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
     all: 4851
@@ -9,14 +9,15 @@ cited_by:
 - i10_index:
     all: 108
     since_2016: 26
+city: ' Bratislava'
 country: Slovensko
-field: "v\xFDpo\u010Dtov\xE1 Ch\xE9mia"
+field: "v\xFDpo\u010Dtov\xE1 ch\xE9mia"
 hindex: 35
 img: IT.jpg
 last_update: '2021-09-16'
 links:
   web: http://www.chem.sk/people/tvaroskaigor/
-name: "IGOR TVARO\u0160KA"
+name: "Igor Tvaro\u0161ka"
 position: "vedeck\xFD pracovn\xEDk"
 scholar: https://scholar.google.com/citations?hl=en&amp;user=v71jEjAAAAAJ
 year: ''

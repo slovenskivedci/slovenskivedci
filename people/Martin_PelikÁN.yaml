@@ -9,14 +9,15 @@ cited_by:
 - i10_index:
     all: 99
     since_2016: 39
+city: THIS HAS TO BE FIXED
 country: USA
-field: "AplIkovan\xC1 Informatika"
+field: "aplikovan\xE1 informatika"
 hindex: 44
 img: Martin_Pelikan.jpg
 last_update: '2021-09-16'
 links:
   dblp: https://dblp.org/pid/18/963.html
-name: "Martin Pelik\xC1N"
+name: "Martin Pelik\xE1n"
 position: "vedeck\xFD pracovn\xEDk"
 scholar: https://scholar.google.com/citations?hl=en&amp;user=f59x6y4AAAAJ
 year: ''

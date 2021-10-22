@@ -1,4 +1,4 @@
-affiliation: KAUST, Thuwal
+affiliation: KAUST
 cited_by:
 - citations:
     all: 9986
@@ -9,6 +9,7 @@ cited_by:
 - i10_index:
     all: 108
     since_2016: 103
+city: ' Thuwal'
 country: "Saudsk\xE1 Ar\xE1bia"
 field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
 hindex: 46
@@ -18,7 +19,7 @@ links:
   dblp: https://dblp.org/pid/62/8001.html
   web: https://richtarik.org
   "\u017Eivotopis": https://richtarik.org/docs/richtarik-cv-2021-03.pdf
-name: "peter richt\xC1rik"
+name: "Peter Richt\xE1rik"
 position: profesor
 scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp;hl=en
 year: ''
