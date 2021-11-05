@@ -1,10 +1,10 @@
-- affiliation: "n\xE1rodn\xE1 v\xFDskumn\xE1 rada"
-  affiliationurl: narodna_vyskumna_rada
-  city: THIS HAS TO BE FIXED
+- affiliation: "N\xE1rodn\xE1 v\xFDskumn\xE1 rada"
+  affiliationurl: Narodna_vyskumna_rada
+  city: Ottawa
   country: Kanada
   countryurl: Kanada
   field: optika a fotonika
-  hindex: '59'
+  hindex: 59
   img: pavel-cheben.jpg
   last_update: '2020-12-31'
   links:
@@ -17,4 +17,4 @@
   name: Pavel Cheben
   position: principal research officer
   scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ&amp;hl=sk&amp;oi=ao
-  year: '1967'
+  year: 1967

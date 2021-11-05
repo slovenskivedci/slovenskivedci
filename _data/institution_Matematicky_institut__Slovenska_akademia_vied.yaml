@@ -1,10 +1,10 @@
-- affiliation: "Matematick\xFD in\u0161tit\xFAt"
-  affiliationurl: Matematicky_institut
-  city: " Slovensk\xE1 akad\xE9mia vied"
-  country: Bratislava
-  countryurl: Bratislava
+- affiliation: "Matematick\xFD in\u0161tit\xFAt, Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Matematicky_institut__Slovenska_akademia_vied
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
   field: matematika
-  hindex: '31'
+  hindex: 31
   img: 5246673.jpeg
   last_update: '2020-12-31'
   links:
@@ -21,4 +21,4 @@
   name: "Anatolij Dvure\u010Denskij"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC
-  year: '1949'
+  year: 1949

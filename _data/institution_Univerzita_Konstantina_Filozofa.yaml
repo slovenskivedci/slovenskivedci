@@ -10,7 +10,7 @@
   - i10_index:
       all: 131
       since_2016: 73
-  city: ' Nitra'
+  city: Nitra
   country: Slovensko
   countryurl: Slovensko
   field: "biol\xF3gia reprodukcie"
@@ -27,4 +27,4 @@
   name: Alexander V. Sirotkin
   position: profesor
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=hVqCXAcAAAAJ
-  year: '1954'
+  year: 1954

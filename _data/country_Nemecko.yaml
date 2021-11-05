@@ -92,7 +92,7 @@
   - i10_index:
       all: 85
       since_2016: 71
-  city: ' Hannover'
+  city: Hannover
   country: Nemecko
   countryurl: Nemecko
   field: neuroveda
@@ -111,7 +111,7 @@
   name: "Andrej Kr\xE1\u013E"
   position: profesor
   scholar: https://scholar.google.com/citations?user=y0Fdk30AAAAJ&amp;hl=en
-  year: '1969'
+  year: 1969
 - affiliation: Zeppelinova univerzita
   affiliationurl: Zeppelinova_univerzita
   city: ' Friedrichshafen'

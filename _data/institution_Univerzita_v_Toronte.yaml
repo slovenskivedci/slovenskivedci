@@ -1,11 +1,10 @@
-- affiliation: Lunenfeld Tanenbaum Research Institute, Nemocnica Mount Sinai a Univerzita
-    v Toronte, Toronto
-  affiliationurl: Lunenfeld_Tanenbaum_Research_Institute__Nemocnica_Mount_Sinai_a_Univerzita_v_Toronte__Toronto
-  city: THIS HAS TO BE FIXED
+- affiliation: Univerzita v Toronte
+  affiliationurl: Univerzita_v_Toronte
+  city: Toronto
   country: Kanada
   countryurl: Kanada
   field: "reprodukt\xEDvna biol\xF3gia"
-  hindex: '49'
+  hindex: 49
   img: AJ.png
   last_update: '2020-12-31'
   links:
@@ -16,6 +15,6 @@
   - - web
     - http://www.lunenfeld.ca/?page=jurisicova-andrea
   name: "Andrea Juri\u0161icov\xE1"
-  position: "v\xFDskumn\xE1 pracovn\xED\u010Dka a docentka"
+  position: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=JPCdl08AAAAJ
-  year: ''
+  year: null

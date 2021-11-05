@@ -170,13 +170,13 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
   year: '1963'
-- affiliation: "Fyzik\xE1lny in\u0161tit\xFAt"
-  affiliationurl: Fyzikalny_institut
-  city: " \u010Cesk\xE1 akad\xE9mia vied"
+- affiliation: "Fyzik\xE1lny in\u0161tit\xFAt, \u010Cesk\xE1 akad\xE9mia vied"
+  affiliationurl: Fyzikalny_institut__Ceska_akademia_vied
+  city: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "optick\xE9 materi\xE1ly"
-  hindex: '35'
+  hindex: 35
   img: kromka1.png
   last_update: '2020-12-31'
   links:

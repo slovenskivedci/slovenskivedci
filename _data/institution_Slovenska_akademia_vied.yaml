@@ -209,7 +209,7 @@
   - i10_index:
       all: 52
       since_2016: 32
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
@@ -224,7 +224,7 @@
   name: Andrej Liptaj
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=cwsmFUUAAAAJ&amp;hl=sk
-  year: '1980'
+  year: 1980
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:

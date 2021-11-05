@@ -229,6 +229,36 @@
   position: profesor
   scholar: https://scholar.google.sk/citations?user=Z8DDt0kAAAAJ&amp;hl=en
   year: '1954'
+- affiliation: "Lek\xE1rska fakulta, Univerzita Komensk\xE9ho"
+  affiliationurl: Lekarska_fakulta__Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 45683
+      since_2016: 44550
+  - h_index:
+      all: 49
+      since_2016: 45
+  - i10_index:
+      all: 74
+      since_2016: 71
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "epidemiol\xF3gia"
+  hindex: 49
+  img: 180205_Dusevne_choroby_2_01.jpg
+  last_update: '2021-09-16'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-0625-256X
+  - - publons
+    - https://publons.com/researcher/2304958/alexandra-brazinova
+  - - "\u017Eivotopis"
+    - https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
+  name: "Alexandra Bra\u017Einov\xE1"
+  position: docentka
+  scholar: https://scholar.google.com/citations?view_op=list_works&amp;hl=sk&amp;user=_tpva74AAAAJ&amp;gmla=AJsN-F4enZVXEbSLey5sIxs2iYX1b7cqmKalMsteEbPCoYJYJxTGQ_Zt-LvTIN2kkDL4gvas8IzPL_-d-a2pm35LzuGeTzsZ-_QtrpIO0EjpojuHFcUXAHqhiyBxqm1VoP8CFAzsgdRpPW7w8bg5bGlASKOHjuCzhA&amp;fbclid=IwAR3a7AhdjAeyLhXviBDKjED2xYkm112lWx5VvKswNvukEuxNdsJdW37SfLg
+  year: 1971
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
   affiliationurl: Slovenska_polnohospodarska_univerzita
   cited_by:
@@ -356,8 +386,8 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=jfkqa18AAAAJ&amp;hl=en
   year: '1972'
-- affiliation: "Univerzita PJ \u0160af\xE1rika"
-  affiliationurl: Univerzita_PJ_Safarika
+- affiliation: "Univerzita PJ \u0160af\xE1rika 2"
+  affiliationurl: Univerzita_PJ_Safarika_2
   cited_by:
   - citations:
       all: 8945
@@ -368,7 +398,7 @@
   - i10_index:
       all: 132
       since_2016: 106
-  city: " Ko\u0161ice"
+  city: "Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
   field: "soci\xE1lna psychol\xF3gia"
@@ -385,7 +415,7 @@
   name: "Andrea Madarasov\xE1 Geckov\xE1"
   position: profesorka
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=VbZM3zYAAAAJ
-  year: '1972'
+  year: 1972
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -672,7 +702,7 @@
   - i10_index:
       all: 131
       since_2016: 73
-  city: ' Nitra'
+  city: Nitra
   country: Slovensko
   countryurl: Slovensko
   field: "biol\xF3gia reprodukcie"
@@ -689,7 +719,7 @@
   name: Alexander V. Sirotkin
   position: profesor
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=hVqCXAcAAAAJ
-  year: '1954'
+  year: 1954
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -830,7 +860,7 @@
   - i10_index:
       all: 52
       since_2016: 32
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
@@ -845,7 +875,7 @@
   name: Andrej Liptaj
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=cwsmFUUAAAAJ&amp;hl=sk
-  year: '1980'
+  year: 1980
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: ' Bratislava'
@@ -1624,6 +1654,30 @@
   position: profesor
   scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
   year: ''
+- affiliation: "Matematick\xFD in\u0161tit\xFAt, Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Matematicky_institut__Slovenska_akademia_vied
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: matematika
+  hindex: 31
+  img: 5246673.jpeg
+  last_update: '2020-12-31'
+  links:
+  - - dblp
+    - https://dblp.org/pid/15/2733.html
+  - - osobnosti
+    - https://www.osobnosti.sk/osobnost/anatolij-dvurecenskij-559
+  - - publons
+    - https://publons.com/researcher/4012335/anatolij-dvurecenskij/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Anatolij-Dvurecenskij-77457283
+  - - web
+    - http://www.mat.savba.sk/~dvurecenskij/
+  name: "Anatolij Dvure\u010Denskij"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC
+  year: 1949
 - affiliation: "Univerzita PJ \u0160af\xE1rika"
   affiliationurl: Univerzita_PJ_Safarika
   city: " Ko\u0161ice"

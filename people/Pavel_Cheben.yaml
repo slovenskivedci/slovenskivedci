@@ -1,15 +1,22 @@
-affiliation: "n\xE1rodn\xE1 v\xFDskumn\xE1 rada"
-city: THIS HAS TO BE FIXED
-country: Kanada
-field: optika a fotonika
-hindex: '59'
+name: Pavel Cheben
+year: 1967
+
+field: "optika a fotonika"
+position: "principal research officer"
+affiliation: "Národná výskumná rada"
+city: "Ottawa"
+country: "Kanada"
+
+
+hindex: 59
+scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ&amp;hl=sk&amp;oi=ao
+
+
 img: pavel-cheben.jpg
+
 last_update: '2020-12-31'
+
 links:
   ESET Envoy: https://www.esetscienceaward.sk/en/envoys/pavel-cheben
   web: https://nrc.canada.ca/en/stories/drs-pavel-cheben-laura-ferrarese-inducted-royal-society-canada
-  "\u017Eivotopis": https://drive.google.com/file/d/1uc5JzZPAZjk8NoGP0xPp_eEs1lv1gGcn/view?usp=sharing
-name: Pavel Cheben
-position: principal research officer
-scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ&amp;hl=sk&amp;oi=ao
-year: '1967'
+  životopis: https://drive.google.com/file/d/1uc5JzZPAZjk8NoGP0xPp_eEs1lv1gGcn/view?usp=sharing

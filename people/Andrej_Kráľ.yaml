@@ -1,4 +1,16 @@
-affiliation: "Hannoversk\xE1 lek\xE1rska univezita"
+name: "Andrej Kráľ"
+year: 1969
+
+position: "profesor"
+field: "neuroveda"
+
+hindex: 40
+scholar: https://scholar.google.com/citations?user=y0Fdk30AAAAJ&amp;hl=en
+
+affiliation: "Hannoverská lekárska univezita"
+city: "Hannover"
+country: "Nemecko"
+
 cited_by:
 - citations:
     all: 7271
@@ -9,18 +21,16 @@ cited_by:
 - i10_index:
     all: 85
     since_2016: 71
-city: ' Hannover'
-country: Nemecko
-field: neuroveda
-hindex: 40
+
+
 img: Professor-Dr.-Dr.-Andrej-Kral.jpg
-last_update: '2021-09-16'
+
+
 links:
   ResearchGate: https://www.researchgate.net/profile/Andrej-Kral
   loop: https://loop.frontiersin.org/people/84073/overview
   orcid: https://orcid.org/0000-0002-7762-4642
   web: https://www.neuroprostheses.com/AK/Main.html
-name: "Andrej Kr\xE1\u013E"
-position: profesor
-scholar: https://scholar.google.com/citations?user=y0Fdk30AAAAJ&amp;hl=en
-year: '1969'
+
+
+last_update: '2021-09-16'
