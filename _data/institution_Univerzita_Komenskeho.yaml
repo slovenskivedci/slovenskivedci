@@ -479,6 +479,32 @@
   affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
+      all: 2935
+      since_2016: 1535
+  - h_index:
+      all: 32
+      since_2016: 25
+  - i10_index:
+      all: 52
+      since_2016: 41
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "patofyziol\xF3gia"
+  hindex: 32
+  img: Ludovit_Paulis.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - https://eccr.org/dr-ludovit-paulis/
+  name: "\u013Dudov\xEDt Paulis"
+  position: ''
+  scholar: https://scholar.google.sk/citations?user=eBoisLQAAAAJ&amp;hl=sk&amp;oi=ao
+  year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
       all: 4550
       since_2016: 2335
   - h_index:

@@ -1,5 +1,10 @@
-affiliation: "National High Magnetic Field Laboratory &amp  \u0160t\xE1tna univerzita\
-  \ na Floride, Tallahassee, Florida"
+name: "Oskar Vafek"
+position: profesor
+
+affiliation: "Štátna univerzita na Floride"
+city: Tallahassee
+country: USA
+
 cited_by:
 - citations:
     all: 4844
@@ -10,18 +15,19 @@ cited_by:
 - i10_index:
     all: 55
     since_2016: 45
-city: THIS HAS TO BE FIXED
-country: USA
-field: "fyzika tuh\xFDch l\xE1tok"
+
+field: "fyzika tuhých látok"
 hindex: 33
+
 img: vafek.jpg
+
 last_update: '2021-09-16'
+
 links:
   orcid: https://orcid.org/0000-0001-7561-9287
-  web: https://physics.fsu.edu/person/oskar-vafek
-  web2: https://fs.magnet.fsu.edu/~vafek/
-  "\u017Eivotopis": https://fs.magnet.fsu.edu/~vafek/cv2015 Apr.pdf
-name: Oskar Vafek
-position: profesor
+  web 1: https://physics.fsu.edu/person/oskar-vafek
+  web 2: https://fs.magnet.fsu.edu/~vafek/
+  životopis: https://fs.magnet.fsu.edu/~vafek/cv2015 Apr.pdf
+
 scholar: https://scholar.google.com/citations?user=-toxVLsAAAAJ&amp;hl=en
 year: ''

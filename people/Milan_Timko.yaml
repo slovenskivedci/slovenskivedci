@@ -1,4 +1,11 @@
-affiliation: "Slovesk\xE1 akad\xE9mia vied"
+name: "Milan Timko"
+position: "vedecký pracovník"
+
+affiliation: "Slovenská akadémia vied"
+city: "Košice"
+country: "Slovensko"
+
+
 cited_by:
 - citations:
     all: 4059
@@ -9,17 +16,15 @@ cited_by:
 - i10_index:
     all: 108
     since_2016: 60
-city: " Ko\u0161ice"
-country: Slovensko
-field: fyzika magnetizmu
+
+field: "fyzika magnetizmu"
 hindex: 32
-img: Timko..jpg
+img: Milan_Timko.jpg
 last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Milan_Timko
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=2393
-  "\u017Eivotopis": https://www.osobnosti.sk/osobnost/milan-timko-846
-name: Milan Timko
-position: "vedeck\xFD pracovn\xEDk"
+  životopis: https://www.osobnosti.sk/osobnost/milan-timko-846
+
 scholar: https://scholar.google.sk/citations?user=ckojWlAAAAAJ
-year: '1954'
+year: 1954

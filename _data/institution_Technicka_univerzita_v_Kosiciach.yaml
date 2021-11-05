@@ -50,34 +50,6 @@
   year: '1961'
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   affiliationurl: Technicka_univerzita_v_Kosiciach
-  cited_by:
-  - citations:
-      all: 3723
-      since_2016: 2167
-  - h_index:
-      all: 31
-      since_2016: 23
-  - i10_index:
-      all: 93
-      since_2016: 55
-  city: " Ko\u0161ice"
-  country: Slovensko
-  countryurl: Slovensko
-  field: "te\xF3ria grafov"
-  hindex: 31
-  img: Baca-Photo-2017 (1).jpeg
-  last_update: '2021-09-16'
-  links:
-  - - '30'
-    - https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
-  - - web
-    - http://people.tuke.sk/martin.baca/
-  name: "Martin Ba\u010Da"
-  position: 30 profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
-  year: ''
-- affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
-  affiliationurl: Technicka_univerzita_v_Kosiciach
   city: " Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
@@ -91,4 +63,30 @@
   name: Sergej Hloch
   position: profesor
   scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
+  year: ''
+- affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
+  affiliationurl: Technicka_univerzita_v_Kosiciach
+  cited_by:
+  - citations:
+      all: 3723
+      since_2016: 2167
+  - h_index:
+      all: 31
+      since_2016: 23
+  - i10_index:
+      all: 93
+      since_2016: 55
+  city: "Ko\u0161ice"
+  country: Slovensko
+  countryurl: Slovensko
+  field: "te\xF3ria grafov"
+  hindex: 30
+  img: Baca-Photo-2017 (1).jpeg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - http://people.tuke.sk/martin.baca/
+  name: "Martin Ba\u010Da"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
   year: ''

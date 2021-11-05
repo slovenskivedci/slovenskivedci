@@ -435,9 +435,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp;hl=en
   year: ''
-- affiliation: "National High Magnetic Field Laboratory &amp  \u0160t\xE1tna univerzita\
-    \ na Floride, Tallahassee, Florida"
-  affiliationurl: National_High_Magnetic_Field_Laboratory_&amp__Statna_univerzita_na_Floride__Tallahassee__Florida
+- affiliation: "\u0160t\xE1tna univerzita na Floride"
+  affiliationurl: Statna_univerzita_na_Floride
   cited_by:
   - citations:
       all: 4844
@@ -448,7 +447,7 @@
   - i10_index:
       all: 55
       since_2016: 45
-  city: THIS HAS TO BE FIXED
+  city: Tallahassee
   country: USA
   countryurl: USA
   field: "fyzika tuh\xFDch l\xE1tok"
@@ -458,9 +457,9 @@
   links:
   - - orcid
     - https://orcid.org/0000-0001-7561-9287
-  - - web
+  - - web 1
     - https://physics.fsu.edu/person/oskar-vafek
-  - - web2
+  - - web 2
     - https://fs.magnet.fsu.edu/~vafek/
   - - "\u017Eivotopis"
     - https://fs.magnet.fsu.edu/~vafek/cv2015 Apr.pdf
@@ -510,7 +509,7 @@
   - i10_index:
       all: 48
       since_2016: 40
-  city: ' Redmont'
+  city: Redmont
   country: USA
   countryurl: USA
   field: "strojov\xE9 u\u010Denie"
@@ -523,8 +522,26 @@
   - - web
     - https://www.microsoft.com/en-us/research/people/mdudik/
   name: "Miroslav Dud\xEDk"
-  position: "vedeck\xFD pracovn\xEDk (sr principal researcher)"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=wYMTld8AAAAJ&amp;hl=en
+  year: ''
+- affiliation: Amazon
+  affiliationurl: Amazon
+  city: Berkeley
+  country: USA
+  countryurl: USA
+  field: "strojov\xE9 u\u010Denie"
+  hindex: 32
+  img: slideslive_branislav-kveton_nearoptimal-interactive-recommender-systems.jpg
+  last_update: '2020-12-31'
+  links:
+  - - dblp
+    - https://dblp.org/pid/92/5526.html
+  - - web
+    - http://www.bkveton.com
+  name: "Branislav Kveto\u0148"
+  position: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
   year: ''
 - affiliation: "Havajsk\xE1 univerzita"
   affiliationurl: Havajska_univerzita
@@ -546,8 +563,6 @@
   img: FK190726-HenriettaDulai-20190812-Naranjo-6908.jpg
   last_update: '2021-09-16'
   links:
-  - - "na\u0161i-a-svetov\xED"
-    - https://www.slovenskezahranicie.sk/sk/udalost/2475/nasi-a-svetovi-v-rtvs-henrietta-dulaiova-oceanografka-na-havaji
   - - orcid
     - https://orcid.org/0000-0001-5970-1483
   - - web
@@ -557,24 +572,6 @@
   name: Henrietta Dulai
   position: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
-  year: ''
-- affiliation: Google
-  affiliationurl: Google
-  city: ' Mountain View'
-  country: USA
-  countryurl: USA
-  field: "strojov\xE9 u\u010Denie"
-  hindex: '31'
-  img: slideslive_branislav-kveton_nearoptimal-interactive-recommender-systems.jpg
-  last_update: '2020-12-31'
-  links:
-  - - dblp
-    - https://dblp.org/pid/92/5526.html
-  - - web
-    - http://www.bkveton.com
-  name: "Branislav Kveto\u0148"
-  position: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
   year: ''
 - affiliation: Univerzita v Chicagu
   affiliationurl: Univerzita_v_Chicagu

@@ -1,4 +1,6 @@
-affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
+name: "Martin Bača"
+
+affiliation: "Technická univerzita v Košiciach"
 cited_by:
 - citations:
     all: 3723
@@ -9,16 +11,14 @@ cited_by:
 - i10_index:
     all: 93
     since_2016: 55
-city: " Ko\u0161ice"
+city: "Košice"
 country: Slovensko
-field: "te\xF3ria grafov"
-hindex: 31
+field: "teória grafov"
+hindex: 30
 img: Baca-Photo-2017 (1).jpeg
 last_update: '2021-09-16'
 links:
-  '30': https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
   web: http://people.tuke.sk/martin.baca/
-name: "Martin Ba\u010Da"
-position: 30 profesor
+position: profesor
 scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
 year: ''

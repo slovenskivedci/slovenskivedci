@@ -1,4 +1,10 @@
-affiliation: Bratislava
+name: "Ľudovít Paulis"
+
+position: ""
+affiliation: "Univerzita Komenského"
+city: "Bratislava"
+country: "Slovensko"
+
 cited_by:
 - citations:
     all: 2935
@@ -9,15 +15,15 @@ cited_by:
 - i10_index:
     all: 52
     since_2016: 41
-city: THIS HAS TO BE FIXED
-country: Slovensko
-field: "patofyziol\xF3gia"
+
+field: "patofyziológia"
 hindex: 32
-img: Foto-Profile-4.jpg
+
+img: Ludovit_Paulis.jpg
 last_update: '2021-09-16'
 links:
   web: https://eccr.org/dr-ludovit-paulis/
-name: "\u013Dudov\xEDt Paulis"
-position: "univerzita komensk\xE9ho"
+
+
 scholar: https://scholar.google.sk/citations?user=eBoisLQAAAAJ&amp;hl=sk&amp;oi=ao
 year: ''

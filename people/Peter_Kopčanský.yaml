@@ -1,4 +1,13 @@
-affiliation: "Slovensk\xE1 akad\xE9mia vied"
+position: docent
+name: "Peter Kopčanský"
+year: 1955
+
+field: "experimentálna fyzika"
+
+affiliation: "Slovenská akadémia vied"
+city: "Košice"
+country: Slovensko
+
 cited_by:
 - citations:
     all: 4386
@@ -9,17 +18,15 @@ cited_by:
 - i10_index:
     all: 121
     since_2016: 77
-city: " Ko\u0161ice"
-country: Slovensko
-field: "experiment\xE1lna fyzika"
+
+
 hindex: 32
-img: Mvy-cFU9pupBpcPAxJY2PmN_J0ZkMYobAMcDwX8HtMMGv1ukh4P8seEDmC2iHTJOwDK2fzDrxJZk_WwCxLSVyaaxjfKfQ2zALELajy3GipEJskFhKm1GkbW38zeXr2amXg=w1280
+img: Peter_Kopcansky.jpeg
 last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Peter_Kopcansky
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=4000
-  "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20160108133831_137_2015_PK_Vedeckyzivotopis_ENG.pdf
-name: "Peter Kop\u010Dansk\xFD"
-position: docent
+  životopis: https://www.sav.sk/uploads/users_cv/20160108133831_137_2015_PK_Vedeckyzivotopis_ENG.pdf
+
+
 scholar: https://scholar.google.co.il/citations?user=ZCMAk9sAAAAJ
-year: '1955'

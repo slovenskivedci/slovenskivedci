@@ -10,9 +10,9 @@
   - i10_index:
       all: 67
       since_2016: 56
-  city: ' Praha'
-  country: "\u010Ce sko"
-  countryurl: Ce_sko
+  city: Praha
+  country: "\u010Cesko"
+  countryurl: Cesko
   field: "chemick\xE9 in\u017Einierstvo"
   hindex: 30
   img: Miroslav-Soos.jpg

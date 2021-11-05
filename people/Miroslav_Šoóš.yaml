@@ -1,4 +1,7 @@
-affiliation: "Vysok\xE1 \u0161kola chemicko-technologick\xE1"
+name: "Miroslav Šoóš"
+
+affiliation: "Vysoká škola chemicko-technologická"
+
 cited_by:
 - citations:
     all: 2719
@@ -9,20 +12,22 @@ cited_by:
 - i10_index:
     all: 67
     since_2016: 56
-city: ' Praha'
-country: "\u010Ce sko"
-field: "chemick\xE9 in\u017Einierstvo"
+
+city: "Praha"
+country: "Česko"
+field: "chemické inžinierstvo"
 hindex: 30
 img: Miroslav-Soos.jpg
 last_update: '2021-09-16'
+
 links:
   LinkedIn: https://www.linkedin.com/in/miroslav-soos-184a7b8/?originalSubdomain=cz
   ResearchGate: https://www.researchgate.net/profile/Miroslav_Soos
   orcid: https://orcid.org/0000-0002-9742-7160
   publons: https://publons.com/researcher/2491751/miroslav-soos/
   web: http://labsoos.vscht.cz
-  "\u017Eivotopis": http://www.biotech2017.cz/domains/biotech2017.cz/data/uploads/CV_MSoos.pdf
-name: "Miroslav \u0160o\xF3\u0161"
+  životopis: http://www.biotech2017.cz/domains/biotech2017.cz/data/uploads/CV_MSoos.pdf
+
 position: docent
 scholar: https://scholar.google.com/citations?user=5sAJJkgAAAAJ
 year: ''

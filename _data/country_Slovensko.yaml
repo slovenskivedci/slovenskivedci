@@ -1176,8 +1176,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=FNaaPIwAAAAJ&amp;hl=en
   year: '1964'
-- affiliation: "Slovesk\xE1 akad\xE9mia vied"
-  affiliationurl: Sloveska_akademia_vied
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
       all: 4059
@@ -1188,12 +1188,12 @@
   - i10_index:
       all: 108
       since_2016: 60
-  city: " Ko\u0161ice"
+  city: "Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
   field: fyzika magnetizmu
   hindex: 32
-  img: Timko..jpg
+  img: Milan_Timko.jpg
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -1205,7 +1205,7 @@
   name: Milan Timko
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=ckojWlAAAAAJ
-  year: '1954'
+  year: 1954
 - affiliation: "Univerzita PJ \u0160af\xE1rika"
   affiliationurl: Univerzita_PJ_Safarika
   city: " Ko\u0161ice"
@@ -1336,8 +1336,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
   year: '1960'
-- affiliation: Bratislava
-  affiliationurl: Bratislava
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
       all: 2935
@@ -1348,18 +1348,18 @@
   - i10_index:
       all: 52
       since_2016: 41
-  city: THIS HAS TO BE FIXED
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "patofyziol\xF3gia"
   hindex: 32
-  img: Foto-Profile-4.jpg
+  img: Ludovit_Paulis.jpg
   last_update: '2021-09-16'
   links:
   - - web
     - https://eccr.org/dr-ludovit-paulis/
   name: "\u013Dudov\xEDt Paulis"
-  position: "univerzita komensk\xE9ho"
+  position: ''
   scholar: https://scholar.google.sk/citations?user=eBoisLQAAAAJ&amp;hl=sk&amp;oi=ao
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -1374,12 +1374,12 @@
   - i10_index:
       all: 121
       since_2016: 77
-  city: " Ko\u0161ice"
+  city: "Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
   field: "experiment\xE1lna fyzika"
   hindex: 32
-  img: Mvy-cFU9pupBpcPAxJY2PmN_J0ZkMYobAMcDwX8HtMMGv1ukh4P8seEDmC2iHTJOwDK2fzDrxJZk_WwCxLSVyaaxjfKfQ2zALELajy3GipEJskFhKm1GkbW38zeXr2amXg=w1280
+  img: Peter_Kopcansky.jpeg
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -1391,7 +1391,7 @@
   name: "Peter Kop\u010Dansk\xFD"
   position: docent
   scholar: https://scholar.google.co.il/citations?user=ZCMAk9sAAAAJ
-  year: '1955'
+  year: 1955
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: ' Bratislava'
@@ -1464,34 +1464,6 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
   year: '1952'
-- affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
-  affiliationurl: Technicka_univerzita_v_Kosiciach
-  cited_by:
-  - citations:
-      all: 3723
-      since_2016: 2167
-  - h_index:
-      all: 31
-      since_2016: 23
-  - i10_index:
-      all: 93
-      since_2016: 55
-  city: " Ko\u0161ice"
-  country: Slovensko
-  countryurl: Slovensko
-  field: "te\xF3ria grafov"
-  hindex: 31
-  img: Baca-Photo-2017 (1).jpeg
-  last_update: '2021-09-16'
-  links:
-  - - '30'
-    - https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
-  - - web
-    - http://people.tuke.sk/martin.baca/
-  name: "Martin Ba\u010Da"
-  position: 30 profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
-  year: ''
 - affiliation: "Slovesk\xE1 akad\xE9mia vied"
   affiliationurl: Sloveska_akademia_vied
   cited_by:
@@ -1654,8 +1626,8 @@
   position: profesor
   scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
   year: ''
-- affiliation: "Matematick\xFD in\u0161tit\xFAt, Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Matematicky_institut__Slovenska_akademia_vied
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
   city: Bratislava
   country: Slovensko
   countryurl: Slovensko
@@ -1693,6 +1665,32 @@
   name: Martin Gmitra
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&amp;hl=en
+  year: ''
+- affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
+  affiliationurl: Technicka_univerzita_v_Kosiciach
+  cited_by:
+  - citations:
+      all: 3723
+      since_2016: 2167
+  - h_index:
+      all: 31
+      since_2016: 23
+  - i10_index:
+      all: 93
+      since_2016: 55
+  city: "Ko\u0161ice"
+  country: Slovensko
+  countryurl: Slovensko
+  field: "te\xF3ria grafov"
+  hindex: 30
+  img: Baca-Photo-2017 (1).jpeg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - http://people.tuke.sk/martin.baca/
+  name: "Martin Ba\u010Da"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
   year: ''
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
   affiliationurl: Technicka_univerzita_vo_Zvolene

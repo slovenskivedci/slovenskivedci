@@ -18,21 +18,3 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NDhlLv0AAAAJ
   year: ''
-- affiliation: Google
-  affiliationurl: Google
-  city: ' Mountain View'
-  country: USA
-  countryurl: USA
-  field: "strojov\xE9 u\u010Denie"
-  hindex: '31'
-  img: slideslive_branislav-kveton_nearoptimal-interactive-recommender-systems.jpg
-  last_update: '2020-12-31'
-  links:
-  - - dblp
-    - https://dblp.org/pid/92/5526.html
-  - - web
-    - http://www.bkveton.com
-  name: "Branislav Kveto\u0148"
-  position: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
-  year: ''

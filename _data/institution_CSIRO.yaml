@@ -10,7 +10,7 @@
   - i10_index:
       all: 64
       since_2016: 45
-  city: ' Brisbane'
+  city: Brisbane
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "bezdr\xF4tov\xE9 siete a syst\xE9my"
@@ -20,17 +20,17 @@
   links:
   - - dblp
     - https://dblp.org/pid/19/3001.html
-  - - ieeexplore
+  - - IEEE Xplore
     - https://ieeexplore.ieee.org/author/37272332400
   - - publons
     - https://publons.com/researcher/2806804/branislav-kusy/
-  - - SemanticScholar
+  - - Semantic Scholar
     - https://www.semanticscholar.org/author/Branislav-Kusy/1752891
   - - web
     - https://sites.google.com/site/branislavkusy/
   - - "\u017Eivotopis"
     - https://sites.google.com/site/branislavkusy/cv
   name: "Branislav Kus\xFD"
-  position: "vedeck\xFD pracovn\xEDk (principal research scientist)"
+  position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=G9w7WT4AAAAJ
   year: ''

@@ -317,6 +317,36 @@
   affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
+      all: 4059
+      since_2016: 2029
+  - h_index:
+      all: 32
+      since_2016: 23
+  - i10_index:
+      all: 108
+      since_2016: 60
+  city: "Ko\u0161ice"
+  country: Slovensko
+  countryurl: Slovensko
+  field: fyzika magnetizmu
+  hindex: 32
+  img: Milan_Timko.jpg
+  last_update: '2021-09-16'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Milan_Timko
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=2393
+  - - "\u017Eivotopis"
+    - https://www.osobnosti.sk/osobnost/milan-timko-846
+  name: Milan Timko
+  position: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.sk/citations?user=ckojWlAAAAAJ
+  year: 1954
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
       all: 3630
       since_2016: 1614
   - h_index:
@@ -353,12 +383,12 @@
   - i10_index:
       all: 121
       since_2016: 77
-  city: " Ko\u0161ice"
+  city: "Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
   field: "experiment\xE1lna fyzika"
   hindex: 32
-  img: Mvy-cFU9pupBpcPAxJY2PmN_J0ZkMYobAMcDwX8HtMMGv1ukh4P8seEDmC2iHTJOwDK2fzDrxJZk_WwCxLSVyaaxjfKfQ2zALELajy3GipEJskFhKm1GkbW38zeXr2amXg=w1280
+  img: Peter_Kopcansky.jpeg
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -370,7 +400,7 @@
   name: "Peter Kop\u010Dansk\xFD"
   position: docent
   scholar: https://scholar.google.co.il/citations?user=ZCMAk9sAAAAJ
-  year: '1955'
+  year: 1955
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: ' Bratislava'
@@ -445,6 +475,30 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=WawpXZIAAAAJ&amp;hl=en
   year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: matematika
+  hindex: 31
+  img: 5246673.jpeg
+  last_update: '2020-12-31'
+  links:
+  - - dblp
+    - https://dblp.org/pid/15/2733.html
+  - - osobnosti
+    - https://www.osobnosti.sk/osobnost/anatolij-dvurecenskij-559
+  - - publons
+    - https://publons.com/researcher/4012335/anatolij-dvurecenskij/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Anatolij-Dvurecenskij-77457283
+  - - web
+    - http://www.mat.savba.sk/~dvurecenskij/
+  name: "Anatolij Dvure\u010Denskij"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC
+  year: 1949
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
