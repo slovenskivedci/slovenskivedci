@@ -98,34 +98,6 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp;hl=en
   year: '1967'
-- affiliation: George Mason University
-  affiliationurl: George_Mason_University
-  cited_by:
-  - citations:
-      all: 10337
-      since_2016: 4311
-  - h_index:
-      all: 48
-      since_2016: 33
-  - i10_index:
-      all: 92
-      since_2016: 58
-  city: THIS HAS TO BE FIXED
-  country: USA
-  countryurl: USA
-  field: "robotika a strojov\xE9 videnie"
-  hindex: 48
-  img: C57X6nj7.jpg
-  last_update: '2021-09-16'
-  links:
-  - - web
-    - https://cs.gmu.edu/~kosecka/
-  - - wikipedia
-    - "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
-  name: "Jana Ko\u0161eck\xE1"
-  position: profesorka
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
-  year: ''
 - affiliation: Univerzita vo Washingtone
   affiliationurl: Univerzita_vo_Washingtone
   cited_by:
@@ -154,6 +126,34 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
   year: '1968'
+- affiliation: George Mason University
+  affiliationurl: George_Mason_University
+  cited_by:
+  - citations:
+      all: 10337
+      since_2016: 4311
+  - h_index:
+      all: 48
+      since_2016: 33
+  - i10_index:
+      all: 92
+      since_2016: 58
+  city: THIS HAS TO BE FIXED
+  country: USA
+  countryurl: USA
+  field: "robotika a strojov\xE9 videnie"
+  hindex: 48
+  img: C57X6nj7.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - https://cs.gmu.edu/~kosecka/
+  - - wikipedia
+    - "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
+  name: "Jana Ko\u0161eck\xE1"
+  position: profesorka
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
+  year: ''
 - affiliation: Universita v Kalifornii
   affiliationurl: Universita_v_Kalifornii
   city: ' San Diego'
@@ -257,6 +257,24 @@
   position: "odborn\xFD asistent"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=DNCCZHYAAAAJ
   year: '1954'
+- affiliation: "Oregonsk\xE1 \u0161t\xE1tna univerzita"
+  affiliationurl: Oregonska_statna_univerzita
+  city: ' Corvallis'
+  country: USA
+  countryurl: USA
+  field: "seizmol\xF3gia"
+  hindex: '41'
+  img: 4418748_1200x.jpeg
+  last_update: '2020-12-31'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/John_Nabelek
+  - - web
+    - https://ceoas.oregonstate.edu/people/john-nabelek
+  name: "John Nabelek - J\xE1n Ludv\xEDk N\xE1b\u011Blek"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=G0MJo3UAAAAJ&amp;hl=en
+  year: '1952'
 - affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne"
   affiliationurl: Statna_univerzita_v_Severnej_Karoline
   cited_by:
@@ -287,24 +305,6 @@
   position: profesorka
   scholar: https://scholar.google.com/citations?user=TIVMwT4AAAAJ
   year: ''
-- affiliation: "Oregonsk\xE1 \u0161t\xE1tna univerzita"
-  affiliationurl: Oregonska_statna_univerzita
-  city: ' Corvallis'
-  country: USA
-  countryurl: USA
-  field: "seizmol\xF3gia"
-  hindex: '41'
-  img: 4418748_1200x.jpeg
-  last_update: '2020-12-31'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/John_Nabelek
-  - - web
-    - https://ceoas.oregonstate.edu/people/john-nabelek
-  name: "John Nabelek - J\xE1n Ludv\xEDk N\xE1b\u011Blek"
-  position: profesor
-  scholar: https://scholar.google.com/citations?user=G0MJo3UAAAAJ&amp;hl=en
-  year: '1952'
 - affiliation: "Arizonsk\xE1 univerzita"
   affiliationurl: Arizonska_univerzita
   cited_by:
@@ -417,6 +417,24 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ell1TQQAAAAJ
   year: ''
+- affiliation: Univerzita v Pittsburghu
+  affiliationurl: Univerzita_v_Pittsburghu
+  city: ' Pittsburgh'
+  country: USA
+  countryurl: USA
+  field: informatika
+  hindex: '33'
+  img: Milos_IMG_9154_v2.jpg
+  last_update: '2020-12-31'
+  links:
+  - - web
+    - http://people.cs.pitt.edu/~milos/
+  - - "\u017Eivotopis"
+    - http://people.cs.pitt.edu/~milos/CV.pdf
+  name: "Milo\u0161 Hauskrecht"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp;hl=en
+  year: ''
 - affiliation: "National High Magnetic Field Laboratory &amp  \u0160t\xE1tna univerzita\
     \ na Floride, Tallahassee, Florida"
   affiliationurl: National_High_Magnetic_Field_Laboratory_&amp__Statna_univerzita_na_Floride__Tallahassee__Florida
@@ -479,24 +497,6 @@
   name: "\u013Dubica Rauov\xE1"
   position: docentka
   scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
-  year: ''
-- affiliation: Univerzita v Pittsburghu
-  affiliationurl: Univerzita_v_Pittsburghu
-  city: ' Pittsburgh'
-  country: USA
-  countryurl: USA
-  field: informatika
-  hindex: '33'
-  img: Milos_IMG_9154_v2.jpg
-  last_update: '2020-12-31'
-  links:
-  - - web
-    - http://people.cs.pitt.edu/~milos/
-  - - "\u017Eivotopis"
-    - http://people.cs.pitt.edu/~milos/CV.pdf
-  name: "Milo\u0161 Hauskrecht"
-  position: profesor
-  scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp;hl=en
   year: ''
 - affiliation: Microsoft Research
   affiliationurl: Microsoft_Research

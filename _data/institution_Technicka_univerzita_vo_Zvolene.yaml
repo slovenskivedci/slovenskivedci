@@ -2,6 +2,32 @@
   affiliationurl: Technicka_univerzita_vo_Zvolene
   cited_by:
   - citations:
+      all: 3995
+      since_2016: 1655
+  - h_index:
+      all: 30
+      since_2016: 20
+  - i10_index:
+      all: 72
+      since_2016: 42
+  city: ' Zvolen'
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fytol\xF3gia"
+  hindex: 30
+  img: Ladislav_Paule.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
+  name: Ladislav Paule
+  position: profesor
+  scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
+  year: ''
+- affiliation: "Technick\xE1 univerzita vo Zvolene"
+  affiliationurl: Technicka_univerzita_vo_Zvolene
+  cited_by:
+  - citations:
       all: 4298
       since_2016: 1947
   - h_index:
@@ -29,30 +55,4 @@
   name: "Du\u0161an G\xF6m\xF6ry"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=RllC3asAAAAJ
-  year: ''
-- affiliation: "Technick\xE1 univerzita vo Zvolene"
-  affiliationurl: Technicka_univerzita_vo_Zvolene
-  cited_by:
-  - citations:
-      all: 3995
-      since_2016: 1655
-  - h_index:
-      all: 30
-      since_2016: 20
-  - i10_index:
-      all: 72
-      since_2016: 42
-  city: ' Zvolen'
-  country: Slovensko
-  countryurl: Slovensko
-  field: "fytol\xF3gia"
-  hindex: 30
-  img: Ladislav_Paule.jpg
-  last_update: '2021-09-16'
-  links:
-  - - web
-    - http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
-  name: Ladislav Paule
-  position: profesor
-  scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
   year: ''
