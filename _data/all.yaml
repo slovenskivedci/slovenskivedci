@@ -1299,8 +1299,8 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=jfkqa18AAAAJ&amp;hl=en
   year: '1972'
-- affiliation: "Univerzita PJ \u0160af\xE1rika 2"
-  affiliationurl: Univerzita_PJ_Safarika_2
+- affiliation: "Univerzita PJ \u0160af\xE1rika"
+  affiliationurl: Univerzita_PJ_Safarika
   cited_by:
   - citations:
       all: 8945
