@@ -51,7 +51,7 @@
   - i10_index:
       all: 359
       since_2016: 145
-  city: ' Urbana-Champaign'
+  city: Urbana-Champaign
   country: USA
   countryurl: USA
   field: informatika
@@ -63,12 +63,12 @@
     - https://dblp.org/pid/45/3224.html
   - - web
     - https://cs.illinois.edu/about/people/faculty/klara
-  - - wikipedia
+  - - "wikip\xE9dia"
     - https://en.wikipedia.org/wiki/Klara_Nahrstedt
-  name: "Kl\xE1ra"
+  name: "Kl\xE1ra (Bajcsy) Nahrstedt"
   position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
-  year: Bajcsy
+  year: 1957
 - affiliation: Univerzita v Adelaide
   affiliationurl: Univerzita_v_Adelaide
   city: ' Adelaide'
