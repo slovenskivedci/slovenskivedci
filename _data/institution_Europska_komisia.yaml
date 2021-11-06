@@ -10,12 +10,12 @@
   - i10_index:
       all: 84
       since_2016: 64
-  city: ' Sevilla'
+  city: Sevilla
   country: "\u0160panielsko"
   countryurl: Spanielsko
   field: "ekon\xF3mia"
   hindex: 35
-  img: Ciaian_3.jpg
+  img: Pavel_Ciaian.jpg
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -26,7 +26,7 @@
     - https://www.researchgate.net/profile/Pavel_Ciaian
   - - web
     - http://ciaian.szm.sk/
-  name: :"Pavel Ciaian"
+  name: Pavel Ciaian
   position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=s_AVnN0AAAAJ
   year: ''

@@ -1,16 +1,16 @@
-affiliation: Univerzita v Missouri
-city: ' Columbia'
+affiliation: "Univerzita v Missouri"
+city: "Columbia"
 country: USA
-field: "geol\xF3gia"
+field: "geológia"
 hindex: '37'
-img: nabelek_photo.jpeg
+img: Peter_Nabelek.jpeg
 last_update: '2020-12-31'
 links:
   ResearchGate: https://www.researchgate.net/profile/Peter_Nabelek
   web: https://geology.missouri.edu/people/nabelek
   web2: http://faculty.missouri.edu/nabelekp/Welcome.html
-  "\u017Eivotopis": https://geology.missouri.edu/sites/default/files/people-files/2019-09/nabelek_cv.pdf
-name: Peter I. Nabelek
+  životopis: https://geology.missouri.edu/sites/default/files/people-files/2019-09/nabelek_cv.pdf
+name: "Peter I. Nabelek"
 position: profesor
 scholar: https://scholar.google.com/citations?user=bIXqQ6oAAAAJ&amp;hl=en
-year: '1955'
+year: 1955

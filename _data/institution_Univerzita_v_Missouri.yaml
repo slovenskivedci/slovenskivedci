@@ -1,33 +1,33 @@
 - affiliation: Univerzita v Missouri
   affiliationurl: Univerzita_v_Missouri
-  city: ' Columbia'
+  city: Columbia
   country: USA
   countryurl: USA
   field: "reproduk\u010Dn\xE1 biol\xF3gia"
-  hindex: '56'
-  img: EKZEBeBU0AAGMrF.jpeg
+  hindex: 56
+  img: Peter_Sutovsky.jpeg
   last_update: '2020-12-31'
   links:
-  - - "na\u0161i-a-svetov\xED"
+  - - "na\u0161i a svetov\xED"
     - https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
   - - web
     - https://cafnrfaculty.missouri.edu/sutovskylab/
-  - - "\u017Eivotopis"
+  - - "\u017Eivotopis 1"
     - https://cafnrfaculty.missouri.edu/sutovskylab/cv-peter-sutovsky/
-  - - "\u017Eivotopis2"
+  - - "\u017Eivotopis 2"
     - https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf
   name: "Peter \u0160utovsk\xFD"
   position: profesor
-  scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp;hl=en
-  year: '1967'
+  scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp
+  year: 1967
 - affiliation: Univerzita v Missouri
   affiliationurl: Univerzita_v_Missouri
-  city: ' Columbia'
+  city: Columbia
   country: USA
   countryurl: USA
   field: "geol\xF3gia"
   hindex: '37'
-  img: nabelek_photo.jpeg
+  img: Peter_Nabelek.jpeg
   last_update: '2020-12-31'
   links:
   - - ResearchGate
@@ -41,4 +41,4 @@
   name: Peter I. Nabelek
   position: profesor
   scholar: https://scholar.google.com/citations?user=bIXqQ6oAAAAJ&amp;hl=en
-  year: '1955'
+  year: 1955

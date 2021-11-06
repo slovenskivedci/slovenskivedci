@@ -1,0 +1,32 @@
+name: "Peter Richtárik"
+year: ''
+
+position: profesor
+field: "optimalizácia a strojové učenie"
+affiliation: KAUST
+city: "Thuwal"
+country: "Saudská Arábia"
+
+hindex: 46
+scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
+
+cited_by:
+- citations:
+    all: 9986
+    since_2016: 8792
+- h_index:
+    all: 46
+    since_2016: 42
+- i10_index:
+    all: 108
+    since_2016: 103
+
+
+
+img: Peter_Richtarik.jpg
+last_update: '2021-09-16'
+links:
+  dblp: https://dblp.org/pid/62/8001.html
+  web: https://richtarik.org
+  životopis: https://richtarik.org/docs/richtarik-cv-2021-03.pdf
+  orcid: https://orcid.org/0000-0003-4380-5848

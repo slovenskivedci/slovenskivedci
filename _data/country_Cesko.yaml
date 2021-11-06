@@ -1,11 +1,11 @@
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
-  city: ' Praha'
+  city: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "mikrobiol\xF3gia"
-  hindex: '47'
-  img: 03118445.jpeg
+  hindex: 47
+  img: Peter_Sebo.jpeg
   last_update: '2020-12-31'
   links:
   - - fems
@@ -24,9 +24,9 @@
     - https://mbucas.cz/en/research/microbiology/laboratory-of-molecular-biology-of-bacterial-pathogens/
   - - "\u017Eivotopis"
     - https://independent.academia.edu/PeterSebo/CurriculumVitae
-  name: Peter U0161ebo
+  name: "Peter \u0160ebo"
   position: profesor
-  scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp;hl=en
+  scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp
   year: 1960
 - affiliation: "\u010CVUT"
   affiliationurl: CVUT
@@ -150,12 +150,12 @@
   - i10_index:
       all: 78
       since_2016: 48
-  city: ' Praha'
+  city: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "komplexn\xE9 syst\xE9my"
-  hindex: 37
-  img: slideslive_milan-palus_kauzalita-informace-a-cas.jpg
+  hindex: 38
+  img: Milan_Palus.jpg
   last_update: '2021-09-16'
   links:
   - - dblp
@@ -169,7 +169,7 @@
   name: "Milan Palu\u0161"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
-  year: '1963'
+  year: 1963
 - affiliation: "Fyzik\xE1lny in\u0161tit\xFAt, \u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Fyzikalny_institut__Ceska_akademia_vied
   city: Praha
@@ -220,6 +220,26 @@
   position: "emeritn\xFD vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=AZDDb3gAAAAJ&amp;hl=en
   year: ''
+- affiliation: Univerzita Karlova
+  affiliationurl: Univerzita_Karlova
+  city: Praha
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "ekon\xF3mia"
+  hindex: 33
+  img: Roman_Horvath.jpg
+  last_update: '2020-12-31'
+  links:
+  - - publons
+    - https://publons.com/researcher/2521490/roman-horvath/
+  - - web
+    - https://sites.google.com/view/horvath/
+  - - "\u017Eivotopis"
+    - http://ies.fsv.cuni.cz/en/staff/horvath
+  name: "Roman Horv\xE1th"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=QCr9FugAAAAJ
+  year: 1978
 - affiliation: "Palack\xE9ho univerzita"
   affiliationurl: Palackeho_univerzita
   cited_by:
@@ -232,12 +252,12 @@
   - i10_index:
       all: 84
       since_2016: 61
-  city: ' Olomouc'
+  city: Olomouc
   country: "\u010Cesko"
   countryurl: Cesko
   field: "ch\xE9mia"
   hindex: 31
-  img: csm_herchel_cde545613b.jpg
+  img: Radovan_Herchel.jpg
   last_update: '2021-09-16'
   links:
   - - loop

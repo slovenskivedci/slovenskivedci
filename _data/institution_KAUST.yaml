@@ -15,18 +15,20 @@
   countryurl: Saudska_Arabia
   field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
   hindex: 46
-  img: KAUST-CEMSE-CS-AMCS-STAT-VCC-ECRC-P-RICHTARIK-Peter-Richtarik.jpg
+  img: Peter_Richtarik.jpg
   last_update: '2021-09-16'
   links:
   - - dblp
     - https://dblp.org/pid/62/8001.html
+  - - orcid
+    - https://orcid.org/0000-0003-4380-5848
   - - web
     - https://richtarik.org
   - - "\u017Eivotopis"
     - https://richtarik.org/docs/richtarik-cv-2021-03.pdf
   name: "Peter Richt\xE1rik"
   position: profesor
-  scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp;hl=en
+  scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
   year: ''
 - affiliation: KAUST
   affiliationurl: KAUST

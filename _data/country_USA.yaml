@@ -46,8 +46,8 @@
   position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
   year: 1957
-- affiliation: Univerzita v Kalifornii
-  affiliationurl: Univerzita_v_Kalifornii
+- affiliation: "Kalifornsk\xE1 univerzita"
+  affiliationurl: Kalifornska_univerzita
   cited_by:
   - citations:
       all: 24095
@@ -58,46 +58,46 @@
   - i10_index:
       all: 295
       since_2016: 129
-  city: ' Berkeley'
+  city: Berkeley
   country: USA
   countryurl: USA
   field: "robotika a umel\xE1 inteligencia"
   hindex: 72
-  img: bajcsy.jpg
+  img: Ruzena_Bajcsy.jpg
   last_update: '2021-09-16'
   links:
   - - web
     - https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.htmlhttps://people.eecs.berkeley.edu/~bajcsy/
-  - - wikipedia
+  - - "wikip\xE9dia"
     - https://en.wikipedia.org/wiki/Ruzena_Bajcsy
   - - "\u017Eivotopis"
     - https://www.memoryofnations.eu/en/bajcsy-ruzena-1933
   name: "Ru\u017Eena Bajcsy"
   position: profesorka
-  scholar: https://scholar.google.com/citations?user=s9Ikf1EAAAAJ&amp;hl=en
-  year: '1933'
+  scholar: https://scholar.google.com/citations?user=s9Ikf1EAAAAJ&amp
+  year: 1933
 - affiliation: Univerzita v Missouri
   affiliationurl: Univerzita_v_Missouri
-  city: ' Columbia'
+  city: Columbia
   country: USA
   countryurl: USA
   field: "reproduk\u010Dn\xE1 biol\xF3gia"
-  hindex: '56'
-  img: EKZEBeBU0AAGMrF.jpeg
+  hindex: 56
+  img: Peter_Sutovsky.jpeg
   last_update: '2020-12-31'
   links:
-  - - "na\u0161i-a-svetov\xED"
+  - - "na\u0161i a svetov\xED"
     - https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
   - - web
     - https://cafnrfaculty.missouri.edu/sutovskylab/
-  - - "\u017Eivotopis"
+  - - "\u017Eivotopis 1"
     - https://cafnrfaculty.missouri.edu/sutovskylab/cv-peter-sutovsky/
-  - - "\u017Eivotopis2"
+  - - "\u017Eivotopis 2"
     - https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf
   name: "Peter \u0160utovsk\xFD"
   position: profesor
-  scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp;hl=en
-  year: '1967'
+  scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp
+  year: 1967
 - affiliation: Univerzita vo Washingtone
   affiliationurl: Univerzita_vo_Washingtone
   cited_by:
@@ -110,12 +110,12 @@
   - i10_index:
       all: 90
       since_2016: 74
-  city: THIS HAS TO BE FIXED
+  city: Seattle
   country: USA
   countryurl: USA
   field: programovacie jazyky
   hindex: 48
-  img: small.jpg
+  img: Rastislav_Bodik.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -125,7 +125,7 @@
   name: "Rastislav Bod\xEDk"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
-  year: '1968'
+  year: 1968
 - affiliation: George Mason University
   affiliationurl: George_Mason_University
   cited_by:
@@ -154,24 +154,6 @@
   position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
   year: ''
-- affiliation: Universita v Kalifornii
-  affiliationurl: Universita_v_Kalifornii
-  city: ' San Diego'
-  country: USA
-  countryurl: USA
-  field: neuroveda
-  hindex: '47'
-  img: martinmarsala-1.jpg
-  last_update: '2020-12-31'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Martin_Marsala
-  - - web
-    - http://www.marsala-lab.com/team/
-  name: "Martin Mar\u0161ala"
-  position: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
-  year: ''
 - affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne"
   affiliationurl: Statna_univerzita_v_Severnej_Karoline
   city: ' Raleigh'
@@ -189,6 +171,24 @@
   name: "Lubo\u0161 Mit\xE1\u0161"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
+  year: ''
+- affiliation: "Kalifornsk\xE1 univerzita"
+  affiliationurl: Kalifornska_univerzita
+  city: San Diego
+  country: USA
+  countryurl: USA
+  field: neuroveda
+  hindex: 47
+  img: Martin_Marsala.jpg
+  last_update: '2020-12-31'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin_Marsala
+  - - web
+    - http://www.marsala-lab.com/team/
+  name: "Martin Mar\u0161ala"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
   year: ''
 - affiliation: Univerzita v Louisville
   affiliationurl: Univerzita_v_Louisville
@@ -222,7 +222,7 @@
   - i10_index:
       all: 99
       since_2016: 39
-  city: THIS HAS TO BE FIXED
+  city: Seattle
   country: USA
   countryurl: USA
   field: "aplikovan\xE1 informatika"
@@ -369,12 +369,12 @@
   year: '1969'
 - affiliation: Univerzita v Missouri
   affiliationurl: Univerzita_v_Missouri
-  city: ' Columbia'
+  city: Columbia
   country: USA
   countryurl: USA
   field: "geol\xF3gia"
   hindex: '37'
-  img: nabelek_photo.jpeg
+  img: Peter_Nabelek.jpeg
   last_update: '2020-12-31'
   links:
   - - ResearchGate
@@ -388,7 +388,7 @@
   name: Peter I. Nabelek
   position: profesor
   scholar: https://scholar.google.com/citations?user=bIXqQ6oAAAAJ&amp;hl=en
-  year: '1955'
+  year: 1955
 - affiliation: Univerzita v Indiane
   affiliationurl: Univerzita_v_Indiane
   cited_by:
@@ -401,12 +401,12 @@
   - i10_index:
       all: 55
       since_2016: 33
-  city: ' Bloomington'
+  city: Bloomington
   country: USA
   countryurl: USA
   field: "fyzika \u010Dast\xEDc"
   hindex: 34
-  img: dermisek.jpg
+  img: Radovan_Dermisek.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -416,24 +416,6 @@
   name: "Radovan Derm\xED\u0161ek"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ell1TQQAAAAJ
-  year: ''
-- affiliation: Univerzita v Pittsburghu
-  affiliationurl: Univerzita_v_Pittsburghu
-  city: ' Pittsburgh'
-  country: USA
-  countryurl: USA
-  field: informatika
-  hindex: '33'
-  img: Milos_IMG_9154_v2.jpg
-  last_update: '2020-12-31'
-  links:
-  - - web
-    - http://people.cs.pitt.edu/~milos/
-  - - "\u017Eivotopis"
-    - http://people.cs.pitt.edu/~milos/CV.pdf
-  name: "Milo\u0161 Hauskrecht"
-  position: profesor
-  scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp;hl=en
   year: ''
 - affiliation: "\u0160t\xE1tna univerzita na Floride"
   affiliationurl: Statna_univerzita_na_Floride
@@ -466,6 +448,24 @@
   name: Oskar Vafek
   position: profesor
   scholar: https://scholar.google.com/citations?user=-toxVLsAAAAJ&amp;hl=en
+  year: ''
+- affiliation: Univerzita v Pittsburghu
+  affiliationurl: Univerzita_v_Pittsburghu
+  city: Pittsburgh
+  country: USA
+  countryurl: USA
+  field: informatika
+  hindex: 33
+  img: Milos_Hauskrecht.jpg
+  last_update: '2020-12-31'
+  links:
+  - - web
+    - http://people.cs.pitt.edu/~milos/
+  - - "\u017Eivotopis"
+    - http://people.cs.pitt.edu/~milos/CV.pdf
+  name: "Milo\u0161 Hauskrecht"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp
   year: ''
 - affiliation: "Univerzita v Pennsylv\xE1nii"
   affiliationurl: Univerzita_v_Pennsylvanii
@@ -514,7 +514,7 @@
   countryurl: USA
   field: "strojov\xE9 u\u010Denie"
   hindex: 32
-  img: 20161115_Microsoft_NYC_Miro_Dudik_01-1000x450.jpg
+  img: Miro_Dudik.jpg
   last_update: '2021-09-16'
   links:
   - - dblp
@@ -523,7 +523,7 @@
     - https://www.microsoft.com/en-us/research/people/mdudik/
   name: "Miroslav Dud\xEDk"
   position: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.sk/citations?user=wYMTld8AAAAJ&amp;hl=en
+  scholar: https://scholar.google.sk/citations?user=wYMTld8AAAAJ&amp
   year: ''
 - affiliation: Amazon
   affiliationurl: Amazon

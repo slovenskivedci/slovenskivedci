@@ -1,11 +1,11 @@
 - affiliation: "Oxfordsk\xE1 univerzita"
   affiliationurl: Oxfordska_univerzita
-  city: ' Oxford'
+  city: Oxford
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "fyzik\xE1lna ch\xE9mia"
-  hindex: '44'
-  img: 1228512_1200x.jpeg
+  hindex: 44
+  img: Philipp_Kukura.jpeg
   last_update: '2020-12-31'
   links:
   - - web
@@ -17,4 +17,4 @@
   name: Philipp Kukura
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NgHGnt0AAAAJ
-  year: '1978'
+  year: 1978

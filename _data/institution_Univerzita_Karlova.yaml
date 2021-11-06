@@ -1,11 +1,11 @@
 - affiliation: Univerzita Karlova
   affiliationurl: Univerzita_Karlova
-  city: ' Praha'
-  country: "\u010Cesk\xE1 Republika"
-  countryurl: Ceska_Republika
+  city: Praha
+  country: "\u010Cesko"
+  countryurl: Cesko
   field: "ekon\xF3mia"
-  hindex: '33'
-  img: 5e4f4a07-b6ec-4f72-8a16-ed3dd5437eec_dam-urlp4boc0.jpg
+  hindex: 33
+  img: Roman_Horvath.jpg
   last_update: '2020-12-31'
   links:
   - - publons
@@ -17,4 +17,4 @@
   name: "Roman Horv\xE1th"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=QCr9FugAAAAJ
-  year: '1978'
+  year: 1978

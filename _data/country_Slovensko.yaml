@@ -23,12 +23,12 @@
   year: '1946'
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 matematika"
-  hindex: '65'
-  img: image_12007_21_v1.jpeg
+  hindex: 65
+  img: Radko_Mesiar.jpeg
   last_update: '2020-12-31'
   links:
   - - web
@@ -36,7 +36,7 @@
   name: Radko Mesiar
   position: profesor
   scholar: https://scholar.google.com/citations?user=_kXpl5YAAAAJ&amp;hl=en
-  year: '1951'
+  year: 1951
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -347,12 +347,12 @@
   - i10_index:
       all: 181
       since_2016: 105
-  city: ' Trnava'
+  city: Trnava
   country: Slovensko
   countryurl: Slovensko
   field: "anorganick\xE1 ch\xE9mia"
   hindex: 44
-  img: nas-profesor-1.jpg
+  img: Roman_Boca.jpg
   last_update: '2021-09-16'
   links:
   - - vedec roka 2011
@@ -363,8 +363,8 @@
     - https://www.stuba.sk/new/docs//stu/uradna_tabula/2010volby/_boca.pdf
   name: "Roman Bo\u010Da"
   position: profesor
-  scholar: https://scholar.google.sk/citations?user=I5zYMOsAAAAJ&amp;hl=en
-  year: '1950'
+  scholar: https://scholar.google.sk/citations?user=I5zYMOsAAAAJ&amp
+  year: 1950
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: ' Bratislava'
@@ -830,12 +830,12 @@
   year: '1948'
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: geofyzika
-  hindex: '36'
-  img: om2ubySZ.jpg
+  hindex: 36
+  img: Peter_Moczo.jpg
   last_update: '2020-12-31'
   links:
   - - web
@@ -847,7 +847,7 @@
   name: Peter Moczo
   position: profesor
   scholar: https://scholar.google.sk/citations?user=OF5iXJQAAAAJ&amp;hl=sk
-  year: '1956'
+  year: 1956
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -878,12 +878,12 @@
   year: 1980
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "onkol\xF3gia"
-  hindex: '35'
-  img: 4-07d4f7880dbb838f170f340db17382613636ca36.jpg
+  hindex: 35
+  img: Michal_Mego.jpg
   last_update: '2020-12-31'
   links:
   - - "\u017Eivotopis"
@@ -891,7 +891,7 @@
   name: Michal Mego
   position: profesor
   scholar: https://scholar.google.com/citations?user=NvHY0EcAAAAJ&amp;hl=en&amp;oi=ao
-  year: '1977'
+  year: 1977
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -946,12 +946,12 @@
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "biol\xF3gia"
-  hindex: '35'
-  img: 116902-michal-zeman-clanokW.jpg
+  hindex: 35
+  img: Michal_Zeman.jpg
   last_update: '2020-12-31'
   links:
   - - web
@@ -1004,6 +1004,32 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=FMHHfNAAAAAJ&amp;hl=en
   year: '1952'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 4717
+      since_2016: 1620
+  - h_index:
+      all: 34
+      since_2016: 19
+  - i10_index:
+      all: 51
+      since_2016: 30
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "materi\xE1lov\xE1 veda"
+  hindex: 34
+  img: Milan_Sykora.png
+  last_update: '2021-09-16'
+  links:
+  - - "\u017Eivotopis"
+    - https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
+  name: "Milan S\xFDkora"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=fxBzWQcAAAAJ&amp;hl=en
+  year: ''
 - affiliation: "Univerzita PJ \u0160af\xE1rika"
   affiliationurl: Univerzita_PJ_Safarika
   cited_by:
@@ -1048,32 +1074,6 @@
   position: docentka
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=jsJC9WgAAAAJ
   year: '1955'
-- affiliation: Bratislava
-  affiliationurl: Bratislava
-  cited_by:
-  - citations:
-      all: 4717
-      since_2016: 1620
-  - h_index:
-      all: 34
-      since_2016: 19
-  - i10_index:
-      all: 51
-      since_2016: 30
-  city: THIS HAS TO BE FIXED
-  country: Slovensko
-  countryurl: Slovensko
-  field: "materi\xE1lov\xE1 veda"
-  hindex: 34
-  img: Screen Shot 2020-12-26 at 5.29.43 PM.png
-  last_update: '2021-09-16'
-  links:
-  - - "\u017Eivotopis"
-    - https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
-  name: "Milan S\xFDkora"
-  position: "univerzita komensk\xE9ho"
-  scholar: https://scholar.google.com/citations?user=fxBzWQcAAAAJ&amp;hl=en
-  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -1160,12 +1160,12 @@
   - i10_index:
       all: 63
       since_2016: 33
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "fyzika kondenzovan\xFDch l\xE1tok"
   hindex: 32
-  img: jdxjF1Sp.JPG
+  img: Roman_Martonak.jpg
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -1174,8 +1174,8 @@
     - https://dep.fmph.uniba.sk/cv-rm/
   name: "Roman Marto\u0148\xE1k"
   position: profesor
-  scholar: https://scholar.google.com/citations?user=FNaaPIwAAAAJ&amp;hl=en
-  year: '1964'
+  scholar: https://scholar.google.com/citations?user=FNaaPIwAAAAJ&amp
+  year: 1964
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -1310,36 +1310,6 @@
   affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
-      all: 5133
-      since_2016: 2969
-  - h_index:
-      all: 32
-      since_2016: 28
-  - i10_index:
-      all: 121
-      since_2016: 76
-  city: ' Bratislava'
-  country: Slovensko
-  countryurl: Slovensko
-  field: matematika
-  hindex: 32
-  img: 191125_Michal_Feckan_patri_medzi_najcitovanejsich__ed4b7c8d16.jpg
-  last_update: '2021-09-16'
-  links:
-  - - ESET Science Award
-    - https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
-  - - web
-    - https://www.mat.savba.sk/~feckan/
-  - - "\u017Eivotopis"
-    - https://www.mat.savba.sk/~feckan/#_toc16
-  name: "Michal Fe\u010Dkan"
-  position: profesor
-  scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
-  year: '1960'
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
       all: 2935
       since_2016: 1535
   - h_index:
@@ -1410,6 +1380,36 @@
   position: "vedeck\xE1 pracovn\xED\u010Dka"
   scholar: https://scholar.google.com/citations?user=_fONjMIAAAAJ&amp;hl=en
   year: '1951'
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 5133
+      since_2016: 2969
+  - h_index:
+      all: 32
+      since_2016: 28
+  - i10_index:
+      all: 121
+      since_2016: 76
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: matematika
+  hindex: 32
+  img: Michal_Feckan.jpg
+  last_update: '2021-09-16'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
+  - - web
+    - https://www.mat.savba.sk/~feckan/
+  - - "\u017Eivotopis"
+    - https://www.mat.savba.sk/~feckan/#_toc16
+  name: "Michal Fe\u010Dkan"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
+  year: 1960
 - affiliation: "Slovesk\xE1 akad\xE9mia vied"
   affiliationurl: Sloveska_akademia_vied
   city: ' Bratislava'
@@ -1464,6 +1464,36 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
   year: '1952'
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 3116
+      since_2016: 1463
+  - h_index:
+      all: 31
+      since_2016: 18
+  - i10_index:
+      all: 75
+      since_2016: 43
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "biotechnol\xF3gia"
+  hindex: 31
+  img: Milan_Certik.jpg
+  last_update: '2021-09-16'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/milan-certik-65a0834b/?originalSubdomain=sk
+  - - prabook
+    - https://prabook.com/web/milan.certik/335639
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Milan-Certik
+  name: "Milan \u010Cert\xEDk"
+  position: docent
+  scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp
+  year: 1962
 - affiliation: "Slovesk\xE1 akad\xE9mia vied"
   affiliationurl: Sloveska_akademia_vied
   cited_by:
@@ -1498,36 +1528,6 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
   year: '1961'
-- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
-  affiliationurl: Slovenska_technicka_univerzita
-  cited_by:
-  - citations:
-      all: 3116
-      since_2016: 1463
-  - h_index:
-      all: 31
-      since_2016: 18
-  - i10_index:
-      all: 75
-      since_2016: 43
-  city: ' Bratislava'
-  country: Slovensko
-  countryurl: Slovensko
-  field: "biotechnol\xF3gia"
-  hindex: 31
-  img: unnamed-16.jpg
-  last_update: '2021-09-16'
-  links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/milan-certik-65a0834b/?originalSubdomain=sk
-  - - prabook
-    - https://prabook.com/web/milan.certik/335639
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Milan-Certik
-  name: "Milan \u010Cert\xEDk"
-  position: docent
-  scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp;hl=sk
-  year: '1962'
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:

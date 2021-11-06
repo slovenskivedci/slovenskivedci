@@ -1,11 +1,11 @@
 - affiliation: "Oxfordsk\xE1 univerzita"
   affiliationurl: Oxfordska_univerzita
-  city: ' Oxford'
+  city: Oxford
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "fyzik\xE1lna ch\xE9mia"
-  hindex: '44'
-  img: 1228512_1200x.jpeg
+  hindex: 44
+  img: Philipp_Kukura.jpeg
   last_update: '2020-12-31'
   links:
   - - web
@@ -17,7 +17,7 @@
   name: Philipp Kukura
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NgHGnt0AAAAJ
-  year: '1978'
+  year: 1978
 - affiliation: "Edinburgsk\xE1 univerzita"
   affiliationurl: Edinburgska_univerzita
   city: ' Edinburg'
@@ -78,12 +78,12 @@
   - i10_index:
       all: 99
       since_2016: 66
-  city: ' Birmingham'
+  city: Birmingham
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "komplexn\xE9 a adapt\xEDvne syst\xE9my"
   hindex: 38
-  img: Peter-Tino-visita-Loyola.jpg
+  img: Peter_Tino.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -92,7 +92,7 @@
     - https://www.cs.bham.ac.uk/~pxt/cv_pt.pdf
   name: "Peter Ti\u0148o"
   position: profesor
-  scholar: https://scholar.google.sk/citations?user=jntY1osAAAAJ&amp;hl=sk
+  scholar: https://scholar.google.sk/citations?user=jntY1osAAAAJ&amp
   year: ''
 - affiliation: Univerzita Strathclyde
   affiliationurl: Univerzita_Strathclyde

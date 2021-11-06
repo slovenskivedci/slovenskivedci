@@ -1,4 +1,4 @@
-affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
+affiliation: "Česká akadémia vied"
 cited_by:
 - citations:
     all: 5740
@@ -9,18 +9,18 @@ cited_by:
 - i10_index:
     all: 78
     since_2016: 48
-city: ' Praha'
-country: "\u010Cesko"
-field: "komplexn\xE9 syst\xE9my"
-hindex: 37
-img: slideslive_milan-palus_kauzalita-informace-a-cas.jpg
+city: "Praha"
+country: "Česko"
+field: "komplexné systémy"
+hindex: 38
+img: Milan_Palus.jpg
 last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Milan-Palus
   dblp: https://dblp.org/pid/64/7857.html
   publons: https://publons.com/researcher/2698944/milan-palus
   web: http://www.cs.cas.cz/mp/
-name: "Milan Palu\u0161"
-position: "vedeck\xFD pracovn\xEDk"
+name: "Milan Paluš"
+position: "vedecký pracovník"
 scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
-year: '1963'
+year: 1963

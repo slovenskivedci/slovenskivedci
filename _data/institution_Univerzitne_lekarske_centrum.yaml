@@ -1,11 +1,11 @@
 - affiliation: "Univerzitn\xE9 lek\xE1rske centrum"
   affiliationurl: Univerzitne_lekarske_centrum
-  city: ' Utrecht'
+  city: Utrecht
   country: Holandsko
   countryurl: Holandsko
   field: "kardiovaskul\xE1rna genetika"
-  hindex: '35'
-  img: 1-2.jpg
+  hindex: 35
+  img: Michal_Mokry.jpg
   last_update: '2020-12-31'
   links:
   - - ResearchGate
@@ -15,4 +15,4 @@
   name: "Michal Mokr\xFD"
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=rX7GiUAAAAAJ
-  year: '1982'
+  year: 1982

@@ -1,4 +1,4 @@
-affiliation: Microsoft Research
+affiliation: "Microsoft Research"
 cited_by:
 - citations:
     all: 28631
@@ -9,16 +9,16 @@ cited_by:
 - i10_index:
     all: 48
     since_2016: 40
-city: 'Redmont'
-country: USA
+city: "Redmont"
+country: "USA"
 field: "strojové učenie"
-hindex: 32
-img: 20161115_Microsoft_NYC_Miro_Dudik_01-1000x450.jpg
+hindex: 33
+img: Miro_Dudik.jpg
 last_update: '2021-09-16'
 links:
   dblp: https://dblp.org/pid/30/2146.html
   web: https://www.microsoft.com/en-us/research/people/mdudik/
 name: "Miroslav Dudík"
 position: "vedecký pracovník"
-scholar: https://scholar.google.sk/citations?user=wYMTld8AAAAJ&amp;hl=en
+scholar: https://scholar.google.com/citations?user=wYMTld8AAAAJ&
 year: ''

@@ -1,11 +1,11 @@
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 matematika"
-  hindex: '65'
-  img: image_12007_21_v1.jpeg
+  hindex: 65
+  img: Radko_Mesiar.jpeg
   last_update: '2020-12-31'
   links:
   - - web
@@ -13,7 +13,7 @@
   name: Radko Mesiar
   position: profesor
   scholar: https://scholar.google.com/citations?user=_kXpl5YAAAAJ&amp;hl=en
-  year: '1951'
+  year: 1951
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   cited_by:
@@ -70,12 +70,12 @@
   - i10_index:
       all: 75
       since_2016: 43
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "biotechnol\xF3gia"
   hindex: 31
-  img: unnamed-16.jpg
+  img: Milan_Certik.jpg
   last_update: '2021-09-16'
   links:
   - - LinkedIn
@@ -86,5 +86,5 @@
     - https://www.researchgate.net/profile/Milan-Certik
   name: "Milan \u010Cert\xEDk"
   position: docent
-  scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp;hl=sk
-  year: '1962'
+  scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp
+  year: 1962

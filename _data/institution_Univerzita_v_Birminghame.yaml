@@ -10,12 +10,12 @@
   - i10_index:
       all: 99
       since_2016: 66
-  city: ' Birmingham'
+  city: Birmingham
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "komplexn\xE9 a adapt\xEDvne syst\xE9my"
   hindex: 38
-  img: Peter-Tino-visita-Loyola.jpg
+  img: Peter_Tino.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -24,5 +24,5 @@
     - https://www.cs.bham.ac.uk/~pxt/cv_pt.pdf
   name: "Peter Ti\u0148o"
   position: profesor
-  scholar: https://scholar.google.sk/citations?user=jntY1osAAAAJ&amp;hl=sk
+  scholar: https://scholar.google.sk/citations?user=jntY1osAAAAJ&amp
   year: ''

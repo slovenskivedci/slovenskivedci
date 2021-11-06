@@ -10,12 +10,12 @@
   - i10_index:
       all: 55
       since_2016: 33
-  city: ' Bloomington'
+  city: Bloomington
   country: USA
   countryurl: USA
   field: "fyzika \u010Dast\xEDc"
   hindex: 34
-  img: dermisek.jpg
+  img: Radovan_Dermisek.jpg
   last_update: '2021-09-16'
   links:
   - - web

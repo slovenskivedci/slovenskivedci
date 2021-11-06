@@ -1,11 +1,11 @@
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
-  city: ' Praha'
+  city: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "mikrobiol\xF3gia"
-  hindex: '47'
-  img: 03118445.jpeg
+  hindex: 47
+  img: Peter_Sebo.jpeg
   last_update: '2020-12-31'
   links:
   - - fems
@@ -24,9 +24,9 @@
     - https://mbucas.cz/en/research/microbiology/laboratory-of-molecular-biology-of-bacterial-pathogens/
   - - "\u017Eivotopis"
     - https://independent.academia.edu/PeterSebo/CurriculumVitae
-  name: Peter U0161ebo
+  name: "Peter \u0160ebo"
   position: profesor
-  scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp;hl=en
+  scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp
   year: 1960
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
@@ -40,12 +40,12 @@
   - i10_index:
       all: 78
       since_2016: 48
-  city: ' Praha'
+  city: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "komplexn\xE9 syst\xE9my"
-  hindex: 37
-  img: slideslive_milan-palus_kauzalita-informace-a-cas.jpg
+  hindex: 38
+  img: Milan_Palus.jpg
   last_update: '2021-09-16'
   links:
   - - dblp
@@ -59,7 +59,7 @@
   name: "Milan Palu\u0161"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
-  year: '1963'
+  year: 1963
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
   cited_by:

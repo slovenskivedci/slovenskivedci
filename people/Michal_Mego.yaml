@@ -1,13 +1,13 @@
-affiliation: "Univerzita Komensk\xE9ho"
-city: ' Bratislava'
-country: Slovensko
-field: "onkol\xF3gia"
-hindex: '35'
-img: 4-07d4f7880dbb838f170f340db17382613636ca36.jpg
+affiliation: "Univerzita Komenského"
+city: "Bratislava"
+country: "Slovensko"
+field: "onkológia"
+hindex: 35
+img: Michal_Mego.jpg
 last_update: '2020-12-31'
 links:
-  "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
-name: Michal Mego
+  životopis: https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
+name: "Michal Mego"
 position: profesor
 scholar: https://scholar.google.com/citations?user=NvHY0EcAAAAJ&amp;hl=en&amp;oi=ao
-year: '1977'
+year: 1977

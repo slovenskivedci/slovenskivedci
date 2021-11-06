@@ -1,0 +1,29 @@
+name: "Martin Pelikán"
+year: ''
+
+hindex: 44
+scholar: https://scholar.google.com/citations?hl=en&amp;user=f59x6y4AAAAJ
+
+position: "vedecký pracovník"
+field: "aplikovaná informatika"
+affiliation: "Apple"
+city: "Seattle"
+country: "USA"
+
+cited_by:
+- citations:
+    all: 9848
+    since_2016: 2185
+- h_index:
+    all: 44
+    since_2016: 20
+- i10_index:
+    all: 99
+    since_2016: 39
+
+
+
+img: Martin_Pelikan.jpg
+last_update: '2021-09-16'
+links:
+  dblp: https://dblp.org/pid/18/963.html

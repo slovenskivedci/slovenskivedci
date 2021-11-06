@@ -10,12 +10,12 @@
   - i10_index:
       all: 84
       since_2016: 61
-  city: ' Olomouc'
+  city: Olomouc
   country: "\u010Cesko"
   countryurl: Cesko
   field: "ch\xE9mia"
   hindex: 31
-  img: csm_herchel_cde545613b.jpg
+  img: Radovan_Herchel.jpg
   last_update: '2021-09-16'
   links:
   - - loop

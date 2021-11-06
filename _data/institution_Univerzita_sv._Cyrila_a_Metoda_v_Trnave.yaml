@@ -10,12 +10,12 @@
   - i10_index:
       all: 181
       since_2016: 105
-  city: ' Trnava'
+  city: Trnava
   country: Slovensko
   countryurl: Slovensko
   field: "anorganick\xE1 ch\xE9mia"
   hindex: 44
-  img: nas-profesor-1.jpg
+  img: Roman_Boca.jpg
   last_update: '2021-09-16'
   links:
   - - vedec roka 2011
@@ -26,8 +26,8 @@
     - https://www.stuba.sk/new/docs//stu/uradna_tabula/2010volby/_boca.pdf
   name: "Roman Bo\u010Da"
   position: profesor
-  scholar: https://scholar.google.sk/citations?user=I5zYMOsAAAAJ&amp;hl=en
-  year: '1950'
+  scholar: https://scholar.google.sk/citations?user=I5zYMOsAAAAJ&amp
+  year: 1950
 - affiliation: Univerzita sv. Cyrila a Metoda v Trnave
   affiliationurl: Univerzita_sv._Cyrila_a_Metoda_v_Trnave
   city: ' Trnava'

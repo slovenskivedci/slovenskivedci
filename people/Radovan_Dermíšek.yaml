@@ -1,4 +1,4 @@
-affiliation: Univerzita v Indiane
+affiliation: "Univerzita v Indiane"
 cited_by:
 - citations:
     all: 4373
@@ -9,16 +9,16 @@ cited_by:
 - i10_index:
     all: 55
     since_2016: 33
-city: ' Bloomington'
-country: USA
-field: "fyzika \u010Dast\xEDc"
+city: "Bloomington"
+country: "USA"
+field: "fyzika častíc"
 hindex: 34
-img: dermisek.jpg
+img: Radovan_Dermisek.jpg
 last_update: '2021-09-16'
 links:
   web: https://physics.indiana.edu/about/directory/all-faculty-scientists/dermisek-radovan.html
   "\u017Eivotopis": https://dermisek.pages.iu.edu/dermisek_CV.pdf
-name: "Radovan Derm\xED\u0161ek"
+name: "Radovan Dermíšek"
 position: profesor
 scholar: https://scholar.google.com/citations?hl=en&amp;user=Ell1TQQAAAAJ
 year: ''
