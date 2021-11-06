@@ -1,0 +1,23 @@
+affiliation: "Slovenská akadémia vied"
+cited_by:
+- citations:
+    all: 9489
+    since_2016: 3225
+- h_index:
+    all: 52
+    since_2016: 27
+- i10_index:
+    all: 219
+    since_2016: 111
+city: "Bratislava"
+country: "Slovensko"
+field: "aplikovaná mechanika"
+hindex: 52
+img: Vladimir_Sladek.png
+last_update: '2021-09-16'
+links:
+  osobnosti: https://www.osobnosti.sk/osobnost/vladimir-sladek-591
+name: "Vladimír Sládek"
+position: profesor
+scholar: https://scholar.google.sk/citations?user=Z8DDt0kAAAAJ&amp;hl=en
+year: 1954

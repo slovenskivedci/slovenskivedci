@@ -1,0 +1,24 @@
+affiliation: "Slovenská akadémia vied"
+cited_by:
+- citations:
+    all: 5131
+    since_2016: 1280
+- h_index:
+    all: 31
+    since_2016: 18
+- i10_index:
+    all: 74
+    since_2016: 34
+city: "Bratislava"
+country: "Slovensko"
+field: "biomedicína"
+hindex: 31
+img: Karol_Ondrias.png
+last_update: '2021-09-16'
+links:
+  web: http://www.ondrias.sk
+  wikipédia: "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"
+name: "Karol Ondriaš"
+position: "vedecký pracovník"
+scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
+year: 1952

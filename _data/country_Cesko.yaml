@@ -76,8 +76,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=EZ8YetQAAAAJ&amp;hl=en
   year: '1975'
-- affiliation: Masarykova  Univerzita
-  affiliationurl: Masarykova__Univerzita
+- affiliation: Masarykova univerzita
+  affiliationurl: Masarykova_univerzita
   cited_by:
   - citations:
       all: 6506
@@ -88,12 +88,12 @@
   - i10_index:
       all: 86
       since_2016: 68
-  city: ' Brno'
+  city: Brno
   country: "\u010Cesko"
   countryurl: Cesko
   field: "environment\xE1lna ch\xE9mia"
   hindex: 41
-  img: vrana-b.jpg
+  img: Branislav_Vrana.jpg
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -170,14 +170,14 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
   year: 1963
-- affiliation: "Fyzik\xE1lny in\u0161tit\xFAt, \u010Cesk\xE1 akad\xE9mia vied"
-  affiliationurl: Fyzikalny_institut__Ceska_akademia_vied
+- affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
+  affiliationurl: Ceska_akademia_vied
   city: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "optick\xE9 materi\xE1ly"
   hindex: 35
-  img: kromka1.png
+  img: Alexander_Kromka.png
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -291,7 +291,7 @@
   countryurl: Cesko
   field: "chemick\xE9 in\u017Einierstvo"
   hindex: 30
-  img: Miroslav-Soos.jpg
+  img: Miroslav_Soos.jpeg
   last_update: '2021-09-16'
   links:
   - - LinkedIn

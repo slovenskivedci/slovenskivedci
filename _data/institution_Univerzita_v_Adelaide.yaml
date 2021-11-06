@@ -1,25 +1,5 @@
 - affiliation: Univerzita v Adelaide
   affiliationurl: Univerzita_v_Adelaide
-  city: ' Adelaide'
-  country: "Austr\xE1lia"
-  countryurl: Australia
-  field: neurogenetika
-  hindex: '86'
-  img: Gecz-Jozef.jpg
-  last_update: '2020-12-31'
-  links:
-  - - web
-    - https://researchers.adelaide.edu.au/profile/jozef.gecz
-  - - wikipedia
-    - "https://en.wikipedia.org/wiki/Jozef_G\xE9cz"
-  - - "\u017Eivotopis"
-    - https://prabook.com/web/jozef.gecz/418497
-  name: "Jozef G\xE9cz"
-  position: profesor
-  scholar: https://scholar.google.com/citations?user=FTejMNwAAAAJ&amp;hl=en
-  year: '1962'
-- affiliation: Univerzita v Adelaide
-  affiliationurl: Univerzita_v_Adelaide
   cited_by:
   - citations:
       all: 6541

@@ -28,12 +28,12 @@
   - i10_index:
       all: 72
       since_2016: 49
-  city: " Ko\u0161ice"
+  city: "Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 matematika"
   hindex: 37
-  img: 5857995_1200x.jpeg
+  img: Igor_Podlubny.jpeg
   last_update: '2021-09-16'
   links:
   - - ESET Science Award
@@ -47,15 +47,15 @@
   name: "Igor Podlubn\xFD"
   position: profesor
   scholar: http://scholar.google.com/citations?user=4H2CInEAAAAJ
-  year: '1961'
+  year: 1961
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   affiliationurl: Technicka_univerzita_v_Kosiciach
-  city: " Ko\u0161ice"
+  city: "Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
-  field: "v\xFDrobn\xE9 technol\xF3gie"
-  hindex: '31'
-  img: 887add6b566289fe97ba3c44d5d6.jpeg
+  field: "v\xFDobn\xE9 technol\xF3gie"
+  hindex: 31
+  img: Sergej_Hloch.jpeg
   last_update: '2020-12-31'
   links:
   - - web

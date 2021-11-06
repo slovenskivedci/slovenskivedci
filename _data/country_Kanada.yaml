@@ -1,6 +1,31 @@
-- affiliation: Schroeder Arthritis Institute, Toronto, Kanada profesor, Univerzita
-    v Toronte, Toronto
-  affiliationurl: Schroeder_Arthritis_Institute__Toronto__Kanada_profesor__Univerzita_v_Toronte__Toronto
+- affiliation: "Ottawsk\xE1 univerzita"
+  affiliationurl: Ottawska_univerzita
+  city: Ottawa
+  country: Kanada
+  countryurl: Kanada
+  field: "geoch\xE9mia"
+  hindex: 89
+  img: Jan_Veizer.jpg
+  last_update: '2021-11-06'
+  links:
+  - - AMiner
+    - https://www.aminer.org/profile/jan-veizer/53f4ca6bdabfaee57b77fdf2
+  - - ChemEurope
+    - https://www.chemeurope.com/en/encyclopedia/Jan_Veizer.html
+  - - DeSmog
+    - https://www.desmog.com/jan-veizer/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jan-Veizer-2
+  - - web
+    - https://science.uottawa.ca/earth/people/veizer-jan
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Jan_Veizer
+  name: "J\xE1n Veizer"
+  position: "emeritn\xFD profesor"
+  scholar: https://scholar.google.com/citations?user=b-gm8tgAAAAJ&hl=en
+  year: 1941
+- affiliation: "Torontsk\xE1 univerzita"
+  affiliationurl: Torontska_univerzita
   cited_by:
   - citations:
       all: 29175
@@ -11,26 +36,26 @@
   - i10_index:
       all: 208
       since_2016: 161
-  city: THIS HAS TO BE FIXED
+  city: Toronto
   country: Kanada
   countryurl: Kanada
   field: bioinformatika
   hindex: 79
-  img: 2015-Nov-Jurisica1-Rescomm2c4-2.png
+  img: Igor_Jurisica.png
   last_update: '2021-09-16'
   links:
   - - web
     - https://www.cs.toronto.edu/~juris/home.html
-  - - wikipedia
+  - - "wikip\xE9dia"
     - https://en.wikipedia.org/wiki/Igor_Jurisica
   - - "\u017Eivotopis"
     - https://www.fmb.unesp.br/Home/ensino/Pos-Graduacao/mestradoacademicoedoutorado/pgbasesgeraisdacirurgia/igor-jurisica_curriculum-vitae-july-2015-1.pdf
   name: "Igor Juri\u0161ica"
   position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ
-  year: '1967'
-- affiliation: "V\xFDskumn\xFD in\u0161tit\xFAt torontskej v\u0161eobecnej nemocnice"
-  affiliationurl: Vyskumny_institut_torontskej_vseobecnej_nemocnice
+  year: 1967
+- affiliation: "V\xFDskumn\xFD in\u0161tit\xFAt Torontskej v\u0161eobecnej nemocnice"
+  affiliationurl: Vyskumny_institut_Torontskej_vseobecnej_nemocnice
   cited_by:
   - citations:
       all: 23114
@@ -41,12 +66,12 @@
   - i10_index:
       all: 169
       since_2016: 108
-  city: ' Toronto'
+  city: Toronto
   country: Kanada
   countryurl: Kanada
   field: "kardiol\xF3gia"
   hindex: 68
-  img: jDgBXcYH.jpg
+  img: Vladimir_Dzavik.jpg
   last_update: '2021-09-16'
   links:
   - - PubMed
@@ -68,7 +93,7 @@
   countryurl: Kanada
   field: optika a fotonika
   hindex: 59
-  img: pavel-cheben.jpg
+  img: Pavel_Cheben.jpg
   last_update: '2020-12-31'
   links:
   - - ESET Envoy
@@ -107,14 +132,14 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=qOmkOIAAAAAJ&amp;hl=en
   year: ''
-- affiliation: Univerzita v Toronte
-  affiliationurl: Univerzita_v_Toronte
+- affiliation: "Torontsk\xE1 univerzita"
+  affiliationurl: Torontska_univerzita
   city: Toronto
   country: Kanada
   countryurl: Kanada
   field: "reprodukt\xEDvna biol\xF3gia"
   hindex: 49
-  img: AJ.png
+  img: Andrea_Jurisicova.png
   last_update: '2020-12-31'
   links:
   - - publons
@@ -126,7 +151,7 @@
   name: "Andrea Juri\u0161icov\xE1"
   position: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=JPCdl08AAAAJ
-  year: null
+  year: ''
 - affiliation: Univerzita Simona Frasera
   affiliationurl: Univerzita_Simona_Frasera
   city: Burnaby
@@ -177,12 +202,12 @@
   - i10_index:
       all: 103
       since_2016: 57
-  city: ' Surrey'
+  city: Surrey
   country: Kanada
   countryurl: Kanada
   field: "d\xE1tov\xE1 veda"
   hindex: 41
-  img: MarekFace790x420.jpg
+  img: Marek_Hatala.jpg
   last_update: '2021-09-16'
   links:
   - - web

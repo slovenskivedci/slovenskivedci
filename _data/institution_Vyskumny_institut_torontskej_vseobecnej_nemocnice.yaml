@@ -1,5 +1,5 @@
-- affiliation: "V\xFDskumn\xFD in\u0161tit\xFAt torontskej v\u0161eobecnej nemocnice"
-  affiliationurl: Vyskumny_institut_torontskej_vseobecnej_nemocnice
+- affiliation: "V\xFDskumn\xFD in\u0161tit\xFAt Torontskej v\u0161eobecnej nemocnice"
+  affiliationurl: Vyskumny_institut_Torontskej_vseobecnej_nemocnice
   cited_by:
   - citations:
       all: 23114
@@ -10,12 +10,12 @@
   - i10_index:
       all: 169
       since_2016: 108
-  city: ' Toronto'
+  city: Toronto
   country: Kanada
   countryurl: Kanada
   field: "kardiol\xF3gia"
   hindex: 68
-  img: jDgBXcYH.jpg
+  img: Vladimir_Dzavik.jpg
   last_update: '2021-09-16'
   links:
   - - PubMed

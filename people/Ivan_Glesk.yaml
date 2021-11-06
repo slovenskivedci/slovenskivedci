@@ -1,4 +1,4 @@
-affiliation: Univerzita Strathclyde
+affiliation: "Univerzita Strathclyde"
 cited_by:
 - citations:
     all: 5647
@@ -9,17 +9,17 @@ cited_by:
 - i10_index:
     all: 101
     since_2016: 27
-city: ' Glasgow'
-country: "Ve\u013Ek\xE1 Brit\xE1nia"
-field: elektrotechnika
+city: "Glasgow"
+country: "Veľká Británia"
+field: "elektrotechnika"
 hindex: 41
-img: Glesk.jpeg
+img: Ivan_Glesk.jpeg
 last_update: '2021-09-16'
 links:
   orcid: https://orcid.org/0000-0002-3176-8069
-  web: http://personal.strath.ac.uk/ivan.glesk/
-  web2: https://pureportal.strath.ac.uk/en/persons/ivan-glesk
-name: Ivan Glesk
+  web 1: http://personal.strath.ac.uk/ivan.glesk/
+  web 2: https://pureportal.strath.ac.uk/en/persons/ivan-glesk
+name: "Ivan Glesk"
 position: profesor
 scholar: https://scholar.google.sk/citations?hl=en&amp;user=2f6Yg78AAAAJ
 year: ''

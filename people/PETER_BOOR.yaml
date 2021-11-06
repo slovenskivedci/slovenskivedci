@@ -1,4 +1,8 @@
+name: "Peter Boor"
+year: 1979
+
 affiliation: "RWTH Aachen"
+
 cited_by:
 - citations:
     all: 8563
@@ -9,16 +13,17 @@ cited_by:
 - i10_index:
     all: 140
     since_2016: 128
+
 city: "Aachen"
-country: Nemecko
+country: "Nemecko"
 field: "patológia"
 hindex: 52
+
 img: Peter_Boor.jpeg
 last_update: '2021-09-16'
 links:
   web: https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/
   životopis: http://www.imbm.sk/wp-content/uploads/2018/01/cv-english-pb.pdf
-name: "Peter Boor"
+
 position: docent
 scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
-year: 1979

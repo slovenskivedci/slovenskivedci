@@ -1,0 +1,50 @@
+- affiliation: "Torontsk\xE1 univerzita"
+  affiliationurl: Torontska_univerzita
+  cited_by:
+  - citations:
+      all: 29175
+      since_2016: 15519
+  - h_index:
+      all: 79
+      since_2016: 55
+  - i10_index:
+      all: 208
+      since_2016: 161
+  city: Toronto
+  country: Kanada
+  countryurl: Kanada
+  field: bioinformatika
+  hindex: 79
+  img: Igor_Jurisica.png
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - https://www.cs.toronto.edu/~juris/home.html
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Igor_Jurisica
+  - - "\u017Eivotopis"
+    - https://www.fmb.unesp.br/Home/ensino/Pos-Graduacao/mestradoacademicoedoutorado/pgbasesgeraisdacirurgia/igor-jurisica_curriculum-vitae-july-2015-1.pdf
+  name: "Igor Juri\u0161ica"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ
+  year: 1967
+- affiliation: "Torontsk\xE1 univerzita"
+  affiliationurl: Torontska_univerzita
+  city: Toronto
+  country: Kanada
+  countryurl: Kanada
+  field: "reprodukt\xEDvna biol\xF3gia"
+  hindex: 49
+  img: Andrea_Jurisicova.png
+  last_update: '2020-12-31'
+  links:
+  - - publons
+    - https://publons.com/researcher/2649349/andrea-jurisicova/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Andrea-Jurisicova
+  - - web
+    - http://www.lunenfeld.ca/?page=jurisicova-andrea
+  name: "Andrea Juri\u0161icov\xE1"
+  position: docentka
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=JPCdl08AAAAJ
+  year: ''

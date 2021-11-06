@@ -1,21 +1,21 @@
-- affiliation: Univerzita v New Yorku
-  affiliationurl: Univerzita_v_New_Yorku
-  city: ' New York'
+- affiliation: "New Yorksk\xE1 univerzita"
+  affiliationurl: New_Yorkska_univerzita
+  city: New York
   country: USA
   countryurl: USA
   field: "mikrobiol\xF3gia"
-  hindex: '104'
-  img: jan-vilcek-laska-a-veda-clanokW.jpg
+  hindex: 104
+  img: Jan_Vilcek.jpg
   last_update: '2020-12-31'
   links:
   - - web
     - http://www.janvilcek.com
-  - - wikipedia
+  - - "wikip\xE9dia"
     - "https://en.wikipedia.org/wiki/Jan_Vil\u010Dek"
   name: "J\xE1n Vil\u010Dek"
   position: profesor
   scholar: https://scholar.google.com/citations?user=zG9xTAcAAAAJ&amp;hl=en
-  year: '1933'
+  year: 1933
 - affiliation: Univerzita v Illinois
   affiliationurl: Univerzita_v_Illinois
   cited_by:
@@ -126,8 +126,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
   year: 1968
-- affiliation: George Mason University
-  affiliationurl: George_Mason_University
+- affiliation: Univerzita Georga Masona
+  affiliationurl: Univerzita_Georga_Masona
   cited_by:
   - citations:
       all: 10337
@@ -138,17 +138,19 @@
   - i10_index:
       all: 92
       since_2016: 58
-  city: THIS HAS TO BE FIXED
+  city: Fairfax
   country: USA
   countryurl: USA
   field: "robotika a strojov\xE9 videnie"
   hindex: 48
-  img: C57X6nj7.jpg
+  img: Jana_Kosecka.jpg
   last_update: '2021-09-16'
   links:
+  - - KInIT
+    - https://kinit.sk/meet-jana-kosecka-kinit-external-mentor/
   - - web
     - https://cs.gmu.edu/~kosecka/
-  - - wikipedia
+  - - "wikip\xE9dia"
     - "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
   name: "Jana Ko\u0161eck\xE1"
   position: profesorka
@@ -317,12 +319,12 @@
   - i10_index:
       all: 105
       since_2016: 58
-  city: ' Tucson'
+  city: Tucson
   country: USA
   countryurl: USA
   field: optika
   hindex: 40
-  img: 21-Kolesik,Miroslav (12Nov2019).jpg
+  img: Miroslav_Kolesik.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -373,7 +375,7 @@
   country: USA
   countryurl: USA
   field: "geol\xF3gia"
-  hindex: '37'
+  hindex: 37
   img: Peter_Nabelek.jpeg
   last_update: '2020-12-31'
   links:
@@ -434,7 +436,7 @@
   countryurl: USA
   field: "fyzika tuh\xFDch l\xE1tok"
   hindex: 33
-  img: vafek.jpg
+  img: Oskar_Vafek.jpg
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -467,6 +469,34 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp
   year: ''
+- affiliation: Microsoft Research
+  affiliationurl: Microsoft_Research
+  cited_by:
+  - citations:
+      all: 28631
+      since_2016: 17185
+  - h_index:
+      all: 32
+      since_2016: 31
+  - i10_index:
+      all: 48
+      since_2016: 40
+  city: Redmont
+  country: USA
+  countryurl: USA
+  field: "strojov\xE9 u\u010Denie"
+  hindex: 33
+  img: Miro_Dudik.jpg
+  last_update: '2021-09-16'
+  links:
+  - - dblp
+    - https://dblp.org/pid/30/2146.html
+  - - web
+    - https://www.microsoft.com/en-us/research/people/mdudik/
+  name: "Miroslav Dud\xEDk"
+  position: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=wYMTld8AAAAJ&
+  year: ''
 - affiliation: "Univerzita v Pennsylv\xE1nii"
   affiliationurl: Univerzita_v_Pennsylvanii
   cited_by:
@@ -496,34 +526,6 @@
   name: "\u013Dubica Rauov\xE1"
   position: docentka
   scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
-  year: ''
-- affiliation: Microsoft Research
-  affiliationurl: Microsoft_Research
-  cited_by:
-  - citations:
-      all: 28631
-      since_2016: 17185
-  - h_index:
-      all: 32
-      since_2016: 31
-  - i10_index:
-      all: 48
-      since_2016: 40
-  city: Redmont
-  country: USA
-  countryurl: USA
-  field: "strojov\xE9 u\u010Denie"
-  hindex: 32
-  img: Miro_Dudik.jpg
-  last_update: '2021-09-16'
-  links:
-  - - dblp
-    - https://dblp.org/pid/30/2146.html
-  - - web
-    - https://www.microsoft.com/en-us/research/people/mdudik/
-  name: "Miroslav Dud\xEDk"
-  position: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.sk/citations?user=wYMTld8AAAAJ&amp
   year: ''
 - affiliation: Amazon
   affiliationurl: Amazon
@@ -585,12 +587,12 @@
   - i10_index:
       all: 34
       since_2016: 34
-  city: ' Chicago'
+  city: Chicago
   country: USA
   countryurl: USA
   field: "ekon\xF3mia"
   hindex: 30
-  img: Screen Shot 2021-08-31 at 11.15.51 PM.png
+  img: Lubos_Pastor.png
   last_update: '2021-09-16'
   links:
   - - NBS
@@ -600,4 +602,4 @@
   name: "\u013Dubo\u0161 P\xE1stor"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
-  year: '1974'
+  year: 1974

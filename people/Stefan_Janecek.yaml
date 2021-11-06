@@ -1,0 +1,24 @@
+affiliation: "Slovenská akadémia vied"
+cited_by:
+- citations:
+    all: 5804
+    since_2016: 2112
+- h_index:
+    all: 41
+    since_2016: 25
+- i10_index:
+    all: 79
+    since_2016: 58
+city: "Bratislava"
+country: "Slovensko"
+field: "molekulárna biológia"
+hindex: 41
+img: Stefan_Janecek.jpg
+last_update: '2021-09-16'
+links:
+  web: http://imb.savba.sk/~janecek/
+  životopis: https://fpv-kbio.webnode.sk/stefan-janecek/
+name: "Štefan Janeček"
+position: docent
+scholar: https://scholar.google.sk/citations?user=_l2tp6kAAAAJ&amp;hl=en
+year: ''

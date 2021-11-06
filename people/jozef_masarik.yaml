@@ -1,4 +1,4 @@
-affiliation: "Univerzita Komensk\xE9ho"
+affiliation: "Univerzita Komenského"
 cited_by:
 - citations:
     all: 6431
@@ -9,17 +9,17 @@ cited_by:
 - i10_index:
     all: 76
     since_2016: 43
-city: ' Bratislava'
-country: Slovensko
-field: "jadrov\xE1 fyzika"
+city: "Bratislava"
+country: "Slovensko"
+field: "jadrová fyzika"
 hindex: 38
-img: 3049399_1200x.jpg
+img: Jozef_Masarik.jpg
 last_update: '2021-09-16'
 links:
   web: https://uniba.sk/o-univerzite/organy-uk/vedenie/prorektor-pre-vedu-doktorandske-studium-a-projektovu-cinnost/
-  "wikip\xE9dia": https://sk.wikipedia.org/wiki/Jozef_Masarik
-  "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/ovv/2018/181031_Volby-JozefMasarikZivotopis.pdf
-name: Jozef Masarik
+  wikipédia: https://sk.wikipedia.org/wiki/Jozef_Masarik
+  životopis: https://uniba.sk/fileadmin/ruk/ovv/2018/181031_Volby-JozefMasarikZivotopis.pdf
+name: "Jozef Masarik"
 position: profesor
 scholar: https://scholar.google.com/citations?user=DkqU0V4AAAAJ&amp;hl=th
-year: '1959'
+year: 1959

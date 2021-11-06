@@ -1,0 +1,25 @@
+affiliation: "Univerzita Georga Masona"
+cited_by:
+- citations:
+    all: 10337
+    since_2016: 4311
+- h_index:
+    all: 48
+    since_2016: 33
+- i10_index:
+    all: 92
+    since_2016: 58
+city: "Fairfax"
+country: "USA"
+field: "robotika a strojové videnie"
+hindex: 48
+img: Jana_Kosecka.jpg
+last_update: '2021-09-16'
+links:
+  web: https://cs.gmu.edu/~kosecka/
+  wikipédia: "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
+  KInIT: https://kinit.sk/meet-jana-kosecka-kinit-external-mentor/
+name: "Jana Košecká"
+position: profesorka
+scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
+year: ''

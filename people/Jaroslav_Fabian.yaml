@@ -1,0 +1,24 @@
+affiliation: "Univerzita v Regensburgu"
+cited_by:
+- citations:
+    all: 24076
+    since_2016: 11450
+- h_index:
+    all: 53
+    since_2016: 41
+- i10_index:
+    all: 141
+    since_2016: 113
+city: "Regensburg"
+country: "Nemecko"
+field: "kvantová fyzika"
+hindex: 53
+img: Jaroslav_Fabian.jpg
+last_update: '2021-09-16'
+links:
+  web: http://www.physik.uni-regensburg.de/forschung/fabian/
+  životopis: http://www.physik.uni-regensburg.de/forschung/fabian/pages/mainframes/people/JaroslavFabian/resume.pdf
+name: "Jaroslav Fabián"
+position: profesor
+scholar: https://scholar.google.de/citations?user=bNu69CcAAAAJ&amp;hl=en
+year: '1967'

@@ -44,12 +44,12 @@
   year: ''
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 matematika"
-  hindex: '32'
-  img: profesor-karol-mikula-clanokW.jpg
+  hindex: 32
+  img: Karol_Mikula.jpg
   last_update: '2020-12-31'
   links:
   - - web
@@ -57,7 +57,7 @@
   name: Karol Mikula
   position: profesor
   scholar: https://scholar.google.sk/citations?user=nM3oZ78AAAAJ&amp;hl=en&amp;oi=ao
-  year: '1963'
+  year: 1963
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   cited_by:

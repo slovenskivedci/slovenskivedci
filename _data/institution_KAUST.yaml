@@ -20,10 +20,20 @@
   links:
   - - dblp
     - https://dblp.org/pid/62/8001.html
+  - - KInIT
+    - https://kinit.sk/meet-peter-richtarik-kinit-external-mentor/
+  - - LinkedIn
+    - https://sa.linkedin.com/in/richtarik
+  - - mathematics genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=111470
   - - orcid
     - https://orcid.org/0000-0003-4380-5848
-  - - web
+  - - twitter
+    - https://twitter.com/peter_richtarik?lang=en
+  - - web 1
     - https://richtarik.org
+  - - web 2
+    - https://cemse.kaust.edu.sa/vcc/people/person/peter-richtarik
   - - "\u017Eivotopis"
     - https://richtarik.org/docs/richtarik-cv-2021-03.pdf
   name: "Peter Richt\xE1rik"
@@ -42,12 +52,12 @@
   - i10_index:
       all: 78
       since_2016: 56
-  city: ' Thuwal'
+  city: Thuwal
   country: "Saudsk\xE1 Ar\xE1bia"
   countryurl: Saudska_Arabia
   field: "po\u010D\xEDta\u010Dov\xE1 grafika a vizualiz\xE1cia"
   hindex: 30
-  img: KAUST-CEMSE-VCC-NANOVIS-CS-Ivan-Viola-Photo.jpg
+  img: Ivan_Viola.jpg
   last_update: '2021-09-16'
   links:
   - - dblp
@@ -63,4 +73,4 @@
   name: Ivan Viola
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ELMPg_gAAAAJ
-  year: '1977'
+  year: 1977

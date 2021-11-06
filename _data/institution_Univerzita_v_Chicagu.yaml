@@ -10,12 +10,12 @@
   - i10_index:
       all: 34
       since_2016: 34
-  city: ' Chicago'
+  city: Chicago
   country: USA
   countryurl: USA
   field: "ekon\xF3mia"
   hindex: 30
-  img: Screen Shot 2021-08-31 at 11.15.51 PM.png
+  img: Lubos_Pastor.png
   last_update: '2021-09-16'
   links:
   - - NBS
@@ -25,4 +25,4 @@
   name: "\u013Dubo\u0161 P\xE1stor"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
-  year: '1974'
+  year: 1974

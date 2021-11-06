@@ -1,4 +1,4 @@
-affiliation: KAUST
+affiliation: "KAUST"
 cited_by:
 - citations:
     all: 3495
@@ -9,19 +9,19 @@ cited_by:
 - i10_index:
     all: 78
     since_2016: 56
-city: ' Thuwal'
-country: "Saudsk\xE1 Ar\xE1bia"
-field: "po\u010D\xEDta\u010Dov\xE1 grafika a vizualiz\xE1cia"
+city: "Thuwal"
+country: "Saudská Arábia"
+field: "počítačová grafika a vizualizácia"
 hindex: 30
-img: KAUST-CEMSE-VCC-NANOVIS-CS-Ivan-Viola-Photo.jpg
+img: Ivan_Viola.jpg
 last_update: '2021-09-16'
 links:
   LinkedIn: https://sa.linkedin.com/in/ivanviola
   dblp: https://dblp.org/pid/21/4861.html
   orcid: https://orcid.org/0000-0003-4248-6574
   web: https://cemse.kaust.edu.sa/nanovis
-  "\u017Eivotopis": http://ii.uib.no/vis_old/team/viola/_pdfs/IvanViolaCV.pdf
-name: Ivan Viola
+  životopis: http://ii.uib.no/vis_old/team/viola/_pdfs/IvanViolaCV.pdf
+name: "Ivan Viola"
 position: profesor
 scholar: https://scholar.google.com/citations?hl=en&amp;user=ELMPg_gAAAAJ
-year: '1977'
+year: 1977

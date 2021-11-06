@@ -50,12 +50,12 @@
   year: 1941
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 mechanika"
-  hindex: '52'
-  img: Sladek_Jan_small.jpg
+  hindex: 52
+  img: Jan_Sladek.jpg
   last_update: '2020-12-31'
   links:
   - - osobnosti
@@ -65,7 +65,7 @@
   name: "J\xE1n Sl\xE1dek"
   position: profesor
   scholar: https://scholar.google.com/citations?user=EuDw2JcAAAAJ&amp;hl=en
-  year: '1952'
+  year: 1952
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -78,28 +78,66 @@
   - i10_index:
       all: 219
       since_2016: 111
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 mechanika"
   hindex: 52
-  img: photo.png
+  img: Vladimir_Sladek.png
   last_update: '2021-09-16'
   links:
-  - - "\u017Eivotopis"
+  - - osobnosti
     - https://www.osobnosti.sk/osobnost/vladimir-sladek-591
   name: "Vladim\xEDr Sl\xE1dek"
   position: profesor
   scholar: https://scholar.google.sk/citations?user=Z8DDt0kAAAAJ&amp;hl=en
-  year: '1954'
+  year: 1954
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  city: ' Bratislava'
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "materi\xE1lov\xE1 ch\xE9mia"
+  hindex: 44
+  img: Maria_Omastova.jpg
+  last_update: '2020-12-31'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/maria-omastova
+  - - web
+    - http://www.polymer.sav.sk/OKM
+  - - "\u017Eivotopis"
+    - https://drive.google.com/file/d/1N08kDcSaK0QsIq5_lGpbp-D4Xp1e7xGO/view?usp=sharing
+  name: "M\xE1ria Omastov\xE1"
+  position: "vedeck\xE1 pracovn\xED\u010Dka"
+  scholar: https://scholar.google.sk/citations?user=8X3B8LAAAAAJ&amp;hl=en&amp;oi=ao
+  year: 1962
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: botanika
+  hindex: 44
+  img: Karol_Marhold.jpg
+  last_update: '2020-12-31'
+  links:
+  - - publons
+    - https://publons.com/researcher/1220455/karol-marhold/
+  - - web
+    - https://ibot.sav.sk/usr/Karol/
+  name: Karol Marhold
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=uA0tObYAAAAJ&amp;hl=en
+  year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "biotechnol\xF3gia"
-  hindex: '43'
-  img: 5858006_1200x.jpeg
+  hindex: 43
+  img: Jan_Tkac.jpeg
   last_update: '2020-12-31'
   links:
   - - ESET Science Award
@@ -112,7 +150,7 @@
   name: "J\xE1n Tk\xE1\u010D"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=jfkqa18AAAAJ&amp;hl=en
-  year: '1972'
+  year: 1972
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -149,12 +187,12 @@
   year: '1962'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "bioch\xE9mia"
-  hindex: '42'
-  img: olga-pechanova-clanokW.jpg
+  hindex: 42
+  img: Olga_Pechanova.jpg
   last_update: '2020-12-31'
   links:
   - - osobnosti
@@ -166,7 +204,7 @@
   name: "O\u013Ega Pech\xE1\u0148ov\xE1"
   position: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=1bNNlZUAAAAJ
-  year: '1962'
+  year: 1962
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
@@ -197,6 +235,34 @@
   name: Peter Gemeiner
   position: "vedeck\xFD pracovn\xEDk"
   year: 1946
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
+      all: 5804
+      since_2016: 2112
+  - h_index:
+      all: 41
+      since_2016: 25
+  - i10_index:
+      all: 79
+      since_2016: 58
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "molekul\xE1rna biol\xF3gia"
+  hindex: 41
+  img: Stefan_Janecek.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - http://imb.savba.sk/~janecek/
+  - - "\u017Eivotopis"
+    - https://fpv-kbio.webnode.sk/stefan-janecek/
+  name: "\u0160tefan Jane\u010Dek"
+  position: docent
+  scholar: https://scholar.google.sk/citations?user=_l2tp6kAAAAJ&amp;hl=en
+  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -431,12 +497,12 @@
   - i10_index:
       all: 74
       since_2016: 34
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "biomedic\xEDna"
   hindex: 31
-  img: Screen Shot 2020-12-27 at 9.01.24 AM.png
+  img: Karol_Ondrias.png
   last_update: '2021-09-16'
   links:
   - - web
@@ -446,7 +512,7 @@
   name: "Karol Ondria\u0161"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
-  year: '1952'
+  year: 1952
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:

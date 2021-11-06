@@ -1,18 +1,18 @@
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
-  hindex: '123'
-  img: "Nov\xE1 fyzika v CERN.JPG"
+  hindex: 123
+  img: Branislav_Sitar.jpg
   last_update: '2020-12-31'
   links:
   - - publons
     - https://publons.com/researcher/3258206/brano-sitar/
   - - web
     - https://fmph.uniba.sk/kontakt/zamestnanci/sitar1/
-  - - wikipedia
+  - - "wikip\xE9dia"
     - "https://sk.wikipedia.org/wiki/Branislav_Sit\xE1r"
   - - "\u017Eivotopis"
     - "https://www.vedatechnika.sk/SK/enoviny/RozhovoryReportaze/Documents/Profesijn\xFD\
@@ -20,7 +20,7 @@
   name: "Branislav Sit\xE1r"
   position: profesor
   scholar: https://scholar.google.com/citations?user=4ymEP0sAAAAJ
-  year: '1946'
+  year: 1946
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -93,6 +93,36 @@
   affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
+      all: 45683
+      since_2016: 44550
+  - h_index:
+      all: 49
+      since_2016: 45
+  - i10_index:
+      all: 74
+      since_2016: 71
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "epidemiol\xF3gia"
+  hindex: 49
+  img: Alexandra_Brazinova.jpg
+  last_update: '2021-09-16'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-0625-256X
+  - - publons
+    - https://publons.com/researcher/2304958/alexandra-brazinova
+  - - "\u017Eivotopis"
+    - https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
+  name: "Alexandra Bra\u017Einov\xE1"
+  position: docentka
+  scholar: https://scholar.google.com/citations?view_op=list_works&amp;hl=sk&amp;user=_tpva74AAAAJ&amp;gmla=AJsN-F4enZVXEbSLey5sIxs2iYX1b7cqmKalMsteEbPCoYJYJxTGQ_Zt-LvTIN2kkDL4gvas8IzPL_-d-a2pm35LzuGeTzsZ-_QtrpIO0EjpojuHFcUXAHqhiyBxqm1VoP8CFAzsgdRpPW7w8bg5bGlASKOHjuCzhA&amp;fbclid=IwAR3a7AhdjAeyLhXviBDKjED2xYkm112lWx5VvKswNvukEuxNdsJdW37SfLg
+  year: 1971
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
       all: 6851
       since_2016: 4222
   - h_index:
@@ -114,6 +144,28 @@
   name: Pavol Prokop
   position: profesor
   scholar: https://scholar.google.sk/citations?user=q6uGy_4AAAAJ&amp;hl=sk
+  year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "lek\xE1rska ch\xE9mia"
+  hindex: 41
+  img: Josef_Jampilek.jpg
+  last_update: '2021-11-06'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-2003-9052
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Josef-Jampilek-2
+  - - web
+    - https://analytika.sk/o-nas/pracovnici/josef-jampilek/
+  - - "\u017Eivotopis"
+    - https://benthamscience.com/journals/medicinal-chemistry/editorial-board/biography/mc_ebm_jampilek_001/
+  name: "Josef Jamp\xEDlek"
+  position: profesor
+  scholar: https://scholar.google.sk/citations?user=co9rdhQAAAAJ&hl=sk&oi=sra
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
@@ -209,12 +261,12 @@
   - i10_index:
       all: 76
       since_2016: 43
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
   hindex: 38
-  img: 3049399_1200x.jpg
+  img: Jozef_Masarik.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -226,7 +278,7 @@
   name: Jozef Masarik
   position: profesor
   scholar: https://scholar.google.com/citations?user=DkqU0V4AAAAJ&amp;hl=th
-  year: '1959'
+  year: 1959
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -239,12 +291,12 @@
   - i10_index:
       all: 138
       since_2016: 67
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: biofyzika
   hindex: 37
-  img: maxresdefault.jpg
+  img: Tibor_Hianik.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -333,12 +385,12 @@
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "intern\xE1 medic\xEDna"
-  hindex: '34'
-  img: sebekova-katarina.jpg
+  hindex: 34
+  img: Katarina_Sebekova.jpg
   last_update: '2020-12-31'
   links:
   - - web
@@ -348,7 +400,7 @@
   name: "Katar\xEDna \u0160ebekov\xE1"
   position: docentka
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=jsJC9WgAAAAJ
-  year: '1955'
+  year: 1955
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -387,12 +439,12 @@
   - i10_index:
       all: 74
       since_2016: 61
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
   hindex: 33
-  img: antalics_1500.jpg
+  img: Stanislav_Antalic.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -455,12 +507,12 @@
   year: '1954'
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
-  hindex: '32'
-  img: unnamed-4.jpg
+  hindex: 32
+  img: Miroslav_Grajcar.jpg
   last_update: '2020-12-31'
   links:
   - - web
@@ -470,7 +522,7 @@
   name: Miroslav Grajcar
   position: profesor
   scholar: https://scholar.google.co.in/citations?user=KPgJyEAAAAAJ&amp;hl=en
-  year: '1966'
+  year: 1966
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -494,7 +546,7 @@
   - - web
     - https://eccr.org/dr-ludovit-paulis/
   name: "\u013Dudov\xEDt Paulis"
-  position: ''
+  position: "odborn\xFD asistent"
   scholar: https://scholar.google.sk/citations?user=eBoisLQAAAAJ&amp;hl=sk&amp;oi=ao
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
