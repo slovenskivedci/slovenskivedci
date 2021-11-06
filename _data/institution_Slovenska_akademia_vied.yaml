@@ -577,15 +577,15 @@
   - i10_index:
       all: 55
       since_2016: 28
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: biofyzika
-  hindex: 29
-  img: Screen Shot 2021-06-21 at 10.40.18 AM.png
-  last_update: '2021-09-16'
+  hindex: 30
+  img: Lubica_Lacinova.png
+  last_update: '2021-11-06'
   links:
-  - - "pam\xE4\u0165n\xE1roda"
+  - - "pam\xE4\u0165 n\xE1roda"
     - https://www.pametnaroda.cz/en/lacinova-lubica-1959
   - - publons
     - https://publons.com/researcher/463170/lubica-lacinova/
@@ -596,4 +596,4 @@
   name: "\u013Dubica Lacinov\xE1"
   position: profesorka
   scholar: https://scholar.google.com/citations?user=GLiFrtgAAAAJ&amp;hl=sk
-  year: '1959'
+  year: 1959

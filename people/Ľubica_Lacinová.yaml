@@ -1,4 +1,4 @@
-affiliation: "Slovensk\xE1 akad\xE9mia vied"
+affiliation: "Slovenská akadémia vied"
 cited_by:
 - citations:
     all: 4480
@@ -9,18 +9,18 @@ cited_by:
 - i10_index:
     all: 55
     since_2016: 28
-city: ' Bratislava'
-country: Slovensko
-field: biofyzika
-hindex: 29
-img: Screen Shot 2021-06-21 at 10.40.18 AM.png
-last_update: '2021-09-16'
+city: "Bratislava"
+country: "Slovensko"
+field: "biofyzika"
+hindex: 30
+img: Lubica_Lacinova.png
+last_update: '2021-11-06'
 links:
   ResearchGate: https://www.researchgate.net/lab/Lubica-Lacinova-Lab
-  "pam\xE4\u0165n\xE1roda": https://www.pametnaroda.cz/en/lacinova-lubica-1959
+  "pam\xE4\u0165 n\xE1roda": https://www.pametnaroda.cz/en/lacinova-lubica-1959
   publons: https://publons.com/researcher/463170/lubica-lacinova/
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1384
-name: "\u013Dubica Lacinov\xE1"
+name: "Ľubica Lacinová"
 position: profesorka
 scholar: https://scholar.google.com/citations?user=GLiFrtgAAAAJ&amp;hl=sk
-year: '1959'
+year: 1959
