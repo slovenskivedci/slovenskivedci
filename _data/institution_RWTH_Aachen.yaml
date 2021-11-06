@@ -1,5 +1,5 @@
-- affiliation: RWTH  Aachen
-  affiliationurl: RWTH__Aachen
+- affiliation: RWTH Aachen
+  affiliationurl: RWTH_Aachen
   cited_by:
   - citations:
       all: 8563
@@ -10,12 +10,12 @@
   - i10_index:
       all: 140
       since_2016: 128
-  city: THIS HAS TO BE FIXED
+  city: Aachen
   country: Nemecko
   countryurl: Nemecko
   field: "patol\xF3gia"
   hindex: 52
-  img: show_picture.jpeg
+  img: Peter_Boor.jpeg
   last_update: '2021-09-16'
   links:
   - - web
@@ -25,4 +25,4 @@
   name: Peter Boor
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
-  year: '1979'
+  year: 1979

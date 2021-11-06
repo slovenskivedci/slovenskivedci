@@ -352,12 +352,12 @@
   year: '1964'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "bioch\xE9mia"
-  hindex: '57'
-  img: PeterBiely_250.jpg
+  hindex: 57
+  img: Peter_Biely.jpg
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -371,15 +371,15 @@
   name: Peter Biely
   position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
-  year: '1941'
+  year: 1941
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
-  hindex: '56'
-  img: TBEN1422.jpg
+  hindex: 56
+  img: Pavel_Povinec.jpg
   last_update: '2020-12-31'
   links:
   - - ResearchGate
@@ -389,7 +389,7 @@
   name: Pavel Povinec
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
-  year: '1942'
+  year: 1942
 - affiliation: Univerzita v Missouri
   affiliationurl: Univerzita_v_Missouri
   city: ' Columbia'
@@ -590,8 +590,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=EuDw2JcAAAAJ&amp;hl=en
   year: '1952'
-- affiliation: RWTH  Aachen
-  affiliationurl: RWTH__Aachen
+- affiliation: RWTH Aachen
+  affiliationurl: RWTH_Aachen
   cited_by:
   - citations:
       all: 8563
@@ -602,12 +602,12 @@
   - i10_index:
       all: 140
       since_2016: 128
-  city: THIS HAS TO BE FIXED
+  city: Aachen
   country: Nemecko
   countryurl: Nemecko
   field: "patol\xF3gia"
   hindex: 52
-  img: show_picture.jpeg
+  img: Peter_Boor.jpeg
   last_update: '2021-09-16'
   links:
   - - web
@@ -617,7 +617,7 @@
   name: Peter Boor
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
-  year: '1979'
+  year: 1979
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -762,12 +762,12 @@
   - i10_index:
       all: 200
       since_2016: 124
-  city: ' Delft'
+  city: Delft
   country: Holandsko
   countryurl: Holandsko
   field: elektronika
   hindex: 48
-  img: pavol-bauer-square.jpg__300x300_q70_subsampling-2.jpg
+  img: Pavol_Bauer.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -776,7 +776,7 @@
     - https://www.tudelft.nl/en/staff/p.bauer/
   name: Pavol Bauer
   position: profesor
-  scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp;hl=en
+  scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp
   year: ''
 - affiliation: George Mason University
   affiliationurl: George_Mason_University
@@ -844,22 +844,22 @@
   year: ''
 - affiliation: Univerzita Simona Frasera
   affiliationurl: Univerzita_Simona_Frasera
-  city: ' Burnaby'
+  city: Burnaby
   country: Kanada
   countryurl: Kanada
   field: "grafov\xE9 algoritmy"
-  hindex: '47'
-  img: 1385442452333.jpg
+  hindex: 47
+  img: Pavol_Hell.jpg
   last_update: '2020-12-31'
   links:
   - - web
     - https://www2.cs.sfu.ca/~pavol/
-  - - wikipedia
+  - - "wikip\xE9dia"
     - https://en.wikipedia.org/wiki/Pavol_Hell
   name: Pavol Hell
   position: profesor
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=8KDwlbEAAAAJ
-  year: '1946'
+  year: 1946
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
   city: ' Praha'
@@ -996,14 +996,14 @@
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ynt9VvUAAAAJ
   year: ''
-- affiliation: U niverzita v Louisville
-  affiliationurl: U_niverzita_v_Louisville
-  city: ' Louisville'
+- affiliation: Univerzita v Louisville
+  affiliationurl: Univerzita_v_Louisville
+  city: Louisville
   country: USA
   countryurl: USA
   field: "neurol\xF3gia"
-  hindex: '45'
-  img: Hedera-Peter-1646-crop.jpg
+  hindex: 45
+  img: Peter_Hedera.jpg
   last_update: '2020-12-31'
   links:
   - - loop
@@ -1130,12 +1130,12 @@
   - i10_index:
       all: 127
       since_2016: 107
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "behavior\xE1lna ekol\xF3gia"
   hindex: 44
-  img: Screen Shot 2020-12-26 at 12.39.35 PM.png
+  img: Pavol_Prokop.png
   last_update: '2021-09-16'
   links:
   - - web
@@ -1565,6 +1565,7 @@
   year: '1952'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
+  cholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
   cited_by:
   - citations:
       all: 6764
@@ -1575,12 +1576,12 @@
   - i10_index:
       all: 151
       since_2016: 53
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "biotechnol\xF3gia"
   hindex: 41
-  img: Screen Shot 2021-02-23 at 1.39.00 PM.png
+  img: Peter_Gemeiner.png
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -1591,8 +1592,7 @@
     - https://prabook.com/web/peter.gemeiner/337833
   name: Peter Gemeiner
   position: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
-  year: '1946'
+  year: 1946
 - affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne"
   affiliationurl: Statna_univerzita_v_Severnej_Karoline
   cited_by:
@@ -1771,12 +1771,12 @@
   - i10_index:
       all: 139
       since_2016: 105
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "molekul\xE1rna biomedic\xEDna"
   hindex: 40
-  img: TBEN2007.jpg
+  img: Peter_Celec.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -1786,7 +1786,7 @@
   name: Peter Celec
   position: docent
   scholar: https://scholar.google.sk/citations?user=iPch8vQAAAAJ&amp;hl=en
-  year: '1979'
+  year: 1979
 - affiliation: "Arizonsk\xE1 univerzita"
   affiliationurl: Arizonska_univerzita
   cited_by:
@@ -2593,7 +2593,7 @@
     - https://www.researchgate.net/profile/Pavel_Ciaian
   - - web
     - http://ciaian.szm.sk/
-  name: Pavel Ciaian
+  name: :"Pavel Ciaian"
   position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=s_AVnN0AAAAJ
   year: ''
@@ -3149,12 +3149,12 @@
   - i10_index:
       all: 97
       since_2016: 48
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "materi\xE1lov\xE1 veda"
   hindex: 32
-  img: 4114567_1200x.jpeg
+  img: Pavol_Sajgalik.jpeg
   last_update: '2021-09-16'
   links:
   - - web
@@ -3164,7 +3164,7 @@
   name: "Pavol \u0160ajgal\xEDk"
   position: profesor
   scholar: https://scholar.google.com/citations?user=AULzHfIAAAAJ&amp;hl=en
-  year: '1955'
+  year: 1955
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -3589,7 +3589,7 @@
   - i10_index:
       all: 55
       since_2016: 27
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: matematika
@@ -3604,7 +3604,7 @@
   name: Pavol Quittner
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=QhrxwOcAAAAJ
-  year: '1958'
+  year: 1958
 - affiliation: "Havajsk\xE1 univerzita"
   affiliationurl: Havajska_univerzita
   cited_by:
@@ -3705,19 +3705,21 @@
   year: 1949
 - affiliation: Univerzita v Aalborgu
   affiliationurl: Univerzita_v_Aalborgu
-  city: ' Aalborg'
+  city: Aalborg
   country: "D\xE1nsko"
   countryurl: Dansko
   field: informatika
-  hindex: '31'
-  img: IMG_7972_600x600.jpg
+  hindex: 31
+  img: Peter_Dolog.jpg
   last_update: '2020-12-31'
   links:
   - - dblp
     - https://dblp.org/pid/d/PeterDolog.html
   - - ResearchGate
     - https://www.researchgate.net/profile/Peter_Dolog
-  - - web
+  - - web 1
+    - https://vbn.aau.dk/en/persons/114729
+  - - web 2
     - https://peterdolog.wordpress.com
   name: Peter Dolog
   position: docent

@@ -190,14 +190,14 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
   year: ''
-- affiliation: U niverzita v Louisville
-  affiliationurl: U_niverzita_v_Louisville
-  city: ' Louisville'
+- affiliation: Univerzita v Louisville
+  affiliationurl: Univerzita_v_Louisville
+  city: Louisville
   country: USA
   countryurl: USA
   field: "neurol\xF3gia"
-  hindex: '45'
-  img: Hedera-Peter-1646-crop.jpg
+  hindex: 45
+  img: Peter_Hedera.jpg
   last_update: '2020-12-31'
   links:
   - - loop

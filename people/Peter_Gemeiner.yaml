@@ -1,4 +1,16 @@
-affiliation: "Slovensk\xE1 akad\xE9mia vied"
+name: "Peter Gemeiner"
+year: 1946
+
+position: "vedecký pracovník"
+field: "biotechnológia"
+affiliation: "Slovenská akadémia vied"
+city: "Bratislava"
+country: Slovensko
+
+hindex: 41
+cholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
+
+
 cited_by:
 - citations:
     all: 6764
@@ -9,17 +21,10 @@ cited_by:
 - i10_index:
     all: 151
     since_2016: 53
-city: ' Bratislava'
-country: Slovensko
-field: "biotechnol\xF3gia"
-hindex: 41
-img: Screen Shot 2021-02-23 at 1.39.00 PM.png
+
+img: Peter_Gemeiner.png
 last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Peter_Gemeiner
   web: http://www.chem.sk/people/gemeinerpeter/
-  "\u017Eivotopis": https://prabook.com/web/peter.gemeiner/337833
-name: Peter Gemeiner
-position: "vedeck\xFD pracovn\xEDk"
-scholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
-year: '1946'
+  životopis: https://prabook.com/web/peter.gemeiner/337833

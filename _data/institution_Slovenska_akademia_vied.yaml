@@ -28,12 +28,12 @@
   year: '1957'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "bioch\xE9mia"
-  hindex: '57'
-  img: PeterBiely_250.jpg
+  hindex: 57
+  img: Peter_Biely.jpg
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -47,7 +47,7 @@
   name: Peter Biely
   position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
-  year: '1941'
+  year: 1941
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: ' Bratislava'
@@ -169,6 +169,7 @@
   year: '1962'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
+  cholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
   cited_by:
   - citations:
       all: 6764
@@ -179,12 +180,12 @@
   - i10_index:
       all: 151
       since_2016: 53
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "biotechnol\xF3gia"
   hindex: 41
-  img: Screen Shot 2021-02-23 at 1.39.00 PM.png
+  img: Peter_Gemeiner.png
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -195,8 +196,7 @@
     - https://prabook.com/web/peter.gemeiner/337833
   name: Peter Gemeiner
   position: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
-  year: '1946'
+  year: 1946
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -355,12 +355,12 @@
   - i10_index:
       all: 97
       since_2016: 48
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "materi\xE1lov\xE1 veda"
   hindex: 32
-  img: 4114567_1200x.jpeg
+  img: Pavol_Sajgalik.jpeg
   last_update: '2021-09-16'
   links:
   - - web
@@ -370,7 +370,7 @@
   name: "Pavol \u0160ajgal\xEDk"
   position: profesor
   scholar: https://scholar.google.com/citations?user=AULzHfIAAAAJ&amp;hl=en
-  year: '1955'
+  year: 1955
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:

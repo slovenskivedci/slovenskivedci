@@ -38,12 +38,12 @@
   - i10_index:
       all: 200
       since_2016: 124
-  city: ' Delft'
+  city: Delft
   country: Holandsko
   countryurl: Holandsko
   field: elektronika
   hindex: 48
-  img: pavol-bauer-square.jpg__300x300_q70_subsampling-2.jpg
+  img: Pavol_Bauer.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -52,5 +52,5 @@
     - https://www.tudelft.nl/en/staff/p.bauer/
   name: Pavol Bauer
   position: profesor
-  scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp;hl=en
+  scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp
   year: ''

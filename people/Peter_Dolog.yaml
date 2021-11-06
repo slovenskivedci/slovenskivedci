@@ -1,15 +1,16 @@
-affiliation: Univerzita v Aalborgu
-city: ' Aalborg'
-country: "D\xE1nsko"
+affiliation: "Univerzita v Aalborgu"
+city: "Aalborg"
+country: "Dánsko"
 field: informatika
-hindex: '31'
-img: IMG_7972_600x600.jpg
+hindex: 31
+img: Peter_Dolog.jpg
 last_update: '2020-12-31'
 links:
   ResearchGate: https://www.researchgate.net/profile/Peter_Dolog
   dblp: https://dblp.org/pid/d/PeterDolog.html
-  web: https://peterdolog.wordpress.com
-name: Peter Dolog
+  web 1: https://vbn.aau.dk/en/persons/114729
+  web 2: https://peterdolog.wordpress.com
+name: "Peter Dolog"
 position: docent
 scholar: https://scholar.google.com/citations?user=gCafUI0AAAAJ&amp;hl=en
 year: ''

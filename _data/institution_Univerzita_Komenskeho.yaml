@@ -73,12 +73,12 @@
   year: '1952'
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
-  hindex: '56'
-  img: TBEN1422.jpg
+  hindex: 56
+  img: Pavel_Povinec.jpg
   last_update: '2020-12-31'
   links:
   - - ResearchGate
@@ -88,7 +88,7 @@
   name: Pavel Povinec
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
-  year: '1942'
+  year: 1942
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -101,12 +101,12 @@
   - i10_index:
       all: 127
       since_2016: 107
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "behavior\xE1lna ekol\xF3gia"
   hindex: 44
-  img: Screen Shot 2020-12-26 at 12.39.35 PM.png
+  img: Pavol_Prokop.png
   last_update: '2021-09-16'
   links:
   - - web
@@ -127,12 +127,12 @@
   - i10_index:
       all: 139
       since_2016: 105
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "molekul\xE1rna biomedic\xEDna"
   hindex: 40
-  img: TBEN2007.jpg
+  img: Peter_Celec.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -142,7 +142,7 @@
   name: Peter Celec
   position: docent
   scholar: https://scholar.google.sk/citations?user=iPch8vQAAAAJ&amp;hl=en
-  year: '1979'
+  year: 1979
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -539,7 +539,7 @@
   - i10_index:
       all: 55
       since_2016: 27
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: matematika
@@ -554,7 +554,7 @@
   name: Pavol Quittner
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=QhrxwOcAAAAJ
-  year: '1958'
+  year: 1958
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:

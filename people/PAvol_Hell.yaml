@@ -1,14 +1,14 @@
-affiliation: Univerzita Simona Frasera
-city: ' Burnaby'
+affiliation: "Univerzita Simona Frasera"
+city: "Burnaby"
 country: Kanada
-field: "grafov\xE9 algoritmy"
-hindex: '47'
-img: 1385442452333.jpg
+field: "grafové algoritmy"
+hindex: 47
+img: Pavol_Hell.jpg
 last_update: '2020-12-31'
 links:
   web: https://www2.cs.sfu.ca/~pavol/
-  wikipedia: https://en.wikipedia.org/wiki/Pavol_Hell
-name: Pavol Hell
+  wikipédia: https://en.wikipedia.org/wiki/Pavol_Hell
+name: "Pavol Hell"
 position: profesor
 scholar: https://scholar.google.sk/citations?hl=sk&amp;user=8KDwlbEAAAAJ
-year: '1946'
+year: 1946
