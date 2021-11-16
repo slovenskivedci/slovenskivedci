@@ -1,4 +1,4 @@
-affiliation: Univerzita v Britskej Kolumbii
+affiliation: "University of British Columbia"
 cited_by:
 - citations:
     all: 10095
@@ -9,15 +9,15 @@ cited_by:
 - i10_index:
     all: 107
     since_2016: 78
-city: " Britsk\xE1 Kolumbia"
-country: Kanada
-field: fyzika
+city: "Britská Kolumbia"
+country: "Kanada"
+field: "fyzika"
 hindex: 55
-img: maxresdefault-2.jpg
+img: Marcel_Franz.jpg
 last_update: '2021-09-16'
 links:
   web: https://phas.ubc.ca/~franz/
-name: Marcel Franz
+name: "Marcel Franz"
 position: profesor
 scholar: https://scholar.google.com/citations?user=qOmkOIAAAAAJ&amp;hl=en
 year: ''

@@ -1,4 +1,4 @@
-affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+affiliation: "Slovenská technická univerzita"
 cited_by:
 - citations:
     all: 39905
@@ -9,16 +9,16 @@ cited_by:
 - i10_index:
     all: 93
     since_2016: 49
-city: ' Bratislava'
-country: Slovensko
-field: "ch\xE9mia"
+city: "Bratislava"
+country: "Slovensko"
+field: "chémia"
 hindex: 34
-img: 4096035_1200x.jpeg
+img: Marian_Valko.jpeg
 last_update: '2021-09-16'
 links:
   loop: https://loop.frontiersin.org/people/127211/overview
   web: http://edisk.cvt.stuba.sk/~valkom/Homepage.html
-name: "Mari\xE1n Valko"
+name: "Marián Valko"
 position: profesor
 scholar: https://scholar.google.sk/citations?user=Csnoq7QAAAAJ&amp;hl=en
 year: ''

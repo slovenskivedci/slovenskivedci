@@ -1,0 +1,34 @@
+- affiliation: Karlsruhe Institute of Technology
+  affiliationurl: Karlsruhe_Institute_of_Technology
+  cited_by:
+  - citations:
+      all: 5835
+      since_2016: 2503
+  - h_index:
+      all: 43
+      since_2016: 23
+  - i10_index:
+      all: 108
+      since_2016: 69
+  city: Karlsruhe
+  country: Nemecko
+  countryurl: Nemecko
+  field: "nanotechnol\xF3gia"
+  hindex: 43
+  img: Vladimir_Sepelak.png
+  last_update: '2021-11-16'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/975150/overview
+  - - orcid
+    - https://orcid.org/0000-0003-0247-5416
+  - - Semantic Scholar
+    - "https://www.semanticscholar.org/author/Vladimir-\u0160epel\xE1k/2089505568"
+  - - web
+    - https://www.int.kit.edu/1801_749.php
+  - - "\u017Eivotopis"
+    - https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Vladimir-Sepelak.pdf
+  name: "Vladim\xEDr \u0160epel\xE1k"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=gpGngJUAAAAJ&hl=en&oi=sra
+  year: ''

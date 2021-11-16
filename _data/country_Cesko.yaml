@@ -28,14 +28,14 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp
   year: 1960
-- affiliation: "\u010CVUT"
-  affiliationurl: CVUT
-  city: ' Praha'
+- affiliation: "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe"
+  affiliationurl: Ceske_vysoke_uceni_technicke_v_Prahe
+  city: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "jadrov\xE1 fyzika"
-  hindex: '46'
-  img: 1537-krizova_gajdosova.jpg
+  hindex: 46
+  img: Katarina_Krizkova_Gajdosova.jpg
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -118,12 +118,12 @@
   - i10_index:
       all: 88
       since_2016: 77
-  city: ' Olomouc'
+  city: Olomouc
   country: "\u010Cesko"
   countryurl: Cesko
   field: "behavior\xE1lna ekol\xF3gia"
   hindex: 38
-  img: unnamed-14.jpg
+  img: Tomas_Grim.jpg
   last_update: '2021-09-16'
   links:
   - - loop
@@ -170,6 +170,39 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
   year: 1963
+- affiliation: Research adn Development Services
+  affiliationurl: Research_adn_Development_Services
+  cited_by:
+  - citations:
+      all: 4748
+      since_2016: 4446
+  - h_index:
+      all: 38
+      since_2016: 35
+  - i10_index:
+      all: 131
+      since_2016: 130
+  city: ''
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "biol\xF3gia"
+  firstname: Peter
+  hindex: 38
+  img: Peter_Kruzliak.png
+  last_update: '2021-11-16'
+  lastname: "Kru\u017Eliak"
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-kruzliak-b61a8a47/?originalSubdomain=cz
+  - - omicsonline
+    - https://www.omicsonline.org/author-profile/peter-kruzliak-243383/
+  - - orcid
+    - https://orcid.org/0000-0002-7069-3784
+  middlename: ''
+  name: "Peter Kru\u017Eliak"
+  position: CEO
+  scholar: https://scholar.google.com/citations?user=ICo_N5sAAAAJ&hl=sk
+  year: ''
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
   city: Praha

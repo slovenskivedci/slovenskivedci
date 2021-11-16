@@ -1,0 +1,34 @@
+name: "Boris Klempa"
+year: ''
+
+position: "vedecký pracovník"
+field: "virológia"
+affiliation: "Slovenská akadémia vied"
+city: "Bratislava"
+country: "Slovensko"
+
+hindex: 40
+scholar: https://scholar.google.com/citations?user=FSHRkJgAAAAJ&hl=en
+
+cited_by:
+- citations:
+    all: 4821
+    since_2016: 2524
+- h_index:
+    all: 40
+    since_2016: 27
+- i10_index:
+    all: 77
+    since_2016: 66
+
+img: Boris_Klempa.jpg
+
+last_update: '2021-11-16'
+
+links:
+  web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=3476
+  ResearchGate: https://www.researchgate.net/profile/Boris-Klempa
+  orcid: https://orcid.org/0000-0002-6931-1224
+  ESET Science Award: https://www.esetscienceaward.sk/en/finalists/boris-klempa
+  publons: https://publons.com/researcher/2906836/boris-klempa/
+  science.sk: http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2523-boris-klempa

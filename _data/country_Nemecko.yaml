@@ -1,5 +1,5 @@
-- affiliation: Univerzita v Bonne
-  affiliationurl: Univerzita_v_Bonne
+- affiliation: University of Bonn
+  affiliationurl: University_of_Bonn
   cited_by:
   - citations:
       all: 20091
@@ -10,20 +10,28 @@
   - i10_index:
       all: 274
       since_2016: 197
-  city: ' Bonn'
+  city: Bonn
   country: Nemecko
   countryurl: Nemecko
   field: "neurobiol\xF3gia rastl\xEDn"
   hindex: 78
-  img: 48607_1200x.jpg
+  img: Frantisek_Baluska.jpg
   last_update: '2021-09-16'
   links:
+  - - loop
+    - https://loop.frontiersin.org/people/31110/overview
+  - - orcid
+    - https://orcid.org/0000-0001-8763-7861
+  - - publons
+    - https://publons.com/researcher/4486604/frantisek-baluska/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Frantisek-Baluska
   - - web
     - http://ds9.botanik.uni-bonn.de/zellbio/AG-Baluska-Volkmann/index.php
   name: "Franti\u0161ek Balu\u0161ka"
   position: profesor
   scholar: https://scholar.google.com/citations?user=KF4AYR4AAAAJ&amp;hl=en
-  year: '1957'
+  year: 1957
 - affiliation: Univerzita v Regensburgu
   affiliationurl: Univerzita_v_Regensburgu
   cited_by:
@@ -80,8 +88,42 @@
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
   year: 1979
-- affiliation: "Hannoversk\xE1 lek\xE1rska univezita"
-  affiliationurl: Hannoverska_lekarska_univezita
+- affiliation: Karlsruhe Institute of Technology
+  affiliationurl: Karlsruhe_Institute_of_Technology
+  cited_by:
+  - citations:
+      all: 5835
+      since_2016: 2503
+  - h_index:
+      all: 43
+      since_2016: 23
+  - i10_index:
+      all: 108
+      since_2016: 69
+  city: Karlsruhe
+  country: Nemecko
+  countryurl: Nemecko
+  field: "nanotechnol\xF3gia"
+  hindex: 43
+  img: Vladimir_Sepelak.png
+  last_update: '2021-11-16'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/975150/overview
+  - - orcid
+    - https://orcid.org/0000-0003-0247-5416
+  - - Semantic Scholar
+    - "https://www.semanticscholar.org/author/Vladimir-\u0160epel\xE1k/2089505568"
+  - - web
+    - https://www.int.kit.edu/1801_749.php
+  - - "\u017Eivotopis"
+    - https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Vladimir-Sepelak.pdf
+  name: "Vladim\xEDr \u0160epel\xE1k"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=gpGngJUAAAAJ&hl=en&oi=sra
+  year: ''
+- affiliation: Hanover Medical University
+  affiliationurl: Hanover_Medical_University
   cited_by:
   - citations:
       all: 7271
@@ -97,7 +139,7 @@
   countryurl: Nemecko
   field: neuroveda
   hindex: 40
-  img: Professor-Dr.-Dr.-Andrej-Kral.jpg
+  img: Andrej_Kral.jpg
   last_update: '2021-09-16'
   links:
   - - loop
@@ -112,14 +154,14 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=y0Fdk30AAAAJ&amp;hl=en
   year: 1969
-- affiliation: Zeppelinova univerzita
-  affiliationurl: Zeppelinova_univerzita
-  city: ' Friedrichshafen'
+- affiliation: Zeppelin University
+  affiliationurl: Zeppelin_University
+  city: Friedrichshafen
   country: Nemecko
   countryurl: Nemecko
   field: "medzin\xE1rodn\xE1 ekon\xF3mia"
-  hindex: '34'
-  img: Fidrmuc_Jarko_1-643634e73cf432age7c94daa9766a59a.jpg
+  hindex: 34
+  img: Jarko_Fidrmuc.jpg
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -133,4 +175,4 @@
   name: Jarko Fidrmuc
   position: profesor
   scholar: https://scholar.google.com/citations?user=wOi5anQAAAAJ
-  year: '1968'
+  year: 1968

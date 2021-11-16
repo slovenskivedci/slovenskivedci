@@ -1,0 +1,36 @@
+name: "Andrej Kráľ"
+year: 1969
+
+position: "profesor"
+field: "neuroveda"
+
+hindex: 40
+scholar: https://scholar.google.com/citations?user=y0Fdk30AAAAJ&amp;hl=en
+
+affiliation: "Hanover Medical University"
+city: "Hannover"
+country: "Nemecko"
+
+cited_by:
+- citations:
+    all: 7271
+    since_2016: 3950
+- h_index:
+    all: 40
+    since_2016: 33
+- i10_index:
+    all: 85
+    since_2016: 71
+
+
+img: Andrej_Kral.jpg
+
+
+links:
+  ResearchGate: https://www.researchgate.net/profile/Andrej-Kral
+  loop: https://loop.frontiersin.org/people/84073/overview
+  orcid: https://orcid.org/0000-0002-7762-4642
+  web: https://www.neuroprostheses.com/AK/Main.html
+
+
+last_update: '2021-09-16'

@@ -1,9 +1,9 @@
 name: "Oskar Vafek"
 position: profesor
 
-affiliation: "Štátna univerzita na Floride"
-city: Tallahassee
-country: USA
+affiliation: "Florida State University"
+city: "Tallahassee"
+country: "USA"
 
 cited_by:
 - citations:
@@ -28,6 +28,7 @@ links:
   web 1: https://physics.fsu.edu/person/oskar-vafek
   web 2: https://fs.magnet.fsu.edu/~vafek/
   životopis: https://fs.magnet.fsu.edu/~vafek/cv2015 Apr.pdf
+  LinkedIn: https://www.linkedin.com/in/oskar-vafek-14a39b8/
 
 scholar: https://scholar.google.com/citations?user=-toxVLsAAAAJ&amp;hl=en
 year: ''

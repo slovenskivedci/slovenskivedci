@@ -33,12 +33,12 @@
   - i10_index:
       all: 160
       since_2016: 104
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
   hindex: 60
-  img: simkovic_fedor_ESA.jpg
+  img: Fedor_Simkovic.jpg
   last_update: '2021-09-16'
   links:
   - - ESET Science Award
@@ -54,15 +54,15 @@
   name: "Fedor \u0160imkovic"
   position: profesor
   scholar: https://scholar.google.com/citations?user=aC__pxUAAAAJ&amp;hl=en&amp;oi=ao
-  year: '1959'
+  year: 1959
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
-  hindex: '57'
-  img: Umr65d3lS2Pui_hbgWXgpw.2560_Fyzik-Vladim-r-ern.jpg
+  hindex: 57
+  img: Vladimir_Cerny.jpg
   last_update: '2020-12-31'
   links:
   - - web
@@ -70,7 +70,7 @@
   name: "Vladim\xEDr \u010Cern\xFD"
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=m-twF5IAAAAJ
-  year: '1952'
+  year: 1952
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -81,6 +81,14 @@
   img: Pavel_Povinec.jpg
   last_update: '2020-12-31'
   links:
+  - - academia.edu
+    - https://comeniusuniversity.academia.edu/PavelPovinec
+  - - LinkedIn
+    - https://www.linkedin.com/in/pavel-povinec-81809227/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0003-0275-794X
+  - - prabook
+    - https://prabook.com/web/pavel_peter.povinec/184236
   - - ResearchGate
     - https://www.researchgate.net/profile/Pavel_Povinec
   - - "\u017Eivotopis"
@@ -139,6 +147,10 @@
   img: Pavol_Prokop.png
   last_update: '2021-09-16'
   links:
+  - - loop
+    - https://loop.frontiersin.org/people/688984/overview
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Pavol-Prokop
   - - web
     - https://fns.uniba.sk/pracoviska/environmentalna-sekcia/kee/zamestnanci/pavol-prokop/
   name: Pavol Prokop
@@ -207,12 +219,12 @@
   - i10_index:
       all: 123
       since_2016: 62
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "elektr\xF3nov\xE1 a plazmov\xE1 fyzika"
   hindex: 40
-  img: 181109_Elevate_02_006a5ec917.jpg
+  img: Stefan_Matejcik.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -233,12 +245,12 @@
   - i10_index:
       all: 57
       since_2016: 50
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "fyzik\xE1lna ch\xE9mia"
   hindex: 38
-  img: 989c3ce1fd8c4f3a8c5253a1c1f5cbd9.png.200x200_q95_crop_detail_upscale.png
+  img: Tomas_Bucko.png
   last_update: '2021-09-16'
   links:
   - - publons
@@ -351,6 +363,10 @@
   img: Michal_Zeman.jpg
   last_update: '2020-12-31'
   links:
+  - - orcid
+    - https://orcid.org/0000-0002-2712-6805
+  - - publons
+    - https://publons.com/researcher/2024259/michal-zeman/
   - - web
     - https://fns.uniba.sk/kontakt/zamestnanci-prif-uk/?tx_unibausers_pi1[person]=zeman1
   name: Michal Zeman
@@ -413,12 +429,12 @@
   - i10_index:
       all: 67
       since_2016: 31
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: matematika
   hindex: 33
-  img: fila_1500_02.jpg
+  img: Marek_Fila.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -426,7 +442,7 @@
   name: Marek Fila
   position: profesor
   scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ&amp;hl=en
-  year: '1959'
+  year: 1959
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -571,6 +587,14 @@
   links:
   - - ESET Science Award
     - https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
+  - - LinkedIn
+    - https://www.linkedin.com/in/michal-feckan-177b153b/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0002-7385-6737
+  - - publons
+    - https://publons.com/researcher/1846317/michal-feckan/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Michal-Feckan
   - - web
     - https://www.mat.savba.sk/~feckan/
   - - "\u017Eivotopis"
@@ -625,6 +649,16 @@
   img: Pavol_Quittner.jpg
   last_update: '2021-09-16'
   links:
+  - - dblp
+    - https://dblp.org/pid/122/6263.html
+  - - IMO
+    - https://www.imo-official.org/participant_r.aspx?id=29
+  - - Mathematics Genealogy
+    - https://www.mathgenealogy.org/id.php?id=122049
+  - - mathscinet
+    - https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=193401
+  - - publons
+    - https://publons.com/researcher/1846321/pavol-quittner/
   - - web
     - http://www.iam.fmph.uniba.sk/institute/quittner/
   - - "wikip\xE9dia"
@@ -645,12 +679,12 @@
   - i10_index:
       all: 71
       since_2016: 37
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "geol\xF3gia"
   hindex: 30
-  img: plasienka-foto.jpg
+  img: Dusan_Plasienka.jpg
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -662,4 +696,4 @@
   name: "Du\u0161an Pla\u0161ienka"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=JCOUk6EAAAAJ
-  year: '1953'
+  year: 1953

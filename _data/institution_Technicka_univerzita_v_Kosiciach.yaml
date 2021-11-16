@@ -1,6 +1,6 @@
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   affiliationurl: Technicka_univerzita_v_Kosiciach
-  city: " Ko\u0161ice"
+  city: "Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
   field: "automatiz\xE1cia"
@@ -81,11 +81,19 @@
   countryurl: Slovensko
   field: "te\xF3ria grafov"
   hindex: 30
-  img: Baca-Photo-2017 (1).jpeg
+  img: Martin_Baca.jpeg
   last_update: '2021-09-16'
   links:
-  - - web
+  - - LinkedIn
+    - https://www.linkedin.com/in/martin-baca-88421358/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0002-5758-0347
+  - - publons
+    - https://publons.com/researcher/3308408/martin-baca/
+  - - web 1
     - http://people.tuke.sk/martin.baca/
+  - - web 2
+    - https://www.sjf.tuke.sk/kamai/en/bacainfo
   name: "Martin Ba\u010Da"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ

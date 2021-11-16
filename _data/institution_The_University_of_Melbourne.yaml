@@ -1,0 +1,32 @@
+- affiliation: The University of Melbourne
+  affiliationurl: The_University_of_Melbourne
+  cited_by:
+  - citations:
+      all: 3786
+      since_2016: 3342
+  - h_index:
+      all: 35
+      since_2016: 32
+  - i10_index:
+      all: 64
+      since_2016: 62
+  city: Melbourne
+  country: "Austr\xE1lia"
+  countryurl: Australia
+  field: "neurol\xF3gia"
+  hindex: 35
+  img: Tomas_Kalincik.png
+  last_update: '2021-09-16'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-3778-1376
+  - - Scopus
+    - https://www.scopus.com/authid/detail.uri?authorId=8365701900
+  - - web 1
+    - https://core.melbourne
+  - - web 2
+    - https://findanexpert.unimelb.edu.au/profile/458758-tomas-kalincik
+  name: "Tom\xE1\u0161 Kalin\u010D\xEDk"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=uoit0TEAAAAJ
+  year: 1982

@@ -1,4 +1,4 @@
-affiliation: "Univerzita Komensk\xE9ho"
+affiliation: "Univerzita Komenského"
 cited_by:
 - citations:
     all: 3000
@@ -9,15 +9,15 @@ cited_by:
 - i10_index:
     all: 67
     since_2016: 31
-city: ' Bratislava'
-country: Slovensko
-field: matematika
+city: "Bratislava"
+country: "Slovensko"
+field: "matematika"
 hindex: 33
-img: fila_1500_02.jpg
+img: Marek_Fila.jpg
 last_update: '2021-09-16'
 links:
   web: http://www.iam.fmph.uniba.sk/institute/fila/
-name: Marek Fila
+name: "Marek Fila"
 position: profesor
 scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ&amp;hl=en
-year: '1959'
+year: 1959

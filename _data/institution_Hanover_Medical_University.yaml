@@ -1,0 +1,32 @@
+- affiliation: Hanover Medical University
+  affiliationurl: Hanover_Medical_University
+  cited_by:
+  - citations:
+      all: 7271
+      since_2016: 3950
+  - h_index:
+      all: 40
+      since_2016: 33
+  - i10_index:
+      all: 85
+      since_2016: 71
+  city: Hannover
+  country: Nemecko
+  countryurl: Nemecko
+  field: neuroveda
+  hindex: 40
+  img: Andrej_Kral.jpg
+  last_update: '2021-09-16'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/84073/overview
+  - - orcid
+    - https://orcid.org/0000-0002-7762-4642
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Andrej-Kral
+  - - web
+    - https://www.neuroprostheses.com/AK/Main.html
+  name: "Andrej Kr\xE1\u013E"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=y0Fdk30AAAAJ&amp;hl=en
+  year: 1969

@@ -8,6 +8,16 @@
   img: Radko_Mesiar.jpeg
   last_update: '2020-12-31'
   links:
+  - - dblp
+    - https://dblp.org/pid/62/2253.html
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=123952
+  - - orcid
+    - https://orcid.org/0000-0001-6503-949X
+  - - research.com
+    - https://research.com/u/radko-mesiar
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Radko-Mesiar
   - - web
     - https://www.math.sk/mesiar/
   name: Radko Mesiar
@@ -26,12 +36,12 @@
   - i10_index:
       all: 93
       since_2016: 49
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "ch\xE9mia"
   hindex: 34
-  img: 4096035_1200x.jpeg
+  img: Marian_Valko.jpeg
   last_update: '2021-09-16'
   links:
   - - loop

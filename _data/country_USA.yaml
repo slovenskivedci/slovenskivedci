@@ -46,8 +46,8 @@
   position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
   year: 1957
-- affiliation: "Kalifornsk\xE1 univerzita"
-  affiliationurl: Kalifornska_univerzita
+- affiliation: University of California
+  affiliationurl: University_of_California
   cited_by:
   - citations:
       all: 24095
@@ -76,8 +76,8 @@
   position: profesorka
   scholar: https://scholar.google.com/citations?user=s9Ikf1EAAAAJ&amp
   year: 1933
-- affiliation: Univerzita v Missouri
-  affiliationurl: Univerzita_v_Missouri
+- affiliation: Univerzity of Missouri
+  affiliationurl: Univerzity_of_Missouri
   city: Columbia
   country: USA
   countryurl: USA
@@ -98,8 +98,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp
   year: 1967
-- affiliation: Univerzita vo Washingtone
-  affiliationurl: Univerzita_vo_Washingtone
+- affiliation: University of Washington
+  affiliationurl: University_of_Washington
   cited_by:
   - citations:
       all: 14531
@@ -156,14 +156,14 @@
   position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
   year: ''
-- affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne"
-  affiliationurl: Statna_univerzita_v_Severnej_Karoline
-  city: ' Raleigh'
+- affiliation: University of North Carolina
+  affiliationurl: University_of_North_Carolina
+  city: Raleigh
   country: USA
   countryurl: USA
   field: fyzika
-  hindex: '47'
-  img: Lubos-Mitas.jpg
+  hindex: 47
+  img: Lubos_Mitas.jpg
   last_update: '2020-12-31'
   links:
   - - web
@@ -174,8 +174,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
   year: ''
-- affiliation: "Kalifornsk\xE1 univerzita"
-  affiliationurl: Kalifornska_univerzita
+- affiliation: University of California
+  affiliationurl: University_of_California
   city: San Diego
   country: USA
   countryurl: USA
@@ -192,8 +192,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
   year: ''
-- affiliation: Univerzita v Louisville
-  affiliationurl: Univerzita_v_Louisville
+- affiliation: University of Louisville
+  affiliationurl: University_of_Louisville
   city: Louisville
   country: USA
   countryurl: USA
@@ -240,7 +240,7 @@
   year: ''
 - affiliation: Univerzita v Minnesote
   affiliationurl: Univerzita_v_Minnesote
-  city: ' Twin Cities'
+  city: Twin Cities
   country: USA
   countryurl: USA
   field: "r\xE1diol\xF3gia"
@@ -277,8 +277,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=G0MJo3UAAAAJ&amp;hl=en
   year: '1952'
-- affiliation: "\u0160t\xE1tna univerzita v Severnej Karol\xEDne"
-  affiliationurl: Statna_univerzita_v_Severnej_Karoline
+- affiliation: University of North Carolina
+  affiliationurl: University_of_North_Carolina
   cited_by:
   - citations:
       all: 9157
@@ -289,12 +289,12 @@
   - i10_index:
       all: 98
       since_2016: 68
-  city: ' Raleigh'
+  city: Raleigh
   country: USA
   countryurl: USA
   field: "geovizualiz\xE1cia"
   hindex: 41
-  img: DSC02840-1024x768.jpg
+  img: Helena_Mitasova.jpg
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -307,8 +307,8 @@
   position: profesorka
   scholar: https://scholar.google.com/citations?user=TIVMwT4AAAAJ
   year: ''
-- affiliation: "Arizonsk\xE1 univerzita"
-  affiliationurl: Arizonska_univerzita
+- affiliation: University of Arizona
+  affiliationurl: University_of_Arizona
   cited_by:
   - citations:
       all: 6999
@@ -333,8 +333,8 @@
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=1tCBM2kAAAAJ
   year: ''
-- affiliation: "N\xE1rodn\xFD in\u0161tit\xFAt zdravia"
-  affiliationurl: Narodny_institut_zdravia
+- affiliation: National Institute of Allergy and Infectious Diseases
+  affiliationurl: National_Institute_of_Allergy_and_Infectious_Diseases
   cited_by:
   - citations:
       all: 8371
@@ -345,12 +345,12 @@
   - i10_index:
       all: 75
       since_2016: 62
-  city: ' Bethesda'
+  city: Bethesda
   country: USA
   countryurl: USA
   field: "neuroimunol\xF3gia"
   hindex: 38
-  img: Bibiana Bielekova hitn.jpg
+  img: Bibiana_Bielekova.jpg
   last_update: '2021-09-16'
   links:
   - - loop
@@ -368,9 +368,9 @@
   name: "Bibiana Bielekov\xE1"
   position: "vedeck\xE1 pracovn\xED\u010Dka"
   scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
-  year: '1969'
-- affiliation: Univerzita v Missouri
-  affiliationurl: Univerzita_v_Missouri
+  year: 1969
+- affiliation: University of Missouri
+  affiliationurl: University_of_Missouri
   city: Columbia
   country: USA
   countryurl: USA
@@ -391,8 +391,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=bIXqQ6oAAAAJ&amp;hl=en
   year: 1955
-- affiliation: Univerzita v Indiane
-  affiliationurl: Univerzita_v_Indiane
+- affiliation: Indiana University Bloomington
+  affiliationurl: Indiana_University_Bloomington
   cited_by:
   - citations:
       all: 4373
@@ -419,8 +419,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ell1TQQAAAAJ
   year: ''
-- affiliation: "\u0160t\xE1tna univerzita na Floride"
-  affiliationurl: Statna_univerzita_na_Floride
+- affiliation: Florida State University
+  affiliationurl: Florida_State_University
   cited_by:
   - citations:
       all: 4844
@@ -439,6 +439,8 @@
   img: Oskar_Vafek.jpg
   last_update: '2021-09-16'
   links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/oskar-vafek-14a39b8/
   - - orcid
     - https://orcid.org/0000-0001-7561-9287
   - - web 1
@@ -451,8 +453,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=-toxVLsAAAAJ&amp;hl=en
   year: ''
-- affiliation: Univerzita v Pittsburghu
-  affiliationurl: Univerzita_v_Pittsburghu
+- affiliation: University of Pittsburgh
+  affiliationurl: University_of_Pittsburgh
   city: Pittsburgh
   country: USA
   countryurl: USA
@@ -461,6 +463,14 @@
   img: Milos_Hauskrecht.jpg
   last_update: '2020-12-31'
   links:
+  - - academictree.com
+    - https://academictree.org/computerscience/publications.php?pid=460551
+  - - dblp
+    - https://dblp.org/pid/54/4898.html
+  - - MathSciNet
+    - https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=627504
+  - - openreview
+    - https://openreview.net/profile?id=~Milos_Hauskrecht1
   - - web
     - http://people.cs.pitt.edu/~milos/
   - - "\u017Eivotopis"
@@ -481,7 +491,7 @@
   - i10_index:
       all: 48
       since_2016: 40
-  city: Redmont
+  city: New York
   country: USA
   countryurl: USA
   field: "strojov\xE9 u\u010Denie"
@@ -491,14 +501,20 @@
   links:
   - - dblp
     - https://dblp.org/pid/30/2146.html
+  - - IOI
+    - https://stats.ioinformatics.org/people/1613
+  - - LinkedIn
+    - https://www.linkedin.com/in/mdudik/
+  - - SlidesLive
+    - https://slideslive.at/s/miro-dudik-19100
   - - web
     - https://www.microsoft.com/en-us/research/people/mdudik/
   name: "Miroslav Dud\xEDk"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=wYMTld8AAAAJ&
   year: ''
-- affiliation: "Univerzita v Pennsylv\xE1nii"
-  affiliationurl: Univerzita_v_Pennsylvanii
+- affiliation: University of Pennsylvania
+  affiliationurl: University_of_Pennsylvania
   cited_by:
   - citations:
       all: 3717
@@ -509,12 +525,12 @@
   - i10_index:
       all: 51
       since_2016: 44
-  city: ' Filadelfia'
+  city: Filadelfia
   country: USA
   countryurl: USA
   field: pediatria
   hindex: 33
-  img: 15444061689569716.jpg
+  img: Lubica_Rauova.jpg
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -534,7 +550,7 @@
   countryurl: USA
   field: "strojov\xE9 u\u010Denie"
   hindex: 32
-  img: slideslive_branislav-kveton_nearoptimal-interactive-recommender-systems.jpg
+  img: Branislav_Kveton.jpg
   last_update: '2020-12-31'
   links:
   - - dblp
@@ -575,8 +591,8 @@
   position: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
   year: ''
-- affiliation: Univerzita v Chicagu
-  affiliationurl: Univerzita_v_Chicagu
+- affiliation: University of v Chicago
+  affiliationurl: University_of_v_Chicago
   cited_by:
   - citations:
       all: 18191

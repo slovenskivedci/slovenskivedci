@@ -1,0 +1,56 @@
+- affiliation: Delft University of Technology
+  affiliationurl: Delft_University_of_Technology
+  cited_by:
+  - citations:
+      all: 11293
+      since_2016: 6621
+  - h_index:
+      all: 49
+      since_2016: 37
+  - i10_index:
+      all: 198
+      since_2016: 158
+  city: Delft
+  country: Holandsko
+  countryurl: Holandsko
+  field: fotovoltika
+  hindex: 49
+  img: Miro_Zeman.jpg
+  last_update: '2021-09-16'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Miro_Zeman
+  - - web
+    - https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/photovoltaic-materials-and-devices/staff/miro-zeman/
+  name: Miro Zeman
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=YP4gwRsAAAAJ
+  year: 1957
+- affiliation: Delft University of Technology
+  affiliationurl: Delft_University_of_Technology
+  cited_by:
+  - citations:
+      all: 8984
+      since_2016: 5513
+  - h_index:
+      all: 48
+      since_2016: 39
+  - i10_index:
+      all: 200
+      since_2016: 124
+  city: Delft
+  country: Holandsko
+  countryurl: Holandsko
+  field: elektronika
+  hindex: 48
+  img: Pavol_Bauer.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - https://www.tudelft.nl/staff/p.bauer/?cHash=96dc8f6d55c5ea75995f7e9d5b68a50d
+  - - "\u017Eivotopis"
+    - https://www.tudelft.nl/en/staff/p.bauer/
+  name: Pavol Bauer
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp
+  year: ''

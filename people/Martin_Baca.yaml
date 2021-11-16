@@ -1,0 +1,29 @@
+name: "Martin Bača"
+
+affiliation: "Technická univerzita v Košiciach"
+cited_by:
+- citations:
+    all: 3723
+    since_2016: 2167
+- h_index:
+    all: 31
+    since_2016: 23
+- i10_index:
+    all: 93
+    since_2016: 55
+city: "Košice"
+country: "Slovensko"
+
+field: "teória grafov"
+hindex: 30
+img: Martin_Baca.jpeg
+last_update: '2021-09-16'
+links:
+  web 1: http://people.tuke.sk/martin.baca/
+  web 2: https://www.sjf.tuke.sk/kamai/en/bacainfo
+  orcid: https://orcid.org/0000-0002-5758-0347
+  LinkedIn: https://www.linkedin.com/in/martin-baca-88421358/?originalSubdomain=sk
+  publons: https://publons.com/researcher/3308408/martin-baca/
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
+year: ''

@@ -1,0 +1,23 @@
+affiliation: "Univerzita Komenského"
+cited_by:
+- citations:
+    all: 5046
+    since_2016: 2148
+- h_index:
+    all: 40
+    since_2016: 24
+- i10_index:
+    all: 123
+    since_2016: 62
+city: "Bratislava"
+country: "Slovensko"
+field: "elektrónová a plazmová fyzika"
+hindex: 40
+img: Stefan_Matejcik.jpg
+last_update: '2021-09-16'
+links:
+  web: http://neon.dpp.fmph.uniba.sk/workgroup/index.php?option=com_content&view=article&id=1&Itemid=101
+name: "Štefan Matejčík"
+position: profesor
+scholar: https://scholar.google.sk/citations?hl=cs&amp;user=Bvdw6vIAAAAJ
+year: ''

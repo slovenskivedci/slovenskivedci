@@ -50,14 +50,14 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=BPId440AAAAJ
   year: 1956
-- affiliation: Monashova univerzita
-  affiliationurl: Monashova_univerzita
+- affiliation: Monash University
+  affiliationurl: Monash_University
   city: Melbourne
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "epidemiol\xF3gia"
   hindex: 54
-  img: de-courten-barbora.jpg
+  img: Barbora_Courten.jpg
   last_update: '2020-12-31'
   links:
   - - loop
@@ -76,8 +76,8 @@
   position: profesorka
   scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
   year: ''
-- affiliation: Univerzita v Adelaide
-  affiliationurl: Univerzita_v_Adelaide
+- affiliation: University of Adelaide
+  affiliationurl: University_of_Adelaide
   cited_by:
   - citations:
       all: 6541
@@ -88,12 +88,12 @@
   - i10_index:
       all: 101
       since_2016: 71
-  city: ' Adelaide'
+  city: Adelaide
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "bioch\xE9mia"
   hindex: 45
-  img: maria-hrmova-rastlinna-bielkovina-clanokW.jpg
+  img: Maria_Hrmova.jpg
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -106,8 +106,47 @@
   position: profesorka
   scholar: https://scholar.google.sk/citations?user=Hvt2QdYAAAAJ&amp;hl=en
   year: ''
-- affiliation: "Univerzita v Melbourne a Kr\xE1\u013Eovsk\xE1 nemocnica v Melbourne"
-  affiliationurl: Univerzita_v_Melbourne_a_Kralovska_nemocnica_v_Melbourne
+- affiliation: University of Technology Sydney
+  affiliationurl: University_of_Technology_Sydney
+  cited_by:
+  - citations:
+      all: 6834
+      since_2016: 5340
+  - h_index:
+      all: 38
+      since_2016: 30
+  - i10_index:
+      all: 99
+      since_2016: 73
+  city: Sydney
+  country: "Austr\xE1lia"
+  countryurl: Australia
+  field: fyzika
+  firstname: "Milo\u0161"
+  hindex: 38
+  img: Milos_Toth.png
+  last_update: '2021-11-16'
+  lastname: "T\xF3th"
+  links:
+  - - omicsonline
+    - https://biography.omicsonline.org/australia/university-of-technology-sydney/milos-toth-974580
+  - - orcid
+    - https://orcid.org/0000-0003-1564-4899
+  - - publons
+    - https://publons.com/researcher/2671223/milos-toth/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Milos-Toth-10585893
+  - - web 1
+    - https://profiles.uts.edu.au/Milos.Toth
+  - - web 2
+    - https://tmos.org.au/team/cis/
+  middlename: ''
+  name: "Milo\u0161 T\xF3th"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=OMBz3bIAAAAJ
+  year: ''
+- affiliation: The University of Melbourne
+  affiliationurl: The_University_of_Melbourne
   cited_by:
   - citations:
       all: 3786
@@ -118,28 +157,28 @@
   - i10_index:
       all: 64
       since_2016: 62
-  city: ' Melbourne'
+  city: Melbourne
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "neurol\xF3gia"
   hindex: 35
-  img: Screen Shot 2021-01-01 at 2.18.08 PM.png
+  img: Tomas_Kalincik.png
   last_update: '2021-09-16'
   links:
   - - orcid
     - https://orcid.org/0000-0003-3778-1376
   - - Scopus
     - https://www.scopus.com/authid/detail.uri?authorId=8365701900
-  - - web
+  - - web 1
     - https://core.melbourne
-  - - web2
+  - - web 2
     - https://findanexpert.unimelb.edu.au/profile/458758-tomas-kalincik
   name: "Tom\xE1\u0161 Kalin\u010D\xEDk"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=uoit0TEAAAAJ
-  year: '1982'
-- affiliation: Univerzita v New South Wales
-  affiliationurl: Univerzita_v_New_South_Wales
+  year: 1982
+- affiliation: University of New South Wales
+  affiliationurl: University_of_New_South_Wales
   cited_by:
   - citations:
       all: 3866
@@ -150,12 +189,12 @@
   - i10_index:
       all: 67
       since_2016: 55
-  city: ' Sydney'
+  city: Sydney
   country: "Austr\xE1lia"
   countryurl: Australia
   field: energetika
   hindex: 33
-  img: img_4285.jpg
+  img: Branislav_Hredzak.jpg
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -183,7 +222,7 @@
   countryurl: Australia
   field: "bezdr\xF4tov\xE9 siete a syst\xE9my"
   hindex: 31
-  img: file-20170626-315-nt5yk4.jpg
+  img: Branislav_Kusy.jpg
   last_update: '2021-09-16'
   links:
   - - dblp

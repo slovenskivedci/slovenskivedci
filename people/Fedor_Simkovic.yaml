@@ -1,0 +1,27 @@
+affiliation: "Univerzita Komenského"
+cited_by:
+- citations:
+    all: 12079
+    since_2016: 4907
+- h_index:
+    all: 60
+    since_2016: 37
+- i10_index:
+    all: 160
+    since_2016: 104
+city: "Bratislava"
+country: "Slovensko"
+field: "jadrová fyzika"
+hindex: 60
+img: Fedor_Simkovic.jpg
+last_update: '2021-09-16'
+links:
+  ESET Science Award: https://www.esetscienceaward.sk/sk/finalisti/fedor-simkovic
+  loop: https://loop.frontiersin.org/people/406064/overview
+  orcid: https://orcid.org/0000-0003-2414-0414
+  web: http://www.dnp.fmph.uniba.sk/people.php
+  životopis: https://drive.google.com/file/d/1blN4ByXStaQ2gcbCpD7J7Ra0uTVTZio8/view?usp=sharing
+name: "Fedor Šimkovic"
+position: profesor
+scholar: https://scholar.google.com/citations?user=aC__pxUAAAAJ&amp;hl=en&amp;oi=ao
+year: 1959

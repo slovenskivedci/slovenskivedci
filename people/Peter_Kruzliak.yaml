@@ -1,0 +1,35 @@
+firstname: "Peter"
+middlename: ""
+lastname: "Kružliak"
+
+name: "Peter Kružliak"
+year: ''
+
+position: "CEO"
+field: "biológia"
+affiliation: "Research adn Development Services"
+city: ""
+country: "Česko"
+
+hindex: 38
+scholar: https://scholar.google.com/citations?user=ICo_N5sAAAAJ&hl=sk
+
+cited_by:
+- citations:
+    all: 4748
+    since_2016: 4446
+- h_index:
+    all: 38
+    since_2016: 35
+- i10_index:
+    all: 131
+    since_2016: 130
+
+img: Peter_Kruzliak.png
+
+last_update: '2021-11-16'
+
+links:
+  LinkedIn: https://www.linkedin.com/in/peter-kruzliak-b61a8a47/?originalSubdomain=cz
+  orcid: https://orcid.org/0000-0002-7069-3784
+  omicsonline: https://www.omicsonline.org/author-profile/peter-kruzliak-243383/

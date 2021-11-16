@@ -1,0 +1,74 @@
+- affiliation: Medical University of Vienna
+  affiliationurl: Medical_University_of_Vienna
+  city: "Viede\u0148"
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "hematol\xF3gia"
+  hindex: 54
+  img: Robert_Kralovics.jpg
+  last_update: '2020-12-31'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/robert-kralovics-0150ab32/
+  - - orcid
+    - https://orcid.org/0000-0002-6997-8539
+  - - web
+    - https://www.meduniwien.ac.at/hp/sfb-mpn/projects/project-02-somatic-aberration-networks-in-mpn/principal-investigator/
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Robert_Kralovics
+  name: "R\xF3bert Kr\xE1lovics"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=-oTaCR8AAAAJ&amp
+  year: 1970
+- affiliation: Medical University of Vienna
+  affiliationurl: Medical_University_of_Vienna
+  cited_by:
+  - citations:
+      all: 12241
+      since_2016: 5035
+  - h_index:
+      all: 45
+      since_2016: 30
+  - i10_index:
+      all: 109
+      since_2016: 95
+  city: "Viede\u0148"
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "lek\xE1rska fyzika"
+  hindex: 45
+  img: Martin_Krssak.jpg
+  last_update: '2021-09-16'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin_Krssak2
+  - - web
+    - https://www.meduniwien.ac.at/hp/programs-endocrinology/supervisors-topics/krssak-martin/
+  name: "Martin Kr\u0161\u0161\xE1k"
+  position: docent
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=Ynt9VvUAAAAJ
+  year: ''
+- affiliation: Medical University of Vienna
+  affiliationurl: Medical_University_of_Vienna
+  city: "Viede\u0148"
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "fyzik\xE1lna ch\xE9mia"
+  hindex: '42'
+  img: Vladimir_Mlynarik.png
+  last_update: '2020-12-31'
+  links:
+  - - prabook
+    - https://prabook.com/web/vladimir.mlynarik/338489
+  - - publons
+    - https://publons.com/researcher/2791541/vladimir-mlynarik/
+  - - scopus
+    - https://www.scopus.com/results/results.uri?sort=plf-f&src=s&sid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a1070&sot=a&sdt=a&sl=77&s=AUTHOR-NAME%28Mlynarik%2c+V%29+OR+AUTHOR-NAME%28Mlynrik%2cV%29+OR+AUTHOR-NAME%28Mlinarik%2cV%29&origin=savedSearchNewOnly&txGid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a107
+  - - web
+    - https://hfmr.meduniwien.ac.at/general-information/staff/mlynarik/?L=1
+  - - "\u017Eivotopis"
+    - https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/Mlynarik_CV_webpage-1.pdf
+  name: "Vladim\xEDr Mlyn\xE1rik"
+  position: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=OYXbmu0AAAAJ
+  year: '1951'

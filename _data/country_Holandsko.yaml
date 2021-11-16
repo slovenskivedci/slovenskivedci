@@ -1,5 +1,5 @@
-- affiliation: "Technick\xE1 univerzita v Delfte"
-  affiliationurl: Technicka_univerzita_v_Delfte
+- affiliation: Delft University of Technology
+  affiliationurl: Delft_University_of_Technology
   cited_by:
   - citations:
       all: 11293
@@ -26,8 +26,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YP4gwRsAAAAJ
   year: 1957
-- affiliation: "Technick\xE1 univerzita v Delfte"
-  affiliationurl: Technicka_univerzita_v_Delfte
+- affiliation: Delft University of Technology
+  affiliationurl: Delft_University_of_Technology
   cited_by:
   - citations:
       all: 8984
@@ -54,8 +54,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp
   year: ''
-- affiliation: "Univerzitn\xE9 lek\xE1rske centrum"
-  affiliationurl: Univerzitne_lekarske_centrum
+- affiliation: University Medical Center Utrecht
+  affiliationurl: University_Medical_Center_Utrecht
   city: Utrecht
   country: Holandsko
   countryurl: Holandsko
@@ -64,6 +64,8 @@
   img: Michal_Mokry.jpg
   last_update: '2020-12-31'
   links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/michalmokry/?originalSubdomain=nl
   - - ResearchGate
     - https://www.researchgate.net/profile/Michal_Mokry
   - - web

@@ -1,0 +1,30 @@
+- affiliation: University of Adelaide
+  affiliationurl: University_of_Adelaide
+  cited_by:
+  - citations:
+      all: 6541
+      since_2016: 2555
+  - h_index:
+      all: 45
+      since_2016: 26
+  - i10_index:
+      all: 101
+      since_2016: 71
+  city: Adelaide
+  country: "Austr\xE1lia"
+  countryurl: Australia
+  field: "bioch\xE9mia"
+  hindex: 45
+  img: Maria_Hrmova.jpg
+  last_update: '2021-09-16'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-3545-0605
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Maria_Hrmova
+  - - web
+    - https://www.adelaide.edu.au/directory/maria.hrmova
+  name: "M\xE1ria Hrmov\xE1"
+  position: profesorka
+  scholar: https://scholar.google.sk/citations?user=Hvt2QdYAAAAJ&amp;hl=en
+  year: ''

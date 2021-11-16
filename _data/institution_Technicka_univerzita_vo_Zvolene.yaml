@@ -36,12 +36,12 @@
   - i10_index:
       all: 86
       since_2016: 57
-  city: ' Zvolen'
+  city: Zvolen
   country: Slovensko
   countryurl: Slovensko
   field: "genetika drev\xEDn"
   hindex: 30
-  img: gomory.photo.png
+  img: Dusan_Gomory.png
   last_update: '2021-09-16'
   links:
   - - loop

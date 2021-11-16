@@ -10,14 +10,19 @@ cited_by:
     all: 55
     since_2016: 27
 city: "Bratislava"
-country: Slovensko
-field: matematika
+country: "Slovensko"
+field: "matematika"
 hindex: 31
 img: Pavol_Quittner.jpg
 last_update: '2021-09-16'
 links:
   web: http://www.iam.fmph.uniba.sk/institute/quittner/
   wikipédia: https://sk.wikipedia.org/wiki/Pavol_Quittner
+  Mathematics Genealogy: https://www.mathgenealogy.org/id.php?id=122049
+  publons: https://publons.com/researcher/1846321/pavol-quittner/
+  dblp: https://dblp.org/pid/122/6263.html
+  IMO: https://www.imo-official.org/participant_r.aspx?id=29
+  mathscinet: https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=193401
 name: "Pavol Quittner"
 position: profesor
 scholar: https://scholar.google.com/citations?hl=en&amp;user=QhrxwOcAAAAJ

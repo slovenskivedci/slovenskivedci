@@ -1,0 +1,24 @@
+affiliation: "University of Washington"
+cited_by:
+- citations:
+    all: 14531
+    since_2016: 6160
+- h_index:
+    all: 48
+    since_2016: 33
+- i10_index:
+    all: 90
+    since_2016: 74
+city: "Seattle"
+country: "USA"
+field: "programovacie jazyky"
+hindex: 48
+img: Rastislav_Bodik.jpg
+last_update: '2021-09-16'
+links:
+  web: https://homes.cs.washington.edu/~bodik/
+  životopis: https://homes.cs.washington.edu/~bodik/cv.pdf
+name: "Rastislav Bodík"
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
+year: 1968

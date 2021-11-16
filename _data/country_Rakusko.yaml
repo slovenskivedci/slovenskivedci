@@ -10,12 +10,12 @@
   - i10_index:
       all: 83
       since_2016: 81
-  city: ' Klosterneuburg'
+  city: Klosterneuburg
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "biol\xF3gia rastl\xEDn"
   hindex: 55
-  img: ProfEvaBenkova-500x500.jpg
+  img: Eva_Benkova.jpg
   last_update: '2021-09-16'
   links:
   - - web
@@ -25,9 +25,9 @@
   name: "Eva Benkov\xE1"
   position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=3knjVQkAAAAJ
-  year: '1969'
-- affiliation: "Lek\xE1rska univerzita vo Viedni"
-  affiliationurl: Lekarska_univerzita_vo_Viedni
+  year: 1969
+- affiliation: Medical University of Vienna
+  affiliationurl: Medical_University_of_Vienna
   city: "Viede\u0148"
   country: "Rak\xFAsko"
   countryurl: Rakusko
@@ -48,8 +48,8 @@
   position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=-oTaCR8AAAAJ&amp
   year: 1970
-- affiliation: "Lek\xE1rska univerzita vo Viedni"
-  affiliationurl: Lekarska_univerzita_vo_Viedni
+- affiliation: Medical University of Vienna
+  affiliationurl: Medical_University_of_Vienna
   cited_by:
   - citations:
       all: 12241
@@ -60,12 +60,12 @@
   - i10_index:
       all: 109
       since_2016: 95
-  city: " Viede\u0148"
+  city: "Viede\u0148"
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "lek\xE1rska fyzika"
   hindex: 45
-  img: martin-krssak.1024x1024.jpg
+  img: Martin_Krssak.jpg
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -96,20 +96,22 @@
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=EI8VHcMAAAAJ
   year: ''
-- affiliation: "Lek\xE1rska univerzita vo Viedni"
-  affiliationurl: Lekarska_univerzita_vo_Viedni
-  city: " Viede\u0148"
+- affiliation: Medical University of Vienna
+  affiliationurl: Medical_University_of_Vienna
+  city: "Viede\u0148"
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "fyzik\xE1lna ch\xE9mia"
   hindex: '42'
-  img: 0e942390-ba5b-47f0-ae45-c2e4454d2e57.png.200x200_q95_crop_detail_upscale.png
+  img: Vladimir_Mlynarik.png
   last_update: '2020-12-31'
   links:
   - - prabook
     - https://prabook.com/web/vladimir.mlynarik/338489
   - - publons
     - https://publons.com/researcher/2791541/vladimir-mlynarik/
+  - - scopus
+    - https://www.scopus.com/results/results.uri?sort=plf-f&src=s&sid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a1070&sot=a&sdt=a&sl=77&s=AUTHOR-NAME%28Mlynarik%2c+V%29+OR+AUTHOR-NAME%28Mlynrik%2cV%29+OR+AUTHOR-NAME%28Mlinarik%2cV%29&origin=savedSearchNewOnly&txGid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a107
   - - web
     - https://hfmr.meduniwien.ac.at/general-information/staff/mlynarik/?L=1
   - - "\u017Eivotopis"
@@ -118,8 +120,8 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=OYXbmu0AAAAJ
   year: '1951'
-- affiliation: "Univerzita pr\xEDrodn\xFDch zdrojov a vied"
-  affiliationurl: Univerzita_prirodnych_zdrojov_a_vied
+- affiliation: Universitv of Natural Resources and Life Sciences
+  affiliationurl: Universitv_of_Natural_Resources_and_Life_Sciences
   city: "Viede\u0148"
   country: "Rak\xFAsko"
   countryurl: Rakusko
@@ -140,8 +142,8 @@
   position: docent
   scholar: https://scholar.google.sk/citations?user=6XPvlE8AAAAJ&amp;hl=en
   year: 1961
-- affiliation: "Viede\u0148sk\xE1 univerzita"
-  affiliationurl: Viedenska_univerzita
+- affiliation: University of Vienna
+  affiliationurl: University_of_Vienna
   cited_by:
   - citations:
       all: 5708
@@ -152,12 +154,12 @@
   - i10_index:
       all: 67
       since_2016: 45
-  city: " Viede\u0148"
+  city: "Viede\u0148"
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "nanomateri\xE1ly"
   hindex: 35
-  img: photo_Viera_Skakalova.jpeg
+  img: Viera_Skakalova.jpeg
   last_update: '2021-09-16'
   links:
   - - orcid

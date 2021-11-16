@@ -1,0 +1,36 @@
+- affiliation: National Institute of Allergy and Infectious Diseases
+  affiliationurl: National_Institute_of_Allergy_and_Infectious_Diseases
+  cited_by:
+  - citations:
+      all: 8371
+      since_2016: 3488
+  - h_index:
+      all: 38
+      since_2016: 28
+  - i10_index:
+      all: 75
+      since_2016: 62
+  city: Bethesda
+  country: USA
+  countryurl: USA
+  field: "neuroimunol\xF3gia"
+  hindex: 38
+  img: Bibiana_Bielekova.jpg
+  last_update: '2021-09-16'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/147850/overview
+  - - orcid
+    - https://orcid.org/0000-0002-0959-9430
+  - - publons
+    - https://publons.com/researcher/2002829/bibiana-bielekova/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Bibiana_Bielekova
+  - - web
+    - https://www.niaid.nih.gov/research/bibi-bielekova-md
+  - - "\u017Eivotopis"
+    - https://demystifyingmedicine.od.nih.gov/dm11/biosketch/dm0301-bielekova-bibiana.pdf
+  name: "Bibiana Bielekov\xE1"
+  position: "vedeck\xE1 pracovn\xED\u010Dka"
+  scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
+  year: 1969

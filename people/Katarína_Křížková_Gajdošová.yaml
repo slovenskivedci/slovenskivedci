@@ -1,9 +1,9 @@
-affiliation: "\u010CVUT"
-city: ' Praha'
-country: "\u010Cesko"
-field: "jadrov\xE1 fyzika"
-hindex: '46'
-img: 1537-krizova_gajdosova.jpg
+affiliation: "České vysoké učení technické v Prahe"
+city: "Praha"
+country: "Česko"
+field: "jadrová fyzika"
+hindex: 46
+img: Katarina_Krizkova_Gajdosova.jpg
 last_update: '2020-12-31'
 links:
   orcid: https://orcid.org/0000-0002-5569-1254

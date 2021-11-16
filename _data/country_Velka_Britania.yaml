@@ -1,5 +1,5 @@
-- affiliation: "Oxfordsk\xE1 univerzita"
-  affiliationurl: Oxfordska_univerzita
+- affiliation: Oxford University
+  affiliationurl: Oxford_University
   city: Oxford
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
@@ -18,14 +18,14 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NgHGnt0AAAAJ
   year: 1978
-- affiliation: "Edinburgsk\xE1 univerzita"
-  affiliationurl: Edinburgska_univerzita
-  city: ' Edinburg'
+- affiliation: University of Edinburgh
+  affiliationurl: University_of_Edinburgh
+  city: Edinburg
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "nukle\xE1rna magnetick\xE1 rezonancia"
-  hindex: '43'
-  img: nmr03.jpg
+  hindex: 43
+  img: Dusan_Uhrin.jpg
   last_update: '2020-12-31'
   links:
   - - ResearchGate
@@ -66,8 +66,8 @@
   position: profesor
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=2f6Yg78AAAAJ
   year: ''
-- affiliation: Univerzita v Birminghame
-  affiliationurl: Univerzita_v_Birminghame
+- affiliation: University of Birmingham
+  affiliationurl: University_of_Birmingham
   cited_by:
   - citations:
       all: 6412

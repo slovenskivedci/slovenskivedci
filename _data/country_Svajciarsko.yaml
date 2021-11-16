@@ -32,7 +32,33 @@
   year: ''
 - affiliation: "ETH Z\xFCrich"
   affiliationurl: ETH_Zurich
-  city: " Z\xFCrich"
+  city: "Z\xFCrich"
+  country: "\u0160vaj\u010Diarsko"
+  countryurl: Svajciarsko
+  field: informatika
+  hindex: 37
+  img: Juraj_Hromkovic.jpg
+  last_update: '2020-12-31'
+  links:
+  - - dblp
+    - https://dblp.org/pid/h/JurajHromkovic.html
+  - - LinkedIn
+    - https://www.linkedin.com/in/juraj-hromkovic-b6359034/?originalSubdomain=ch
+  - - Mathematics Genealogy
+    - https://www.mathgenealogy.org/id.php?id=117390
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Juraj-Hromkovic
+  - - web
+    - https://inf.ethz.ch/people/person-detail.hromkovic.html
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Juraj_Hromkovi\u010D
+  name: "Juraj Hromkovi\u010D"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=xG2VV1UAAAAJ&amp;hl=de
+  year: 1958
+- affiliation: "ETH Z\xFCrich"
+  affiliationurl: ETH_Zurich
+  city: "Z\xFCrich"
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: "hydrol\xF3gia"
@@ -50,32 +76,6 @@
   position: profesor
   scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
   year: 1982
-- affiliation: "ETH Z \xFC rich"
-  affiliationurl: ETH_Z_u_rich
-  city: " Z \xFC rich"
-  country: "\u0160vaj\u010Diarsko"
-  countryurl: Svajciarsko
-  field: informatika
-  hindex: '37'
-  img: image.imageformat.fullwidth.1393744474.jpg
-  last_update: '2020-12-31'
-  links:
-  - - dblp
-    - https://dblp.org/pid/h/JurajHromkovic.html
-  - - LinkedIn
-    - https://www.linkedin.com/in/juraj-hromkovic-b6359034/?originalSubdomain=ch
-  - - MathGenealogy
-    - https://www.mathgenealogy.org/id.php?id=117390
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Juraj-Hromkovic
-  - - web
-    - https://inf.ethz.ch/people/person-detail.hromkovic.html
-  - - "wikip\xE9dia"
-    - "https://en.wikipedia.org/wiki/Juraj_Hromkovi\u010D"
-  name: "Juraj Hromkovi\u010D"
-  position: profesor
-  scholar: https://scholar.google.com/citations?user=xG2VV1UAAAAJ&amp;hl=de
-  year: '1958'
 - affiliation: Google
   affiliationurl: Google
   city: " Z\xFCrich"

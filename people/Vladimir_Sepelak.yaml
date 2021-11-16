@@ -1,0 +1,33 @@
+name: "Vladimír Šepelák"
+year: ''
+
+position: výskumný pracovník
+field: "nanotechnológia"
+affiliation: "Karlsruhe Institute of Technology"
+city: "Karlsruhe"
+country: "Nemecko"
+
+hindex: 43
+scholar: https://scholar.google.com/citations?user=gpGngJUAAAAJ&hl=en&oi=sra
+
+cited_by:
+- citations:
+    all: 5835
+    since_2016: 2503
+- h_index:
+    all: 43
+    since_2016: 23
+- i10_index:
+    all: 108
+    since_2016: 69
+
+
+
+img: Vladimir_Sepelak.png
+last_update: '2021-11-16'
+links:
+  Semantic Scholar: https://www.semanticscholar.org/author/Vladimir-Šepelák/2089505568
+  orcid: https://orcid.org/0000-0003-0247-5416
+  životopis: https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Vladimir-Sepelak.pdf
+  loop: https://loop.frontiersin.org/people/975150/overview
+  web: https://www.int.kit.edu/1801_749.php
