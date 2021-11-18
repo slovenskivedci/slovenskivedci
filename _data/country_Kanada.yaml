@@ -1,11 +1,11 @@
-- affiliation: "Ottawsk\xE1 univerzita"
-  affiliationurl: Ottawska_univerzita
+- affiliation: University of Ottawa
+  affiliationurl: University_of_Ottawa
   city: Ottawa
   country: Kanada
   countryurl: Kanada
   field: "geoch\xE9mia"
   hindex: 89
-  img: Jan_Veizer.jpg
+  img: Jan_Veizer_2.jpg
   last_update: '2021-11-06'
   links:
   - - AMiner
@@ -44,8 +44,20 @@
   img: Igor_Jurisica.png
   last_update: '2021-09-16'
   links:
-  - - web
+  - - dblp
+    - https://dblp.org/pid/27/4777.html
+  - - openreview
+    - https://openreview.net/profile?id=~Igor_Jurisica1
+  - - orcid
+    - https://orcid.org/0000-0002-2507-946X
+  - - pubmed
+    - https://pubmed.ncbi.nlm.nih.gov/?cmd=PureSearch&term=jurisica+i%5Bau%5D
+  - - ResearchGate
+    - https://www.researchgate.net/lab/Igor-Jurisica-Lab-2
+  - - web 1
     - https://www.cs.toronto.edu/~juris/home.html
+  - - web 2
+    - https://medbio.utoronto.ca/faculty/jurisica
   - - "wikip\xE9dia"
     - https://en.wikipedia.org/wiki/Igor_Jurisica
   - - "\u017Eivotopis"
@@ -54,8 +66,8 @@
   position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ
   year: 1967
-- affiliation: "V\xFDskumn\xFD in\u0161tit\xFAt Torontskej v\u0161eobecnej nemocnice"
-  affiliationurl: Vyskumny_institut_Torontskej_vseobecnej_nemocnice
+- affiliation: University of Toronto
+  affiliationurl: University_of_Toronto
   cited_by:
   - citations:
       all: 23114
@@ -74,6 +86,10 @@
   img: Vladimir_Dzavik.jpg
   last_update: '2021-09-16'
   links:
+  - - LinkedIn
+    - "https://www.linkedin.com/in/vladim%C3%ADr-d\u017Eav%C3%ADk-07a36017/?originalSubdomain=ca"
+  - - orcid
+    - https://orcid.org/0000-0002-6001-9534
   - - PubMed
     - https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
   - - ResearchGate
@@ -214,6 +230,14 @@
   img: Marek_Hatala.jpg
   last_update: '2021-09-16'
   links:
+  - - dblp
+    - https://dblp.org/pid/37/2425.html
+  - - LinkedIn
+    - https://www.linkedin.com/in/marek-hatala-9887972/?originalSubdomain=ca
+  - - research.com
+    - https://research.com/u/marek-hatala
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marek-Hatala
   - - web
     - https://www.sfu.ca/siat/people/research-faculty/marek-hatala.html
   name: Marek Hatala

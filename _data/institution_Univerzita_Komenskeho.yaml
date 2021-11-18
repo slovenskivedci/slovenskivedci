@@ -437,6 +437,14 @@
   img: Marek_Fila.jpg
   last_update: '2021-09-16'
   links:
+  - - dblp
+    - https://dblp.org/pid/85/3264.html
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=122294
+  - - orcid
+    - https://orcid.org/0000-0001-6623-2304
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marek-Fila
   - - web
     - http://www.iam.fmph.uniba.sk/institute/fila/
   name: Marek Fila
@@ -501,12 +509,12 @@
   year: 1964
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "lek\xE1rska bioch\xE9mia"
-  hindex: '32'
-  img: 02-21 JL.jpg
+  hindex: 32
+  img: Jan_Lehotsky.jpg
   last_update: '2020-12-31'
   links:
   - - loop
@@ -520,7 +528,7 @@
   name: "J\xE1n Lehotsk\xFD"
   position: profesor
   scholar: https://scholar.google.sk/citations?user=rXl9hY0AAAAJ&amp;hl=sk&amp;oi=sra
-  year: '1954'
+  year: 1954
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -615,16 +623,24 @@
   - i10_index:
       all: 47
       since_2016: 37
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: geofyzika
   hindex: 31
-  img: JoKr.jpg
+  img: Jozef_Kristek.jpg
   last_update: '2021-09-16'
   links:
-  - - web
+  - - orcid
+    - https://orcid.org/0000-0002-2332-541X
+  - - publons
+    - https://publons.com/researcher/1444523/jozef-kristek/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jozef-Kristek
+  - - web 1
     - http://www.nuquake.eu
+  - - web 2
+    - http://www.geo.sav.sk/en/staff/jozef-kristek-en/
   name: Jozef Kristek
   position: docent
   scholar: https://scholar.google.com/citations?user=CgbiV4EAAAAJ&amp;hl=en

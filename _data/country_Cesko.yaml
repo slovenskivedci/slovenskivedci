@@ -1,3 +1,31 @@
+- affiliation: "Univerzita Palack\xE9ho v Olomouci"
+  affiliationurl: Univerzita_Palackeho_v_Olomouci
+  cited_by:
+  - citations:
+      all: 10511
+      since_2016: 3949
+  - h_index:
+      all: 57
+      since_2016: 36
+  - i10_index:
+      all: 154
+      since_2016: 108
+  city: Olomouc
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: botanika
+  hindex: 57
+  img: Jozef_Samaj.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - http://cr-hana.upol.cz/cellbiol/
+  - - "\u017Eivotopis"
+    - "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160amaj.pdf"
+  name: "Jozef \u0160amaj"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
+  year: 1964
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
   city: Praha
@@ -58,12 +86,12 @@
   - i10_index:
       all: 133
       since_2016: 106
-  city: " Plze\u0148"
+  city: "Plze\u0148"
   country: "\u010Cesko"
   countryurl: Cesko
   field: "aplikovan\xE1 fyzika"
   hindex: 42
-  img: 1608215138998.jpeg
+  img: Jan_Minar.jpeg
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -75,7 +103,7 @@
   name: "J\xE1n Min\xE1r"
   position: profesor
   scholar: https://scholar.google.com/citations?user=EZ8YetQAAAAJ&amp;hl=en
-  year: '1975'
+  year: 1975
 - affiliation: Masarykova univerzita
   affiliationurl: Masarykova_univerzita
   cited_by:
@@ -106,8 +134,8 @@
   position: docent
   scholar: https://scholar.google.com/citations?user=50d9fJAAAAAJ&amp;hl=sk
   year: ''
-- affiliation: "Univerzita  Palack\xE9ho"
-  affiliationurl: Univerzita__Palackeho
+- affiliation: "Univerzita Palack\xE9ho v Olomouci"
+  affiliationurl: Univerzita_Palackeho_v_Olomouci
   cited_by:
   - citations:
       all: 3805
@@ -170,8 +198,8 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
   year: 1963
-- affiliation: Research adn Development Services
-  affiliationurl: Research_adn_Development_Services
+- affiliation: Research and Development Services
+  affiliationurl: Research_and_Development_Services
   cited_by:
   - citations:
       all: 4748
@@ -182,13 +210,13 @@
   - i10_index:
       all: 131
       since_2016: 130
-  city: ''
+  city: Brno
   country: "\u010Cesko"
   countryurl: Cesko
   field: "biol\xF3gia"
   firstname: Peter
   hindex: 38
-  img: Peter_Kruzliak.png
+  img: Peter_Kruzliak.jpg
   last_update: '2021-11-16'
   lastname: "Kru\u017Eliak"
   links:
@@ -237,12 +265,12 @@
   - i10_index:
       all: 82
       since_2016: 34
-  city: ' Praha'
+  city: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "bioch\xE9mia"
   hindex: 34
-  img: Juraj-Harmatha.jpg
+  img: Juraj_Harmatha.jpg
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -273,8 +301,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=QCr9FugAAAAJ
   year: 1978
-- affiliation: "Palack\xE9ho univerzita"
-  affiliationurl: Palackeho_univerzita
+- affiliation: "Univerzita Palack\xE9ho v Olomouci"
+  affiliationurl: Univerzita_Palackeho_v_Olomouci
   cited_by:
   - citations:
       all: 2865

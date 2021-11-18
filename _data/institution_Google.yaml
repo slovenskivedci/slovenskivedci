@@ -1,6 +1,6 @@
 - affiliation: Google
   affiliationurl: Google
-  city: " Z\xFCrich"
+  city: "Z\xFCrich"
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: informatika
@@ -10,6 +10,8 @@
   links:
   - - dblp
     - https://dblp.org/pid/p/MartinPal.html
+  - - IMO
+    - https://www.imo-official.org/participant_r.aspx?id=3826
   - - web
     - https://research.google/people/author20/
   - - "\u017Eivotopis"

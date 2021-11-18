@@ -10,12 +10,12 @@
   - i10_index:
       all: 133
       since_2016: 106
-  city: " Plze\u0148"
+  city: "Plze\u0148"
   country: "\u010Cesko"
   countryurl: Cesko
   field: "aplikovan\xE1 fyzika"
   hindex: 42
-  img: 1608215138998.jpeg
+  img: Jan_Minar.jpeg
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -27,4 +27,4 @@
   name: "J\xE1n Min\xE1r"
   position: profesor
   scholar: https://scholar.google.com/citations?user=EZ8YetQAAAAJ&amp;hl=en
-  year: '1975'
+  year: 1975

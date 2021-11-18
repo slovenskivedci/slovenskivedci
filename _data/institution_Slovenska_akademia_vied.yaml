@@ -337,12 +337,12 @@
   - i10_index:
       all: 75
       since_2016: 40
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia"
   hindex: 35
-  img: BIveta_Bernatova.jpg
+  img: Iveta_Bernatova.jpg
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -375,7 +375,7 @@
     - https://www.linkedin.com/in/igor-tvaroska-a9a82b11/?originalSubdomain=sk
   - - orcid
     - https://orcid.org/0000-0003-2740-944X
-  - - osobnosti.sk
+  - - osobnosti
     - https://www.osobnosti.sk/osobnost/igor-tvaroska-617
   - - prabook
     - https://prabook.com/web/igor.tvaroska/339705
@@ -391,20 +391,30 @@
   year: '1944'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  city: " Ko\u0161ice"
+  city: "Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
   field: "nanomateri\xE1ly"
-  hindex: '34'
-  img: "J\xE1n-Dusza.jpg"
+  hindex: 34
+  img: Jan_Dusza.jpg
   last_update: '2020-12-31'
   links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/en/finalists/jan-dusza
+  - - learned.sk
+    - https://www.learned.sk/prof-rndr-jan-dusza-drsc/
+  - - orcid
+    - https://orcid.org/0000-0002-3359-9326
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jan-Dusza
+  - - scientific.net
+    - "https://www.scientific.net/author-papers/j\xE1n-dusza"
   - - web
     - https://promatech.sk
   name: "J\xE1n Dusza"
   position: profesor
   scholar: https://scholar.google.com/citations?user=FMHHfNAAAAAJ&amp;hl=en
-  year: '1952'
+  year: 1952
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -443,26 +453,6 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=OGYiJWwAAAAJ
   year: '1943'
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: ' Bratislava'
-  country: Slovensko
-  countryurl: Slovensko
-  field: "molekul\xE1rna biol\xF3gia"
-  hindex: '32'
-  img: DSC6516.jpg
-  last_update: '2020-12-31'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0002-7268-1584
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Juraj_Majtan
-  - - web
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10368
-  name: "Juraj Majt\xE1n"
-  position: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.sk/citations?hl=en&amp;user=Wt7wd3QAAAAJ
-  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -558,6 +548,26 @@
   city: Bratislava
   country: Slovensko
   countryurl: Slovensko
+  field: "molekul\xE1rna biol\xF3gia"
+  hindex: 32
+  img: Juraj_Majtan.jpg
+  last_update: '2020-12-31'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-7268-1584
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Juraj_Majtan
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10368
+  name: "Juraj Majt\xE1n"
+  position: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.sk/citations?hl=en&amp;user=Wt7wd3QAAAAJ
+  year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
   field: "fyziol\xF3gia"
   hindex: 32
   img: Tanya_Ravingerova.jpg
@@ -611,7 +621,9 @@
   links:
   - - dblp
     - https://dblp.org/pid/15/2733.html
-  - - osobnosti.sk
+  - - Mathematics Genealogy
+    - https://www.mathgenealogy.org/id.php?id=128765
+  - - osobnosti
     - https://www.osobnosti.sk/osobnost/anatolij-dvurecenskij-559
   - - publons
     - https://publons.com/researcher/4012335/anatolij-dvurecenskij/
@@ -619,6 +631,9 @@
     - https://www.researchgate.net/scientific-contributions/Anatolij-Dvurecenskij-77457283
   - - web
     - http://www.mat.savba.sk/~dvurecenskij/
+  - - "\u017Eivotopis"
+    - "https://www.ku.sk/images/dokumenty/pf/dokumenty/veda_a_vyskum/projekty_a_granty/kega/1._\u017E\
+      ivotopis_prof._dvure\u010Denskij14421.pdf"
   name: "Anatolij Dvure\u010Denskij"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC

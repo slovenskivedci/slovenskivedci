@@ -18,8 +18,20 @@
   img: Igor_Jurisica.png
   last_update: '2021-09-16'
   links:
-  - - web
+  - - dblp
+    - https://dblp.org/pid/27/4777.html
+  - - openreview
+    - https://openreview.net/profile?id=~Igor_Jurisica1
+  - - orcid
+    - https://orcid.org/0000-0002-2507-946X
+  - - pubmed
+    - https://pubmed.ncbi.nlm.nih.gov/?cmd=PureSearch&term=jurisica+i%5Bau%5D
+  - - ResearchGate
+    - https://www.researchgate.net/lab/Igor-Jurisica-Lab-2
+  - - web 1
     - https://www.cs.toronto.edu/~juris/home.html
+  - - web 2
+    - https://medbio.utoronto.ca/faculty/jurisica
   - - "wikip\xE9dia"
     - https://en.wikipedia.org/wiki/Igor_Jurisica
   - - "\u017Eivotopis"

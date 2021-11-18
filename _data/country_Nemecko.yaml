@@ -32,8 +32,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=KF4AYR4AAAAJ&amp;hl=en
   year: 1957
-- affiliation: Univerzita v Regensburgu
-  affiliationurl: Univerzita_v_Regensburgu
+- affiliation: University of Regensburg
+  affiliationurl: University_of_Regensburg
   cited_by:
   - citations:
       all: 24076
@@ -59,7 +59,7 @@
   name: "Jaroslav Fabi\xE1n"
   position: profesor
   scholar: https://scholar.google.de/citations?user=bNu69CcAAAAJ&amp;hl=en
-  year: '1967'
+  year: 1967
 - affiliation: RWTH Aachen
   affiliationurl: RWTH_Aachen
   cited_by:

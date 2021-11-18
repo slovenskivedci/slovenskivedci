@@ -1,5 +1,5 @@
-- affiliation: Univerzita v Zurichu
-  affiliationurl: Univerzita_v_Zurichu
+- affiliation: University of Zurich
+  affiliationurl: University_of_Zurich
   cited_by:
   - citations:
       all: 9550
@@ -10,12 +10,12 @@
   - i10_index:
       all: 76
       since_2016: 63
-  city: ' Zurich'
+  city: "Z\xFCrich"
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: "fyziol\xF3gia buniek"
   hindex: 45
-  img: L_Borsig photo 1-17-1.jpg.jpg
+  img: Lubor_Borsig.jpg
   last_update: '2021-09-16'
   links:
   - - loop
@@ -78,7 +78,7 @@
   year: 1982
 - affiliation: Google
   affiliationurl: Google
-  city: " Z\xFCrich"
+  city: "Z\xFCrich"
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: informatika
@@ -88,6 +88,8 @@
   links:
   - - dblp
     - https://dblp.org/pid/p/MartinPal.html
+  - - IMO
+    - https://www.imo-official.org/participant_r.aspx?id=3826
   - - web
     - https://research.google/people/author20/
   - - "\u017Eivotopis"

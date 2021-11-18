@@ -1,0 +1,27 @@
+affiliation: "Sloveská akadémia vied"
+cited_by:
+- citations:
+    all: 3046
+    since_2016: 1096
+- h_index:
+    all: 31
+    since_2016: 18
+- i10_index:
+    all: 60
+    since_2016: 33
+city: "Bratislava"
+country: "Slovensko"
+field: "molekulárna biológia"
+hindex: 31
+img: Imrich_Barak.jpg
+last_update: '2021-09-16'
+links:
+  ResearchGate: https://www.researchgate.net/profile/Imrich-Barak
+  loop: https://loop.frontiersin.org/people/104180/overview
+  orcid: https://orcid.org/0000-0002-3690-404X
+  osobnosti: https://www.osobnosti.sk/osobnost/imrich-barak-537
+  web: http://imb.savba.sk/~barak/
+name: "Imrich Barák"
+position: "vedecký pracovník"
+scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
+year: 1961

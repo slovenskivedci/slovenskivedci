@@ -1,5 +1,5 @@
 affiliation: "Google"
-city: " Z\xFCrich"
+city: "Zürich"
 country: "Švajčiarsko"
 field: "informatika"
 hindex: 32
@@ -9,6 +9,8 @@ links:
   dblp: https://dblp.org/pid/p/MartinPal.html
   web: https://research.google/people/author20/
   životopis: http://martin.palenica.com/cv2.pdf
+  IMO: https://www.imo-official.org/participant_r.aspx?id=3826
+  
 name: "Martin Pál"
 position: "vedecký pracovník"
 scholar: https://scholar.google.com/citations?&user=NDhlLv0AAAAJ

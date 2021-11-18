@@ -32,6 +32,40 @@
   affiliationurl: Univerzita_PJ_Safarika
   cited_by:
   - citations:
+      all: 4165
+      since_2016: 2084
+  - h_index:
+      all: 38
+      since_2016: 24
+  - i10_index:
+      all: 77
+      since_2016: 62
+  city: "Ko\u0161ice"
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyziol\xF3gia rastl\xEDn"
+  hindex: 38
+  img: Martin_Backor_1.jpg
+  last_update: '2021-09-17'
+  links:
+  - - publons
+    - https://publons.com/researcher/2178958/martin-backor/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin-Backor
+  - - sme.sk
+    - https://tech.sme.sk/c/20636283/clen-antarktickej-expedicie-era-polarnych-dobrodruhov-sa-uz-skoncila.html
+  - - web
+    - https://www.upjs.sk/PF/zamestnanec/martin.backor/
+  - - "\u017Eivotopis"
+    - http://kfrserver.natur.cuni.cz/studium/anatomie/soubory/CV_Backor.pdf
+  name: "Martin Ba\u010Dkor"
+  position: profesor
+  scholar: https://scholar.google.co.uk/citations?user=yuz_CywAAAAJ&hl=en&oi=sra
+  year: 1970
+- affiliation: "Univerzita PJ \u0160af\xE1rika"
+  affiliationurl: Univerzita_PJ_Safarika
+  cited_by:
+  - citations:
       all: 2921
       since_2016: 1601
   - h_index:
@@ -40,7 +74,7 @@
   - i10_index:
       all: 61
       since_2016: 52
-  city: " Ko\u0161ice"
+  city: "Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
   field: "behavior\xE1lna medic\xEDna"
@@ -56,12 +90,12 @@
   year: ''
 - affiliation: "Univerzita PJ \u0160af\xE1rika"
   affiliationurl: Univerzita_PJ_Safarika
-  city: " Ko\u0161ice"
+  city: "Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
   field: "farmakol\xF3gia"
-  hindex: '32'
-  img: cena-rektora-Mojzis.JPG
+  hindex: 32
+  img: Jan_Mojzis.jpg
   last_update: '2020-12-31'
   links:
   - - web

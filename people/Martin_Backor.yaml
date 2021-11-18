@@ -1,0 +1,33 @@
+name: "Martin Bačkor"
+year: 1970
+
+position: profesor
+field: "fyziológia rastlín"
+affiliation: "Univerzita PJ Šafárika"
+city: "Košice"
+country: "Slovensko"
+
+hindex: 38
+scholar: https://scholar.google.co.uk/citations?user=yuz_CywAAAAJ&hl=en&oi=sra
+
+cited_by:
+- citations:
+    all: 4165
+    since_2016: 2084
+- h_index:
+    all: 38
+    since_2016: 24
+- i10_index:
+    all: 77
+    since_2016: 62
+
+
+
+img: Martin_Backor_1.jpg
+last_update: '2021-09-17'
+links:
+  ResearchGate: https://www.researchgate.net/profile/Martin-Backor
+  web: https://www.upjs.sk/PF/zamestnanec/martin.backor/
+  životopis: http://kfrserver.natur.cuni.cz/studium/anatomie/soubory/CV_Backor.pdf
+  publons: https://publons.com/researcher/2178958/martin-backor/
+  sme.sk: https://tech.sme.sk/c/20636283/clen-antarktickej-expedicie-era-polarnych-dobrodruhov-sa-uz-skoncila.html

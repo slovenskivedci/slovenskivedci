@@ -544,8 +544,8 @@
   country: Slovensko
   countryurl: Slovensko
   field: "automatiz\xE1cia"
-  hindex: '41'
-  img: Petras.jpg
+  hindex: 41
+  img: Ivo_Petras.jpg
   last_update: '2020-12-31'
   links:
   - - web
@@ -555,7 +555,7 @@
   name: "Ivo Petr\xE1\u0161"
   position: profesor
   scholar: https://scholar.google.com/citations?user=01msi28AAAAJ&amp;hl=en
-  year: '1973'
+  year: 1973
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
@@ -754,6 +754,40 @@
   position: docent
   scholar: https://scholar.google.de/citations?user=wsJN2SMAAAAJ&amp;hl=en
   year: ''
+- affiliation: "Univerzita PJ \u0160af\xE1rika"
+  affiliationurl: Univerzita_PJ_Safarika
+  cited_by:
+  - citations:
+      all: 4165
+      since_2016: 2084
+  - h_index:
+      all: 38
+      since_2016: 24
+  - i10_index:
+      all: 77
+      since_2016: 62
+  city: "Ko\u0161ice"
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyziol\xF3gia rastl\xEDn"
+  hindex: 38
+  img: Martin_Backor_1.jpg
+  last_update: '2021-09-17'
+  links:
+  - - publons
+    - https://publons.com/researcher/2178958/martin-backor/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin-Backor
+  - - sme.sk
+    - https://tech.sme.sk/c/20636283/clen-antarktickej-expedicie-era-polarnych-dobrodruhov-sa-uz-skoncila.html
+  - - web
+    - https://www.upjs.sk/PF/zamestnanec/martin.backor/
+  - - "\u017Eivotopis"
+    - http://kfrserver.natur.cuni.cz/studium/anatomie/soubory/CV_Backor.pdf
+  name: "Martin Ba\u010Dkor"
+  position: profesor
+  scholar: https://scholar.google.co.uk/citations?user=yuz_CywAAAAJ&hl=en&oi=sra
+  year: 1970
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -1000,12 +1034,12 @@
   - i10_index:
       all: 75
       since_2016: 40
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia"
   hindex: 35
-  img: BIveta_Bernatova.jpg
+  img: Iveta_Bernatova.jpg
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -1058,7 +1092,7 @@
     - https://www.linkedin.com/in/igor-tvaroska-a9a82b11/?originalSubdomain=sk
   - - orcid
     - https://orcid.org/0000-0003-2740-944X
-  - - osobnosti.sk
+  - - osobnosti
     - https://www.osobnosti.sk/osobnost/igor-tvaroska-617
   - - prabook
     - https://prabook.com/web/igor.tvaroska/339705
@@ -1102,20 +1136,30 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  city: " Ko\u0161ice"
+  city: "Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
   field: "nanomateri\xE1ly"
-  hindex: '34'
-  img: "J\xE1n-Dusza.jpg"
+  hindex: 34
+  img: Jan_Dusza.jpg
   last_update: '2020-12-31'
   links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/en/finalists/jan-dusza
+  - - learned.sk
+    - https://www.learned.sk/prof-rndr-jan-dusza-drsc/
+  - - orcid
+    - https://orcid.org/0000-0002-3359-9326
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jan-Dusza
+  - - scientific.net
+    - "https://www.scientific.net/author-papers/j\xE1n-dusza"
   - - web
     - https://promatech.sk
   name: "J\xE1n Dusza"
   position: profesor
   scholar: https://scholar.google.com/citations?user=FMHHfNAAAAAJ&amp;hl=en
-  year: '1952'
+  year: 1952
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -1154,7 +1198,7 @@
   - i10_index:
       all: 61
       since_2016: 52
-  city: " Ko\u0161ice"
+  city: "Ko\u0161ice"
   country: Slovensko
   countryurl: Slovensko
   field: "behavior\xE1lna medic\xEDna"
@@ -1206,6 +1250,14 @@
   img: Marek_Fila.jpg
   last_update: '2021-09-16'
   links:
+  - - dblp
+    - https://dblp.org/pid/85/3264.html
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=122294
+  - - orcid
+    - https://orcid.org/0000-0001-6623-2304
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marek-Fila
   - - web
     - http://www.iam.fmph.uniba.sk/institute/fila/
   name: Marek Fila
@@ -1278,26 +1330,6 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=OGYiJWwAAAAJ
   year: '1943'
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: ' Bratislava'
-  country: Slovensko
-  countryurl: Slovensko
-  field: "molekul\xE1rna biol\xF3gia"
-  hindex: '32'
-  img: DSC6516.jpg
-  last_update: '2020-12-31'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0002-7268-1584
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Juraj_Majtan
-  - - web
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10368
-  name: "Juraj Majt\xE1n"
-  position: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.sk/citations?hl=en&amp;user=Wt7wd3QAAAAJ
-  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -1326,6 +1358,22 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=FNaaPIwAAAAJ&amp
   year: 1964
+- affiliation: "Univerzita PJ \u0160af\xE1rika"
+  affiliationurl: Univerzita_PJ_Safarika
+  city: "Ko\u0161ice"
+  country: Slovensko
+  countryurl: Slovensko
+  field: "farmakol\xF3gia"
+  hindex: 32
+  img: Jan_Mojzis.jpg
+  last_update: '2020-12-31'
+  links:
+  - - web
+    - https://www.upjs.sk/LF/zamestnanec/jan.mojzis/
+  name: "J\xE1n Moj\u017Ei\u0161"
+  position: profesor
+  scholar: https://scholar.google.sk/citations?user=TjtaxQ8AAAAJ&amp;hl=en
+  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -1358,22 +1406,6 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=ckojWlAAAAAJ
   year: 1954
-- affiliation: "Univerzita PJ \u0160af\xE1rika"
-  affiliationurl: Univerzita_PJ_Safarika
-  city: " Ko\u0161ice"
-  country: Slovensko
-  countryurl: Slovensko
-  field: "farmakol\xF3gia"
-  hindex: '32'
-  img: cena-rektora-Mojzis.JPG
-  last_update: '2020-12-31'
-  links:
-  - - web
-    - https://www.upjs.sk/LF/zamestnanec/jan.mojzis/
-  name: "J\xE1n Moj\u017Ei\u0161"
-  position: profesor
-  scholar: https://scholar.google.sk/citations?user=TjtaxQ8AAAAJ&amp;hl=en
-  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -1404,12 +1436,12 @@
   year: 1955
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "lek\xE1rska bioch\xE9mia"
-  hindex: '32'
-  img: 02-21 JL.jpg
+  hindex: 32
+  img: Jan_Lehotsky.jpg
   last_update: '2020-12-31'
   links:
   - - loop
@@ -1423,7 +1455,7 @@
   name: "J\xE1n Lehotsk\xFD"
   position: profesor
   scholar: https://scholar.google.sk/citations?user=rXl9hY0AAAAJ&amp;hl=sk&amp;oi=sra
-  year: '1954'
+  year: 1954
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   city: Bratislava
@@ -1488,6 +1520,26 @@
   position: profesor
   scholar: https://scholar.google.co.in/citations?user=KPgJyEAAAAAJ&amp;hl=en
   year: 1966
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "molekul\xE1rna biol\xF3gia"
+  hindex: 32
+  img: Juraj_Majtan.jpg
+  last_update: '2020-12-31'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-7268-1584
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Juraj_Majtan
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10368
+  name: "Juraj Majt\xE1n"
+  position: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.sk/citations?hl=en&amp;user=Wt7wd3QAAAAJ
+  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -1572,12 +1624,12 @@
   year: 1960
 - affiliation: "Slovesk\xE1 akad\xE9mia vied"
   affiliationurl: Sloveska_akademia_vied
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "patofyziol\xF3gia"
-  hindex: '32'
-  img: UKROPEC.jpg
+  hindex: 32
+  img: Jozef_Ukropec.jpg
   last_update: '2020-12-31'
   links:
   - - loop
@@ -1595,7 +1647,7 @@
   name: Jozef Ukropec
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=geK1ms0AAAAJ&amp;hl=en
-  year: '1974'
+  year: 1974
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -1666,7 +1718,9 @@
   links:
   - - dblp
     - https://dblp.org/pid/15/2733.html
-  - - osobnosti.sk
+  - - Mathematics Genealogy
+    - https://www.mathgenealogy.org/id.php?id=128765
+  - - osobnosti
     - https://www.osobnosti.sk/osobnost/anatolij-dvurecenskij-559
   - - publons
     - https://publons.com/researcher/4012335/anatolij-dvurecenskij/
@@ -1674,44 +1728,13 @@
     - https://www.researchgate.net/scientific-contributions/Anatolij-Dvurecenskij-77457283
   - - web
     - http://www.mat.savba.sk/~dvurecenskij/
+  - - "\u017Eivotopis"
+    - "https://www.ku.sk/images/dokumenty/pf/dokumenty/veda_a_vyskum/projekty_a_granty/kega/1._\u017E\
+      ivotopis_prof._dvure\u010Denskij14421.pdf"
   name: "Anatolij Dvure\u010Denskij"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC
   year: 1949
-- affiliation: "Slovesk\xE1 akad\xE9mia vied"
-  affiliationurl: Sloveska_akademia_vied
-  cited_by:
-  - citations:
-      all: 3046
-      since_2016: 1096
-  - h_index:
-      all: 31
-      since_2016: 18
-  - i10_index:
-      all: 60
-      since_2016: 33
-  city: ' Bratislava'
-  country: Slovensko
-  countryurl: Slovensko
-  field: "molekul\xE1rna biol\xF3gia"
-  hindex: 31
-  img: 117686-biolog-imrich-barak-clanokW.jpg
-  last_update: '2021-09-16'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/104180/overview
-  - - orcid
-    - https://orcid.org/0000-0002-3690-404X
-  - - osobnosti
-    - https://www.osobnosti.sk/osobnost/imrich-barak-537
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Imrich-Barak
-  - - web
-    - http://imb.savba.sk/~barak/
-  name: "Imrich Bar\xE1k"
-  position: "vedeck\xFD pracovn\xEDk"
-  scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
-  year: '1961'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -1740,6 +1763,40 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=WawpXZIAAAAJ&amp;hl=en
   year: ''
+- affiliation: "Slovesk\xE1 akad\xE9mia vied"
+  affiliationurl: Sloveska_akademia_vied
+  cited_by:
+  - citations:
+      all: 3046
+      since_2016: 1096
+  - h_index:
+      all: 31
+      since_2016: 18
+  - i10_index:
+      all: 60
+      since_2016: 33
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "molekul\xE1rna biol\xF3gia"
+  hindex: 31
+  img: Imrich_Barak.jpg
+  last_update: '2021-09-16'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/104180/overview
+  - - orcid
+    - https://orcid.org/0000-0002-3690-404X
+  - - osobnosti
+    - https://www.osobnosti.sk/osobnost/imrich-barak-537
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Imrich-Barak
+  - - web
+    - http://imb.savba.sk/~barak/
+  name: "Imrich Bar\xE1k"
+  position: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
+  year: 1961
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -1752,16 +1809,24 @@
   - i10_index:
       all: 47
       since_2016: 37
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: geofyzika
   hindex: 31
-  img: JoKr.jpg
+  img: Jozef_Kristek.jpg
   last_update: '2021-09-16'
   links:
-  - - web
+  - - orcid
+    - https://orcid.org/0000-0002-2332-541X
+  - - publons
+    - https://publons.com/researcher/1444523/jozef-kristek/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jozef-Kristek
+  - - web 1
     - http://www.nuquake.eu
+  - - web 2
+    - http://www.geo.sav.sk/en/staff/jozef-kristek-en/
   name: Jozef Kristek
   position: docent
   scholar: https://scholar.google.com/citations?user=CgbiV4EAAAAJ&amp;hl=en

@@ -7,24 +7,22 @@ affiliation: "King Abdullah University of Science and Technology (KAUST)"
 city: "Thuwal"
 country: "Saudská Arábia"
 
-hindex: 47
+hindex: 48
 scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
 
 cited_by:
 - citations:
-    all: 9986
-    since_2016: 8792
+    all: 10800
+    since_2016: 9603
 - h_index:
-    all: 46
-    since_2016: 42
+    all: 48
+    since_2016: 45
 - i10_index:
-    all: 108
-    since_2016: 103
+    all: 117
+    since_2016: 112
 
+last_update: '2021-11-18'
 
-
-img: Peter_Richtarik.jpg
-last_update: '2021-09-16'
 links:
   dblp: https://dblp.org/pid/62/8001.html
   web 1: https://richtarik.org
@@ -37,3 +35,5 @@ links:
   Mathematics Genealogy: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=111470
   research.com: https://research.com/u/peter-richtarik
   openreview: https://openreview.net/profile?id=~Peter_Richtárik1
+
+img: Peter_Richtarik.jpg

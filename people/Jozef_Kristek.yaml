@@ -1,4 +1,4 @@
-affiliation: "Univerzita Komensk\xE9ho"
+affiliation: "Univerzita Komenského"
 cited_by:
 - citations:
     all: 4550
@@ -9,15 +9,20 @@ cited_by:
 - i10_index:
     all: 47
     since_2016: 37
-city: ' Bratislava'
-country: Slovensko
-field: geofyzika
+city: "Bratislava"
+country: "Slovensko"
+field: "geofyzika"
 hindex: 31
-img: JoKr.jpg
+img: Jozef_Kristek.jpg
 last_update: '2021-09-16'
 links:
-  web: http://www.nuquake.eu
-name: Jozef Kristek
+  web 1: http://www.nuquake.eu
+  orcid: https://orcid.org/0000-0002-2332-541X
+  web 2: http://www.geo.sav.sk/en/staff/jozef-kristek-en/
+  ResearchGate: https://www.researchgate.net/profile/Jozef-Kristek
+  publons: https://publons.com/researcher/1444523/jozef-kristek/
+  
+name: "Jozef Kristek"
 position: docent
 scholar: https://scholar.google.com/citations?user=CgbiV4EAAAAJ&amp;hl=en
 year: ''

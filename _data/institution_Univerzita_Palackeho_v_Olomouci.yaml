@@ -1,0 +1,94 @@
+- affiliation: "Univerzita Palack\xE9ho v Olomouci"
+  affiliationurl: Univerzita_Palackeho_v_Olomouci
+  cited_by:
+  - citations:
+      all: 10511
+      since_2016: 3949
+  - h_index:
+      all: 57
+      since_2016: 36
+  - i10_index:
+      all: 154
+      since_2016: 108
+  city: Olomouc
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: botanika
+  hindex: 57
+  img: Jozef_Samaj.jpg
+  last_update: '2021-09-16'
+  links:
+  - - web
+    - http://cr-hana.upol.cz/cellbiol/
+  - - "\u017Eivotopis"
+    - "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160amaj.pdf"
+  name: "Jozef \u0160amaj"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
+  year: 1964
+- affiliation: "Univerzita Palack\xE9ho v Olomouci"
+  affiliationurl: Univerzita_Palackeho_v_Olomouci
+  cited_by:
+  - citations:
+      all: 3805
+      since_2016: 2226
+  - h_index:
+      all: 38
+      since_2016: 29
+  - i10_index:
+      all: 88
+      since_2016: 77
+  city: Olomouc
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "behavior\xE1lna ekol\xF3gia"
+  hindex: 38
+  img: Tomas_Grim.jpg
+  last_update: '2021-09-16'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/392854/bio
+  - - orcid
+    - https://orcid.org/0000-0002-5775-6269
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Tomas-Grim
+  - - web
+    - http://www.tomasgrim.com
+  name: "Tom\xE1\u0161 Grim"
+  position: docent
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=T0MNJGgAAAAJ
+  year: '1973'
+- affiliation: "Univerzita Palack\xE9ho v Olomouci"
+  affiliationurl: Univerzita_Palackeho_v_Olomouci
+  cited_by:
+  - citations:
+      all: 2865
+      since_2016: 1872
+  - h_index:
+      all: 31
+      since_2016: 24
+  - i10_index:
+      all: 84
+      since_2016: 61
+  city: Olomouc
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "ch\xE9mia"
+  hindex: 31
+  img: Radovan_Herchel.jpg
+  last_update: '2021-09-16'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/61544/overview
+  - - orcid
+    - https://orcid.org/0000-0001-8262-4666
+  - - publons
+    - https://publons.com/researcher/1372193/radovan-herchel/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Radovan-Herchel
+  - - web
+    - https://www.prf.upol.cz/nc/afc/kontakty/vizitka/empid/22158/
+  name: Radovan Herchel
+  position: docent
+  scholar: https://scholar.google.cz/citations?user=t_V_OnwAAAAJ&amp;hl=cs
+  year: ''

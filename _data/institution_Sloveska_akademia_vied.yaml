@@ -1,11 +1,11 @@
 - affiliation: "Slovesk\xE1 akad\xE9mia vied"
   affiliationurl: Sloveska_akademia_vied
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "patofyziol\xF3gia"
-  hindex: '32'
-  img: UKROPEC.jpg
+  hindex: 32
+  img: Jozef_Ukropec.jpg
   last_update: '2020-12-31'
   links:
   - - loop
@@ -23,7 +23,7 @@
   name: Jozef Ukropec
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=geK1ms0AAAAJ&amp;hl=en
-  year: '1974'
+  year: 1974
 - affiliation: "Slovesk\xE1 akad\xE9mia vied"
   affiliationurl: Sloveska_akademia_vied
   cited_by:
@@ -36,12 +36,12 @@
   - i10_index:
       all: 60
       since_2016: 33
-  city: ' Bratislava'
+  city: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "molekul\xE1rna biol\xF3gia"
   hindex: 31
-  img: 117686-biolog-imrich-barak-clanokW.jpg
+  img: Imrich_Barak.jpg
   last_update: '2021-09-16'
   links:
   - - loop
@@ -57,4 +57,4 @@
   name: "Imrich Bar\xE1k"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
-  year: '1961'
+  year: 1961

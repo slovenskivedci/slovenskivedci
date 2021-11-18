@@ -94,12 +94,12 @@
   - i10_index:
       all: 82
       since_2016: 34
-  city: ' Praha'
+  city: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "bioch\xE9mia"
   hindex: 34
-  img: Juraj-Harmatha.jpg
+  img: Juraj_Harmatha.jpg
   last_update: '2021-09-16'
   links:
   - - orcid

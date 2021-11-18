@@ -2,21 +2,21 @@
   affiliationurl: King_Abdullah_University_of_Science_and_Technology_(KAUST)
   cited_by:
   - citations:
-      all: 9986
-      since_2016: 8792
+      all: 10800
+      since_2016: 9603
   - h_index:
-      all: 46
-      since_2016: 42
+      all: 48
+      since_2016: 45
   - i10_index:
-      all: 108
-      since_2016: 103
+      all: 117
+      since_2016: 112
   city: Thuwal
   country: "Saudsk\xE1 Ar\xE1bia"
   countryurl: Saudska_Arabia
   field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
-  hindex: 47
+  hindex: 48
   img: Peter_Richtarik.jpg
-  last_update: '2021-09-16'
+  last_update: '2021-11-18'
   links:
   - - dblp
     - https://dblp.org/pid/62/8001.html

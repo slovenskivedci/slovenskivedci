@@ -76,14 +76,14 @@
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ynt9VvUAAAAJ
   year: ''
-- affiliation: "Viedensk\xE1 technick\xE1 univerzita"
-  affiliationurl: Viedenska_technicka_univerzita
-  city: " Viede\u0148"
+- affiliation: Vienna University of Technology
+  affiliationurl: Vienna_University_of_Technology
+  city: "Viede\u0148"
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "hydrol\xF3gia"
-  hindex: '44'
-  img: csm_Duro_2017_web_f3772b85bf.jpg
+  hindex: 44
+  img: Juraj_Parajka.jpg
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -120,8 +120,8 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=OYXbmu0AAAAJ
   year: '1951'
-- affiliation: Universitv of Natural Resources and Life Sciences
-  affiliationurl: Universitv_of_Natural_Resources_and_Life_Sciences
+- affiliation: University of Natural Resources and Life Sciences
+  affiliationurl: University_of_Natural_Resources_and_Life_Sciences
   city: "Viede\u0148"
   country: "Rak\xFAsko"
   countryurl: Rakusko

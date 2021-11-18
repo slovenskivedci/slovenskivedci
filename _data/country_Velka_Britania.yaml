@@ -36,8 +36,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=BSx7_CEAAAAJ&amp;hl=en
   year: ''
-- affiliation: Univerzita Strathclyde
-  affiliationurl: Univerzita_Strathclyde
+- affiliation: University of Strathclyde
+  affiliationurl: University_of_Strathclyde
   cited_by:
   - citations:
       all: 5647
@@ -96,8 +96,8 @@
   position: profesor
   scholar: https://scholar.google.sk/citations?user=jntY1osAAAAJ&amp
   year: ''
-- affiliation: Univerzita Strathclyde
-  affiliationurl: Univerzita_Strathclyde
+- affiliation: University of Strathclyde
+  affiliationurl: University_of_Strathclyde
   cited_by:
   - citations:
       all: 3799

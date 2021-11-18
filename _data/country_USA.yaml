@@ -1,5 +1,5 @@
-- affiliation: "New Yorksk\xE1 univerzita"
-  affiliationurl: New_Yorkska_univerzita
+- affiliation: New York University
+  affiliationurl: New_York_University
   city: New York
   country: USA
   countryurl: USA
@@ -16,8 +16,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=zG9xTAcAAAAJ&amp;hl=en
   year: 1933
-- affiliation: Univerzita v Illinois
-  affiliationurl: Univerzita_v_Illinois
+- affiliation: University of Illinois
+  affiliationurl: University_of_Illinois
   cited_by:
   - citations:
       all: 32106
@@ -33,7 +33,7 @@
   countryurl: USA
   field: informatika
   hindex: 87
-  img: 163208.jpg
+  img: Klara_Nahrstedt.jpg
   last_update: '2021-09-16'
   links:
   - - dblp
@@ -76,8 +76,8 @@
   position: profesorka
   scholar: https://scholar.google.com/citations?user=s9Ikf1EAAAAJ&amp
   year: 1933
-- affiliation: Univerzity of Missouri
-  affiliationurl: Univerzity_of_Missouri
+- affiliation: University of Missouri
+  affiliationurl: University_of_Missouri
   city: Columbia
   country: USA
   countryurl: USA
@@ -126,8 +126,8 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
   year: 1968
-- affiliation: Univerzita Georga Masona
-  affiliationurl: Univerzita_Georga_Masona
+- affiliation: Georga Mason University
+  affiliationurl: Georga_Mason_University
   cited_by:
   - citations:
       all: 10337
@@ -238,14 +238,14 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=f59x6y4AAAAJ
   year: ''
-- affiliation: Univerzita v Minnesote
-  affiliationurl: Univerzita_v_Minnesote
+- affiliation: University of Minnesota
+  affiliationurl: University_of_Minnesota
   city: Twin Cities
   country: USA
   countryurl: USA
   field: "r\xE1diol\xF3gia"
-  hindex: '44'
-  img: 1516866753875.jpeg
+  hindex: 44
+  img: Ivan_Tkac.jpeg
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -258,25 +258,7 @@
   name: "Ivan Tk\xE1\u010D"
   position: "odborn\xFD asistent"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=DNCCZHYAAAAJ
-  year: '1954'
-- affiliation: "Oregonsk\xE1 \u0161t\xE1tna univerzita"
-  affiliationurl: Oregonska_statna_univerzita
-  city: ' Corvallis'
-  country: USA
-  countryurl: USA
-  field: "seizmol\xF3gia"
-  hindex: '41'
-  img: 4418748_1200x.jpeg
-  last_update: '2020-12-31'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/John_Nabelek
-  - - web
-    - https://ceoas.oregonstate.edu/people/john-nabelek
-  name: "John Nabelek - J\xE1n Ludv\xEDk N\xE1b\u011Blek"
-  position: profesor
-  scholar: https://scholar.google.com/citations?user=G0MJo3UAAAAJ&amp;hl=en
-  year: '1952'
+  year: 1954
 - affiliation: University of North Carolina
   affiliationurl: University_of_North_Carolina
   cited_by:
@@ -307,6 +289,24 @@
   position: profesorka
   scholar: https://scholar.google.com/citations?user=TIVMwT4AAAAJ
   year: ''
+- affiliation: Oregon State University
+  affiliationurl: Oregon_State_University
+  city: Corvallis
+  country: USA
+  countryurl: USA
+  field: "seizmol\xF3gia"
+  hindex: 41
+  img: John_Nabelek.jpeg
+  last_update: '2020-12-31'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/John_Nabelek
+  - - web
+    - https://ceoas.oregonstate.edu/people/john-nabelek
+  name: "John Nabelek - J\xE1n Ludv\xEDk N\xE1b\u011Blek"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=G0MJo3UAAAAJ&amp;hl=en
+  year: 1952
 - affiliation: University of Arizona
   affiliationurl: University_of_Arizona
   cited_by:
@@ -561,8 +561,8 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
   year: ''
-- affiliation: "Havajsk\xE1 univerzita"
-  affiliationurl: Havajska_univerzita
+- affiliation: University of Hawaii
+  affiliationurl: University_of_Hawaii
   cited_by:
   - citations:
       all: 3792
@@ -573,12 +573,12 @@
   - i10_index:
       all: 54
       since_2016: 49
-  city: ' Manoa'
+  city: Manoa
   country: USA
   countryurl: USA
   field: "oce\xE1nografia"
   hindex: 31
-  img: FK190726-HenriettaDulai-20190812-Naranjo-6908.jpg
+  img: Henrietta_Dulai.jpg
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -591,8 +591,8 @@
   position: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
   year: ''
-- affiliation: University of v Chicago
-  affiliationurl: University_of_v_Chicago
+- affiliation: University of Chicago
+  affiliationurl: University_of_Chicago
   cited_by:
   - citations:
       all: 18191

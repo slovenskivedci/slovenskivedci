@@ -1,9 +1,9 @@
-affiliation: "Slovesk\xE1 akad\xE9mia vied"
-city: ' Bratislava'
-country: Slovensko
-field: "patofyziol\xF3gia"
-hindex: '32'
-img: UKROPEC.jpg
+affiliation: "Sloveská akadémia vied"
+city: "Bratislava"
+country: "Slovensko"
+field: "patofyziológia"
+hindex: 32
+img: Jozef_Ukropec.jpg
 last_update: '2020-12-31'
 links:
   ResearchGate: https://www.researchgate.net/profile/Jozef_Ukropec
@@ -11,8 +11,8 @@ links:
   orcid: https://orcid.org/0000-0001-8401-6621
   publons: https://publons.com/researcher/3489206/jozef-ukropec/
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273
-  "\u017Eivotopis": https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273&action=cv
-name: Jozef Ukropec
-position: "vedeck\xFD pracovn\xEDk"
+  životopis: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273&action=cv
+name: "Jozef Ukropec"
+position: "vedecký pracovník"
 scholar: https://scholar.google.com/citations?user=geK1ms0AAAAJ&amp;hl=en
-year: '1974'
+year: 1974
