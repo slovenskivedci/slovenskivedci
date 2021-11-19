@@ -1,0 +1,28 @@
+- affiliation: Trinity College Dublin
+  affiliationurl: Trinity_College_Dublin
+  cited_by:
+  - citations:
+      all: 4019
+      since_2016: 3092
+  - h_index:
+      all: 32
+      since_2016: 29
+  - i10_index:
+      all: 58
+      since_2016: 54
+  city: Dublin
+  country: "\xCDrsko"
+  countryurl: Irsko
+  field: "psychol\xF3gia"
+  hindex: 32
+  img: Ladislav_Timulak.jpg
+  last_update: '2021-11-20'
+  links:
+  - - web 1
+    - https://people.tcd.ie/Profile?Username=timulakl
+  - - web 2
+    - https://www.tcd.ie/research/profiles/?profile=timulakl
+  name: "Ladislav Timu\u013E\xE1k"
+  position: docent
+  scholar: https://scholar.google.com/citations?user=NoS4378AAAAJ&hl=en&oi=sra
+  year: null

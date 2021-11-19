@@ -1,0 +1,33 @@
+name: "Lenka Beňová"
+year:
+
+position: "vedecká pracovníčka"
+field: "reprodukčné a mentálne zdravie"
+affiliation: "Institute of Tropical Medicine Antwerp"
+city: "Antwerpy"
+country: "Holandsko"
+
+hindex: 30
+scholar: https://scholar.google.com/citations?user=BZTPCTIAAAAJ&hl=en
+
+cited_by:
+- citations:
+    all: 2735
+    since_2016: 2552
+- h_index:
+    all: 30
+    since_2016: 29
+- i10_index:
+    all: 56
+    since_2016: 56
+
+last_update: '2021-11-19'
+
+links:
+  web 1: https://research.itg.be/en/persons/lenka-benova
+  web 2: https://www.lshtm.ac.uk/aboutus/people/benova.lenka
+  orcid: https://orcid.org/0000-0001-8595-365X
+  ResearchGate: https://www.researchgate.net/profile/Lenka-Benova/3
+  twitter: https://twitter.com/lenkabenova
+
+img: Lenka_Benova.jpg

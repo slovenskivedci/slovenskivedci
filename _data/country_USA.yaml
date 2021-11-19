@@ -98,34 +98,6 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp
   year: 1967
-- affiliation: University of Washington
-  affiliationurl: University_of_Washington
-  cited_by:
-  - citations:
-      all: 14531
-      since_2016: 6160
-  - h_index:
-      all: 48
-      since_2016: 33
-  - i10_index:
-      all: 90
-      since_2016: 74
-  city: Seattle
-  country: USA
-  countryurl: USA
-  field: programovacie jazyky
-  hindex: 48
-  img: Rastislav_Bodik.jpg
-  last_update: '2021-09-16'
-  links:
-  - - web
-    - https://homes.cs.washington.edu/~bodik/
-  - - "\u017Eivotopis"
-    - https://homes.cs.washington.edu/~bodik/cv.pdf
-  name: "Rastislav Bod\xEDk"
-  position: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
-  year: 1968
 - affiliation: Georga Mason University
   affiliationurl: Georga_Mason_University
   cited_by:
@@ -192,6 +164,50 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
   year: ''
+- affiliation: University of Washington
+  affiliationurl: University_of_Washington
+  cited_by:
+  - citations:
+      all: 13892
+      since_2016: 5662
+  - h_index:
+      all: 45
+      since_2016: 31
+  - i10_index:
+      all: 80
+      since_2016: 64
+  city: Seattle
+  country: USA
+  countryurl: USA
+  field: programovacie jazyky
+  hindex: 45
+  img: Rastislav_Bodik.jpg
+  last_update: '2021-09-16'
+  links:
+  - - academic.microsoft.com
+    - https://academic.microsoft.com/author/1115548098/publication/search?q=Rastislav%20Bodik&qe=Composite(AA.AuId%253D1115548098)&f=&orderBy=0&paperId=2295399529
+  - - ACM
+    - https://dl.acm.org/profile/81100033082
+  - - dblp
+    - https://dblp.org/pid/20/1858.html
+  - - IEEE Xplore
+    - https://ieeexplore.ieee.org/author/37332775000
+  - - LinkedIn
+    - https://www.linkedin.com/in/rastislav-bodik-64181a3/
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=82262
+  - - research.com
+    - https://research.com/u/rastislav-bodik
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Rastislav-Bodik
+  - - web
+    - https://homes.cs.washington.edu/~bodik/
+  - - "\u017Eivotopis"
+    - https://homes.cs.washington.edu/~bodik/cv.pdf
+  name: "Rastislav Bod\xEDk"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
+  year: 1968
 - affiliation: University of Louisville
   affiliationurl: University_of_Louisville
   city: Louisville

@@ -704,6 +704,48 @@
   affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
+      all: 10549
+      since_2016: 2343
+  - h_index:
+      all: 40
+      since_2016: 18
+  - i10_index:
+      all: 83
+      since_2016: 24
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "teoretick\xE1 ch\xE9mia"
+  hindex: 40
+  img: Jozef_Noga.jpg
+  last_update: '2021-11-18'
+  links:
+  - - dblp
+    - https://dblp.org/pid/16/796.html
+  - - learned.sk
+    - https://www.learned.sk/prof-rndr-jozef-noga-drsc/
+  - - orcid
+    - https://orcid.org/0000-0003-3960-498X
+  - - publons
+    - https://publons.com/researcher/2382782/jozef-noga/
+  - - science.sk
+    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2136-jozef-noga
+  - - sme.sk
+    - https://tech.sme.sk/c/6161645/jozef-noga-potrebujeme-zvazit-lod-s-kapitanom-a-bez-kapitana.html
+  - - web 1
+    - https://fns.uniba.sk/pracoviska/chemicka-sekcia/kag/zamestnanci-a-doktorandi/prof-jozef-noga/
+  - - web 2
+    - https://uniba.sk/ludia/noga2
+  - - "\u017Eivotopis"
+    - https://fns.uniba.sk/fileadmin/prif/chem/kag/Zam-Noga/jozef_noga_2014.pdf
+  name: Jozef Noga
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=lZvsE4EAAAAJ
+  year: 1955
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
       all: 5046
       since_2016: 2148
   - h_index:
@@ -954,6 +996,46 @@
   position: profesor
   scholar: https://scholar.google.sk/citations?user=OF5iXJQAAAAJ&amp;hl=sk
   year: 1956
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
+      all: 5157
+      since_2016: 1324
+  - h_index:
+      all: 36
+      since_2016: 16
+  - i10_index:
+      all: 94
+      since_2016: 36
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "bioch\xE9mia"
+  hindex: 36
+  img: Vladimir_Farkas.jpg
+  last_update: '2021-11-20'
+  links:
+  - - learned.sk
+    - https://www.learned.sk/doc-ing-vladimir-farkas-drsc/
+  - - LinkedIn
+    - https://www.linkedin.com/in/vladimir-farkas-a3225724/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0002-8219-4288
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Vladimir-Farkas-2
+  - - Veda na dosah
+    - https://vedanadosah.cvtisr.sk/priroda/cenu-celozivotne-zasluhy-v-oblasti-vedy-a-techniky-2018-ziskal-doc-ing-vladimir-farkas-drsc/
+  - - web 1
+    - http://www.chem.sk/people/farkasvladimir/
+  - - web 2
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=615
+  - - "\u017Eivotopis"
+    - "https://www.learned.sk/wp-content/uploads/2020/03/\u017Eivotopis-UcSS.pdf"
+  name: "Vladim\xEDr Farka\u0161"
+  position: profesor
+  scholar: https://scholar.google.ro/citations?user=lakc8cQAAAAJ&hl=en
+  year: 1941
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -1234,6 +1316,46 @@
   affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
+      all: 3597
+      since_2016: 3166
+  - h_index:
+      all: 33
+      since_2016: 31
+  - i10_index:
+      all: 106
+      since_2016: 90
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "onkol\xF3gia"
+  hindex: 33
+  img: Peter_Kubatka.jpg
+  last_update: '2021-11-20'
+  links:
+  - - academic.microsoft.com
+    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
+  - - facebook
+    - https://m.facebook.com/peter.kubatka
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
+  - - loop
+    - https://loop.frontiersin.org/people/1386452/overview
+  - - orcid
+    - https://orcid.org/0000-0003-4312-5076
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Kubatka
+  - - web
+    - https://www.jfmed.uniba.sk/en/departments/scientific-and-teaching-workplaces/departments-of-basic-sciences/department-of-medical-biology/staff/
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/veda/docprof/PriF_UK/KUBATKA/CV_Kubatka.pdf
+  name: Peter Kubatka
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=sk&user=Bg2qAyoAAAAJ
+  year: 1973
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
       all: 3000
       since_2016: 716
   - h_index:
@@ -1264,6 +1386,90 @@
   position: profesor
   scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ&amp;hl=en
   year: 1959
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 4573
+      since_2016: 2126
+  - h_index:
+      all: 33
+      since_2016: 24
+  - i10_index:
+      all: 56
+      since_2016: 402
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "bioch\xE9mia"
+  hindex: 33
+  img: Zdenka_Durackova.jpg
+  last_update: '2021-11-20'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/zdenka-durackova-074416117/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0001-6956-7038
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Zdenka-Durackova
+  - - rtvs
+    - https://www.rtvs.sk/radio/archiv/11436/1657210
+  - - Slovenka roka
+    - https://zenskyweb.sk/clanok/49861-slovenka-roka-2021-emocie-sila-uspesnych-zien
+  - - web
+    - https://portal.fmed.uniba.sk/autori.php?tid=18
+  name: "Zdenka \u010Eura\u010Dkov\xE1"
+  position: profesorka
+  scholar: https://scholar.google.com/citations?hl=en&user=Dwytj-UAAAAJ
+  year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
+      all: 3130
+      since_2016: 1818
+  - h_index:
+      all: 30
+      since_2016: 23
+  - i10_index:
+      all: 59
+      since_2016: 49
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "paleobiol\xF3gia"
+  hindex: 33
+  img: Adam_Tomasovych.jpg
+  last_update: '2021-11-20'
+  links:
+  - - academic.microsoft.com
+    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
+  - - facebook
+    - https://m.facebook.com/peter.kubatka
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
+  - - loop
+    - https://loop.frontiersin.org/people/1386452/overview
+  - - "Na\u0161i a svetov\xED"
+    - https://slovensko.rtvs.sk/rubriky/nasi-a-svetovi/182332/nasi-a-svetovi-adam-tomasovych
+  - - orcid
+    - https://orcid.org/0000-0002-0471-9480
+  - - ResearchGate
+    - http://www.researchgate.net/profile/Adam_Tomasovych
+  - - twitter
+    - https://twitter.com/atomasovych
+  - - web
+    - http://www.geol.sav.sk/tomasovych/
+  - - web 1
+    - http://www.geol.sav.sk/tomasovych/
+  - - web 2
+    - http://www.geo.sav.sk/en/staff/adam-tomasovych-en/
+  - - "\u017Eivotopis"
+    - http://www.geol.sav.sk/tomasovych/curriculum%20vitae.pdf
+  name: "Adam Toma\u0161ov\xFDch"
+  position: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=7Zkz-9MAAAAJ
+  year: 1978
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -1434,6 +1640,40 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=AULzHfIAAAAJ&amp;hl=en
   year: 1955
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 2847
+      since_2016: 2284
+  - h_index:
+      all: 32
+      since_2016: 30
+  - i10_index:
+      all: 74
+      since_2016: 62
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "analytick\xE1 ch\xE9mia"
+  hindex: 32
+  img: Lubomir_Svorc.jpg
+  last_update: '2021-11-20'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-9588-8609
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Lubomir-Svorc-2052109038/publications/2
+  - - Veda na dosah
+    - https://vedanadosah.cvtisr.sk/priroda/chemia/lubomir-svorc-patri-medzi-svetovu-spicku-mladych-chemikov/
+  - - Vedec roka
+    - https://sk.wikipedia.org/wiki/Vedec_roka_SR
+  - - web
+    - https://is.stuba.sk/lide/clovek.pl?id=19350;lang=sk
+  name: "\u013Dubom\xEDr \u0160vorc"
+  position: docent
+  scholar: https://scholar.google.com/citations?hl=en&user=AudOPSIAAAAJ
+  year: 1983
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -1698,6 +1938,10 @@
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/milan-certik-65a0834b/?originalSubdomain=sk
+  - - loop
+    - https://loop.frontiersin.org/people/691353/bio
+  - - orcid
+    - https://orcid.org/0000-0003-2171-8153
   - - prabook
     - https://prabook.com/web/milan.certik/335639
   - - ResearchGate
@@ -2055,3 +2299,53 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=RllC3asAAAAJ
   year: ''
+- affiliation: Kempelen Institute of Intelligent Technologies (KInIT)
+  affiliationurl: Kempelen_Institute_of_Intelligent_Technologies_(KInIT)
+  cited_by:
+  - citations:
+      all: 4008
+      since_2016: 1719
+  - h_index:
+      all: 29
+      since_2016: 18
+  - i10_index:
+      all: 116
+      since_2016: 38
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "web syst\xE9my a umel\xE1 inteligencia"
+  hindex: 29
+  img: Maria_Bielikova.jpg
+  last_update: '2021-11-18'
+  links:
+  - - ACM
+    - https://dl.acm.org/profile/81336487737
+  - - dblp
+    - https://dblp.uni-trier.de/pid/b/MariaBielikova.html
+  - - hubhub
+    - https://www.hubhub.com/en/meet-our-members-kinit-maria-bielikova-2/
+  - - IEEE Xplore
+    - https://ieeexplore.ieee.org/author/37372111500
+  - - KInIT
+    - https://kinit.sk/member/maria-bielikova/
+  - - LinkedIn
+    - https://www.linkedin.com/in/mariabielik/
+  - - orcid
+    - https://orcid.org/0000-0003-4105-3494
+  - - publons
+    - https://publons.com/researcher/2648318/maria-bielikova/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Maria-Bielikova
+  - - scopus
+    - https://www.scopus.com/authid/detail.uri?authorId=6603891237
+  - - "wikip\xE9dia"
+    - "https://sk.wikipedia.org/wiki/M\xE1ria_Bielikov\xE1_(informati\u010Dka)"
+  - - "\u017Eivotopis 1"
+    - https://uniba.sk/fileadmin/ruk/veda/docprof/FiF_UK/2013/Bielikova/CV_Bielikova.pdf
+  - - "\u017Eivotopis 2"
+    - https://ec.europa.eu/jrc/sites/default/files/jrc-bog-cv-bielikova.pdf
+  name: "M\xE1ria Bielikov\xE1"
+  position: profesorka
+  scholar: https://scholar.google.com/citations?hl=en&user=wGB6dnEAAAAJ
+  year: 1966

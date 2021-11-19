@@ -1,0 +1,34 @@
+name: "Ľubomír Švorc"
+year: 1983
+
+position: docent
+field: "analytická chémia"
+affiliation: "Slovenská technická univerzita"
+city: "Bratislava"
+country: "Slovensko"
+
+hindex: 32
+scholar: https://scholar.google.com/citations?hl=en&user=AudOPSIAAAAJ
+
+cited_by:
+- citations:
+    all: 2847
+    since_2016: 2284
+- h_index:
+    all: 32
+    since_2016: 30
+- i10_index:
+    all: 74
+    since_2016: 62
+
+last_update: '2021-11-20'
+
+links:
+  Veda na dosah: https://vedanadosah.cvtisr.sk/priroda/chemia/lubomir-svorc-patri-medzi-svetovu-spicku-mladych-chemikov/
+  ResearchGate: https://www.researchgate.net/scientific-contributions/Lubomir-Svorc-2052109038/publications/2
+  Vedec roka: https://sk.wikipedia.org/wiki/Vedec_roka_SR
+  web: https://is.stuba.sk/lide/clovek.pl?id=19350;lang=sk
+  orcid: https://orcid.org/0000-0002-9588-8609
+
+
+img: Lubomir_Svorc.jpg

@@ -54,6 +54,40 @@
   year: ''
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 2847
+      since_2016: 2284
+  - h_index:
+      all: 32
+      since_2016: 30
+  - i10_index:
+      all: 74
+      since_2016: 62
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "analytick\xE1 ch\xE9mia"
+  hindex: 32
+  img: Lubomir_Svorc.jpg
+  last_update: '2021-11-20'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-9588-8609
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Lubomir-Svorc-2052109038/publications/2
+  - - Veda na dosah
+    - https://vedanadosah.cvtisr.sk/priroda/chemia/lubomir-svorc-patri-medzi-svetovu-spicku-mladych-chemikov/
+  - - Vedec roka
+    - https://sk.wikipedia.org/wiki/Vedec_roka_SR
+  - - web
+    - https://is.stuba.sk/lide/clovek.pl?id=19350;lang=sk
+  name: "\u013Dubom\xEDr \u0160vorc"
+  position: docent
+  scholar: https://scholar.google.com/citations?hl=en&user=AudOPSIAAAAJ
+  year: 1983
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
   city: Bratislava
   country: Slovensko
   countryurl: Slovensko
@@ -90,6 +124,10 @@
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/milan-certik-65a0834b/?originalSubdomain=sk
+  - - loop
+    - https://loop.frontiersin.org/people/691353/bio
+  - - orcid
+    - https://orcid.org/0000-0003-2171-8153
   - - prabook
     - https://prabook.com/web/milan.certik/335639
   - - ResearchGate

@@ -1,0 +1,37 @@
+name: "Vladimír Farkaš"
+year: 1941
+
+position: profesor
+field: "biochémia"
+affiliation: "Slovenská akadémia vied"
+city: "Bratislava"
+country: "Slovensko"
+
+hindex: 36
+scholar: https://scholar.google.ro/citations?user=lakc8cQAAAAJ&hl=en
+
+cited_by:
+- citations:
+    all: 5157
+    since_2016: 1324
+- h_index:
+    all: 36
+    since_2016: 16
+- i10_index:
+    all: 94
+    since_2016: 36
+
+last_update: '2021-11-20'
+
+links:
+  web 1: http://www.chem.sk/people/farkasvladimir/
+  životopis: https://www.learned.sk/wp-content/uploads/2020/03/životopis-UcSS.pdf
+  Veda na dosah: https://vedanadosah.cvtisr.sk/priroda/cenu-celozivotne-zasluhy-v-oblasti-vedy-a-techniky-2018-ziskal-doc-ing-vladimir-farkas-drsc/
+  LinkedIn: https://www.linkedin.com/in/vladimir-farkas-a3225724/?originalSubdomain=sk
+  ResearchGate: https://www.researchgate.net/profile/Vladimir-Farkas-2
+  learned.sk: https://www.learned.sk/doc-ing-vladimir-farkas-drsc/
+  web 2: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=615
+  orcid: https://orcid.org/0000-0002-8219-4288
+
+
+img: Vladimir_Farkas.jpg

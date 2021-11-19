@@ -74,3 +74,37 @@
   position: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=rX7GiUAAAAAJ
   year: 1982
+- affiliation: Institute of Tropical Medicine Antwerp
+  affiliationurl: Institute_of_Tropical_Medicine_Antwerp
+  cited_by:
+  - citations:
+      all: 2735
+      since_2016: 2552
+  - h_index:
+      all: 30
+      since_2016: 29
+  - i10_index:
+      all: 56
+      since_2016: 56
+  city: Antwerpy
+  country: Holandsko
+  countryurl: Holandsko
+  field: "reproduk\u010Dn\xE9 a ment\xE1lne zdravie"
+  hindex: 30
+  img: Lenka_Benova.jpg
+  last_update: '2021-11-19'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0001-8595-365X
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Lenka-Benova/3
+  - - twitter
+    - https://twitter.com/lenkabenova
+  - - web 1
+    - https://research.itg.be/en/persons/lenka-benova
+  - - web 2
+    - https://www.lshtm.ac.uk/aboutus/people/benova.lenka
+  name: "Lenka Be\u0148ov\xE1"
+  position: "vedeck\xE1 pracovn\xED\u010Dka"
+  scholar: https://scholar.google.com/citations?user=BZTPCTIAAAAJ&hl=en
+  year: null

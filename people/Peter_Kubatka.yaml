@@ -1,0 +1,37 @@
+name: "Peter Kubatka"
+year: 1973
+
+position: profesor
+field: "onkológia"
+affiliation: "Univerzita Komenského"
+city: "Bratislava"
+country: "Slovensko"
+
+hindex: 33
+scholar: https://scholar.google.com/citations?hl=sk&user=Bg2qAyoAAAAJ
+
+cited_by:
+- citations:
+    all: 3597
+    since_2016: 3166
+- h_index:
+    all: 33
+    since_2016: 31
+- i10_index:
+    all: 106
+    since_2016: 90
+
+last_update: '2021-11-20'
+
+links:
+  ResearchGate: https://www.researchgate.net/profile/Peter-Kubatka
+  orcid: https://orcid.org/0000-0003-4312-5076
+  LinkedIn: https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
+  loop: https://loop.frontiersin.org/people/1386452/overview
+  facebook: https://m.facebook.com/peter.kubatka
+  academic.microsoft.com: https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
+  životopis: https://uniba.sk/fileadmin/ruk/veda/docprof/PriF_UK/KUBATKA/CV_Kubatka.pdf
+  web: https://www.jfmed.uniba.sk/en/departments/scientific-and-teaching-workplaces/departments-of-basic-sciences/department-of-medical-biology/staff/
+
+
+img: Peter_Kubatka.jpg

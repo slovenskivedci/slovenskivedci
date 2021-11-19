@@ -1,4 +1,15 @@
+name: "Milan Čertík"
+year: 1962
+
+position: docent
+field: "biotechnológia"
 affiliation: "Slovenská technická univerzita"
+city: "Bratislava"
+country: "Slovensko"
+
+hindex: 31
+scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp
+
 cited_by:
 - citations:
     all: 3116
@@ -9,17 +20,15 @@ cited_by:
 - i10_index:
     all: 75
     since_2016: 43
-city: "Bratislava"
-country: "Slovensko"
-field: "biotechnológia"
-hindex: 31
-img: Milan_Certik.jpg
+
 last_update: '2021-09-16'
+
 links:
   LinkedIn: https://www.linkedin.com/in/milan-certik-65a0834b/?originalSubdomain=sk
   ResearchGate: https://www.researchgate.net/profile/Milan-Certik
   prabook: https://prabook.com/web/milan.certik/335639
-name: "Milan Čertík"
-position: docent
-scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp
-year: 1962
+  orcid: https://orcid.org/0000-0003-2171-8153
+  loop: https://loop.frontiersin.org/people/691353/bio
+
+
+img: Milan_Certik.jpg

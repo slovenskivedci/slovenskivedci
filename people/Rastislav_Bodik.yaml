@@ -1,23 +1,32 @@
 affiliation: "University of Washington"
 cited_by:
 - citations:
-    all: 14531
-    since_2016: 6160
+    all: 13892
+    since_2016: 5662
 - h_index:
-    all: 48
-    since_2016: 33
+    all: 45
+    since_2016: 31
 - i10_index:
-    all: 90
-    since_2016: 74
+    all: 80
+    since_2016: 64
 city: "Seattle"
 country: "USA"
 field: "programovacie jazyky"
-hindex: 48
+hindex: 45
 img: Rastislav_Bodik.jpg
 last_update: '2021-09-16'
 links:
   web: https://homes.cs.washington.edu/~bodik/
   životopis: https://homes.cs.washington.edu/~bodik/cv.pdf
+  LinkedIn: https://www.linkedin.com/in/rastislav-bodik-64181a3/
+  dblp: https://dblp.org/pid/20/1858.html
+  ResearchGate: https://www.researchgate.net/profile/Rastislav-Bodik
+  academic.microsoft.com: https://academic.microsoft.com/author/1115548098/publication/search?q=Rastislav%20Bodik&qe=Composite(AA.AuId%253D1115548098)&f=&orderBy=0&paperId=2295399529
+  Mathematics Genealogy: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=82262
+  ACM: https://dl.acm.org/profile/81100033082
+  IEEE Xplore: https://ieeexplore.ieee.org/author/37332775000
+  research.com: https://research.com/u/rastislav-bodik
+
 name: "Rastislav Bodík"
 position: profesor
 scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
