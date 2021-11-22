@@ -21,6 +21,46 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=4ymEP0sAAAAJ
   year: 1946
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
+      all: 18004
+      since_2016: 5517
+  - h_index:
+      all: 67
+      since_2016: 41
+  - i10_index:
+      all: 159
+      since_2016: 102
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "virol\xF3gia"
+  hindex: 67
+  img: Jaromir_Pastorek.jpg
+  last_update: '2021-11-23'
+  links:
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/2074528035/publication?paperId=2048177691
+  - - orcid
+    - https://orcid.org/0000-0003-2163-0864
+  - - publons
+    - https://publons.com/researcher/3715799/jaromir-pastorek/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jaromir-Pastorek
+  - - vedec roka
+    - https://sk.wikipedia.org/wiki/Vedec_roka_SR
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10256
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Jarom%C3%ADr_Pastorek
+  - - "\u017Eivotopis"
+    - https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/prof.Pastorek-curriculum%20vitae.pdf
+  name: "Jarom\xEDr Pastorek"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=r7j9ZoYAAAAJ&hl=en&oi=sra
+  year: 1957
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   city: Bratislava
@@ -1332,14 +1372,14 @@
   img: Peter_Kubatka.jpg
   last_update: '2021-11-20'
   links:
-  - - academic.microsoft.com
-    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
   - - facebook
     - https://m.facebook.com/peter.kubatka
   - - LinkedIn
     - https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
   - - loop
     - https://loop.frontiersin.org/people/1386452/overview
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
   - - orcid
     - https://orcid.org/0000-0003-4312-5076
   - - ResearchGate
@@ -1442,14 +1482,14 @@
   img: Adam_Tomasovych.jpg
   last_update: '2021-11-20'
   links:
-  - - academic.microsoft.com
-    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
   - - facebook
     - https://m.facebook.com/peter.kubatka
   - - LinkedIn
     - https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
   - - loop
     - https://loop.frontiersin.org/people/1386452/overview
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
   - - "Na\u0161i a svetov\xED"
     - https://slovensko.rtvs.sk/rubriky/nasi-a-svetovi/182332/nasi-a-svetovi-adam-tomasovych
   - - orcid
@@ -2233,6 +2273,76 @@
   position: profesor
   scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
   year: ''
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 10800
+      since_2016: 9603
+  - h_index:
+      all: 48
+      since_2016: 45
+  - i10_index:
+      all: 117
+      since_2016: 112
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "chemick\xE9 in\u017Einierstvo"
+  hindex: 30
+  img: Milan_Polakovic.jpg
+  last_update: '2021-11-21'
+  links:
+  - - LinkedIn
+    - "https://www.linkedin.com/in/milan-polakovi\u010D-278578b2/?originalSubdomain=sk"
+  - - orcid
+    - https://orcid.org/0000-0003-0238-8996
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Milan-Polakovic
+  - - web
+    - https://is.stuba.sk/lide/clovek.pl?id=3882;lang=sk
+  name: "Milan Polakovi\u010D"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=W8akvAsAAAAJ
+  year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 3869
+      since_2016: 2901
+  - h_index:
+      all: 30
+      since_2016: 26
+  - i10_index:
+      all: 47
+      since_2016: 40
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: fyzika
+  hindex: 30
+  img: Zdenko_Machala.jpg
+  last_update: '2021-11-21'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/zdenko-machala
+  - - LinkedIn
+    - https://www.linkedin.com/in/zdenko-machala-11405110/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0003-1424-1350
+  - - publons
+    - https://publons.com/researcher/1223900/zdenko-machala/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Zdenko-Machala
+  - - scopus
+    - https://www.scopus.com/authid/detail.uri?authorId=22941510900
+  - - web
+    - http://enviro.fmph.uniba.sk/index.php?link=machala
+  name: Zdenko Machala
+  position: docent
+  scholar: https://scholar.google.sk/citations?hl=en&user=3xq6b60AAAAJ
+  year: ''
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   affiliationurl: Technicka_univerzita_v_Kosiciach
   cited_by:
@@ -2266,6 +2376,42 @@
   name: "Martin Ba\u010Da"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
+  year: ''
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 2722
+      since_2016: 923
+  - h_index:
+      all: 30
+      since_2016: 16
+  - i10_index:
+      all: 57
+      since_2016: 27
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "membr\xE1ny"
+  hindex: 30
+  img: Stefan_Schlosser.jpg
+  last_update: '2021-11-21'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/stefan-schlosser-7220424a/
+  - - loop
+    - https://loop.frontiersin.org/people/646398/overview
+  - - publons
+    - https://publons.com/researcher/1513959/stefan-schlosser/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Stefan-Schlosser
+  - - web 1
+    - http://sschi.chtf.stuba.sk/MembraneLab/Contact.htm
+  - - web 2
+    - http://kchbi.chtf.stuba.sk/clenovia/detail.aspx?ID=26
+  name: "\u0160tefan Schlosser"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=J2qs3RMAAAAJ&hl=en
   year: ''
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
   affiliationurl: Technicka_univerzita_vo_Zvolene

@@ -257,6 +257,46 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=psbZKP4AAAAJ
   year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
+      all: 18004
+      since_2016: 5517
+  - h_index:
+      all: 67
+      since_2016: 41
+  - i10_index:
+      all: 159
+      since_2016: 102
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "virol\xF3gia"
+  hindex: 67
+  img: Jaromir_Pastorek.jpg
+  last_update: '2021-11-23'
+  links:
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/2074528035/publication?paperId=2048177691
+  - - orcid
+    - https://orcid.org/0000-0003-2163-0864
+  - - publons
+    - https://publons.com/researcher/3715799/jaromir-pastorek/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jaromir-Pastorek
+  - - vedec roka
+    - https://sk.wikipedia.org/wiki/Vedec_roka_SR
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10256
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Jarom%C3%ADr_Pastorek
+  - - "\u017Eivotopis"
+    - https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/prof.Pastorek-curriculum%20vitae.pdf
+  name: "Jarom\xEDr Pastorek"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=r7j9ZoYAAAAJ&hl=en&oi=sra
+  year: 1957
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   city: Bratislava
@@ -863,6 +903,8 @@
     - https://richtarik.org
   - - web 2
     - https://cemse.kaust.edu.sa/vcc/people/person/peter-richtarik
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Peter_Richtarik
   - - "\u017Eivotopis"
     - https://richtarik.org/docs/richtarik-cv-2021-03.pdf
   name: "Peter Richt\xE1rik"
@@ -1079,8 +1121,6 @@
   img: Rastislav_Bodik.jpg
   last_update: '2021-09-16'
   links:
-  - - academic.microsoft.com
-    - https://academic.microsoft.com/author/1115548098/publication/search?q=Rastislav%20Bodik&qe=Composite(AA.AuId%253D1115548098)&f=&orderBy=0&paperId=2295399529
   - - ACM
     - https://dl.acm.org/profile/81100033082
   - - dblp
@@ -1091,6 +1131,8 @@
     - https://www.linkedin.com/in/rastislav-bodik-64181a3/
   - - Mathematics Genealogy
     - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=82262
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/1115548098/publication/search?q=Rastislav%20Bodik&qe=Composite(AA.AuId%253D1115548098)&f=&orderBy=0&paperId=2295399529
   - - research.com
     - https://research.com/u/rastislav-bodik
   - - ResearchGate
@@ -1235,6 +1277,10 @@
   links:
   - - dblp
     - https://dblp.org/pid/18/963.html
+  - - LinkedIn
+    - https://www.linkedin.com/in/pelikanmartin/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin-Pelikan
   name: "Martin Pelik\xE1n"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=f59x6y4AAAAJ
@@ -3289,14 +3335,14 @@
   img: Peter_Kubatka.jpg
   last_update: '2021-11-20'
   links:
-  - - academic.microsoft.com
-    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
   - - facebook
     - https://m.facebook.com/peter.kubatka
   - - LinkedIn
     - https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
   - - loop
     - https://loop.frontiersin.org/people/1386452/overview
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
   - - orcid
     - https://orcid.org/0000-0003-4312-5076
   - - ResearchGate
@@ -3399,14 +3445,14 @@
   img: Adam_Tomasovych.jpg
   last_update: '2021-11-20'
   links:
-  - - academic.microsoft.com
-    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
   - - facebook
     - https://m.facebook.com/peter.kubatka
   - - LinkedIn
     - https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
   - - loop
     - https://loop.frontiersin.org/people/1386452/overview
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
   - - "Na\u0161i a svetov\xED"
     - https://slovensko.rtvs.sk/rubriky/nasi-a-svetovi/182332/nasi-a-svetovi-adam-tomasovych
   - - orcid
@@ -3737,6 +3783,42 @@
   position: profesor
   scholar: https://scholar.google.sk/citations?user=TjtaxQ8AAAAJ&amp;hl=en
   year: ''
+- affiliation: Curtin University
+  affiliationurl: Curtin_University
+  cited_by:
+  - citations:
+      all: 2925
+      since_2016: 2242
+  - h_index:
+      all: 32
+      since_2016: 26
+  - i10_index:
+      all: 79
+      since_2016: 73
+  city: Perth
+  country: "Austr\xE1lia"
+  countryurl: Australia
+  field: "geochronol\xF3gia"
+  hindex: 32
+  img: Martin_Danisik.jpg
+  last_update: '2021-11-21'
+  links:
+  - - dennikn.sk
+    - http://science.dennikn.sk/clanky-a-rozhovory/neziva-priroda/vesmir-a-zem/6569-slovensky-geolog-skuma-dosledky-erupcie-super-vulkanu
+  - - orcid
+    - https://orcid.org/0000-0002-0885-4938
+  - - publons
+    - https://publons.com/researcher/2645083/martin-danisik/
+  - - scopus
+    - https://www.scopus.com/authid/detail.uri?authorId=12239479000
+  - - sme.sk
+    - https://tech.sme.sk/c/20489874/geolog-napiseme-do-nasa-aby-nam-zaslali-vzorky-z-meteoritov-alebo-z-mesiaca.html
+  - - web
+    - https://staffportal.curtin.edu.au/staff/profile/view/martin-danisik-b20e9bfb/
+  name: "Martin Dani\u0161\xEDk"
+  position: docent
+  scholar: https://scholar.google.com.au/citations?user=bLoHCS8AAAAJ&hl=en
+  year: null
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -4031,6 +4113,34 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
   year: ''
+- affiliation: University of Reading
+  affiliationurl: University_of_Reading
+  cited_by:
+  - citations:
+      all: 4246
+      since_2016: 2110
+  - h_index:
+      all: 32
+      since_2016: 26
+  - i10_index:
+      all: 53
+      since_2016: 48
+  city: Reading
+  country: "Ve\u013Ek\xE1 Brit\xE1nia"
+  countryurl: Velka_Britania
+  field: "ekol\xF3gia"
+  hindex: 32
+  img: Martin_Lukac.png
+  last_update: '2021-11-21'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin-Lukac-4
+  - - web
+    - https://www.reading.ac.uk/apd/staff/m-lukac.aspx
+  name: "Martin Luk\xE1\u010D"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=K0dUsrwAAAAJ&hl=en
+  year: null
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -4266,6 +4376,36 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=WawpXZIAAAAJ&amp;hl=en
   year: ''
+- affiliation: NGM Biopharmaceuticals
+  affiliationurl: NGM_Biopharmaceuticals
+  cited_by:
+  - citations:
+      all: 3086
+      since_2016: 1163
+  - h_index:
+      all: 31
+      since_2016: 18
+  - i10_index:
+      all: 44
+      since_2016: 23
+  city: San Francisco
+  country: USA
+  countryurl: USA
+  field: "bioch\xE9mia"
+  hindex: 31
+  img: Juraj_Svitel.jpg
+  last_update: '2021-11-21'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/George-Svitel
+  - - Semantic Scholar
+    - "https://www.semanticscholar.org/author/J.-\u0160vitel/5101737"
+  - - "\u017Eivotopis"
+    - https://www.signalhire.com/profiles/juraj-george-svitel%27s-email/133523625
+  name: "Juraj \u0160vitel"
+  position: "riadite\u013E"
+  scholar: https://scholar.google.com/citations?hl=en&user=X5-SX04AAAAJ
+  year: ''
 - affiliation: CSIRO
   affiliationurl: CSIRO
   cited_by:
@@ -4494,6 +4634,50 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&amp;hl=en
   year: ''
+- affiliation: Stanford University
+  affiliationurl: Stanford_University
+  cited_by:
+  - citations:
+      all: 6560
+      since_2016: 5878
+  - h_index:
+      all: 30
+      since_2016: 29
+  - i10_index:
+      all: 48
+      since_2016: 45
+  city: Menlo Park
+  country: USA
+  countryurl: USA
+  field: "v\xFDpo\u010Dtov\xE1 katal\xFDza"
+  hindex: 30
+  img: Michal_Bajdich.jpg
+  last_update: '2021-11-21'
+  links:
+  - - facebook
+    - https://www.facebook.com/michal.bajdich.37
+  - - LinkedIn
+    - https://www.linkedin.com/in/michal-bajdich-1a1b3426
+  - - loop
+    - https://loop.frontiersin.org/people/1122602/overview
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/2776854392/publication/search?q=Michal%20Bajdich&qe=Composite(AA.AuId%253D2776854392)&f=&orderBy=0&paperId=2984061692
+  - - orcid
+    - https://orcid.org/0000-0003-1168-8616
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Michal-Bajdich
+  - - web 1
+    - https://suncat.stanford.edu/people/michal-bajdich
+  - - web 2
+    - https://www.catalysis-hub.org
+  - - web 3
+    - https://profiles.stanford.edu/michal-bajdich
+  - - "\u017Eivotopis"
+    - https://suncat.stanford.edu/sites/default/files/MBajdich_CV_late_2020_0.pdf
+  name: Michal Bajdich
+  position: "vedeck\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?hl=en&user=x9sZ1Q4AAAAJ
+  year: null
 - affiliation: Institute of Tropical Medicine Antwerp
   affiliationurl: Institute_of_Tropical_Medicine_Antwerp
   cited_by:
@@ -4644,6 +4828,86 @@
   position: profesor
   scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
   year: ''
+- affiliation: Central European University
+  affiliationurl: Central_European_University
+  cited_by:
+  - citations:
+      all: 2768
+      since_2016: 1564
+  - h_index:
+      all: 30
+      since_2016: 21
+  - i10_index:
+      all: 46
+      since_2016: 39
+  city: "Viede\u0148"
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "ekon\xF3mia"
+  hindex: 30
+  img: Martin_Kahanec.jpg
+  last_update: '2021-11-21'
+  links:
+  - - Academia Europaea
+    - https://www.ae-info.org/ae/Member/Kahanec_Martin
+  - - CELSI
+    - https://www.celsi.sk/sk/ludia/detail/64/martin-kahanec/
+  - - LinkedIn
+    - https://www.linkedin.com/in/martin-kahanec-6aaba32/?originalSubdomain=sk
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/137717598/publication?paperId=3145585907
+  - - orcid
+    - https://orcid.org/0000-0003-4397-3083
+  - - RePEc
+    - https://ideas.repec.org/f/pka206.html
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin-Kahanec
+  - - twitter
+    - https://twitter.com/martinkahanec
+  - - web 1
+    - https://www.celsi.sk/sk/ludia/detail/64/martin-kahanec/
+  - - web 2
+    - https://wol.iza.org/authors/martin-kahanec
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Martin_Kahanec
+  - - "\u017Eivotopis"
+    - https://www.celsi.sk/media/people/cv/Kahanec_CV_20190917_ONLINE.pdf
+  name: Martin Kahanec
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=2lo3e7sAAAAJ&hl=en
+  year: 1977
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 10800
+      since_2016: 9603
+  - h_index:
+      all: 48
+      since_2016: 45
+  - i10_index:
+      all: 117
+      since_2016: 112
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "chemick\xE9 in\u017Einierstvo"
+  hindex: 30
+  img: Milan_Polakovic.jpg
+  last_update: '2021-11-21'
+  links:
+  - - LinkedIn
+    - "https://www.linkedin.com/in/milan-polakovi\u010D-278578b2/?originalSubdomain=sk"
+  - - orcid
+    - https://orcid.org/0000-0003-0238-8996
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Milan-Polakovic
+  - - web
+    - https://is.stuba.sk/lide/clovek.pl?id=3882;lang=sk
+  name: "Milan Polakovi\u010D"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=W8akvAsAAAAJ
+  year: ''
 - affiliation: King Abdullah University of Science and Technology (KAUST)
   affiliationurl: King_Abdullah_University_of_Science_and_Technology_(KAUST)
   cited_by:
@@ -4714,6 +4978,44 @@
   position: docent
   scholar: https://scholar.google.com/citations?user=5sAJJkgAAAAJ
   year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 3869
+      since_2016: 2901
+  - h_index:
+      all: 30
+      since_2016: 26
+  - i10_index:
+      all: 47
+      since_2016: 40
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: fyzika
+  hindex: 30
+  img: Zdenko_Machala.jpg
+  last_update: '2021-11-21'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/zdenko-machala
+  - - LinkedIn
+    - https://www.linkedin.com/in/zdenko-machala-11405110/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0003-1424-1350
+  - - publons
+    - https://publons.com/researcher/1223900/zdenko-machala/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Zdenko-Machala
+  - - scopus
+    - https://www.scopus.com/authid/detail.uri?authorId=22941510900
+  - - web
+    - http://enviro.fmph.uniba.sk/index.php?link=machala
+  name: Zdenko Machala
+  position: docent
+  scholar: https://scholar.google.sk/citations?hl=en&user=3xq6b60AAAAJ
+  year: ''
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   affiliationurl: Technicka_univerzita_v_Kosiciach
   cited_by:
@@ -4748,6 +5050,42 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
   year: ''
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 2722
+      since_2016: 923
+  - h_index:
+      all: 30
+      since_2016: 16
+  - i10_index:
+      all: 57
+      since_2016: 27
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "membr\xE1ny"
+  hindex: 30
+  img: Stefan_Schlosser.jpg
+  last_update: '2021-11-21'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/stefan-schlosser-7220424a/
+  - - loop
+    - https://loop.frontiersin.org/people/646398/overview
+  - - publons
+    - https://publons.com/researcher/1513959/stefan-schlosser/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Stefan-Schlosser
+  - - web 1
+    - http://sschi.chtf.stuba.sk/MembraneLab/Contact.htm
+  - - web 2
+    - http://kchbi.chtf.stuba.sk/clenovia/detail.aspx?ID=26
+  name: "\u0160tefan Schlosser"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=J2qs3RMAAAAJ&hl=en
+  year: ''
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
   affiliationurl: Technicka_univerzita_vo_Zvolene
   cited_by:
@@ -4779,6 +5117,40 @@
   name: "Du\u0161an G\xF6m\xF6ry"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=RllC3asAAAAJ
+  year: ''
+- affiliation: University of Natural Resources and Life Sciences
+  affiliationurl: University_of_Natural_Resources_and_Life_Sciences
+  cited_by:
+  - citations:
+      all: 4169
+      since_2016: 1872
+  - h_index:
+      all: 30
+      since_2016: 21
+  - i10_index:
+      all: 50
+      since_2016: 37
+  city: "Viede\u0148"
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "fylogenomick\xE1 ekol\xF3gia"
+  hindex: 30
+  img: Marcel_Zamocky.jpg
+  last_update: '2021-11-21'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/marcel-zamocky-51260810a/
+  - - orcid
+    - https://orcid.org/0000-0002-2443-2823
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marcel-Zamocky
+  - - web 1
+    - https://forschung.boku.ac.at/fis/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=7969
+  - - web 2
+    - https://www.sav.sk/index.php?lang=en&doc=user-org-user&user_no=2990
+  name: "Marcel Z\xE1mock\xFD"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=pT4T7F4AAAAJ&hl=sk
   year: ''
 - affiliation: Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)
   affiliationurl: Mohamed_Bin_Zayed_University_of_Artificial_Intelligence_(MBZUAI)

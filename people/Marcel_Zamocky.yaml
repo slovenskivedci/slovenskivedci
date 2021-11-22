@@ -1,0 +1,33 @@
+name: "Marcel Zámocký"
+year: ''
+
+position: "výskumný pracovník"
+field: "fylogenomická ekológia"
+affiliation: "University of Natural Resources and Life Sciences"
+city: "Viedeň"
+country: "Rakúsko"
+
+hindex: 30
+scholar: https://scholar.google.com/citations?user=pT4T7F4AAAAJ&hl=sk
+
+cited_by:
+- citations:
+    all: 4169
+    since_2016: 1872
+- h_index:
+    all: 30
+    since_2016: 21
+- i10_index:
+    all: 50
+    since_2016: 37
+
+last_update: '2021-11-21'
+
+links:
+  orcid: https://orcid.org/0000-0002-2443-2823
+  ResearchGate: https://www.researchgate.net/profile/Marcel-Zamocky
+  web 1: https://forschung.boku.ac.at/fis/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=7969
+  web 2: https://www.sav.sk/index.php?lang=en&doc=user-org-user&user_no=2990
+  LinkedIn: https://www.linkedin.com/in/marcel-zamocky-51260810a/
+
+img: Marcel_Zamocky.jpg

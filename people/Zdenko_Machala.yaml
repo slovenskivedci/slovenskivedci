@@ -1,0 +1,35 @@
+name: "Zdenko Machala"
+year: ''
+
+position: "docent"
+field: "fyzika"
+affiliation: "Univerzita Komenského"
+city: "Bratislava"
+country: "Slovensko"
+
+hindex: 30
+scholar: https://scholar.google.sk/citations?hl=en&user=3xq6b60AAAAJ
+
+cited_by:
+- citations:
+    all: 3869
+    since_2016: 2901
+- h_index:
+    all: 30
+    since_2016: 26
+- i10_index:
+    all: 47
+    since_2016: 40
+
+last_update: '2021-11-21'
+
+links:
+  web: http://enviro.fmph.uniba.sk/index.php?link=machala
+  orcid: https://orcid.org/0000-0003-1424-1350
+  publons: https://publons.com/researcher/1223900/zdenko-machala/
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=22941510900
+  ResearchGate: https://www.researchgate.net/profile/Zdenko-Machala
+  ESET Science Award: https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/zdenko-machala
+  LinkedIn: https://www.linkedin.com/in/zdenko-machala-11405110/?originalSubdomain=sk
+
+img: Zdenko_Machala.jpg

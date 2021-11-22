@@ -1,0 +1,31 @@
+name: "Juraj Švitel"
+year: ''
+
+position: "riaditeľ"
+field: "biochémia"
+affiliation: "NGM Biopharmaceuticals"
+city: "San Francisco"
+country: "USA"
+
+hindex: 31
+scholar: https://scholar.google.com/citations?hl=en&user=X5-SX04AAAAJ
+
+cited_by:
+- citations:
+    all: 3086
+    since_2016: 1163
+- h_index:
+    all: 31
+    since_2016: 18
+- i10_index:
+    all: 44
+    since_2016: 23
+
+last_update: '2021-11-21'
+
+links:
+  ResearchGate: https://www.researchgate.net/profile/George-Svitel
+  životopis: https://www.signalhire.com/profiles/juraj-george-svitel%27s-email/133523625
+  Semantic Scholar: https://www.semanticscholar.org/author/J.-Švitel/5101737
+
+img: Juraj_Svitel.jpg

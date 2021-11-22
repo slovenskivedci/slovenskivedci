@@ -1,0 +1,31 @@
+name: "Martin Lukáč"
+year:
+
+position: profesor
+field: "ekológia"
+affiliation: "University of Reading"
+city: "Reading"
+country: "Veľká Británia"
+
+hindex: 32
+scholar: https://scholar.google.com/citations?user=K0dUsrwAAAAJ&hl=en
+
+cited_by:
+- citations:
+    all: 4246
+    since_2016: 2110
+- h_index:
+    all: 32
+    since_2016: 26
+- i10_index:
+    all: 53
+    since_2016: 48
+
+last_update: '2021-11-21'
+
+links:
+  web: https://www.reading.ac.uk/apd/staff/m-lukac.aspx
+  ResearchGate: https://www.researchgate.net/profile/Martin-Lukac-4
+
+
+img: Martin_Lukac.png

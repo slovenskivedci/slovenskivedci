@@ -174,3 +174,85 @@
   position: "vedeck\xE1 pracovn\xED\u010Dka"
   scholar: https://scholar.google.com/citations?user=3PIAo10AAAAJ&amp;hl=en
   year: ''
+- affiliation: Central European University
+  affiliationurl: Central_European_University
+  cited_by:
+  - citations:
+      all: 2768
+      since_2016: 1564
+  - h_index:
+      all: 30
+      since_2016: 21
+  - i10_index:
+      all: 46
+      since_2016: 39
+  city: "Viede\u0148"
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "ekon\xF3mia"
+  hindex: 30
+  img: Martin_Kahanec.jpg
+  last_update: '2021-11-21'
+  links:
+  - - Academia Europaea
+    - https://www.ae-info.org/ae/Member/Kahanec_Martin
+  - - CELSI
+    - https://www.celsi.sk/sk/ludia/detail/64/martin-kahanec/
+  - - LinkedIn
+    - https://www.linkedin.com/in/martin-kahanec-6aaba32/?originalSubdomain=sk
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/137717598/publication?paperId=3145585907
+  - - orcid
+    - https://orcid.org/0000-0003-4397-3083
+  - - RePEc
+    - https://ideas.repec.org/f/pka206.html
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin-Kahanec
+  - - twitter
+    - https://twitter.com/martinkahanec
+  - - web 1
+    - https://www.celsi.sk/sk/ludia/detail/64/martin-kahanec/
+  - - web 2
+    - https://wol.iza.org/authors/martin-kahanec
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Martin_Kahanec
+  - - "\u017Eivotopis"
+    - https://www.celsi.sk/media/people/cv/Kahanec_CV_20190917_ONLINE.pdf
+  name: Martin Kahanec
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=2lo3e7sAAAAJ&hl=en
+  year: 1977
+- affiliation: University of Natural Resources and Life Sciences
+  affiliationurl: University_of_Natural_Resources_and_Life_Sciences
+  cited_by:
+  - citations:
+      all: 4169
+      since_2016: 1872
+  - h_index:
+      all: 30
+      since_2016: 21
+  - i10_index:
+      all: 50
+      since_2016: 37
+  city: "Viede\u0148"
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "fylogenomick\xE1 ekol\xF3gia"
+  hindex: 30
+  img: Marcel_Zamocky.jpg
+  last_update: '2021-11-21'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/marcel-zamocky-51260810a/
+  - - orcid
+    - https://orcid.org/0000-0002-2443-2823
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marcel-Zamocky
+  - - web 1
+    - https://forschung.boku.ac.at/fis/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=7969
+  - - web 2
+    - https://www.sav.sk/index.php?lang=en&doc=user-org-user&user_no=2990
+  name: "Marcel Z\xE1mock\xFD"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=pT4T7F4AAAAJ&hl=sk
+  year: ''

@@ -18,8 +18,6 @@
   img: Rastislav_Bodik.jpg
   last_update: '2021-09-16'
   links:
-  - - academic.microsoft.com
-    - https://academic.microsoft.com/author/1115548098/publication/search?q=Rastislav%20Bodik&qe=Composite(AA.AuId%253D1115548098)&f=&orderBy=0&paperId=2295399529
   - - ACM
     - https://dl.acm.org/profile/81100033082
   - - dblp
@@ -30,6 +28,8 @@
     - https://www.linkedin.com/in/rastislav-bodik-64181a3/
   - - Mathematics Genealogy
     - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=82262
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/1115548098/publication/search?q=Rastislav%20Bodik&qe=Composite(AA.AuId%253D1115548098)&f=&orderBy=0&paperId=2295399529
   - - research.com
     - https://research.com/u/rastislav-bodik
   - - ResearchGate

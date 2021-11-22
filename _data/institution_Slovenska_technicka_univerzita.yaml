@@ -136,3 +136,71 @@
   position: docent
   scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp
   year: 1962
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 10800
+      since_2016: 9603
+  - h_index:
+      all: 48
+      since_2016: 45
+  - i10_index:
+      all: 117
+      since_2016: 112
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "chemick\xE9 in\u017Einierstvo"
+  hindex: 30
+  img: Milan_Polakovic.jpg
+  last_update: '2021-11-21'
+  links:
+  - - LinkedIn
+    - "https://www.linkedin.com/in/milan-polakovi\u010D-278578b2/?originalSubdomain=sk"
+  - - orcid
+    - https://orcid.org/0000-0003-0238-8996
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Milan-Polakovic
+  - - web
+    - https://is.stuba.sk/lide/clovek.pl?id=3882;lang=sk
+  name: "Milan Polakovi\u010D"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=W8akvAsAAAAJ
+  year: ''
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 2722
+      since_2016: 923
+  - h_index:
+      all: 30
+      since_2016: 16
+  - i10_index:
+      all: 57
+      since_2016: 27
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "membr\xE1ny"
+  hindex: 30
+  img: Stefan_Schlosser.jpg
+  last_update: '2021-11-21'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/stefan-schlosser-7220424a/
+  - - loop
+    - https://loop.frontiersin.org/people/646398/overview
+  - - publons
+    - https://publons.com/researcher/1513959/stefan-schlosser/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Stefan-Schlosser
+  - - web 1
+    - http://sschi.chtf.stuba.sk/MembraneLab/Contact.htm
+  - - web 2
+    - http://kchbi.chtf.stuba.sk/clenovia/detail.aspx?ID=26
+  name: "\u0160tefan Schlosser"
+  position: "v\xFDskumn\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=J2qs3RMAAAAJ&hl=en
+  year: ''

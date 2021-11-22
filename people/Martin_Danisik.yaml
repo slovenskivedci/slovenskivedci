@@ -1,0 +1,34 @@
+name: "Martin Danišík"
+year:
+
+position: "docent"
+field: "geochronológia"
+affiliation: "Curtin University"
+city: "Perth"
+country: "Austrália"
+
+hindex: 32
+scholar: https://scholar.google.com.au/citations?user=bLoHCS8AAAAJ&hl=en
+
+cited_by:
+- citations:
+    all: 2925
+    since_2016: 2242
+- h_index:
+    all: 32
+    since_2016: 26
+- i10_index:
+    all: 79
+    since_2016: 73
+
+last_update: '2021-11-21'
+
+links:
+  web: https://staffportal.curtin.edu.au/staff/profile/view/martin-danisik-b20e9bfb/
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=12239479000
+  orcid: https://orcid.org/0000-0002-0885-4938
+  publons: https://publons.com/researcher/2645083/martin-danisik/
+  dennikn.sk: http://science.dennikn.sk/clanky-a-rozhovory/neziva-priroda/vesmir-a-zem/6569-slovensky-geolog-skuma-dosledky-erupcie-super-vulkanu
+  sme.sk: https://tech.sme.sk/c/20489874/geolog-napiseme-do-nasa-aby-nam-zaslali-vzorky-z-meteoritov-alebo-z-mesiaca.html
+
+img: Martin_Danisik.jpg

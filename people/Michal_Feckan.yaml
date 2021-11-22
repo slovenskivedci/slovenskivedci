@@ -1,4 +1,16 @@
+name: "Michal Fečkan"
+year: 1960
+
+position: profesor
+field: "matematika"
 affiliation: "Univerzita Komenského"
+city: "Bratislava"
+country: "Slovensko"
+
+hindex: 32
+scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
+
+
 cited_by:
 - citations:
     all: 5133
@@ -9,12 +21,11 @@ cited_by:
 - i10_index:
     all: 121
     since_2016: 76
-city: "Bratislava"
-country: "Slovensko"
-field: matematika
-hindex: 32
-img: Michal_Feckan.jpg
+
 last_update: '2021-09-16'
+
+
+
 links:
   ESET Science Award: https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
   web: https://www.mat.savba.sk/~feckan/
@@ -23,7 +34,5 @@ links:
   LinkedIn: https://www.linkedin.com/in/michal-feckan-177b153b/?originalSubdomain=sk
   orcid: https://orcid.org/0000-0002-7385-6737
   publons: https://publons.com/researcher/1846317/michal-feckan/
-name: "Michal Fečkan"
-position: profesor
-scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
-year: 1960
+
+img: Michal_Feckan.jpg
