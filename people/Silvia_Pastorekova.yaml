@@ -1,0 +1,39 @@
+name: "Silvia Pastoreková"
+year: 1961
+
+position: "profesorka"
+field: "onkológia"
+affiliation: "Slovenská akadémia vied"
+city: "Bratislava"
+country: "Slovensko"
+
+hindex: 69
+scholar: https://scholar.google.com/citations?hl=en&user=7AYmCSIAAAAJ
+
+cited_by:
+- citations:
+    all: 16145
+    since_2016: 6031
+- h_index:
+    all: 69
+    since_2016: 43
+- i10_index:
+    all: 196
+    since_2016: 143
+
+last_update: '2021-11-30'
+
+links:
+  web 1: http://www.biomedcentrum.sav.sk/kontakty/
+  web 2: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1886
+  learned.sk: https://www.learned.sk/prof-rndr-silvia-pastorekova-drsc/
+  Rad Ľ Štúra II: http://ssbmb.sk/ocenenie-prof-rndr-silvia-pastorekova-drsc/
+  science.sk: http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2157-silvia-pastorekova
+  osobnosti.sk: https://www.osobnosti.sk/osobnost/silvia-pastorekova-1831
+  LinkedIn: https://www.linkedin.com/in/silvia-pastorekova-a675553b/?originalSubdomain=sk
+  ResearchGate: https://www.researchgate.net/profile/Silvia-Pastorekova
+  publons: https://publons.com/researcher/1973426/silvia-pastorekova/
+  životopis: files/cv_Silvia Pastorekova_2021-12.pdf
+
+
+img: Silvia_Pastorekova.jpg

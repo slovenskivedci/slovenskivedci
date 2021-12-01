@@ -2,6 +2,50 @@
   affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
+      all: 16145
+      since_2016: 6031
+  - h_index:
+      all: 69
+      since_2016: 43
+  - i10_index:
+      all: 196
+      since_2016: 143
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "onkol\xF3gia"
+  hindex: 69
+  img: Silvia_Pastorekova.jpg
+  last_update: '2021-11-30'
+  links:
+  - - learned.sk
+    - https://www.learned.sk/prof-rndr-silvia-pastorekova-drsc/
+  - - LinkedIn
+    - https://www.linkedin.com/in/silvia-pastorekova-a675553b/?originalSubdomain=sk
+  - - osobnosti.sk
+    - https://www.osobnosti.sk/osobnost/silvia-pastorekova-1831
+  - - publons
+    - https://publons.com/researcher/1973426/silvia-pastorekova/
+  - - "Rad \u013D \u0160t\xFAra II"
+    - http://ssbmb.sk/ocenenie-prof-rndr-silvia-pastorekova-drsc/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Silvia-Pastorekova
+  - - science.sk
+    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2157-silvia-pastorekova
+  - - web 1
+    - http://www.biomedcentrum.sav.sk/kontakty/
+  - - web 2
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1886
+  - - "\u017Eivotopis"
+    - files/cv_Silvia Pastorekova_2021-12.pdf
+  name: "Silvia Pastorekov\xE1"
+  position: profesorka
+  scholar: https://scholar.google.com/citations?hl=en&user=7AYmCSIAAAAJ
+  year: 1961
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
       all: 18004
       since_2016: 5517
   - h_index:

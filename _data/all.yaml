@@ -221,6 +221,50 @@
   position: profesorka
   scholar: https://scholar.google.com/citations?user=s9Ikf1EAAAAJ&amp
   year: 1933
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
+      all: 16145
+      since_2016: 6031
+  - h_index:
+      all: 69
+      since_2016: 43
+  - i10_index:
+      all: 196
+      since_2016: 143
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "onkol\xF3gia"
+  hindex: 69
+  img: Silvia_Pastorekova.jpg
+  last_update: '2021-11-30'
+  links:
+  - - learned.sk
+    - https://www.learned.sk/prof-rndr-silvia-pastorekova-drsc/
+  - - LinkedIn
+    - https://www.linkedin.com/in/silvia-pastorekova-a675553b/?originalSubdomain=sk
+  - - osobnosti.sk
+    - https://www.osobnosti.sk/osobnost/silvia-pastorekova-1831
+  - - publons
+    - https://publons.com/researcher/1973426/silvia-pastorekova/
+  - - "Rad \u013D \u0160t\xFAra II"
+    - http://ssbmb.sk/ocenenie-prof-rndr-silvia-pastorekova-drsc/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Silvia-Pastorekova
+  - - science.sk
+    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2157-silvia-pastorekova
+  - - web 1
+    - http://www.biomedcentrum.sav.sk/kontakty/
+  - - web 2
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1886
+  - - "\u017Eivotopis"
+    - files/cv_Silvia Pastorekova_2021-12.pdf
+  name: "Silvia Pastorekov\xE1"
+  position: profesorka
+  scholar: https://scholar.google.com/citations?hl=en&user=7AYmCSIAAAAJ
+  year: 1961
 - affiliation: University of Toronto
   affiliationurl: University_of_Toronto
   cited_by:
@@ -2523,6 +2567,40 @@
   position: CEO
   scholar: https://scholar.google.com/citations?user=ICo_N5sAAAAJ&hl=sk
   year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 7757
+      since_2016: 1615
+  - h_index:
+      all: 38
+      since_2016: 14
+  - i10_index:
+      all: 92
+      since_2016: 27
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "ch\xE9mia"
+  hindex: 38
+  img: Miroslav_Urban.jpg
+  last_update: '2021-11-30'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-0379-6414
+  - - publons
+    - https://publons.com/researcher/2385736/miroslav-urban/
+  - - "Rad \u013D \u0160t\xFAra II triedy"
+    - https://uniba.sk/detail-aktuality/browse/72/back_to_page/aktuality-1/article/prof-miroslav-urban-ziskal-rad-ludovita-stura-ii-triedy/
+  - - "\u017Eivotopis 1"
+    - https://www.learned.sk/wp-content/uploads/2020/03/Zivotopis_Miroslav_Urban.pdf
+  - - "\u017Eivotopis 2"
+    - http://www.qch.fns.uniba.sk/GroupPage/members/urban/cv-urban.pdf
+  name: Miroslav Urban
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=9Ff2ZsoAAAAJ
+  year: 1942
 - affiliation: "ETH Z\xFCrich"
   affiliationurl: ETH_Zurich
   city: "Z\xFCrich"
@@ -2601,6 +2679,50 @@
   position: profesor
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=hVqCXAcAAAAJ
   year: 1954
+- affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
+  affiliationurl: Slovenska_polnohospodarska_univerzita
+  cited_by:
+  - citations:
+      all: 4733
+      since_2016: 2618
+  - h_index:
+      all: 37
+      since_2016: 26
+  - i10_index:
+      all: 132
+      since_2016: 81
+  city: Nitra
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyziol\xF3gia \u017Eivo\u010D\xEDchov"
+  hindex: 37
+  img: Peter_Massanyi.jpg
+  last_update: '2021-12-01'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-massanyi-99869523/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0002-4216-0948
+  - - prabook
+    - https://prabook.com/web/peter.massanyi/338404
+  - - publons
+    - https://publons.com/researcher/1333593/peter-massanyi/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Massanyi
+  - - veda na dosah
+    - https://vedanadosah.cvtisr.sk/priroda/zem/centrum-reprodukcie-zivocichov-cera-je-spickovym-vedeckym-timom-na-fakulte-biotechnologie-a-potravinarstva-spu-v-nitre/
+  - - web 1
+    - http://kfzfbp.uniag.sk/KFZ_contact.html
+  - - web 2
+    - https://is.uniag.sk/lide/clovek.pl?id=1345;lang=sk
+  - - web 3
+    - https://sites.google.com/site/massanyip
+  - - "\u017Eivotopis"
+    - https://sites.google.com/site/massanyip/1_curriculum-vitae
+  name: "Peter Mass\xE1nyi"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=pXeemKMAAAAJ&hl=sk
+  year: 1968
 - affiliation: "ETH Z\xFCrich"
   affiliationurl: ETH_Zurich
   city: "Z\xFCrich"
@@ -3287,6 +3409,36 @@
   position: docentka
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=jsJC9WgAAAAJ
   year: 1955
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 3602
+      since_2016: 423
+  - h_index:
+      all: 34
+      since_2016: 11
+  - i10_index:
+      all: 71
+      since_2016: 12
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyzik\xE1lna ch\xE9mia"
+  hindex: 34
+  img: Vladimir_Kello.jpg
+  last_update: '2021-11-30'
+  links:
+  - - publons
+    - https://publons.com/researcher/2894187/vladimir-kello/
+  - - web
+    - https://fns.uniba.sk/vladimir-kelloe/
+  - - "\u017Eivotopis"
+    - https://fns.uniba.sk/fileadmin/prif/chem/kfz/profiles/CV_Kello_2020.pdf
+  name: "Vladim\xEDr Kell\xF6"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=f8595C4AAAAJ
+  year: 1947
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
   cited_by:
@@ -5152,6 +5304,44 @@
   position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=pT4T7F4AAAAJ&hl=sk
   year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 2729
+      since_2016: 1137
+  - h_index:
+      all: 29
+      since_2016: 17
+  - i10_index:
+      all: 62
+      since_2016: 41
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "bioch\xE9mia"
+  hindex: 29
+  img: Jozef_Nosek.jpg
+  last_update: '2021-11-24'
+  links:
+  - - AMiner
+    - https://www.aminer.cn/profile/jozef-nosek/53f36745dabfae4b3499e846
+  - - loop
+    - https://loop.frontiersin.org/people/21307/overview
+  - - orcid
+    - https://orcid.org/0000-0002-1020-5451
+  - - publons
+    - https://publons.com/researcher/1707285/jozef-nosek/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Jozef-Nosek-39123357
+  - - web
+    - http://www.biocenter.sk/jn.html
+  - - "\u017Eivotopis"
+    - http://www.biocenter.sk/jncv.html
+  name: Jozef Nosek
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=VzDSjLcAAAAJ
+  year: 1967
 - affiliation: Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)
   affiliationurl: Mohamed_Bin_Zayed_University_of_Artificial_Intelligence_(MBZUAI)
   cited_by:
@@ -5254,3 +5444,37 @@
   position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&user=wGB6dnEAAAAJ
   year: 1966
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 3433
+      since_2016: 1716
+  - h_index:
+      all: 30
+      since_2016: 18
+  - i10_index:
+      all: 76
+      since_2016: 29
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "organick\xE1 technol\xF3gia"
+  hindex: 29
+  img: Milan_Hronec.gif
+  last_update: '2021-11-24'
+  links:
+  - - AMiner
+    - https://www.aminer.cn/profile/milan-hronec/5405d945dabfae91d3014404
+  - - LinkedIn
+    - https://www.linkedin.com/in/milan-hronec-80624b75/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0002-6958-1638
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Milan-Hronec
+  - - web
+    - https://www.fchpt.stuba.sk/english/institutes-and-departments/institute-of-organic-chemistry-catalysis-and-petrochemistry/department-of-organic-technology/staff.html?page_id=3974
+  name: Milan Hronec
+  position: "emeritn\xFD profesor"
+  scholar: https://scholar.google.com/citations?user=2ZVSiB8AAAAJ&hl=en
+  year: null

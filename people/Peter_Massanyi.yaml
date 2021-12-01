@@ -1,0 +1,39 @@
+name: "Peter Massányi"
+year: 1968
+
+position: "profesor"
+field: "fyziológia živočíchov"
+affiliation: "Slovenská poľnohospodárska univerzita"
+city: "Nitra"
+country: "Slovensko"
+
+hindex: 37
+scholar: https://scholar.google.com/citations?user=pXeemKMAAAAJ&hl=sk
+
+cited_by:
+- citations:
+    all: 4733
+    since_2016: 2618
+- h_index:
+    all: 37
+    since_2016: 26
+- i10_index:
+    all: 132
+    since_2016: 81
+
+last_update: '2021-12-01'
+
+links:
+  ResearchGate: https://www.researchgate.net/profile/Peter-Massanyi
+  web 2: https://is.uniag.sk/lide/clovek.pl?id=1345;lang=sk
+  web 1: http://kfzfbp.uniag.sk/KFZ_contact.html
+  web 3: https://sites.google.com/site/massanyip
+  LinkedIn: https://www.linkedin.com/in/peter-massanyi-99869523/?originalSubdomain=sk
+  orcid: https://orcid.org/0000-0002-4216-0948
+  životopis: https://sites.google.com/site/massanyip/1_curriculum-vitae
+  publons: https://publons.com/researcher/1333593/peter-massanyi/
+  prabook: https://prabook.com/web/peter.massanyi/338404
+  veda na dosah: https://vedanadosah.cvtisr.sk/priroda/zem/centrum-reprodukcie-zivocichov-cera-je-spickovym-vedeckym-timom-na-fakulte-biotechnologie-a-potravinarstva-spu-v-nitre/
+
+
+img: Peter_Massanyi.jpg

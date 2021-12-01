@@ -337,6 +337,40 @@
   affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
+      all: 7757
+      since_2016: 1615
+  - h_index:
+      all: 38
+      since_2016: 14
+  - i10_index:
+      all: 92
+      since_2016: 27
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "ch\xE9mia"
+  hindex: 38
+  img: Miroslav_Urban.jpg
+  last_update: '2021-11-30'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-0379-6414
+  - - publons
+    - https://publons.com/researcher/2385736/miroslav-urban/
+  - - "Rad \u013D \u0160t\xFAra II triedy"
+    - https://uniba.sk/detail-aktuality/browse/72/back_to_page/aktuality-1/article/prof-miroslav-urban-ziskal-rad-ludovita-stura-ii-triedy/
+  - - "\u017Eivotopis 1"
+    - https://www.learned.sk/wp-content/uploads/2020/03/Zivotopis_Miroslav_Urban.pdf
+  - - "\u017Eivotopis 2"
+    - http://www.qch.fns.uniba.sk/GroupPage/members/urban/cv-urban.pdf
+  name: Miroslav Urban
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=9Ff2ZsoAAAAJ
+  year: 1942
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
       all: 5715
       since_2016: 2138
   - h_index:
@@ -459,6 +493,36 @@
   position: docentka
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=jsJC9WgAAAAJ
   year: 1955
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 3602
+      since_2016: 423
+  - h_index:
+      all: 34
+      since_2016: 11
+  - i10_index:
+      all: 71
+      since_2016: 12
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyzik\xE1lna ch\xE9mia"
+  hindex: 34
+  img: Vladimir_Kello.jpg
+  last_update: '2021-11-30'
+  links:
+  - - publons
+    - https://publons.com/researcher/2894187/vladimir-kello/
+  - - web
+    - https://fns.uniba.sk/vladimir-kelloe/
+  - - "\u017Eivotopis"
+    - https://fns.uniba.sk/fileadmin/prif/chem/kfz/profiles/CV_Kello_2020.pdf
+  name: "Vladim\xEDr Kell\xF6"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=f8595C4AAAAJ
+  year: 1947
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -869,3 +933,41 @@
   position: docent
   scholar: https://scholar.google.sk/citations?hl=en&user=3xq6b60AAAAJ
   year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 2729
+      since_2016: 1137
+  - h_index:
+      all: 29
+      since_2016: 17
+  - i10_index:
+      all: 62
+      since_2016: 41
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "bioch\xE9mia"
+  hindex: 29
+  img: Jozef_Nosek.jpg
+  last_update: '2021-11-24'
+  links:
+  - - AMiner
+    - https://www.aminer.cn/profile/jozef-nosek/53f36745dabfae4b3499e846
+  - - loop
+    - https://loop.frontiersin.org/people/21307/overview
+  - - orcid
+    - https://orcid.org/0000-0002-1020-5451
+  - - publons
+    - https://publons.com/researcher/1707285/jozef-nosek/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Jozef-Nosek-39123357
+  - - web
+    - http://www.biocenter.sk/jn.html
+  - - "\u017Eivotopis"
+    - http://www.biocenter.sk/jncv.html
+  name: Jozef Nosek
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=VzDSjLcAAAAJ
+  year: 1967
