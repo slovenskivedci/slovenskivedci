@@ -1,0 +1,34 @@
+name: "Tomáš Klieštik"
+year: 1972
+
+position: "profesor"
+field: "finančný manažment"
+affiliation: "Žilinská univerzita"
+city: "Žilina"
+country: "Slovensko"
+
+hindex: 30
+scholar: https://scholar.google.com/citations?user=zsFNpOgAAAAJ&hl=en
+
+cited_by:
+- citations:
+    all: 2974
+    since_2016: 2661
+- h_index:
+    all: 30
+    since_2016: 27
+- i10_index:
+    all: 64
+    since_2016: 57
+
+img: Tomas_Kliestik.jpg
+
+last_update: '2021-12-09'
+
+links:
+  publons: https://publons.com/researcher/2335189/tomas-kliestik/
+  životopis: https://www.uniza.sk/document/hab_in/529885c867b31.pdf
+  ResearchGate: https://www.researchgate.net/profile/Tomas-Kliestik
+  repec: https://ideas.repec.org/e/pkl192.html
+  econpapers: https://econpapers.repec.org/RAS/pkl192.htm
+  orcid: https://orcid.org/0000-0002-3815-5409

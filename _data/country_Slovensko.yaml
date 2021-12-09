@@ -2337,6 +2337,42 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&amp;hl=en
   year: ''
+- affiliation: "\u017Dilinsk\xE1 univerzita"
+  affiliationurl: Zilinska_univerzita
+  cited_by:
+  - citations:
+      all: 2974
+      since_2016: 2661
+  - h_index:
+      all: 30
+      since_2016: 27
+  - i10_index:
+      all: 64
+      since_2016: 57
+  city: "\u017Dilina"
+  country: Slovensko
+  countryurl: Slovensko
+  field: "finan\u010Dn\xFD mana\u017Ement"
+  hindex: 30
+  img: Tomas_Kliestik.jpg
+  last_update: '2021-12-09'
+  links:
+  - - econpapers
+    - https://econpapers.repec.org/RAS/pkl192.htm
+  - - orcid
+    - https://orcid.org/0000-0002-3815-5409
+  - - publons
+    - https://publons.com/researcher/2335189/tomas-kliestik/
+  - - repec
+    - https://ideas.repec.org/e/pkl192.html
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Tomas-Kliestik
+  - - "\u017Eivotopis"
+    - https://www.uniza.sk/document/hab_in/529885c867b31.pdf
+  name: "Tom\xE1\u0161 Klie\u0161tik"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=zsFNpOgAAAAJ&hl=en
+  year: 1972
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -2425,6 +2461,40 @@
   position: profesor
   scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
   year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
+      all: 2978
+      since_2016: 1104
+  - h_index:
+      all: 30
+      since_2016: 18
+  - i10_index:
+      all: 54
+      since_2016: 30
+  city: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "vulkanol\xF3gia"
+  hindex: 30
+  img: Jaroslav_Lexa.jpg
+  last_update: '2021-12-01'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jaroslav-Lexa
+  - - science.sk
+    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2086-jaroslav-lexa
+  - - web 1
+    - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443
+  - - web 2
+    - http://www.geo.sav.sk/en/staff/jaroslav-lexa-en/
+  - - "\u017Eivotopis"
+    - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443&action=cv
+  name: Jaroslav Lexa
+  position: "v\xFDskumn\xFD pracovn\xEDk"
+  scholar: https://scholar.google.com/citations?user=rHgfxxwAAAAJ&hl=en
+  year: 1944
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   cited_by:

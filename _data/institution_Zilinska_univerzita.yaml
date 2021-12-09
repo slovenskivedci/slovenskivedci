@@ -1,0 +1,36 @@
+- affiliation: "\u017Dilinsk\xE1 univerzita"
+  affiliationurl: Zilinska_univerzita
+  cited_by:
+  - citations:
+      all: 2974
+      since_2016: 2661
+  - h_index:
+      all: 30
+      since_2016: 27
+  - i10_index:
+      all: 64
+      since_2016: 57
+  city: "\u017Dilina"
+  country: Slovensko
+  countryurl: Slovensko
+  field: "finan\u010Dn\xFD mana\u017Ement"
+  hindex: 30
+  img: Tomas_Kliestik.jpg
+  last_update: '2021-12-09'
+  links:
+  - - econpapers
+    - https://econpapers.repec.org/RAS/pkl192.htm
+  - - orcid
+    - https://orcid.org/0000-0002-3815-5409
+  - - publons
+    - https://publons.com/researcher/2335189/tomas-kliestik/
+  - - repec
+    - https://ideas.repec.org/e/pkl192.html
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Tomas-Kliestik
+  - - "\u017Eivotopis"
+    - https://www.uniza.sk/document/hab_in/529885c867b31.pdf
+  name: "Tom\xE1\u0161 Klie\u0161tik"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=zsFNpOgAAAAJ&hl=en
+  year: 1972
