@@ -1,3 +1,7 @@
+name: "Branislav Hredzák"
+last: "Hredzák"
+year: ''
+
 affiliation: "University of New South Wales"
 cited_by:
 - citations:
@@ -13,12 +17,14 @@ city: "Sydney"
 country: "Austrália"
 field: energetika
 hindex: 33
-img: Branislav_Hredzak.jpg
+
 last_update: '2021-09-16'
 links:
   orcid: https://orcid.org/0000-0002-4863-3419
   web: https://s324741.wixsite.com/bhredzak
-name: "Branislav Hredzák"
+
 position: docent
 scholar: https://scholar.google.com/citations?hl=en&amp;user=LSvxvEIAAAAJ
-year: ''
+
+
+img: Branislav_Hredzak.jpg

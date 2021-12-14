@@ -6,6 +6,7 @@
   field: "geoch\xE9mia"
   hindex: 89
   img: Jan_Veizer_2.jpg
+  last: Veizer
   last_update: '2021-11-06'
   links:
   - - AMiner
@@ -42,6 +43,7 @@
   field: bioinformatika
   hindex: 79
   img: Igor_Jurisica.png
+  last: "Juri\u0161ica"
   last_update: '2021-09-16'
   links:
   - - dblp
@@ -84,6 +86,7 @@
   field: "kardiol\xF3gia"
   hindex: 68
   img: Vladimir_Dzavik.jpg
+  last: "D\u017Eav\xEDk"
   last_update: '2021-09-16'
   links:
   - - LinkedIn
@@ -110,6 +113,7 @@
   field: optika a fotonika
   hindex: 59
   img: Pavel_Cheben.jpg
+  last: Cheben
   last_update: '2020-12-31'
   links:
   - - ESET Envoy
@@ -140,6 +144,7 @@
   field: fyzika
   hindex: 55
   img: Marcel_Franz.jpg
+  last: Franz
   last_update: '2021-09-16'
   links:
   - - web
@@ -156,6 +161,7 @@
   field: "reprodukt\xEDvna biol\xF3gia"
   hindex: 49
   img: Andrea_Jurisicova.png
+  last: "Juri\u0161icov\xE1"
   last_update: '2020-12-31'
   links:
   - - LinkedIn
@@ -178,6 +184,7 @@
   field: "grafov\xE9 algoritmy"
   hindex: 47
   img: Pavol_Hell.jpg
+  last: Hell
   last_update: '2020-12-31'
   links:
   - - web
@@ -196,6 +203,7 @@
   field: "te\xF3ria grafov"
   hindex: 42
   img: Alexander_Rosa.jpg
+  last: Rosa
   last_update: '2020-12-31'
   links:
   - - dblp
@@ -209,6 +217,7 @@
   name: Alexander Rosa
   position: profesor
   scholar: https://scholar.google.com/citations?user=7lVA1vkAAAAJ&amp;hl=en&amp;oi=sra
+  sex: "mu\u017E"
   year: 1937
 - affiliation: Simon Fraser University
   affiliationurl: Simon_Fraser_University
@@ -228,6 +237,7 @@
   field: "d\xE1tov\xE1 veda"
   hindex: 41
   img: Marek_Hatala.jpg
+  last: Hatala
   last_update: '2021-09-16'
   links:
   - - dblp

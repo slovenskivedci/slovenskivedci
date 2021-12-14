@@ -1,9 +1,16 @@
+name: "Pavel Povinec"
+last: "Povinec"
+
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
+year: 1942
+
 affiliation: "Univerzita Komenského"
 city: "Bratislava"
 country: "Slovensko"
 field: "jadrová fyzika"
 hindex: 56
-img: Pavel_Povinec.jpg
+
 last_update: '2020-12-31'
 links:
   ResearchGate: https://www.researchgate.net/profile/Pavel_Povinec
@@ -12,7 +19,5 @@ links:
   orcid: https://orcid.org/0000-0003-0275-794X
   prabook: https://prabook.com/web/pavel_peter.povinec/184236
   academia.edu: https://comeniusuniversity.academia.edu/PavelPovinec
-name: "Pavel Povinec"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
-year: 1942
+
+img: Pavel_Povinec.jpg

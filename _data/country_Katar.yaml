@@ -16,6 +16,7 @@
   field: "materi\xE1lov\xE1 veda"
   hindex: 42
   img: Igor_Krupa.jpg
+  last: Krupa
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -48,6 +49,7 @@
   field: "ch\xE9mia"
   hindex: 32
   img: Peter_Kasak.jpeg
+  last: "Kas\xE1k"
   last_update: '2021-09-16'
   links:
   - - web

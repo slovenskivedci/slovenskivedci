@@ -14,11 +14,10 @@
   country: "Austr\xE1lia"
   countryurl: Australia
   field: fyzika
-  firstname: "Milo\u0161"
   hindex: 38
   img: Milos_Toth.png
+  last: "T\xF3th"
   last_update: '2021-11-16'
-  lastname: "T\xF3th"
   links:
   - - omicsonline
     - https://biography.omicsonline.org/australia/university-of-technology-sydney/milos-toth-974580
@@ -32,7 +31,6 @@
     - https://profiles.uts.edu.au/Milos.Toth
   - - web 2
     - https://tmos.org.au/team/cis/
-  middlename: ''
   name: "Milo\u0161 T\xF3th"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=OMBz3bIAAAAJ

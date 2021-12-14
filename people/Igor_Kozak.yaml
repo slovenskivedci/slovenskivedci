@@ -1,3 +1,9 @@
+name: "Igor Kozák"
+last: "Kozák"
+position: "konzultant"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=uQGtqxoAAAAJ
+year: ''
+
 affiliation: "Moorfields Eye Hospital"
 cited_by:
 - citations:
@@ -18,7 +24,3 @@ last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Igor-Kozak/5
   web: https://moorfields.ae/medical-team/ophthalmologists/dr-igor-kozak/
-name: "Igor Kozák"
-position: "konzultant"
-scholar: https://scholar.google.com/citations?hl=en&amp;user=uQGtqxoAAAAJ
-year: ''

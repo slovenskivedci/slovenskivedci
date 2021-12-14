@@ -1,3 +1,10 @@
+name: "Mária Hrmová"
+last: "Hrmová"
+
+position: profesorka
+scholar: https://scholar.google.sk/citations?user=Hvt2QdYAAAAJ&amp;hl=en
+year: ''
+
 affiliation: "University of Adelaide"
 cited_by:
 - citations:
@@ -19,7 +26,3 @@ links:
   ResearchGate: https://www.researchgate.net/profile/Maria_Hrmova
   orcid: https://orcid.org/0000-0002-3545-0605
   web: https://www.adelaide.edu.au/directory/maria.hrmova
-name: "Mária Hrmová"
-position: profesorka
-scholar: https://scholar.google.sk/citations?user=Hvt2QdYAAAAJ&amp;hl=en
-year: ''

@@ -1,14 +1,21 @@
+name: "Ivo Petráš"
+last: "Petráš"
+position: profesor
+year: 1973
+
+hindex: 41
+scholar: https://scholar.google.com/citations?user=01msi28AAAAJ&amp;hl=en
+
+
 affiliation: "Technická univerzita v Košiciach"
 city: "Košice"
 country: "Slovensko"
 field: "automatizácia"
-hindex: 41
-img: Ivo_Petras.jpg
+
+
 last_update: '2020-12-31'
 links:
   web: http://people.tuke.sk/ivo.petras/
   životopis: https://www.uiam.sk/~fikar/drsc/petras/Navrh_VRSTU.pdf
-name: "Ivo Petráš"
-position: profesor
-scholar: https://scholar.google.com/citations?user=01msi28AAAAJ&amp;hl=en
-year: 1973
+
+img: Ivo_Petras.jpg

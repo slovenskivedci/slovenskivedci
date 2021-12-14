@@ -1,3 +1,10 @@
+name: "Marek Fila"
+last: "Fila"
+
+position: profesor
+scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ&amp;hl=en
+year: 1959
+
 affiliation: "Univerzita Komenského"
 cited_by:
 - citations:
@@ -13,7 +20,7 @@ city: "Bratislava"
 country: "Slovensko"
 field: "matematika"
 hindex: 33
-img: Marek_Fila.jpg
+
 last_update: '2021-09-16'
 links:
   web: http://www.iam.fmph.uniba.sk/institute/fila/
@@ -21,8 +28,7 @@ links:
   dblp: https://dblp.org/pid/85/3264.html
   Mathematics Genealogy: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=122294
   orcid: https://orcid.org/0000-0001-6623-2304
-  
-name: "Marek Fila"
-position: profesor
-scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ&amp;hl=en
-year: 1959
+
+
+
+img: Marek_Fila.jpg

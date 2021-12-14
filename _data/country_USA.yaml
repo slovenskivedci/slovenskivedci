@@ -6,6 +6,7 @@
   field: "mikrobiol\xF3gia"
   hindex: 104
   img: Jan_Vilcek.jpg
+  last: "Vil\u010Dek"
   last_update: '2020-12-31'
   links:
   - - web
@@ -34,6 +35,7 @@
   field: informatika
   hindex: 87
   img: Klara_Nahrstedt.jpg
+  last: Nahrstedt
   last_update: '2021-09-16'
   links:
   - - dblp
@@ -42,7 +44,7 @@
     - https://cs.illinois.edu/about/people/faculty/klara
   - - "wikip\xE9dia"
     - https://en.wikipedia.org/wiki/Klara_Nahrstedt
-  name: "Kl\xE1ra (Bajcsy) Nahrstedt"
+  name: "Kl\xE1ra Bajcsy Nahrstedt"
   position: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
   year: 1957
@@ -64,6 +66,7 @@
   field: "robotika a umel\xE1 inteligencia"
   hindex: 72
   img: Ruzena_Bajcsy.jpg
+  last: Bajcsy
   last_update: '2021-09-16'
   links:
   - - web
@@ -84,6 +87,7 @@
   field: "reproduk\u010Dn\xE1 biol\xF3gia"
   hindex: 56
   img: Peter_Sutovsky.jpeg
+  last: "\u0160utovsk\xFD"
   last_update: '2020-12-31'
   links:
   - - "na\u0161i a svetov\xED"
@@ -116,6 +120,7 @@
   field: "robotika a strojov\xE9 videnie"
   hindex: 48
   img: Jana_Kosecka.jpg
+  last: "Ko\u0161eck\xE1"
   last_update: '2021-09-16'
   links:
   - - KInIT
@@ -136,6 +141,7 @@
   field: fyzika
   hindex: 47
   img: Lubos_Mitas.jpg
+  last: "Mit\xE1\u0161"
   last_update: '2020-12-31'
   links:
   - - web
@@ -154,6 +160,7 @@
   field: neuroveda
   hindex: 47
   img: Martin_Marsala.jpg
+  last: "Mar\u0161ala"
   last_update: '2020-12-31'
   links:
   - - ResearchGate
@@ -182,6 +189,7 @@
   field: programovacie jazyky
   hindex: 45
   img: Rastislav_Bodik.jpg
+  last: "Bod\xEDk"
   last_update: '2021-09-16'
   links:
   - - ACM
@@ -216,6 +224,7 @@
   field: "neurol\xF3gia"
   hindex: 45
   img: Peter_Hedera.jpg
+  last: Hedera
   last_update: '2020-12-31'
   links:
   - - loop
@@ -246,6 +255,7 @@
   field: "aplikovan\xE1 informatika"
   hindex: 44
   img: Martin_Pelikan.jpg
+  last: "Pelik\xE1n"
   last_update: '2021-09-16'
   links:
   - - dblp
@@ -266,6 +276,7 @@
   field: "r\xE1diol\xF3gia"
   hindex: 44
   img: Ivan_Tkac.jpeg
+  last: "Tk\xE1\u010D"
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -297,6 +308,7 @@
   field: "geovizualiz\xE1cia"
   hindex: 41
   img: Helena_Mitasova.jpg
+  last: "Mit\xE1\u0161ov\xE1"
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -317,6 +329,7 @@
   field: "seizmol\xF3gia"
   hindex: 41
   img: John_Nabelek.jpeg
+  last: Nabelek
   last_update: '2020-12-31'
   links:
   - - ResearchGate
@@ -345,6 +358,7 @@
   field: optika
   hindex: 40
   img: Miroslav_Kolesik.jpg
+  last: "Koles\xEDk"
   last_update: '2021-09-16'
   links:
   - - web
@@ -371,6 +385,7 @@
   field: "neuroimunol\xF3gia"
   hindex: 38
   img: Bibiana_Bielekova.jpg
+  last: "Bielekov\xE1"
   last_update: '2021-09-16'
   links:
   - - loop
@@ -397,13 +412,14 @@
   field: "geol\xF3gia"
   hindex: 37
   img: Peter_Nabelek.jpeg
+  last: Nabelek
   last_update: '2020-12-31'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Peter_Nabelek
-  - - web
+  - - web 1
     - https://geology.missouri.edu/people/nabelek
-  - - web2
+  - - web 2
     - http://faculty.missouri.edu/nabelekp/Welcome.html
   - - "\u017Eivotopis"
     - https://geology.missouri.edu/sites/default/files/people-files/2019-09/nabelek_cv.pdf
@@ -429,6 +445,7 @@
   field: "fyzika \u010Dast\xEDc"
   hindex: 34
   img: Radovan_Dermisek.jpg
+  last: "Derm\xED\u0161ek"
   last_update: '2021-09-16'
   links:
   - - web
@@ -457,6 +474,7 @@
   field: "fyzika tuh\xFDch l\xE1tok"
   hindex: 33
   img: Oskar_Vafek.jpg
+  last: Vafek
   last_update: '2021-09-16'
   links:
   - - LinkedIn
@@ -481,6 +499,7 @@
   field: informatika
   hindex: 33
   img: Milos_Hauskrecht.jpg
+  last: Hauskrecht
   last_update: '2020-12-31'
   links:
   - - academictree.com
@@ -517,6 +536,7 @@
   field: "strojov\xE9 u\u010Denie"
   hindex: 33
   img: Miro_Dudik.jpg
+  last: "Dud\xEDk"
   last_update: '2021-09-16'
   links:
   - - dblp
@@ -551,6 +571,7 @@
   field: pediatria
   hindex: 33
   img: Lubica_Rauova.jpg
+  last: "Rauov\xE1"
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -571,6 +592,7 @@
   field: "strojov\xE9 u\u010Denie"
   hindex: 32
   img: Branislav_Kveton.jpg
+  last: "Kveto\u0148"
   last_update: '2020-12-31'
   links:
   - - dblp
@@ -599,6 +621,7 @@
   field: "jadrov\xE1 fyzika"
   hindex: 32
   img: Pavel_Oblozinsky.png
+  last: "Oblo\u017Einsk\xFD"
   last_update: '2021-12-14'
   links:
   - - LinkedIn
@@ -629,6 +652,7 @@
   field: "bioch\xE9mia"
   hindex: 31
   img: Juraj_Svitel.jpg
+  last: "\u0160vitel"
   last_update: '2021-11-21'
   links:
   - - ResearchGate
@@ -659,6 +683,7 @@
   field: "oce\xE1nografia"
   hindex: 31
   img: Henrietta_Dulai.jpg
+  last: Dulai
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -689,6 +714,7 @@
   field: "v\xFDpo\u010Dtov\xE1 katal\xFDza"
   hindex: 30
   img: Michal_Bajdich.jpg
+  last: Bajdich
   last_update: '2021-11-21'
   links:
   - - facebook
@@ -733,6 +759,7 @@
   field: "ekon\xF3mia"
   hindex: 30
   img: Lubos_Pastor.png
+  last: "P\xE1stor"
   last_update: '2021-09-16'
   links:
   - - NBS

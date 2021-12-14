@@ -16,6 +16,7 @@
   field: "neurobiol\xF3gia rastl\xEDn"
   hindex: 78
   img: Frantisek_Baluska.jpg
+  last: "Balu\u0161ka"
   last_update: '2021-09-16'
   links:
   - - loop
@@ -50,6 +51,7 @@
   field: "kvantov\xE1 fyzika"
   hindex: 53
   img: Jaroslav_Fabian.jpg
+  last: "Fabi\xE1n"
   last_update: '2021-09-16'
   links:
   - - web
@@ -78,6 +80,7 @@
   field: "patol\xF3gia"
   hindex: 52
   img: Peter_Boor.jpeg
+  last: Boor
   last_update: '2021-09-16'
   links:
   - - web
@@ -106,6 +109,7 @@
   field: "nanotechnol\xF3gia"
   hindex: 43
   img: Vladimir_Sepelak.png
+  last: "\u0160epel\xE1k"
   last_update: '2021-11-16'
   links:
   - - loop
@@ -121,7 +125,7 @@
   name: "Vladim\xEDr \u0160epel\xE1k"
   position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=gpGngJUAAAAJ&hl=en&oi=sra
-  year: ''
+  year: null
 - affiliation: Hanover Medical University
   affiliationurl: Hanover_Medical_University
   cited_by:
@@ -140,6 +144,7 @@
   field: neuroveda
   hindex: 40
   img: Andrej_Kral.jpg
+  last: "Kr\xE1\u013E"
   last_update: '2021-09-16'
   links:
   - - loop
@@ -162,6 +167,7 @@
   field: "medzin\xE1rodn\xE1 ekon\xF3mia"
   hindex: 34
   img: Jarko_Fidrmuc.jpg
+  last: Fidrmuc
   last_update: '2020-12-31'
   links:
   - - orcid

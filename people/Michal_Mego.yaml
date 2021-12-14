@@ -1,3 +1,10 @@
+name: "Michal Mego"
+last: "Mego"
+
+position: profesor
+scholar: https://scholar.google.com/citations?user=NvHY0EcAAAAJ&amp;hl=en&amp;oi=ao
+year: 1977
+
 affiliation: "Univerzita Komenského"
 city: "Bratislava"
 country: "Slovensko"
@@ -7,7 +14,3 @@ img: Michal_Mego.jpg
 last_update: '2020-12-31'
 links:
   životopis: https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
-name: "Michal Mego"
-position: profesor
-scholar: https://scholar.google.com/citations?user=NvHY0EcAAAAJ&amp;hl=en&amp;oi=ao
-year: 1977

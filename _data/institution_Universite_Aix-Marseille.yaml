@@ -11,11 +11,12 @@
       all: 44
       since_2016: 29
   city: Marseille
-  country: "Franc\xFAzko"
-  countryurl: Francuzko
+  country: "Franc\xFAzsko"
+  countryurl: Francuzsko
   field: "matematick\xE1 fyzika"
   hindex: 30
   img: Ctirad_Klimcik.png
+  last: "Klim\u010D\xEDk"
   last_update: '2021-12-14'
   links:
   - - ResearchGate

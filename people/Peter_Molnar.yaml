@@ -1,15 +1,20 @@
+name: "Peter Molnár"
+last: "Molnár"
+
+position: profesor
+scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
+year: 1982
+
 affiliation: "ETH Zürich"
 city: "Zürich"
 country: "Švajčiarsko"
 field: "hydrológia"
 hindex: 37
-img: Peter_Molnar.png
+
 last_update: '2020-12-31'
 links:
   ResearchGate: https://www.researchgate.net/profile/Peter_Molnar11
   orcid: https://orcid.org/0000-0001-6437-4931
   web: https://hyd.ifu.ethz.ch/the-group/people/person-detail.html?persid=100330
-name: "Peter Molnár"
-position: profesor
-scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
-year: 1982
+
+img: Peter_Molnar.png

@@ -1,3 +1,11 @@
+name: "Norbert Kučerka"
+last: "Kučerka"
+
+position: "výskumný pracovník"
+scholar: https://scholar.google.com/citations?user=W9ls60kAAAAJ
+year: ''
+
+
 affiliation: "Joint Institute for Nuclear Research"
 cited_by:
 - citations:
@@ -21,7 +29,3 @@ links:
   web 2: https://uniba.sk/en/nc/people/kucerka1/
   životopis: http://www.norbbi.com/curriculum/curriculum.html
   loop: https://loop.frontiersin.org/people/1181514/overview
-name: "Norbert Kučerka"
-position: "výskumný pracovník"
-scholar: https://scholar.google.com/citations?user=W9ls60kAAAAJ
-year: ''

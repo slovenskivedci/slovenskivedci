@@ -1,3 +1,9 @@
+name: "František Baluška"
+last: "Baluška"
+position: profesor
+scholar: https://scholar.google.com/citations?user=KF4AYR4AAAAJ&amp;hl=en
+year: 1957
+
 affiliation: "University of Bonn"
 cited_by:
 - citations:
@@ -21,7 +27,3 @@ links:
   orcid: https://orcid.org/0000-0001-8763-7861
   ResearchGate: https://www.researchgate.net/profile/Frantisek-Baluska
   publons: https://publons.com/researcher/4486604/frantisek-baluska/
-name: "František Baluška"
-position: profesor
-scholar: https://scholar.google.com/citations?user=KF4AYR4AAAAJ&amp;hl=en
-year: 1957

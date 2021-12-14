@@ -6,6 +6,7 @@
   field: "automatiz\xE1cia"
   hindex: 41
   img: Ivo_Petras.jpg
+  last: "Petr\xE1\u0161"
   last_update: '2020-12-31'
   links:
   - - web
@@ -34,6 +35,7 @@
   field: "aplikovan\xE1 matematika"
   hindex: 37
   img: Igor_Podlubny.jpeg
+  last: "Podlubn\xFD"
   last_update: '2021-09-16'
   links:
   - - ESET Science Award
@@ -56,6 +58,7 @@
   field: "v\xFDobn\xE9 technol\xF3gie"
   hindex: 31
   img: Sergej_Hloch.jpeg
+  last: Hloch
   last_update: '2020-12-31'
   links:
   - - web
@@ -82,6 +85,7 @@
   field: "te\xF3ria grafov"
   hindex: 30
   img: Martin_Baca.jpeg
+  last: "Ba\u010Da"
   last_update: '2021-09-16'
   links:
   - - LinkedIn

@@ -1,3 +1,9 @@
+name: "Miroslav Grajcar"
+last: "Grajcar"
+position: profesor
+scholar: https://scholar.google.co.in/citations?user=KPgJyEAAAAAJ&amp;hl=en
+year: 1966
+
 affiliation: "Univerzita Komenského"
 city: "Bratislava"
 country: "Slovensko"
@@ -8,7 +14,3 @@ last_update: '2020-12-31'
 links:
   web: http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=grajcar
   životopis: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9067&action=cv
-name: "Miroslav Grajcar"
-position: profesor
-scholar: https://scholar.google.co.in/citations?user=KPgJyEAAAAAJ&amp;hl=en
-year: 1966

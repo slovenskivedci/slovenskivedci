@@ -1,3 +1,10 @@
+name: "Milan Sýkora"
+last: "Sýkora"
+
+position: "výskumný pracovník"
+scholar: https://scholar.google.com/citations?user=fxBzWQcAAAAJ&amp;hl=en
+year: ''
+
 affiliation: "Univerzita Komenského"
 cited_by:
 - citations:
@@ -17,7 +24,3 @@ img: Milan_Sykora.png
 last_update: '2021-09-16'
 links:
   životopis: https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
-name: "Milan Sýkora"
-position: "výskumný pracovník"
-scholar: https://scholar.google.com/citations?user=fxBzWQcAAAAJ&amp;hl=en
-year: ''

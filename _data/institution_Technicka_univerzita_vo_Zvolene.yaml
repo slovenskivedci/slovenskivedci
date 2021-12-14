@@ -10,12 +10,13 @@
   - i10_index:
       all: 72
       since_2016: 42
-  city: ' Zvolen'
+  city: Zvolen
   country: Slovensko
   countryurl: Slovensko
   field: "fytol\xF3gia"
   hindex: 30
   img: Ladislav_Paule.jpg
+  last: Paule
   last_update: '2021-09-16'
   links:
   - - web
@@ -42,6 +43,7 @@
   field: "genetika drev\xEDn"
   hindex: 30
   img: Dusan_Gomory.png
+  last: "G\xF6m\xF6ry"
   last_update: '2021-09-16'
   links:
   - - loop

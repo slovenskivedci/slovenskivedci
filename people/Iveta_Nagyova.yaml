@@ -1,4 +1,10 @@
-affiliation: "Univerzita PJ \u0160af\xE1rika"
+name: "Iveta Nagyová"
+last: "Nagyová"
+position: "vedecká výskumníčka"
+scholar: https://scholar.google.com/citations?user=A2l-bV8AAAAJ&amp;hl=en
+year: ''
+
+affiliation: "Univerzita PJ Šafárika"
 cited_by:
 - citations:
     all: 2921
@@ -17,7 +23,3 @@ img: Iveta_Nagyova.jpg
 last_update: '2021-09-16'
 links:
   web: https://mc3.sk/autor/iveta-nagyova/
-name: "Iveta Nagyová"
-position: "vedecká výskumníčka"
-scholar: https://scholar.google.com/citations?user=A2l-bV8AAAAJ&amp;hl=en
-year: ''

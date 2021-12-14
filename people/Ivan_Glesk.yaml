@@ -1,3 +1,10 @@
+name: "Ivan Glesk"
+last: "Glesk"
+position: profesor
+scholar: https://scholar.google.sk/citations?hl=en&amp;user=2f6Yg78AAAAJ
+year: ''
+
+
 affiliation: "University of Strathclyde"
 cited_by:
 - citations:
@@ -19,7 +26,3 @@ links:
   orcid: https://orcid.org/0000-0002-3176-8069
   web 1: http://personal.strath.ac.uk/ivan.glesk/
   web 2: https://pureportal.strath.ac.uk/en/persons/ivan-glesk
-name: "Ivan Glesk"
-position: profesor
-scholar: https://scholar.google.sk/citations?hl=en&amp;user=2f6Yg78AAAAJ
-year: ''

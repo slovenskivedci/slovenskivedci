@@ -1,3 +1,9 @@
+name: "Miroslav Kolesík"
+last: "Kolesík"
+position: docent
+scholar: https://scholar.google.com/citations?hl=en&amp;user=1tCBM2kAAAAJ
+year: ''
+
 affiliation: "University of Arizona"
 cited_by:
 - citations:
@@ -17,7 +23,3 @@ img: Miroslav_Kolesik.jpg
 last_update: '2021-09-16'
 links:
   web: http://acms.arizona.edu/FemtoTheory/MK_personal/index.html
-name: "Miroslav Kolesík"
-position: docent
-scholar: https://scholar.google.com/citations?hl=en&amp;user=1tCBM2kAAAAJ
-year: ''

@@ -1,4 +1,15 @@
+name: "Bibiana Bieleková"
+last: "Bieleková"
+year: 1969
+
 affiliation: "National Institute of Allergy and Infectious Diseases"
+
+city: "Bethesda"
+country: "USA"
+field: "neuroimunológia"
+hindex: 38
+
+
 cited_by:
 - citations:
     all: 8371
@@ -9,11 +20,8 @@ cited_by:
 - i10_index:
     all: 75
     since_2016: 62
-city: "Bethesda"
-country: "USA"
-field: "neuroimunológia"
-hindex: 38
-img: Bibiana_Bielekova.jpg
+
+
 last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Bibiana_Bielekova
@@ -22,7 +30,8 @@ links:
   publons: https://publons.com/researcher/2002829/bibiana-bielekova/
   web: https://www.niaid.nih.gov/research/bibi-bielekova-md
   životopis: https://demystifyingmedicine.od.nih.gov/dm11/biosketch/dm0301-bielekova-bibiana.pdf
-name: "Bibiana Bieleková"
+
 position: "vedecká pracovníčka"
 scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
-year: 1969
+
+img: Bibiana_Bielekova.jpg

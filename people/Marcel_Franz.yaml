@@ -1,3 +1,10 @@
+name: "Marcel Franz"
+last: "Franz"
+
+position: profesor
+scholar: https://scholar.google.com/citations?user=qOmkOIAAAAAJ&amp;hl=en
+year: ''
+
 affiliation: "University of British Columbia"
 cited_by:
 - citations:
@@ -17,7 +24,3 @@ img: Marcel_Franz.jpg
 last_update: '2021-09-16'
 links:
   web: https://phas.ubc.ca/~franz/
-name: "Marcel Franz"
-position: profesor
-scholar: https://scholar.google.com/citations?user=qOmkOIAAAAAJ&amp;hl=en
-year: ''

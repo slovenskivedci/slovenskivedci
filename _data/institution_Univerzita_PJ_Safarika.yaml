@@ -16,6 +16,7 @@
   field: "soci\xE1lna psychol\xF3gia"
   hindex: 42
   img: Andrea_Madarasova_Geckova.jpg
+  last: "Geckov\xE1"
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -46,6 +47,7 @@
   field: "fyziol\xF3gia rastl\xEDn"
   hindex: 38
   img: Martin_Backor_1.jpg
+  last: "Ba\u010Dkor"
   last_update: '2021-09-17'
   links:
   - - publons
@@ -80,6 +82,7 @@
   field: "behavior\xE1lna medic\xEDna"
   hindex: 34
   img: Iveta_Nagyova.jpg
+  last: "Nagyov\xE1"
   last_update: '2021-09-16'
   links:
   - - web
@@ -96,6 +99,7 @@
   field: "farmakol\xF3gia"
   hindex: 32
   img: Jan_Mojzis.jpg
+  last: "Moj\u017Ei\u0161"
   last_update: '2020-12-31'
   links:
   - - web
@@ -112,6 +116,7 @@
   field: "teoretick\xE1 fyzika"
   hindex: 30
   img: Martin_Gmitra.jpg
+  last: Gmitra
   last_update: '2020-12-31'
   links:
   - - web

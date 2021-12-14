@@ -1,9 +1,13 @@
+name: "Branislav Sitár"
+last: "Sitár"
+year: 1946
+
 affiliation: "Univerzita Komenského"
 city: "Bratislava"
 country: "Slovensko"
 field: "jadrová fyzika"
 hindex: 123
-img: Branislav_Sitar.jpg
+
 last_update: '2020-12-31'
 links:
   publons: https://publons.com/researcher/3258206/brano-sitar/
@@ -11,7 +15,9 @@ links:
   wikipédia: "https://sk.wikipedia.org/wiki/Branislav_Sit\xE1r"
   životopis: "https://www.vedatechnika.sk/SK/enoviny/RozhovoryReportaze/Documents/Profesijn\xFD\
     \ \u017Eivotopis_Branislav Sit\xE1r.pdf"
-name: "Branislav Sitár"
+
 position: profesor
 scholar: https://scholar.google.com/citations?user=4ymEP0sAAAAJ
-year: 1946
+
+
+img: Branislav_Sitar.jpg

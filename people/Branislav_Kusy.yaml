@@ -1,6 +1,9 @@
 name: "Branislav Kusý"
+last: "Kusý"
+year: ''
 
 affiliation: "CSIRO"
+
 cited_by:
 - citations:
     all: 7105
@@ -27,4 +30,3 @@ links:
 
 position: "vedecký pracovník"
 scholar: https://scholar.google.com/citations?hl=en&amp;user=G9w7WT4AAAAJ
-year: ''

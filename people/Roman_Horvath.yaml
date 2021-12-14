@@ -1,15 +1,20 @@
+name: "Roman Horváth"
+last: "Horváth"
+
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=QCr9FugAAAAJ
+year: 1978
+
 affiliation: "Univerzita Karlova"
 city: "Praha"
 country: "Česko"
 field: "ekonómia"
 hindex: 33
-img: Roman_Horvath.jpg
+
 last_update: '2020-12-31'
 links:
   publons: https://publons.com/researcher/2521490/roman-horvath/
   web: https://sites.google.com/view/horvath/
   životopis: http://ies.fsv.cuni.cz/en/staff/horvath
-name: "Roman Horváth"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=QCr9FugAAAAJ
-year: 1978
+
+img: Roman_Horvath.jpg

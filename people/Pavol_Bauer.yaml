@@ -1,3 +1,14 @@
+name: "Pavol Bauer"
+last: "Bauer"
+
+position: profesor
+
+year: ''
+
+
+hindex: 48
+scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp
+
 affiliation: "Delft University of Technology"
 cited_by:
 - citations:
@@ -12,13 +23,11 @@ cited_by:
 city: "Delft"
 country: "Holandsko"
 field: "elektronika"
-hindex: 48
-img: Pavol_Bauer.jpg
+
+
 last_update: '2021-09-16'
 links:
   web: https://www.tudelft.nl/staff/p.bauer/?cHash=96dc8f6d55c5ea75995f7e9d5b68a50d
   životopis: https://www.tudelft.nl/en/staff/p.bauer/
-name: "Pavol Bauer"
-position: profesor
-scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp
-year: ''
+
+img: Pavol_Bauer.jpg

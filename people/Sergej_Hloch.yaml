@@ -1,13 +1,18 @@
+name: "Sergej Hloch"
+last: "Hloch"
+
+position: profesor
+scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
+year: ''
+
 affiliation: "Technická univerzita v Košiciach"
 city: "Košice"
 country: "Slovensko"
 field: "výobné technológie"
 hindex: 31
-img: Sergej_Hloch.jpeg
+
 last_update: '2020-12-31'
 links:
   web: http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
-name: "Sergej Hloch"
-position: profesor
-scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
-year: ''
+
+img: Sergej_Hloch.jpeg

@@ -1,3 +1,9 @@
+name: "Pavol Šajgalík"
+last: "Šajgalík"
+position: profesor
+scholar: https://scholar.google.com/citations?user=AULzHfIAAAAJ&amp;hl=en
+year: 1955
+
 affiliation: "Slovenská akadémia vied"
 cited_by:
 - citations:
@@ -13,12 +19,12 @@ city: "Bratislava"
 country: "Slovensko"
 field: "materiálová veda"
 hindex: 32
-img: Pavol_Sajgalik.jpeg
+
 last_update: '2021-09-16'
 links:
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9228
   wikipédia: "https://sk.wikipedia.org/wiki/Pavol_\u0160ajgal\xEDk"
-name: "Pavol Šajgalík"
-position: profesor
-scholar: https://scholar.google.com/citations?user=AULzHfIAAAAJ&amp;hl=en
-year: 1955
+
+
+
+img: Pavol_Sajgalik.jpeg

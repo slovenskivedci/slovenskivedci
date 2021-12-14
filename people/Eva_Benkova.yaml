@@ -1,3 +1,9 @@
+name: "Eva Benková"
+last: "Benková"
+position: profesorka
+scholar: https://scholar.google.com/citations?hl=en&amp;user=3knjVQkAAAAJ
+year: 1969
+
 affiliation: "IST Austria"
 cited_by:
 - citations:
@@ -18,7 +24,3 @@ last_update: '2021-09-16'
 links:
   web: https://ist.ac.at/en/research/benkova-group/#career
   životopis: https://ist.ac.at/wp-content/uploads/2019/11/CV_Benkova.pdf
-name: "Eva Benková"
-position: profesorka
-scholar: https://scholar.google.com/citations?hl=en&amp;user=3knjVQkAAAAJ
-year: 1969

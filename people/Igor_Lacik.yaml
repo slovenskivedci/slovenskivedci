@@ -1,3 +1,9 @@
+name: "Igor Lacík"
+last: "Lacík"
+position: "vedecký pracovník"
+scholar: https://scholar.google.com/citations?user=SB6Z-ScAAAAJ&amp;hl=en
+year: 1962
+
 affiliation: "Slovenská akadémia vied"
 cited_by:
 - citations:
@@ -20,7 +26,3 @@ links:
   web: http://www.polymer.sav.sk/OVB-Staff
   životopis 1: http://www.polymer.sav.sk/CVcka/cvlacik.pdf
   životopis 2: https://www.learned.sk/wp-content/uploads/2020/01/ZIVOTOPIS_Lacik_Europass-Jan-2020_pre-UcSS.pdf
-name: "Igor Lacík"
-position: "vedecký pracovník"
-scholar: https://scholar.google.com/citations?user=SB6Z-ScAAAAJ&amp;hl=en
-year: '1962'

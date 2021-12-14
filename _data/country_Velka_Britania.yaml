@@ -16,6 +16,7 @@
   field: "virol\xF3gia"
   hindex: 58
   img: Ervin_Fodor.jpg
+  last: Fodor
   last_update: '2021-12-14'
   links:
   - - acmedsci
@@ -50,6 +51,7 @@
   field: "fyzik\xE1lna ch\xE9mia"
   hindex: 44
   img: Philipp_Kukura.jpeg
+  last: Kukura
   last_update: '2020-12-31'
   links:
   - - web
@@ -70,6 +72,7 @@
   field: "nukle\xE1rna magnetick\xE1 rezonancia"
   hindex: 43
   img: Dusan_Uhrin.jpg
+  last: "Uhr\xEDn"
   last_update: '2020-12-31'
   links:
   - - ResearchGate
@@ -98,6 +101,7 @@
   field: elektrotechnika
   hindex: 41
   img: Ivan_Glesk.jpeg
+  last: Glesk
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -128,6 +132,7 @@
   field: "komplexn\xE9 a adapt\xEDvne syst\xE9my"
   hindex: 38
   img: Peter_Tino.jpg
+  last: "Ti\u0148o"
   last_update: '2021-09-16'
   links:
   - - KInIT
@@ -158,6 +163,7 @@
   field: "chemick\xE9 in\u017Einierstvo"
   hindex: 35
   img: Jan_Sefcik.jpeg
+  last: "\u0160ef\u010D\xEDk"
   last_update: '2021-11-06'
   links:
   - - orcid
@@ -192,6 +198,7 @@
   field: "ekol\xF3gia"
   hindex: 32
   img: Martin_Lukac.png
+  last: "Luk\xE1\u010D"
   last_update: '2021-11-21'
   links:
   - - ResearchGate

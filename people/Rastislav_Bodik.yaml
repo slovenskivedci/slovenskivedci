@@ -1,3 +1,9 @@
+name: "Rastislav Bodík"
+last: "Bodík"
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
+year: 1968
+
 affiliation: "University of Washington"
 cited_by:
 - citations:
@@ -26,8 +32,3 @@ links:
   ACM: https://dl.acm.org/profile/81100033082
   IEEE Xplore: https://ieeexplore.ieee.org/author/37332775000
   research.com: https://research.com/u/rastislav-bodik
-
-name: "Rastislav Bodík"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
-year: 1968

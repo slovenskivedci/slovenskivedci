@@ -16,6 +16,7 @@
   field: fotovoltika
   hindex: 49
   img: Miro_Zeman.jpg
+  last: Zeman
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -44,6 +45,7 @@
   field: elektronika
   hindex: 48
   img: Pavol_Bauer.jpg
+  last: Bauer
   last_update: '2021-09-16'
   links:
   - - web
@@ -62,6 +64,7 @@
   field: "kardiovaskul\xE1rna genetika"
   hindex: 35
   img: Michal_Mokry.jpg
+  last: "Mokr\xFD"
   last_update: '2020-12-31'
   links:
   - - LinkedIn
@@ -92,6 +95,7 @@
   field: "reproduk\u010Dn\xE9 a ment\xE1lne zdravie"
   hindex: 30
   img: Lenka_Benova.jpg
+  last: "Be\u0148ov\xE1"
   last_update: '2021-11-19'
   links:
   - - orcid

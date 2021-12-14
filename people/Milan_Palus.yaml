@@ -1,3 +1,10 @@
+name: "Milan Paluš"
+last: "Paluš"
+
+position: "vedecký pracovník"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
+year: 1963
+
 affiliation: "Česká akadémia vied"
 cited_by:
 - citations:
@@ -13,14 +20,12 @@ city: "Praha"
 country: "Česko"
 field: "komplexné systémy"
 hindex: 38
-img: Milan_Palus.jpg
+
 last_update: '2021-09-16'
 links:
   ResearchGate: https://www.researchgate.net/profile/Milan-Palus
   dblp: https://dblp.org/pid/64/7857.html
   publons: https://publons.com/researcher/2698944/milan-palus
   web: http://www.cs.cas.cz/mp/
-name: "Milan Paluš"
-position: "vedecký pracovník"
-scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
-year: 1963
+
+img: Milan_Palus.jpg

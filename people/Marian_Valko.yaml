@@ -1,3 +1,9 @@
+name: "Marián Valko"
+last: "Valko"
+position: profesor
+scholar: https://scholar.google.sk/citations?user=Csnoq7QAAAAJ&amp;hl=en
+year: ''
+
 affiliation: "Slovenská technická univerzita"
 cited_by:
 - citations:
@@ -18,7 +24,3 @@ last_update: '2021-09-16'
 links:
   loop: https://loop.frontiersin.org/people/127211/overview
   web: http://edisk.cvt.stuba.sk/~valkom/Homepage.html
-name: "Marián Valko"
-position: profesor
-scholar: https://scholar.google.sk/citations?user=Csnoq7QAAAAJ&amp;hl=en
-year: ''

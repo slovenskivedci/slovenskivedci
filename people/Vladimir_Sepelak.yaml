@@ -1,5 +1,6 @@
 name: "Vladimír Šepelák"
-year: ''
+last: "Šepelák"
+year:
 
 position: výskumný pracovník
 field: "nanotechnológia"
@@ -23,7 +24,7 @@ cited_by:
 
 
 
-img: Vladimir_Sepelak.png
+
 last_update: '2021-11-16'
 links:
   Semantic Scholar: https://www.semanticscholar.org/author/Vladimir-Šepelák/2089505568
@@ -31,3 +32,5 @@ links:
   životopis: https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Vladimir-Sepelak.pdf
   loop: https://loop.frontiersin.org/people/975150/overview
   web: https://www.int.kit.edu/1801_749.php
+
+img: Vladimir_Sepelak.png

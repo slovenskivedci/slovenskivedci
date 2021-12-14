@@ -1,3 +1,10 @@
+name: "Peter Dolog"
+last: "Dolog"
+
+position: docent
+scholar: https://scholar.google.com/citations?user=gCafUI0AAAAJ&amp;hl=en
+year: ''
+
 affiliation: "Aalborg Universitet"
 city: "Aalborg"
 country: "Dánsko"
@@ -11,7 +18,3 @@ links:
   web 1: https://vbn.aau.dk/en/persons/114729
   web 2: https://peterdolog.wordpress.com
   orcid: https://orcid.org/0000-0003-1842-9131
-name: "Peter Dolog"
-position: docent
-scholar: https://scholar.google.com/citations?user=gCafUI0AAAAJ&amp;hl=en
-year: ''

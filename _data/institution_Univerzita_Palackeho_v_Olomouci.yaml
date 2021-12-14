@@ -22,7 +22,7 @@
     - http://cr-hana.upol.cz/cellbiol/
   - - "\u017Eivotopis"
     - "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160amaj.pdf"
-  name: "Jozef \u0160amaj"
+  name: "\u0160amaj"
   position: profesor
   scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
   year: 1964
@@ -44,6 +44,7 @@
   field: "behavior\xE1lna ekol\xF3gia"
   hindex: 38
   img: Tomas_Grim.jpg
+  last: Grim
   last_update: '2021-09-16'
   links:
   - - loop
@@ -76,6 +77,7 @@
   field: "ch\xE9mia"
   hindex: 31
   img: Radovan_Herchel.jpg
+  last: Herchel
   last_update: '2021-09-16'
   links:
   - - loop

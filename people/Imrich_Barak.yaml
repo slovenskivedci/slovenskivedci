@@ -1,3 +1,9 @@
+name: "Imrich Barák"
+last: "Barák"
+position: "vedecký pracovník"
+scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
+year: 1961
+
 affiliation: "Sloveská akadémia vied"
 cited_by:
 - citations:
@@ -21,7 +27,3 @@ links:
   orcid: https://orcid.org/0000-0002-3690-404X
   osobnosti: https://www.osobnosti.sk/osobnost/imrich-barak-537
   web: http://imb.savba.sk/~barak/
-name: "Imrich Barák"
-position: "vedecký pracovník"
-scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
-year: 1961

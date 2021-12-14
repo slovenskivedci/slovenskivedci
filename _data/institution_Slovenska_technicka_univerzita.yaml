@@ -6,6 +6,7 @@
   field: "aplikovan\xE1 matematika"
   hindex: 65
   img: Radko_Mesiar.jpeg
+  last: Mesiar
   last_update: '2020-12-31'
   links:
   - - dblp
@@ -42,6 +43,7 @@
   field: "ch\xE9mia"
   hindex: 34
   img: Marian_Valko.jpeg
+  last: Valko
   last_update: '2021-09-16'
   links:
   - - loop
@@ -70,6 +72,7 @@
   field: "analytick\xE1 ch\xE9mia"
   hindex: 32
   img: Lubomir_Svorc.jpg
+  last: "\u0160vorc"
   last_update: '2021-11-20'
   links:
   - - orcid
@@ -94,6 +97,7 @@
   field: "aplikovan\xE1 matematika"
   hindex: 32
   img: Karol_Mikula.jpg
+  last: Mikula
   last_update: '2020-12-31'
   links:
   - - web
@@ -120,6 +124,7 @@
   field: "biotechnol\xF3gia"
   hindex: 31
   img: Milan_Certik.jpg
+  last: "\u010Cert\xEDk"
   last_update: '2021-09-16'
   links:
   - - LinkedIn
@@ -154,6 +159,7 @@
   field: "chemick\xE9 in\u017Einierstvo"
   hindex: 30
   img: Milan_Polakovic.jpg
+  last: "Polakovi\u010D"
   last_update: '2021-11-21'
   links:
   - - LinkedIn
@@ -186,6 +192,7 @@
   field: "membr\xE1ny"
   hindex: 30
   img: Stefan_Schlosser.jpg
+  last: Schlosser
   last_update: '2021-11-21'
   links:
   - - LinkedIn
@@ -222,6 +229,7 @@
   field: "organick\xE1 technol\xF3gia"
   hindex: 29
   img: Milan_Hronec.gif
+  last: Hronec
   last_update: '2021-11-24'
   links:
   - - AMiner

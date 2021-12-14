@@ -6,6 +6,7 @@
   field: "jadrov\xE1 fyzika"
   hindex: 123
   img: Branislav_Sitar.jpg
+  last: "Sit\xE1r"
   last_update: '2020-12-31'
   links:
   - - publons
@@ -39,6 +40,7 @@
   field: "onkol\xF3gia"
   hindex: 69
   img: Silvia_Pastorekova.jpg
+  last: "Pastorekov\xE1"
   last_update: '2021-11-30'
   links:
   - - learned.sk
@@ -83,6 +85,7 @@
   field: "virol\xF3gia"
   hindex: 67
   img: Jaromir_Pastorek.jpg
+  last: Pastorek
   last_update: '2021-11-23'
   links:
   - - Microsoft Academic
@@ -113,6 +116,7 @@
   field: "aplikovan\xE1 matematika"
   hindex: 65
   img: Radko_Mesiar.jpeg
+  last: Mesiar
   last_update: '2020-12-31'
   links:
   - - dblp
@@ -149,6 +153,7 @@
   field: "kvantov\xE1 fyzika"
   hindex: 61
   img: Vladimir_Buzek.jpg
+  last: "Bu\u017Eek"
   last_update: '2021-09-16'
   links:
   - - web
@@ -177,6 +182,7 @@
   field: "jadrov\xE1 fyzika"
   hindex: 60
   img: Fedor_Simkovic.jpg
+  last: "\u0160imkovic"
   last_update: '2021-09-16'
   links:
   - - ESET Science Award
@@ -201,6 +207,7 @@
   field: "bioch\xE9mia"
   hindex: 57
   img: Peter_Biely.jpg
+  last: Biely
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -223,6 +230,7 @@
   field: fyzika
   hindex: 57
   img: Vladimir_Cerny.jpg
+  last: "\u010Cern\xFD"
   last_update: '2020-12-31'
   links:
   - - web
@@ -239,6 +247,7 @@
   field: "jadrov\xE1 fyzika"
   hindex: 56
   img: Pavel_Povinec.jpg
+  last: Povinec
   last_update: '2020-12-31'
   links:
   - - academia.edu
@@ -275,6 +284,7 @@
   field: "epidemiol\xF3gia"
   hindex: 55
   img: Marek_Majdan.jpg
+  last: Majdan
   last_update: '2021-09-16'
   links:
   - - LinkedIn
@@ -295,6 +305,7 @@
   field: "aplikovan\xE1 mechanika"
   hindex: 52
   img: Jan_Sladek.jpg
+  last: "Sl\xE1dek"
   last_update: '2020-12-31'
   links:
   - - osobnosti
@@ -323,6 +334,7 @@
   field: "aplikovan\xE1 mechanika"
   hindex: 52
   img: Vladimir_Sladek.png
+  last: "Sl\xE1dek"
   last_update: '2021-09-16'
   links:
   - - osobnosti
@@ -349,6 +361,7 @@
   field: "epidemiol\xF3gia"
   hindex: 49
   img: Alexandra_Brazinova.jpg
+  last: "Bra\u017Einov\xE1"
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -379,6 +392,7 @@
   field: "fyziol\xF3gia rastl\xEDn"
   hindex: 46
   img: Marian_Brestic.jpg
+  last: "Bresti\u010D"
   last_update: '2021-09-16'
   links:
   - - ESET Science Award
@@ -409,6 +423,7 @@
   field: "behavior\xE1lna ekol\xF3gia"
   hindex: 44
   img: Pavol_Prokop.png
+  last: Prokop
   last_update: '2021-09-16'
   links:
   - - loop
@@ -429,6 +444,7 @@
   field: "materi\xE1lov\xE1 ch\xE9mia"
   hindex: 44
   img: Maria_Omastova.jpg
+  last: "Omastov\xE1"
   last_update: '2020-12-31'
   links:
   - - ESET Science Award
@@ -459,6 +475,7 @@
   field: "anorganick\xE1 ch\xE9mia"
   hindex: 44
   img: Roman_Boca.jpg
+  last: "Bo\u010Da"
   last_update: '2021-09-16'
   links:
   - - vedec roka 2011
@@ -479,6 +496,7 @@
   field: botanika
   hindex: 44
   img: Karol_Marhold.jpg
+  last: Marhold
   last_update: '2020-12-31'
   links:
   - - publons
@@ -497,6 +515,7 @@
   field: "biotechnol\xF3gia"
   hindex: 43
   img: Jan_Tkac.jpeg
+  last: "Tk\xE1\u010D"
   last_update: '2020-12-31'
   links:
   - - ESET Science Award
@@ -528,6 +547,7 @@
   field: "soci\xE1lna psychol\xF3gia"
   hindex: 42
   img: Andrea_Madarasova_Geckova.jpg
+  last: "Geckov\xE1"
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -558,6 +578,7 @@
   field: "makromolekul\xE1rna ch\xE9mia"
   hindex: 42
   img: Igor_Lacik.jpeg
+  last: "Lac\xEDk"
   last_update: '2021-09-16'
   links:
   - - ESET Science Award
@@ -571,7 +592,7 @@
   name: "Igor Lac\xEDk"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=SB6Z-ScAAAAJ&amp;hl=en
-  year: '1962'
+  year: 1962
 - affiliation: "Slovensk\xE1 zdravotn\xEDcka univerzita"
   affiliationurl: Slovenska_zdravotnicka_univerzita
   cited_by:
@@ -590,6 +611,7 @@
   field: "farmakol\xF3gia"
   hindex: 42
   img: Tomas_Trnovec.jpg
+  last: Trnovec
   last_update: '2021-09-16'
   links:
   - - LinkedIn
@@ -601,7 +623,7 @@
   name: "Tom\xE1\u0161 Trnovec"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iQivvkcAAAAJ
-  year: '1932'
+  year: 1932
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -610,6 +632,7 @@
   field: "bioch\xE9mia"
   hindex: 42
   img: Olga_Pechanova.jpg
+  last: "Pech\xE1\u0148ov\xE1"
   last_update: '2020-12-31'
   links:
   - - osobnosti
@@ -630,6 +653,7 @@
   field: "automatiz\xE1cia"
   hindex: 41
   img: Ivo_Petras.jpg
+  last: "Petr\xE1\u0161"
   last_update: '2020-12-31'
   links:
   - - web
@@ -659,6 +683,7 @@
   field: "biotechnol\xF3gia"
   hindex: 41
   img: Peter_Gemeiner.png
+  last: Gemeiner
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -688,6 +713,7 @@
   field: "molekul\xE1rna biol\xF3gia"
   hindex: 41
   img: Stefan_Janecek.jpg
+  last: "Jane\u010Dek"
   last_update: '2021-09-16'
   links:
   - - web
@@ -706,6 +732,7 @@
   field: "lek\xE1rska ch\xE9mia"
   hindex: 41
   img: Josef_Jampilek.jpg
+  last: "Jamp\xEDlek"
   last_update: '2021-11-06'
   links:
   - - orcid
@@ -738,6 +765,7 @@
   field: "virol\xF3gia"
   hindex: 40
   img: Boris_Klempa.jpg
+  last: Klempa
   last_update: '2021-11-16'
   links:
   - - ESET Science Award
@@ -774,6 +802,7 @@
   field: "molekul\xE1rna biomedic\xEDna"
   hindex: 40
   img: Peter_Celec.jpg
+  last: Celec
   last_update: '2021-09-16'
   links:
   - - web
@@ -802,6 +831,7 @@
   field: "teoretick\xE1 ch\xE9mia"
   hindex: 40
   img: Jozef_Noga.jpg
+  last: Noga
   last_update: '2021-11-18'
   links:
   - - dblp
@@ -844,6 +874,7 @@
   field: "elektr\xF3nov\xE1 a plazmov\xE1 fyzika"
   hindex: 40
   img: Stefan_Matejcik.jpg
+  last: "Matej\u010D\xEDk"
   last_update: '2021-09-16'
   links:
   - - web
@@ -870,6 +901,7 @@
   field: "fyzik\xE1lna ch\xE9mia"
   hindex: 38
   img: Tomas_Bucko.png
+  last: "Bu\u010Dko"
   last_update: '2021-09-16'
   links:
   - - publons
@@ -898,6 +930,7 @@
   field: "fyziol\xF3gia rastl\xEDn"
   hindex: 38
   img: Martin_Backor_1.jpg
+  last: "Ba\u010Dkor"
   last_update: '2021-09-17'
   links:
   - - publons
@@ -932,6 +965,7 @@
   field: "jadrov\xE1 fyzika"
   hindex: 38
   img: Jozef_Masarik.jpg
+  last: Masarik
   last_update: '2021-09-16'
   links:
   - - web
@@ -962,6 +996,7 @@
   field: "ch\xE9mia"
   hindex: 38
   img: Miroslav_Urban.jpg
+  last: Urban
   last_update: '2021-11-30'
   links:
   - - orcid
@@ -996,6 +1031,7 @@
   field: "biol\xF3gia reprodukcie"
   hindex: 37
   img: Alexander_Sirotkin.jpg
+  last: Sirotkin
   last_update: '2021-09-16'
   links:
   - - publons
@@ -1007,6 +1043,7 @@
   name: Alexander V. Sirotkin
   position: profesor
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=hVqCXAcAAAAJ
+  sex: "mu\u017E"
   year: 1954
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
   affiliationurl: Slovenska_polnohospodarska_univerzita
@@ -1026,6 +1063,7 @@
   field: "fyziol\xF3gia \u017Eivo\u010D\xEDchov"
   hindex: 37
   img: Peter_Massanyi.jpg
+  last: "Mass\xE1nyi"
   last_update: '2021-12-01'
   links:
   - - LinkedIn
@@ -1070,6 +1108,7 @@
   field: biofyzika
   hindex: 37
   img: Tibor_Hianik.jpg
+  last: Hianik
   last_update: '2021-09-16'
   links:
   - - web
@@ -1096,6 +1135,7 @@
   field: "aplikovan\xE1 matematika"
   hindex: 37
   img: Igor_Podlubny.jpeg
+  last: "Podlubn\xFD"
   last_update: '2021-09-16'
   links:
   - - ESET Science Award
@@ -1128,6 +1168,7 @@
   field: "fyziol\xF3gia rastl\xEDn"
   hindex: 37
   img: Marek_Zivcak.jpg
+  last: "\u017Div\u010D\xE1k"
   last_update: '2021-09-16'
   links:
   - - LinkedIn
@@ -1146,6 +1187,7 @@
   field: geofyzika
   hindex: 36
   img: Peter_Moczo.jpg
+  last: Moczo
   last_update: '2020-12-31'
   links:
   - - web
@@ -1176,6 +1218,7 @@
   field: "bioch\xE9mia"
   hindex: 36
   img: Vladimir_Farkas.jpg
+  last: "Farka\u0161"
   last_update: '2021-11-20'
   links:
   - - learned.sk
@@ -1216,6 +1259,7 @@
   field: fyzika
   hindex: 36
   img: Andrej_Liptaj.jpg
+  last: Liptaj
   last_update: '2021-09-16'
   links:
   - - web
@@ -1234,6 +1278,7 @@
   field: "bioanalytick\xE1 ch\xE9mia"
   hindex: 36
   img: Stanislav_Miertus.jpg
+  last: "Miertu\u0161"
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -1258,6 +1303,7 @@
   field: "onkol\xF3gia"
   hindex: 35
   img: Michal_Mego.jpg
+  last: Mego
   last_update: '2020-12-31'
   links:
   - - "\u017Eivotopis"
@@ -1284,6 +1330,7 @@
   field: "fyziol\xF3gia"
   hindex: 35
   img: Iveta_Bernatova.jpg
+  last: "Bern\xE1tov\xE1"
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -1300,6 +1347,7 @@
   field: "biol\xF3gia"
   hindex: 35
   img: Michal_Zeman.jpg
+  last: Zeman
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -1330,6 +1378,7 @@
   field: "v\xFDpo\u010Dtov\xE1 ch\xE9mia"
   hindex: 35
   img: Igor_Tvaroska.jpg
+  last: "Tvaro\u0161ka"
   last_update: '2021-09-16'
   links:
   - - LinkedIn
@@ -1349,7 +1398,7 @@
   name: "Igor Tvaro\u0161ka"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=v71jEjAAAAAJ
-  year: '1944'
+  year: 1944
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   cited_by:
@@ -1368,6 +1417,7 @@
   field: "ch\xE9mia"
   hindex: 34
   img: Marian_Valko.jpeg
+  last: Valko
   last_update: '2021-09-16'
   links:
   - - loop
@@ -1386,6 +1436,7 @@
   field: "nanomateri\xE1ly"
   hindex: 34
   img: Jan_Dusza.jpg
+  last: Dusza
   last_update: '2020-12-31'
   links:
   - - ESET Science Award
@@ -1422,6 +1473,7 @@
   field: "materi\xE1lov\xE1 veda"
   hindex: 34
   img: Milan_Sykora.png
+  last: "S\xFDkora"
   last_update: '2021-09-16'
   links:
   - - "\u017Eivotopis"
@@ -1448,6 +1500,7 @@
   field: "behavior\xE1lna medic\xEDna"
   hindex: 34
   img: Iveta_Nagyova.jpg
+  last: "Nagyov\xE1"
   last_update: '2021-09-16'
   links:
   - - web
@@ -1464,6 +1517,7 @@
   field: "intern\xE1 medic\xEDna"
   hindex: 34
   img: Katarina_Sebekova.jpg
+  last: "\u0160ebekov\xE1"
   last_update: '2020-12-31'
   links:
   - - web
@@ -1492,6 +1546,7 @@
   field: "fyzik\xE1lna ch\xE9mia"
   hindex: 34
   img: Vladimir_Kello.jpg
+  last: "Kell\xF6"
   last_update: '2021-11-30'
   links:
   - - publons
@@ -1522,6 +1577,7 @@
   field: "onkol\xF3gia"
   hindex: 33
   img: Peter_Kubatka.jpg
+  last: Kubatka
   last_update: '2021-11-20'
   links:
   - - facebook
@@ -1562,6 +1618,7 @@
   field: matematika
   hindex: 33
   img: Marek_Fila.jpg
+  last: Fila
   last_update: '2021-09-16'
   links:
   - - dblp
@@ -1596,6 +1653,7 @@
   field: "bioch\xE9mia"
   hindex: 33
   img: Zdenka_Durackova.jpg
+  last: "\u010Eura\u010Dkov\xE1"
   last_update: '2021-11-20'
   links:
   - - LinkedIn
@@ -1632,6 +1690,7 @@
   field: "paleobiol\xF3gia"
   hindex: 33
   img: Adam_Tomasovych.jpg
+  last: "Toma\u0161ov\xFDch"
   last_update: '2021-11-20'
   links:
   - - facebook
@@ -1661,6 +1720,7 @@
   name: "Adam Toma\u0161ov\xFDch"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=7Zkz-9MAAAAJ
+  sex: "mu\u017E"
   year: 1978
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
@@ -1680,6 +1740,7 @@
   field: "jadrov\xE1 fyzika"
   hindex: 33
   img: Stanislav_Antalic.jpg
+  last: "Antali\u010D"
   last_update: '2021-09-16'
   links:
   - - web
@@ -1708,6 +1769,7 @@
   field: "modifik\xE1cia polym\xE9rov"
   hindex: 33
   img: Ivan_Chodak.jpg
+  last: "Chod\xE1k"
   last_update: '2021-11-16'
   links:
   - - learned.sk
@@ -1746,6 +1808,7 @@
   field: "fyzika kondenzovan\xFDch l\xE1tok"
   hindex: 32
   img: Roman_Martonak.jpg
+  last: "Marto\u0148\xE1k"
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -1764,6 +1827,7 @@
   field: "farmakol\xF3gia"
   hindex: 32
   img: Jan_Mojzis.jpg
+  last: "Moj\u017Ei\u0161"
   last_update: '2020-12-31'
   links:
   - - web
@@ -1790,6 +1854,7 @@
   field: fyzika magnetizmu
   hindex: 32
   img: Milan_Timko.jpg
+  last: Timko
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -1822,6 +1887,7 @@
   field: "materi\xE1lov\xE1 veda"
   hindex: 32
   img: Pavol_Sajgalik.jpeg
+  last: "\u0160ajgal\xEDk"
   last_update: '2021-09-16'
   links:
   - - web
@@ -1850,6 +1916,7 @@
   field: "analytick\xE1 ch\xE9mia"
   hindex: 32
   img: Lubomir_Svorc.jpg
+  last: "\u0160vorc"
   last_update: '2021-11-20'
   links:
   - - orcid
@@ -1874,6 +1941,7 @@
   field: "lek\xE1rska bioch\xE9mia"
   hindex: 32
   img: Jan_Lehotsky.jpg
+  last: "Lehotsk\xFD"
   last_update: '2020-12-31'
   links:
   - - loop
@@ -1896,6 +1964,7 @@
   field: "aplikovan\xE1 matematika"
   hindex: 32
   img: Karol_Mikula.jpg
+  last: Mikula
   last_update: '2020-12-31'
   links:
   - - web
@@ -1922,6 +1991,7 @@
   field: "experiment\xE1lna fyzika"
   hindex: 32
   img: Peter_Kopcansky.jpeg
+  last: "Kop\u010Dansk\xFD"
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -1942,6 +2012,7 @@
   field: fyzika
   hindex: 32
   img: Miroslav_Grajcar.jpg
+  last: Grajcar
   last_update: '2020-12-31'
   links:
   - - web
@@ -1960,6 +2031,7 @@
   field: "molekul\xE1rna biol\xF3gia"
   hindex: 32
   img: Juraj_Majtan.jpg
+  last: "Majt\xE1n"
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -1990,6 +2062,7 @@
   field: "patofyziol\xF3gia"
   hindex: 32
   img: Ludovit_Paulis.jpg
+  last: Paulis
   last_update: '2021-09-16'
   links:
   - - web
@@ -2006,6 +2079,7 @@
   field: "fyziol\xF3gia"
   hindex: 32
   img: Tanya_Ravingerova.jpg
+  last: "Ravingerov\xE1"
   last_update: '2020-12-31'
   links:
   - - ResearchGate
@@ -2034,6 +2108,7 @@
   field: matematika
   hindex: 32
   img: Michal_Feckan.jpg
+  last: "Fe\u010Dkan"
   last_update: '2021-09-16'
   links:
   - - ESET Science Award
@@ -2062,6 +2137,7 @@
   field: "patofyziol\xF3gia"
   hindex: 32
   img: Jozef_Ukropec.jpg
+  last: Ukropec
   last_update: '2020-12-31'
   links:
   - - loop
@@ -2098,6 +2174,7 @@
   field: "biomedic\xEDna"
   hindex: 31
   img: Karol_Ondrias.png
+  last: "Ondria\u0161"
   last_update: '2021-09-16'
   links:
   - - web
@@ -2126,6 +2203,7 @@
   field: "biotechnol\xF3gia"
   hindex: 31
   img: Milan_Certik.jpg
+  last: "\u010Cert\xEDk"
   last_update: '2021-09-16'
   links:
   - - LinkedIn
@@ -2150,6 +2228,7 @@
   field: matematika
   hindex: 31
   img: Anatolij_Dvurecenskij.jpeg
+  last: "Dvure\u010Denskij"
   last_update: '2020-12-31'
   links:
   - - dblp
@@ -2189,6 +2268,7 @@
   field: fyzika
   hindex: 31
   img: Marian_Krajci.jpg
+  last: "Kraj\u010D\xED"
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -2217,6 +2297,7 @@
   field: "molekul\xE1rna biol\xF3gia"
   hindex: 31
   img: Imrich_Barak.jpg
+  last: "Bar\xE1k"
   last_update: '2021-09-16'
   links:
   - - loop
@@ -2251,6 +2332,7 @@
   field: geofyzika
   hindex: 31
   img: Jozef_Kristek.jpg
+  last: Kristek
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -2285,6 +2367,7 @@
   field: matematika
   hindex: 31
   img: Pavol_Quittner.jpg
+  last: Quittner
   last_update: '2021-09-16'
   links:
   - - dblp
@@ -2313,6 +2396,7 @@
   field: "v\xFDobn\xE9 technol\xF3gie"
   hindex: 31
   img: Sergej_Hloch.jpeg
+  last: Hloch
   last_update: '2020-12-31'
   links:
   - - web
@@ -2329,6 +2413,7 @@
   field: "teoretick\xE1 fyzika"
   hindex: 30
   img: Martin_Gmitra.jpg
+  last: Gmitra
   last_update: '2020-12-31'
   links:
   - - web
@@ -2355,6 +2440,7 @@
   field: "finan\u010Dn\xFD mana\u017Ement"
   hindex: 30
   img: Tomas_Kliestik.jpg
+  last: "Klie\u0161tik"
   last_update: '2021-12-09'
   links:
   - - econpapers
@@ -2391,6 +2477,7 @@
   field: "geol\xF3gia"
   hindex: 30
   img: Dusan_Plasienka.jpg
+  last: "Pla\u0161ienka"
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -2421,6 +2508,7 @@
   field: biofyzika
   hindex: 30
   img: Lubica_Lacinova.png
+  last: "Lacinov\xE1"
   last_update: '2021-11-06'
   links:
   - - "pam\xE4\u0165 n\xE1roda"
@@ -2447,12 +2535,13 @@
   - i10_index:
       all: 72
       since_2016: 42
-  city: ' Zvolen'
+  city: Zvolen
   country: Slovensko
   countryurl: Slovensko
   field: "fytol\xF3gia"
   hindex: 30
   img: Ladislav_Paule.jpg
+  last: Paule
   last_update: '2021-09-16'
   links:
   - - web
@@ -2479,6 +2568,7 @@
   field: "vulkanol\xF3gia"
   hindex: 30
   img: Jaroslav_Lexa.jpg
+  last: Lexa
   last_update: '2021-12-01'
   links:
   - - ResearchGate
@@ -2513,6 +2603,7 @@
   field: "chemick\xE9 in\u017Einierstvo"
   hindex: 30
   img: Milan_Polakovic.jpg
+  last: "Polakovi\u010D"
   last_update: '2021-11-21'
   links:
   - - LinkedIn
@@ -2545,6 +2636,7 @@
   field: fyzika
   hindex: 30
   img: Zdenko_Machala.jpg
+  last: Machala
   last_update: '2021-11-21'
   links:
   - - ESET Science Award
@@ -2564,7 +2656,7 @@
   name: Zdenko Machala
   position: docent
   scholar: https://scholar.google.sk/citations?hl=en&user=3xq6b60AAAAJ
-  year: ''
+  year: null
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   affiliationurl: Technicka_univerzita_v_Kosiciach
   cited_by:
@@ -2583,6 +2675,7 @@
   field: "te\xF3ria grafov"
   hindex: 30
   img: Martin_Baca.jpeg
+  last: "Ba\u010Da"
   last_update: '2021-09-16'
   links:
   - - LinkedIn
@@ -2617,6 +2710,7 @@
   field: "membr\xE1ny"
   hindex: 30
   img: Stefan_Schlosser.jpg
+  last: Schlosser
   last_update: '2021-11-21'
   links:
   - - LinkedIn
@@ -2653,6 +2747,7 @@
   field: "genetika drev\xEDn"
   hindex: 30
   img: Dusan_Gomory.png
+  last: "G\xF6m\xF6ry"
   last_update: '2021-09-16'
   links:
   - - loop
@@ -2685,6 +2780,7 @@
   field: "bioch\xE9mia"
   hindex: 29
   img: Jozef_Nosek.jpg
+  last: Nosek
   last_update: '2021-11-24'
   links:
   - - AMiner
@@ -2723,6 +2819,7 @@
   field: "web syst\xE9my a umel\xE1 inteligencia"
   hindex: 29
   img: Maria_Bielikova.jpg
+  last: "Bielikov\xE1"
   last_update: '2021-11-18'
   links:
   - - ACM
@@ -2773,6 +2870,7 @@
   field: "organick\xE1 technol\xF3gia"
   hindex: 29
   img: Milan_Hronec.gif
+  last: Hronec
   last_update: '2021-11-24'
   links:
   - - AMiner

@@ -1,3 +1,10 @@
+name: "Marek Hatala"
+last: "Hatala"
+
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=ApdHT0UAAAAJ
+year: ''
+
 affiliation: "Simon Fraser University"
 cited_by:
 - citations:
@@ -21,7 +28,3 @@ links:
   ResearchGate: https://www.researchgate.net/profile/Marek-Hatala
   LinkedIn: https://www.linkedin.com/in/marek-hatala-9887972/?originalSubdomain=ca
   research.com: https://research.com/u/marek-hatala
-name: "Marek Hatala"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=ApdHT0UAAAAJ
-year: ''

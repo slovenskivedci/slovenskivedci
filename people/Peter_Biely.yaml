@@ -1,16 +1,22 @@
+name: "Peter Biely"
+last: "Biely"
+
+position: "výskumný pracovník"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
+year: 1941
+
 affiliation: "Slovenská akadémia vied"
 city: "Bratislava"
 country: "Slovensko"
 field: "biochémia"
 hindex: 57
-img: Peter_Biely.jpg
+
 last_update: '2020-12-31'
 links:
   orcid: https://orcid.org/0000-0002-9915-7707
   publons: https://publons.com/researcher/4030831/peter-biely/
   web: http://www.chem.sk/people/bielypeter/
   životopis: "https://www.learned.sk/wp-content/uploads/2020/03/\u017Divotopis-Peter-Biely.pdf"
-name: "Peter Biely"
-position: "výskumný pracovník"
-scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
-year: 1941
+
+
+img: Peter_Biely.jpg

@@ -3,12 +3,15 @@ city: "Bratislava"
 country: "Slovensko"
 field: "fyzika"
 hindex: 57
-img: Vladimir_Cerny.jpg
+
 last_update: '2020-12-31'
 links:
   web: http://davinci.fmph.uniba.sk/~cerny1/
-  
+
 name: "Vladimír Černý"
+last: "Černý"
 position: docent
 scholar: https://scholar.google.com/citations?hl=en&amp;user=m-twF5IAAAAJ
 year: 1952
+
+img: Vladimir_Cerny.jpg

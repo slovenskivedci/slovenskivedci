@@ -1,3 +1,9 @@
+name: "Radovan Herchel"
+last: "Herchel"
+position: docent
+scholar: https://scholar.google.cz/citations?user=t_V_OnwAAAAJ&amp;hl=cs
+year: ''
+
 affiliation: "Univerzita Palackého v Olomouci"
 cited_by:
 - citations:
@@ -21,7 +27,3 @@ links:
   orcid: https://orcid.org/0000-0001-8262-4666
   publons: https://publons.com/researcher/1372193/radovan-herchel/
   web: https://www.prf.upol.cz/nc/afc/kontakty/vizitka/empid/22158/
-name: "Radovan Herchel"
-position: docent
-scholar: https://scholar.google.cz/citations?user=t_V_OnwAAAAJ&amp;hl=cs
-year: ''

@@ -22,7 +22,7 @@
     - http://cr-hana.upol.cz/cellbiol/
   - - "\u017Eivotopis"
     - "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160amaj.pdf"
-  name: "Jozef \u0160amaj"
+  name: "\u0160amaj"
   position: profesor
   scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
   year: 1964
@@ -34,6 +34,7 @@
   field: "mikrobiol\xF3gia"
   hindex: 47
   img: Peter_Sebo.jpeg
+  last: "\u0160ebo"
   last_update: '2020-12-31'
   links:
   - - fems
@@ -64,6 +65,7 @@
   field: "jadrov\xE1 fyzika"
   hindex: 46
   img: Katarina_Krizkova_Gajdosova.jpg
+  last: "Gajdo\u0161ov\xE1"
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -92,6 +94,7 @@
   field: "aplikovan\xE1 fyzika"
   hindex: 42
   img: Jan_Minar.jpeg
+  last: "Min\xE1r"
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -122,6 +125,7 @@
   field: "environment\xE1lna ch\xE9mia"
   hindex: 41
   img: Branislav_Vrana.jpg
+  last: Vrana
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -152,6 +156,7 @@
   field: "behavior\xE1lna ekol\xF3gia"
   hindex: 38
   img: Tomas_Grim.jpg
+  last: Grim
   last_update: '2021-09-16'
   links:
   - - loop
@@ -184,6 +189,7 @@
   field: "komplexn\xE9 syst\xE9my"
   hindex: 38
   img: Milan_Palus.jpg
+  last: "Palu\u0161"
   last_update: '2021-09-16'
   links:
   - - dblp
@@ -214,11 +220,10 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "biol\xF3gia"
-  firstname: Peter
   hindex: 38
   img: Peter_Kruzliak.jpg
+  last: "Kru\u017Eliak"
   last_update: '2021-11-16'
-  lastname: "Kru\u017Eliak"
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/peter-kruzliak-b61a8a47/?originalSubdomain=cz
@@ -226,7 +231,6 @@
     - https://www.omicsonline.org/author-profile/peter-kruzliak-243383/
   - - orcid
     - https://orcid.org/0000-0002-7069-3784
-  middlename: ''
   name: "Peter Kru\u017Eliak"
   position: CEO
   scholar: https://scholar.google.com/citations?user=ICo_N5sAAAAJ&hl=sk
@@ -239,6 +243,7 @@
   field: "optick\xE9 materi\xE1ly"
   hindex: 35
   img: Alexander_Kromka.png
+  last: Kromka
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -252,6 +257,7 @@
   name: Alexander Kromka
   position: docent
   scholar: https://scholar.google.cz/citations?user=3S5wnV8AAAAJ&amp;hl=cs
+  sex: "mu\u017E"
   year: ''
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
@@ -271,6 +277,7 @@
   field: "bioch\xE9mia"
   hindex: 34
   img: Juraj_Harmatha.jpg
+  last: Harmatha
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -289,6 +296,7 @@
   field: "ekon\xF3mia"
   hindex: 33
   img: Roman_Horvath.jpg
+  last: "Horv\xE1th"
   last_update: '2020-12-31'
   links:
   - - publons
@@ -319,6 +327,7 @@
   field: "ch\xE9mia"
   hindex: 31
   img: Radovan_Herchel.jpg
+  last: Herchel
   last_update: '2021-09-16'
   links:
   - - loop
@@ -353,6 +362,7 @@
   field: biofyzika
   hindex: 30
   img: Veronika_Ostatna.jpeg
+  last: "Ostatn\xE1"
   last_update: '2021-12-14'
   links:
   - - academia.edu
@@ -387,6 +397,7 @@
   field: "chemick\xE9 in\u017Einierstvo"
   hindex: 30
   img: Miroslav_Soos.jpeg
+  last: "\u0160o\xF3\u0161"
   last_update: '2021-09-16'
   links:
   - - LinkedIn

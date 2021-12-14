@@ -1,4 +1,6 @@
 name: "Vladimír Kellö"
+last: "Kellö"
+
 year: 1947
 
 position: "profesor"
@@ -26,6 +28,6 @@ last_update: '2021-11-30'
 links:
   web: https://fns.uniba.sk/vladimir-kelloe/
   životopis: https://fns.uniba.sk/fileadmin/prif/chem/kfz/profiles/CV_Kello_2020.pdf
-  publons: https://publons.com/researcher/2894187/vladimir-kello/  
+  publons: https://publons.com/researcher/2894187/vladimir-kello/
 
 img: Vladimir_Kello.jpg

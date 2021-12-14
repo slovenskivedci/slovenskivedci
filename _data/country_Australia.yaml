@@ -6,6 +6,7 @@
   field: neurogenetika
   hindex: 86
   img: Jozef_Gecz.jpg
+  last: "G\xE9cz"
   last_update: '2020-12-31'
   links:
   - - web
@@ -26,6 +27,7 @@
   field: biogeografia
   hindex: 55
   img: Ladislav_Mucina.png
+  last: Mucina
   last_update: '2021-11-06'
   links:
   - - IAVS
@@ -58,6 +60,7 @@
   field: "epidemiol\xF3gia"
   hindex: 54
   img: Barbora_Courten.jpg
+  last: de Courten
   last_update: '2020-12-31'
   links:
   - - loop
@@ -75,7 +78,7 @@
   name: "Barbora (Voz\xE1rov\xE1) de Courten"
   position: profesorka
   scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
-  year: ''
+  year: null
 - affiliation: University of Adelaide
   affiliationurl: University_of_Adelaide
   cited_by:
@@ -94,6 +97,7 @@
   field: "bioch\xE9mia"
   hindex: 45
   img: Maria_Hrmova.jpg
+  last: "Hrmov\xE1"
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -122,11 +126,10 @@
   country: "Austr\xE1lia"
   countryurl: Australia
   field: fyzika
-  firstname: "Milo\u0161"
   hindex: 38
   img: Milos_Toth.png
+  last: "T\xF3th"
   last_update: '2021-11-16'
-  lastname: "T\xF3th"
   links:
   - - omicsonline
     - https://biography.omicsonline.org/australia/university-of-technology-sydney/milos-toth-974580
@@ -140,7 +143,6 @@
     - https://profiles.uts.edu.au/Milos.Toth
   - - web 2
     - https://tmos.org.au/team/cis/
-  middlename: ''
   name: "Milo\u0161 T\xF3th"
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=OMBz3bIAAAAJ
@@ -163,6 +165,7 @@
   field: "neurol\xF3gia"
   hindex: 35
   img: Tomas_Kalincik.png
+  last: "Kalin\u010D\xEDk"
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -195,6 +198,7 @@
   field: energetika
   hindex: 33
   img: Branislav_Hredzak.jpg
+  last: "Hredz\xE1k"
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -223,6 +227,7 @@
   field: "geochronol\xF3gia"
   hindex: 32
   img: Martin_Danisik.jpg
+  last: "Dani\u0161\xEDk"
   last_update: '2021-11-21'
   links:
   - - dennikn.sk
@@ -259,6 +264,7 @@
   field: "bezdr\xF4tov\xE9 siete a syst\xE9my"
   hindex: 31
   img: Branislav_Kusy.jpg
+  last: "Kus\xFD"
   last_update: '2021-09-16'
   links:
   - - dblp

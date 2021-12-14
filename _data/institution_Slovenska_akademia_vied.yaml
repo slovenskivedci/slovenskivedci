@@ -16,6 +16,7 @@
   field: "onkol\xF3gia"
   hindex: 69
   img: Silvia_Pastorekova.jpg
+  last: "Pastorekov\xE1"
   last_update: '2021-11-30'
   links:
   - - learned.sk
@@ -60,6 +61,7 @@
   field: "virol\xF3gia"
   hindex: 67
   img: Jaromir_Pastorek.jpg
+  last: Pastorek
   last_update: '2021-11-23'
   links:
   - - Microsoft Academic
@@ -100,6 +102,7 @@
   field: "kvantov\xE1 fyzika"
   hindex: 61
   img: Vladimir_Buzek.jpg
+  last: "Bu\u017Eek"
   last_update: '2021-09-16'
   links:
   - - web
@@ -118,6 +121,7 @@
   field: "bioch\xE9mia"
   hindex: 57
   img: Peter_Biely.jpg
+  last: Biely
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -140,6 +144,7 @@
   field: "aplikovan\xE1 mechanika"
   hindex: 52
   img: Jan_Sladek.jpg
+  last: "Sl\xE1dek"
   last_update: '2020-12-31'
   links:
   - - osobnosti
@@ -168,6 +173,7 @@
   field: "aplikovan\xE1 mechanika"
   hindex: 52
   img: Vladimir_Sladek.png
+  last: "Sl\xE1dek"
   last_update: '2021-09-16'
   links:
   - - osobnosti
@@ -184,6 +190,7 @@
   field: "materi\xE1lov\xE1 ch\xE9mia"
   hindex: 44
   img: Maria_Omastova.jpg
+  last: "Omastov\xE1"
   last_update: '2020-12-31'
   links:
   - - ESET Science Award
@@ -204,6 +211,7 @@
   field: botanika
   hindex: 44
   img: Karol_Marhold.jpg
+  last: Marhold
   last_update: '2020-12-31'
   links:
   - - publons
@@ -222,6 +230,7 @@
   field: "biotechnol\xF3gia"
   hindex: 43
   img: Jan_Tkac.jpeg
+  last: "Tk\xE1\u010D"
   last_update: '2020-12-31'
   links:
   - - ESET Science Award
@@ -253,6 +262,7 @@
   field: "makromolekul\xE1rna ch\xE9mia"
   hindex: 42
   img: Igor_Lacik.jpeg
+  last: "Lac\xEDk"
   last_update: '2021-09-16'
   links:
   - - ESET Science Award
@@ -266,7 +276,7 @@
   name: "Igor Lac\xEDk"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=SB6Z-ScAAAAJ&amp;hl=en
-  year: '1962'
+  year: 1962
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -275,6 +285,7 @@
   field: "bioch\xE9mia"
   hindex: 42
   img: Olga_Pechanova.jpg
+  last: "Pech\xE1\u0148ov\xE1"
   last_update: '2020-12-31'
   links:
   - - osobnosti
@@ -306,6 +317,7 @@
   field: "biotechnol\xF3gia"
   hindex: 41
   img: Peter_Gemeiner.png
+  last: Gemeiner
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -335,6 +347,7 @@
   field: "molekul\xE1rna biol\xF3gia"
   hindex: 41
   img: Stefan_Janecek.jpg
+  last: "Jane\u010Dek"
   last_update: '2021-09-16'
   links:
   - - web
@@ -363,6 +376,7 @@
   field: "virol\xF3gia"
   hindex: 40
   img: Boris_Klempa.jpg
+  last: Klempa
   last_update: '2021-11-16'
   links:
   - - ESET Science Award
@@ -399,6 +413,7 @@
   field: "bioch\xE9mia"
   hindex: 36
   img: Vladimir_Farkas.jpg
+  last: "Farka\u0161"
   last_update: '2021-11-20'
   links:
   - - learned.sk
@@ -439,6 +454,7 @@
   field: fyzika
   hindex: 36
   img: Andrej_Liptaj.jpg
+  last: Liptaj
   last_update: '2021-09-16'
   links:
   - - web
@@ -467,6 +483,7 @@
   field: "fyziol\xF3gia"
   hindex: 35
   img: Iveta_Bernatova.jpg
+  last: "Bern\xE1tov\xE1"
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -493,6 +510,7 @@
   field: "v\xFDpo\u010Dtov\xE1 ch\xE9mia"
   hindex: 35
   img: Igor_Tvaroska.jpg
+  last: "Tvaro\u0161ka"
   last_update: '2021-09-16'
   links:
   - - LinkedIn
@@ -512,7 +530,7 @@
   name: "Igor Tvaro\u0161ka"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?hl=en&amp;user=v71jEjAAAAAJ
-  year: '1944'
+  year: 1944
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: "Ko\u0161ice"
@@ -521,6 +539,7 @@
   field: "nanomateri\xE1ly"
   hindex: 34
   img: Jan_Dusza.jpg
+  last: Dusza
   last_update: '2020-12-31'
   links:
   - - ESET Science Award
@@ -557,6 +576,7 @@
   field: "paleobiol\xF3gia"
   hindex: 33
   img: Adam_Tomasovych.jpg
+  last: "Toma\u0161ov\xFDch"
   last_update: '2021-11-20'
   links:
   - - facebook
@@ -586,6 +606,7 @@
   name: "Adam Toma\u0161ov\xFDch"
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=7Zkz-9MAAAAJ
+  sex: "mu\u017E"
   year: 1978
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
@@ -605,6 +626,7 @@
   field: "modifik\xE1cia polym\xE9rov"
   hindex: 33
   img: Ivan_Chodak.jpg
+  last: "Chod\xE1k"
   last_update: '2021-11-16'
   links:
   - - learned.sk
@@ -643,6 +665,7 @@
   field: fyzika magnetizmu
   hindex: 32
   img: Milan_Timko.jpg
+  last: Timko
   last_update: '2021-09-16'
   links:
   - - orcid
@@ -675,6 +698,7 @@
   field: "materi\xE1lov\xE1 veda"
   hindex: 32
   img: Pavol_Sajgalik.jpeg
+  last: "\u0160ajgal\xEDk"
   last_update: '2021-09-16'
   links:
   - - web
@@ -703,6 +727,7 @@
   field: "experiment\xE1lna fyzika"
   hindex: 32
   img: Peter_Kopcansky.jpeg
+  last: "Kop\u010Dansk\xFD"
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -723,6 +748,7 @@
   field: "molekul\xE1rna biol\xF3gia"
   hindex: 32
   img: Juraj_Majtan.jpg
+  last: "Majt\xE1n"
   last_update: '2020-12-31'
   links:
   - - orcid
@@ -743,6 +769,7 @@
   field: "fyziol\xF3gia"
   hindex: 32
   img: Tanya_Ravingerova.jpg
+  last: "Ravingerov\xE1"
   last_update: '2020-12-31'
   links:
   - - ResearchGate
@@ -771,6 +798,7 @@
   field: "biomedic\xEDna"
   hindex: 31
   img: Karol_Ondrias.png
+  last: "Ondria\u0161"
   last_update: '2021-09-16'
   links:
   - - web
@@ -789,6 +817,7 @@
   field: matematika
   hindex: 31
   img: Anatolij_Dvurecenskij.jpeg
+  last: "Dvure\u010Denskij"
   last_update: '2020-12-31'
   links:
   - - dblp
@@ -828,6 +857,7 @@
   field: fyzika
   hindex: 31
   img: Marian_Krajci.jpg
+  last: "Kraj\u010D\xED"
   last_update: '2021-09-16'
   links:
   - - ResearchGate
@@ -856,6 +886,7 @@
   field: biofyzika
   hindex: 30
   img: Lubica_Lacinova.png
+  last: "Lacinov\xE1"
   last_update: '2021-11-06'
   links:
   - - "pam\xE4\u0165 n\xE1roda"
@@ -888,6 +919,7 @@
   field: "vulkanol\xF3gia"
   hindex: 30
   img: Jaroslav_Lexa.jpg
+  last: Lexa
   last_update: '2021-12-01'
   links:
   - - ResearchGate
