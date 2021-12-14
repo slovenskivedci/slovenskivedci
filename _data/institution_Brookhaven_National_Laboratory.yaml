@@ -1,0 +1,30 @@
+- affiliation: Brookhaven National Laboratory
+  affiliationurl: Brookhaven_National_Laboratory
+  cited_by:
+  - citations:
+      all: 10621
+      since_2016: 4746
+  - h_index:
+      all: 32
+      since_2016: 16
+  - i10_index:
+      all: 62
+      since_2016: 20
+  city: Upton
+  country: USA
+  countryurl: USA
+  field: "jadrov\xE1 fyzika"
+  hindex: 32
+  img: Pavel_Oblozinsky.png
+  last_update: '2021-12-14'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/pavel-oblozinsky-335308ba/?originalSubdomain=sk
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/P-Oblozinsky-81811255
+  - - "\u017Eivotopis"
+    - https://indico.cern.ch/event/675816/page/12195-pavel-oblozinsky
+  name: "Pavel Oblo\u017Einsk\xFD"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=lrz3brYAAAAJ&hl=en
+  year: 1943

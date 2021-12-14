@@ -335,6 +335,40 @@
   position: docent
   scholar: https://scholar.google.cz/citations?user=t_V_OnwAAAAJ&amp;hl=cs
   year: ''
+- affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
+  affiliationurl: Ceska_akademia_vied
+  cited_by:
+  - citations:
+      all: 2693
+      since_2016: 1652
+  - h_index:
+      all: 30
+      since_2016: 21
+  - i10_index:
+      all: 48
+      since_2016: 29
+  city: Brno
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: biofyzika
+  hindex: 30
+  img: Veronika_Ostatna.jpeg
+  last_update: '2021-12-14'
+  links:
+  - - academia.edu
+    - https://independent.academia.edu/VeronikaOstatna
+  - - orcid
+    - https://orcid.org/0000-0001-5721-1608
+  - - publons
+    - https://publons.com/researcher/2518244/veronika-ostatna/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Veronika-Ostatna
+  - - web
+    - https://www.ibp.cz/cs/vyzkum/oddeleni/biofyzikalni-chemie-a-molekularni-onkologie/zamestnanci/129
+  name: "Veronika Ostatn\xE1"
+  position: "vedeck\xE1 pracovn\xED\u010Dka"
+  scholar: https://scholar.google.com/citations?hl=en&user=ZezlLfEAAAAJ
+  year: null
 - affiliation: "Vysok\xE1 \u0161kola chemicko-technologick\xE1"
   affiliationurl: Vysoka_skola_chemicko-technologicka
   cited_by:

@@ -449,6 +449,50 @@
   position: principal research officer
   scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ&amp;hl=sk&amp;oi=ao
   year: 1967
+- affiliation: University Oxford
+  affiliationurl: University_Oxford
+  cited_by:
+  - citations:
+      all: 11387
+      since_2016: 5375
+  - h_index:
+      all: 58
+      since_2016: 40
+  - i10_index:
+      all: 92
+      since_2016: 85
+  city: Oxford
+  country: "Ve\u013Ek\xE1 Brit\xE1nia"
+  countryurl: Velka_Britania
+  field: "virol\xF3gia"
+  hindex: 58
+  img: Ervin_Fodor.jpg
+  last_update: '2021-12-14'
+  links:
+  - - acmedsci
+    - https://acmedsci.ac.uk/fellows/fellows-directory/ordinary-fellows/fellow/Professor-Ervin-Fodor-0017930
+  - - orcid
+    - https://orcid.org/0000-0003-3249-196X
+  - - prabook
+    - https://prabook.com/web/ervin.fodor/482871
+  - - publons
+    - https://publons.com/researcher/335920/ervin-fodor/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Ervin-Fodor-39288116
+  - - twitter
+    - https://twitter.com/fodorlab
+  - - UKRI
+    - https://gtr.ukri.org/person/2739E4AE-CD02-41E7-B50E-7B683E3D666D
+  - - web 1
+    - http://fodor.path.ox.ac.uk
+  - - web 2
+    - https://www.path.ox.ac.uk/content/ervin-fodor
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Ervin_Fodor
+  name: Ervin Fodor
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=vcIizE8AAAAJ
+  year: 1965
 - affiliation: "Univerzita Palack\xE9ho v Olomouci"
   affiliationurl: Univerzita_Palackeho_v_Olomouci
   cited_by:
@@ -4265,6 +4309,36 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
   year: ''
+- affiliation: Brookhaven National Laboratory
+  affiliationurl: Brookhaven_National_Laboratory
+  cited_by:
+  - citations:
+      all: 10621
+      since_2016: 4746
+  - h_index:
+      all: 32
+      since_2016: 16
+  - i10_index:
+      all: 62
+      since_2016: 20
+  city: Upton
+  country: USA
+  countryurl: USA
+  field: "jadrov\xE1 fyzika"
+  hindex: 32
+  img: Pavel_Oblozinsky.png
+  last_update: '2021-12-14'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/pavel-oblozinsky-335308ba/?originalSubdomain=sk
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/P-Oblozinsky-81811255
+  - - "\u017Eivotopis"
+    - https://indico.cern.ch/event/675816/page/12195-pavel-oblozinsky
+  name: "Pavel Oblo\u017Einsk\xFD"
+  position: profesor
+  scholar: https://scholar.google.com/citations?user=lrz3brYAAAAJ&hl=en
+  year: 1943
 - affiliation: University of Reading
   affiliationurl: University_of_Reading
   cited_by:
@@ -4786,6 +4860,40 @@
   position: "vedeck\xFD pracovn\xEDk"
   scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&amp;hl=en
   year: ''
+- affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
+  affiliationurl: Ceska_akademia_vied
+  cited_by:
+  - citations:
+      all: 2693
+      since_2016: 1652
+  - h_index:
+      all: 30
+      since_2016: 21
+  - i10_index:
+      all: 48
+      since_2016: 29
+  city: Brno
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: biofyzika
+  hindex: 30
+  img: Veronika_Ostatna.jpeg
+  last_update: '2021-12-14'
+  links:
+  - - academia.edu
+    - https://independent.academia.edu/VeronikaOstatna
+  - - orcid
+    - https://orcid.org/0000-0001-5721-1608
+  - - publons
+    - https://publons.com/researcher/2518244/veronika-ostatna/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Veronika-Ostatna
+  - - web
+    - https://www.ibp.cz/cs/vyzkum/oddeleni/biofyzikalni-chemie-a-molekularni-onkologie/zamestnanci/129
+  name: "Veronika Ostatn\xE1"
+  position: "vedeck\xE1 pracovn\xED\u010Dka"
+  scholar: https://scholar.google.com/citations?hl=en&user=ZezlLfEAAAAJ
+  year: null
 - affiliation: Stanford University
   affiliationurl: Stanford_University
   cited_by:
@@ -5098,6 +5206,58 @@
   position: profesor
   scholar: https://scholar.google.com/citations?user=2lo3e7sAAAAJ&hl=en
   year: 1977
+- affiliation: Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)
+  affiliationurl: Mohamed_Bin_Zayed_University_of_Artificial_Intelligence_(MBZUAI)
+  cited_by:
+  - citations:
+      all: 5114
+      since_2016: 4330
+  - h_index:
+      all: 30
+      since_2016: 28
+  - i10_index:
+      all: 51
+      since_2016: 50
+  city: Abu Dhabi
+  country: "Spojen\xE9 Arabsk\xE9 Emir\xE1ty"
+  countryurl: Spojene_Arabske_Emiraty
+  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
+  hindex: 30
+  img: Martin_Takac.jpg
+  last_update: '2021-12-14'
+  links:
+  - - dblp
+    - https://dblp.org/pid/42/3759.html
+  - - IEEE Xplore
+    - https://ieeexplore.ieee.org/author/37085360273
+  - - KInIT
+    - https://kinit.sk/meet-martin-takac-kinit-external-mentor/
+  - - LinkedIn
+    - https://www.linkedin.com/in/martintakac/
+  - - loop
+    - https://loop.frontiersin.org/people/199374/overview
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182721
+  - - openreview
+    - https://openreview.net/profile?id=~Martin_Takac3
+  - - orcid
+    - https://orcid.org/0000-0001-7455-2025
+  - - publons
+    - https://publons.com/researcher/484601/martin-takac/
+  - - SlidesLive
+    - https://slideslive.com/s/martin-takac-23271
+  - - twitter
+    - https://twitter.com/takacmartin
+  - - web 1
+    - http://mtakac.com
+  - - web 2
+    - https://engineering.lehigh.edu/faculty/martin-takac
+  - - "\u017Eivotopis"
+    - https://mtakac.com/CV
+  name: "Martin Tak\xE1\u010D"
+  position: docent
+  scholar: https://scholar.google.com/citations?hl=en&user=qKQD-2cAAAAJ
+  year: ''
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   cited_by:
@@ -5308,6 +5468,34 @@
   position: "v\xFDskumn\xFD pracovn\xEDk"
   scholar: https://scholar.google.com/citations?user=J2qs3RMAAAAJ&hl=en
   year: ''
+- affiliation: "Universit\xE9 Aix-Marseille"
+  affiliationurl: Universite_Aix-Marseille
+  cited_by:
+  - citations:
+      all: 4139
+      since_2016: 1652
+  - h_index:
+      all: 30
+      since_2016: 21
+  - i10_index:
+      all: 44
+      since_2016: 29
+  city: Marseille
+  country: "Franc\xFAzko"
+  countryurl: Francuzko
+  field: "matematick\xE1 fyzika"
+  hindex: 30
+  img: Ctirad_Klimcik.png
+  last_update: '2021-12-14'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Ctirad-Klimcik
+  - - web
+    - https://www.i2m.univ-amu.fr/user/ctirad.klimcik/
+  name: "Ctirad Klim\u010D\xEDk"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=sk&user=gKofB3UAAAAJ
+  year: 1961
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
   affiliationurl: Technicka_univerzita_vo_Zvolene
   cited_by:
@@ -5412,58 +5600,6 @@
   position: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=VzDSjLcAAAAJ
   year: 1967
-- affiliation: Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)
-  affiliationurl: Mohamed_Bin_Zayed_University_of_Artificial_Intelligence_(MBZUAI)
-  cited_by:
-  - citations:
-      all: 5015
-      since_2016: 4330
-  - h_index:
-      all: 29
-      since_2016: 28
-  - i10_index:
-      all: 50
-      since_2016: 50
-  city: Abu Dhabi
-  country: "Spojen\xE9 Arabsk\xE9 Emir\xE1ty"
-  countryurl: Spojene_Arabske_Emiraty
-  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
-  hindex: 29
-  img: Martin_Takac.jpg
-  last_update: '2021-11-18'
-  links:
-  - - dblp
-    - https://dblp.org/pid/42/3759.html
-  - - IEEE Xplore
-    - https://ieeexplore.ieee.org/author/37085360273
-  - - KInIT
-    - https://kinit.sk/meet-martin-takac-kinit-external-mentor/
-  - - LinkedIn
-    - https://www.linkedin.com/in/martintakac/
-  - - loop
-    - https://loop.frontiersin.org/people/199374/overview
-  - - Mathematics Genealogy
-    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182721
-  - - openreview
-    - https://openreview.net/profile?id=~Martin_Takac3
-  - - orcid
-    - https://orcid.org/0000-0001-7455-2025
-  - - publons
-    - https://publons.com/researcher/484601/martin-takac/
-  - - SlidesLive
-    - https://slideslive.com/s/martin-takac-23271
-  - - twitter
-    - https://twitter.com/takacmartin
-  - - web 1
-    - http://mtakac.com
-  - - web 2
-    - https://engineering.lehigh.edu/faculty/martin-takac
-  - - "\u017Eivotopis"
-    - https://mtakac.com/CV
-  name: "Martin Tak\xE1\u010D"
-  position: docent
-  scholar: https://scholar.google.com/citations?hl=en&user=qKQD-2cAAAAJ
-  year: ''
 - affiliation: Kempelen Institute of Intelligent Technologies (KInIT)
   affiliationurl: Kempelen_Institute_of_Intelligent_Technologies_(KInIT)
   cited_by:

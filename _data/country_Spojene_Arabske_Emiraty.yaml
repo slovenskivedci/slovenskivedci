@@ -30,21 +30,21 @@
   affiliationurl: Mohamed_Bin_Zayed_University_of_Artificial_Intelligence_(MBZUAI)
   cited_by:
   - citations:
-      all: 5015
+      all: 5114
       since_2016: 4330
   - h_index:
-      all: 29
+      all: 30
       since_2016: 28
   - i10_index:
-      all: 50
+      all: 51
       since_2016: 50
   city: Abu Dhabi
   country: "Spojen\xE9 Arabsk\xE9 Emir\xE1ty"
   countryurl: Spojene_Arabske_Emiraty
   field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
-  hindex: 29
+  hindex: 30
   img: Martin_Takac.jpg
-  last_update: '2021-11-18'
+  last_update: '2021-12-14'
   links:
   - - dblp
     - https://dblp.org/pid/42/3759.html

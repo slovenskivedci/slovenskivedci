@@ -1,0 +1,28 @@
+- affiliation: "Universit\xE9 Aix-Marseille"
+  affiliationurl: Universite_Aix-Marseille
+  cited_by:
+  - citations:
+      all: 4139
+      since_2016: 1652
+  - h_index:
+      all: 30
+      since_2016: 21
+  - i10_index:
+      all: 44
+      since_2016: 29
+  city: Marseille
+  country: "Franc\xFAzko"
+  countryurl: Francuzko
+  field: "matematick\xE1 fyzika"
+  hindex: 30
+  img: Ctirad_Klimcik.png
+  last_update: '2021-12-14'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Ctirad-Klimcik
+  - - web
+    - https://www.i2m.univ-amu.fr/user/ctirad.klimcik/
+  name: "Ctirad Klim\u010D\xEDk"
+  position: profesor
+  scholar: https://scholar.google.com/citations?hl=sk&user=gKofB3UAAAAJ
+  year: 1961
