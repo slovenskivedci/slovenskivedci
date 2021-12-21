@@ -39,7 +39,7 @@ title: Home
 								<b>{{ item.field }}</b>
 
 								<br/>
-
+ 
 
 								 <b><a href="{{ item.scholar }}" target="_blank">H-index: {{ item.hindex }}</a></b>
 
@@ -48,17 +48,20 @@ title: Home
 								   {{ item.position }}
 								    <br/>
 
-								  <a href="affiliation_{{ item.affiliationurl }}.html">{{ item.affiliation }}</a>,
-								   {{ item.city }},
-                   <a href="country_{{ item.countryurl }}.html">{{ item.country }}</a>
+								  <a class="button-round w-button" >{{ item.affiliation }}</a>
+								   
+								   <a class="button-round w-button" >{{ item.city }}</a>
+                   <a class="button-round w-button" >{{ item.country }}</a>
                 </p>
 
+
+{{ item.countryurl }} {{ item.affiliationurl }}
 
 							</p>
 
 
 							{% for link in item.links %}
-								<a href="{{ link[1] }}" class="button-round w-button">{{ link[0] }}</a>
+								<a href="{{ link[1] }}" >{{ link[0] }}</a>
 							{% endfor %}
 
 

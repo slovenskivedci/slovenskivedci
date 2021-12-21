@@ -1,0 +1,309 @@
+affiliation:
+  Aalborg Universitet: 1
+  Amazon: 1
+  Apple: 1
+  Brookhaven National Laboratory: 1
+  CSIRO: 1
+  Central European University: 1
+  Curtin University: 1
+  Delft University of Technology: 2
+  "ETH Z\xFCrich": 2
+  "Eur\xF3pska komisia": 1
+  Florida State University: 1
+  Georga Mason University: 1
+  Google: 1
+  Hanover Medical University: 1
+  IST Austria: 1
+  Indiana University Bloomington: 1
+  Institute of Tropical Medicine Antwerp: 1
+  Joint Institute for Nuclear Research: 1
+  Karlsruhe Institute of Technology: 1
+  King Abdullah University of Science and Technology (KAUST): 2
+  Krembil Research Institute: 1
+  Masarykova univerzita: 1
+  McMaster University: 1
+  Medical University of Vienna: 3
+  Microsoft Research: 1
+  Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI): 1
+  Monash University: 1
+  Moorfields Eye Hospital: 1
+  Murdoch University: 1
+  NGM Biopharmaceuticals: 1
+  National Institute of Allergy and Infectious Diseases: 1
+  National Research Council: 1
+  New York University: 1
+  Oregon State University: 1
+  Oxford University: 1
+  Qatar University: 2
+  RWTH Aachen: 1
+  Research and Development Services: 1
+  Simon Fraser University: 2
+  "Slovensk\xE1 akad\xE9mia vied": 31
+  "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita": 3
+  "Slovensk\xE1 technick\xE1 univerzita": 7
+  "Slovensk\xE1 zdravotn\xEDcka univerzita": 1
+  "Slovesk\xE1 akad\xE9mia vied": 2
+  Stanford University: 1
+  "Technick\xE1 univerzita v Ko\u0161iciach": 4
+  "Technick\xE1 univerzita vo Zvolene": 2
+  The University of Melbourne: 1
+  Trinity College Dublin: 1
+  "Trnavsk\xE1 univerzita": 1
+  University Medical Center Utrecht: 1
+  University Oxford: 1
+  University of Adelaide: 2
+  University of Arizona: 1
+  University of Birmingham: 1
+  University of Bonn: 1
+  University of British Columbia: 1
+  University of California: 2
+  University of Chicago: 1
+  University of Edinburgh: 1
+  University of Hawaii: 1
+  University of Illinois: 1
+  University of Louisville: 1
+  University of Minnesota: 1
+  University of Missouri: 2
+  University of Natural Resources and Life Sciences: 2
+  University of New South Wales: 1
+  University of North Carolina: 2
+  University of Ottawa: 1
+  University of Pennsylvania: 1
+  University of Pittsburgh: 1
+  University of Reading: 1
+  University of Regensburg: 1
+  University of Strathclyde: 2
+  University of Technology Sydney: 1
+  University of Toronto: 2
+  University of Vienna: 1
+  University of Washington: 1
+  University of Zurich: 1
+  "Universit\xE9 Aix-Marseille": 1
+  Univerzita Karlova: 1
+  "Univerzita Komensk\xE9ho": 33
+  "Univerzita Kon\u0161tant\xEDna Filozofa": 1
+  "Univerzita PJ \u0160af\xE1rika": 5
+  "Univerzita Palack\xE9ho v Olomouci": 3
+  "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave": 2
+  Vienna University of Technology: 1
+  "Vysok\xE1 \u0161kola chemicko-technologick\xE1": 1
+  Zeppelin University: 1
+  "Z\xE1pado\u010Desk\xE1 univerzita v Plzni": 1
+  "\u010Cesk\xE1 akad\xE9mia vied": 5
+  "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe": 1
+  "\u017Dilinsk\xE1 univerzita": 1
+countries:
+  "Austr\xE1lia": 9
+  "D\xE1nsko": 1
+  "Franc\xFAzsko": 1
+  Holandsko: 4
+  Kanada: 9
+  Katar: 2
+  Nemecko: 6
+  "Rak\xFAsko": 9
+  "Rusk\xE1 Feder\xE1cia": 1
+  "Saudsk\xE1 Ar\xE1bia": 2
+  Slovensko: 93
+  "Spojen\xE9 Arabsk\xE9 Emir\xE1ty": 2
+  USA: 27
+  "Ve\u013Ek\xE1 Brit\xE1nia": 7
+  "\xCDrsko": 1
+  "\u010Cesko": 14
+  "\u0160panielsko": 1
+  "\u0160vaj\u010Diarsko": 4
+hindex:
+- 37
+- 32
+- 37
+- 31
+- 31
+- 32
+- 35
+- 30
+- 32
+- 31
+- 38
+- 53
+- 32
+- 34
+- 44
+- 40
+- 30
+- 38
+- 56
+- 33
+- 72
+- 42
+- 32
+- 42
+- 30
+- 54
+- 49
+- 33
+- 37
+- 40
+- 41
+- 32
+- 78
+- 30
+- 49
+- 65
+- 45
+- 43
+- 31
+- 34
+- 34
+- 69
+- 123
+- 45
+- 48
+- 32
+- 32
+- 40
+- 55
+- 42
+- 47
+- 42
+- 44
+- 33
+- 38
+- 86
+- 104
+- 32
+- 41
+- 67
+- 32
+- 41
+- 38
+- 89
+- 35
+- 30
+- 31
+- 60
+- 30
+- 34
+- 68
+- 44
+- 35
+- 47
+- 30
+- 32
+- 38
+- 41
+- 38
+- 44
+- 56
+- 46
+- 52
+- 32
+- 30
+- 44
+- 32
+- 35
+- 31
+- 45
+- 35
+- 41
+- 42
+- 61
+- 32
+- 79
+- 46
+- 42
+- 41
+- 36
+- 40
+- 37
+- 43
+- 34
+- 38
+- 31
+- 35
+- 32
+- 30
+- 38
+- 45
+- 38
+- 30
+- 55
+- 30
+- 32
+- 31
+- 47
+- 54
+- 38
+- 30
+- 33
+- 44
+- 55
+- 33
+- 45
+- 36
+- 32
+- 30
+- 31
+- 58
+- 33
+- 49
+- 41
+- 87
+- 44
+- 36
+- 47
+- 33
+- 33
+- 42
+- 37
+- 33
+- 42
+- 44
+- 30
+- 34
+- 38
+- 48
+- 32
+- 55
+- 48
+- 31
+- 35
+- 31
+- 37
+- 52
+- 37
+- 57
+- 30
+- 31
+- 59
+- 36
+- 52
+- 30
+- 33
+- 30
+- 30
+- 30
+- 32
+- 33
+- 31
+- 41
+- 34
+- 34
+- 30
+- 57
+- 35
+- 43
+- 30
+- 36
+- 34
+- 40
+- 57
+- 32
+- 33
+- 35
+- 40
+- 38
+- 37
+- 32
+- 41
+- 35
+man: 4
+women: 0
