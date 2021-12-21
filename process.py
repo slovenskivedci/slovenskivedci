@@ -38,6 +38,8 @@ for y in glob.glob("./people/*.yaml"):
 			institutions[dic['affiliation']] = []
 		dic["countryurl"]=repl(dic["country"].replace(" ","_"))
 		dic["affiliationurl"]=repl(dic["affiliation"].replace(" ","_"))
+		dic["cityurl"]=repl(dic["city"].replace(" ","_"))
+		
 		dic["last"]=repl(dic["last"])
 		links=dic['links']
 		links=[ [k, links[k]] for k in links]

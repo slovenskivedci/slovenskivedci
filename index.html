@@ -13,7 +13,9 @@ title: Home
 
 														
 
-			<div role="list" class="w-dyn-items">
+			<div role="list" class="w-dyn-items entry country-{{ item.countryurl }}" 
+			
+			  id="{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}">
 				<div role="listitem" class="w-dyn-item">
 					<div class="post-wrapper" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
 
@@ -48,14 +50,14 @@ title: Home
 								   {{ item.position }}
 								    <br/>
 
-								  <a class="button-round w-button" >{{ item.affiliation }}</a>
+								  <a class="button-round w-button toggle" >{{ item.affiliation }}</a>
 								   
-								   <a class="button-round w-button" >{{ item.city }}</a>
-                   <a class="button-round w-button" >{{ item.country }}</a>
+								   <a class="button-round w-button toggle" >{{ item.city }}</a>
+                   <a class="button-round w-button toggle toggle-country  toggle-country-{{ item.countryurl }} " id="country:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}" >{{ item.country }}</a>
                 </p>
 
 
-{{ item.countryurl }} {{ item.affiliationurl }}
+
 
 							</p>
 

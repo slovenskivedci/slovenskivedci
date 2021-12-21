@@ -1,6 +1,7 @@
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
@@ -25,6 +26,7 @@
 - affiliation: New York University
   affiliationurl: New_York_University
   city: New York
+  cityurl: New_York
   country: USA
   countryurl: USA
   field: "mikrobiol\xF3gia"
@@ -44,6 +46,7 @@
 - affiliation: University of Ottawa
   affiliationurl: University_of_Ottawa
   city: Ottawa
+  cityurl: Ottawa
   country: Kanada
   countryurl: Kanada
   field: "geoch\xE9mia"
@@ -81,6 +84,7 @@
       all: 359
       since_2016: 145
   city: Urbana-Champaign
+  cityurl: Urbana-Champaign
   country: USA
   countryurl: USA
   field: informatika
@@ -102,6 +106,7 @@
 - affiliation: University of Adelaide
   affiliationurl: University_of_Adelaide
   city: Adelaide
+  cityurl: Adelaide
   country: "Austr\xE1lia"
   countryurl: Australia
   field: neurogenetika
@@ -133,6 +138,7 @@
       all: 208
       since_2016: 161
   city: Toronto
+  cityurl: Toronto
   country: Kanada
   countryurl: Kanada
   field: bioinformatika
@@ -176,6 +182,7 @@
       all: 274
       since_2016: 197
   city: Bonn
+  cityurl: Bonn
   country: Nemecko
   countryurl: Nemecko
   field: "neurobiol\xF3gia rastl\xEDn"
@@ -211,6 +218,7 @@
       all: 295
       since_2016: 129
   city: Berkeley
+  cityurl: Berkeley
   country: USA
   countryurl: USA
   field: "robotika a umel\xE1 inteligencia"
@@ -242,6 +250,7 @@
       all: 196
       since_2016: 143
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "onkol\xF3gia"
@@ -287,6 +296,7 @@
       all: 169
       since_2016: 108
   city: Toronto
+  cityurl: Toronto
   country: Kanada
   countryurl: Kanada
   field: "kardiol\xF3gia"
@@ -324,6 +334,7 @@
       all: 159
       since_2016: 102
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "virol\xF3gia"
@@ -355,6 +366,7 @@
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 matematika"
@@ -392,6 +404,7 @@
       all: 152
       since_2016: 73
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "kvantov\xE1 fyzika"
@@ -421,6 +434,7 @@
       all: 160
       since_2016: 104
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
@@ -446,6 +460,7 @@
 - affiliation: National Research Council
   affiliationurl: National_Research_Council
   city: Ottawa
+  cityurl: Ottawa
   country: Kanada
   countryurl: Kanada
   field: optika a fotonika
@@ -477,6 +492,7 @@
       all: 92
       since_2016: 85
   city: Oxford
+  cityurl: Oxford
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "virol\xF3gia"
@@ -512,6 +528,7 @@
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "bioch\xE9mia"
@@ -535,6 +552,7 @@
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
@@ -562,6 +580,7 @@
       all: 154
       since_2016: 108
   city: Olomouc
+  cityurl: Olomouc
   country: "\u010Cesko"
   countryurl: Cesko
   field: botanika
@@ -581,6 +600,7 @@
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
@@ -608,6 +628,7 @@
 - affiliation: University of Missouri
   affiliationurl: University_of_Missouri
   city: Columbia
+  cityurl: Columbia
   country: USA
   countryurl: USA
   field: "reproduk\u010Dn\xE1 biol\xF3gia"
@@ -641,6 +662,7 @@
       all: 83
       since_2016: 81
   city: Klosterneuburg
+  cityurl: Klosterneuburg
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "biol\xF3gia rastl\xEDn"
@@ -670,6 +692,7 @@
       all: 107
       since_2016: 78
   city: "Britsk\xE1 Kolumbia"
+  cityurl: Britska_Kolumbia
   country: Kanada
   countryurl: Kanada
   field: fyzika
@@ -697,6 +720,7 @@
       all: 93
       since_2016: 91
   city: Trnava
+  cityurl: Trnava
   country: Slovensko
   countryurl: Slovensko
   field: "epidemiol\xF3gia"
@@ -718,6 +742,7 @@
 - affiliation: Murdoch University
   affiliationurl: Murdoch_University
   city: Perth
+  cityurl: Perth
   country: "Austr\xE1lia"
   countryurl: Australia
   field: biogeografia
@@ -751,6 +776,7 @@
 - affiliation: Medical University of Vienna
   affiliationurl: Medical_University_of_Vienna
   city: "Viede\u0148"
+  cityurl: Vieden
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "hematol\xF3gia"
@@ -774,6 +800,7 @@
 - affiliation: Monash University
   affiliationurl: Monash_University
   city: Melbourne
+  cityurl: Melbourne
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "epidemiol\xF3gia"
@@ -811,6 +838,7 @@
       all: 141
       since_2016: 113
   city: Regensburg
+  cityurl: Regensburg
   country: Nemecko
   countryurl: Nemecko
   field: "kvantov\xE1 fyzika"
@@ -840,6 +868,7 @@
       all: 140
       since_2016: 128
   city: Aachen
+  cityurl: Aachen
   country: Nemecko
   countryurl: Nemecko
   field: "patol\xF3gia"
@@ -859,6 +888,7 @@
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 mechanika"
@@ -888,6 +918,7 @@
       all: 219
       since_2016: 111
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 mechanika"
@@ -915,6 +946,7 @@
       all: 74
       since_2016: 71
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "epidemiol\xF3gia"
@@ -936,6 +968,7 @@
 - affiliation: University of Toronto
   affiliationurl: University_of_Toronto
   city: Toronto
+  cityurl: Toronto
   country: Kanada
   countryurl: Kanada
   field: "reprodukt\xEDvna biol\xF3gia"
@@ -969,6 +1002,7 @@
       all: 198
       since_2016: 158
   city: Delft
+  cityurl: Delft
   country: Holandsko
   countryurl: Holandsko
   field: fotovoltika
@@ -998,6 +1032,7 @@
       all: 200
       since_2016: 124
   city: Delft
+  cityurl: Delft
   country: Holandsko
   countryurl: Holandsko
   field: elektronika
@@ -1027,6 +1062,7 @@
       all: 92
       since_2016: 58
   city: Fairfax
+  cityurl: Fairfax
   country: USA
   countryurl: USA
   field: "robotika a strojov\xE9 videnie"
@@ -1058,6 +1094,7 @@
       all: 117
       since_2016: 112
   city: Thuwal
+  cityurl: Thuwal
   country: "Saudsk\xE1 Ar\xE1bia"
   countryurl: Saudska_Arabia
   field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
@@ -1097,6 +1134,7 @@
 - affiliation: Simon Fraser University
   affiliationurl: Simon_Fraser_University
   city: Burnaby
+  cityurl: Burnaby
   country: Kanada
   countryurl: Kanada
   field: "grafov\xE9 algoritmy"
@@ -1116,6 +1154,7 @@
 - affiliation: University of California
   affiliationurl: University_of_California
   city: San Diego
+  cityurl: San_Diego
   country: USA
   countryurl: USA
   field: neuroveda
@@ -1135,6 +1174,7 @@
 - affiliation: University of North Carolina
   affiliationurl: University_of_North_Carolina
   city: Raleigh
+  cityurl: Raleigh
   country: USA
   countryurl: USA
   field: fyzika
@@ -1154,6 +1194,7 @@
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
   city: Praha
+  cityurl: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "mikrobiol\xF3gia"
@@ -1195,6 +1236,7 @@
       all: 124
       since_2016: 114
   city: Nitra
+  cityurl: Nitra
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia rastl\xEDn"
@@ -1216,6 +1258,7 @@
 - affiliation: "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe"
   affiliationurl: Ceske_vysoke_uceni_technicke_v_Prahe
   city: Praha
+  cityurl: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "jadrov\xE1 fyzika"
@@ -1245,6 +1288,7 @@
       all: 80
       since_2016: 64
   city: Seattle
+  cityurl: Seattle
   country: USA
   countryurl: USA
   field: programovacie jazyky
@@ -1290,6 +1334,7 @@
       all: 76
       since_2016: 63
   city: "Z\xFCrich"
+  cityurl: Zurich
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: "fyziol\xF3gia buniek"
@@ -1313,6 +1358,7 @@
 - affiliation: University of Louisville
   affiliationurl: University_of_Louisville
   city: Louisville
+  cityurl: Louisville
   country: USA
   countryurl: USA
   field: "neurol\xF3gia"
@@ -1344,6 +1390,7 @@
       all: 101
       since_2016: 71
   city: Adelaide
+  cityurl: Adelaide
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "bioch\xE9mia"
@@ -1375,6 +1422,7 @@
       all: 109
       since_2016: 95
   city: "Viede\u0148"
+  cityurl: Vieden
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "lek\xE1rska fyzika"
@@ -1404,6 +1452,7 @@
       all: 181
       since_2016: 105
   city: Trnava
+  cityurl: Trnava
   country: Slovensko
   countryurl: Slovensko
   field: "anorganick\xE1 ch\xE9mia"
@@ -1425,6 +1474,7 @@
 - affiliation: Oxford University
   affiliationurl: Oxford_University
   city: Oxford
+  cityurl: Oxford
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "fyzik\xE1lna ch\xE9mia"
@@ -1446,6 +1496,7 @@
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: botanika
@@ -1465,6 +1516,7 @@
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "materi\xE1lov\xE1 ch\xE9mia"
@@ -1486,6 +1538,7 @@
 - affiliation: Vienna University of Technology
   affiliationurl: Vienna_University_of_Technology
   city: "Viede\u0148"
+  cityurl: Vieden
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "hydrol\xF3gia"
@@ -1517,6 +1570,7 @@
       all: 99
       since_2016: 39
   city: Seattle
+  cityurl: Seattle
   country: USA
   countryurl: USA
   field: "aplikovan\xE1 informatika"
@@ -1548,6 +1602,7 @@
       all: 127
       since_2016: 107
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "behavior\xE1lna ekol\xF3gia"
@@ -1569,6 +1624,7 @@
 - affiliation: University of Minnesota
   affiliationurl: University_of_Minnesota
   city: Twin Cities
+  cityurl: Twin_Cities
   country: USA
   countryurl: USA
   field: "r\xE1diol\xF3gia"
@@ -1601,6 +1657,7 @@
       all: 108
       since_2016: 69
   city: Karlsruhe
+  cityurl: Karlsruhe
   country: Nemecko
   countryurl: Nemecko
   field: "nanotechnol\xF3gia"
@@ -1626,6 +1683,7 @@
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "biotechnol\xF3gia"
@@ -1648,6 +1706,7 @@
 - affiliation: University of Edinburgh
   affiliationurl: University_of_Edinburgh
   city: Edinburg
+  cityurl: Edinburg
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "nukle\xE1rna magnetick\xE1 rezonancia"
@@ -1677,6 +1736,7 @@
       all: 132
       since_2016: 106
   city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
   field: "soci\xE1lna psychol\xF3gia"
@@ -1708,6 +1768,7 @@
       all: 104
       since_2016: 86
   city: Doha
+  cityurl: Doha
   country: Katar
   countryurl: Katar
   field: "materi\xE1lov\xE1 veda"
@@ -1741,6 +1802,7 @@
       all: 99
       since_2016: 74
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "makromolekul\xE1rna ch\xE9mia"
@@ -1774,6 +1836,7 @@
       all: 133
       since_2016: 106
   city: "Plze\u0148"
+  cityurl: Plzen
   country: "\u010Cesko"
   countryurl: Cesko
   field: "aplikovan\xE1 fyzika"
@@ -1795,6 +1858,7 @@
 - affiliation: Medical University of Vienna
   affiliationurl: Medical_University_of_Vienna
   city: "Viede\u0148"
+  cityurl: Vieden
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "fyzik\xE1lna ch\xE9mia"
@@ -1820,6 +1884,7 @@
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "bioch\xE9mia"
@@ -1841,6 +1906,7 @@
 - affiliation: McMaster University
   affiliationurl: McMaster_University
   city: Hamilton
+  cityurl: Hamilton
   country: Kanada
   countryurl: Kanada
   field: "te\xF3ria grafov"
@@ -1875,6 +1941,7 @@
       all: 93
       since_2016: 68
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "farmakol\xF3gia"
@@ -1907,6 +1974,7 @@
       all: 151
       since_2016: 53
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "biotechnol\xF3gia"
@@ -1937,6 +2005,7 @@
       all: 101
       since_2016: 27
   city: Glasgow
+  cityurl: Glasgow
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: elektrotechnika
@@ -1968,6 +2037,7 @@
       all: 103
       since_2016: 57
   city: Surrey
+  cityurl: Surrey
   country: Kanada
   countryurl: Kanada
   field: "d\xE1tov\xE1 veda"
@@ -1993,6 +2063,7 @@
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "lek\xE1rska ch\xE9mia"
@@ -2026,6 +2097,7 @@
       all: 79
       since_2016: 58
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "molekul\xE1rna biol\xF3gia"
@@ -2055,6 +2127,7 @@
       all: 98
       since_2016: 68
   city: Raleigh
+  cityurl: Raleigh
   country: USA
   countryurl: USA
   field: "geovizualiz\xE1cia"
@@ -2076,6 +2149,7 @@
 - affiliation: Oregon State University
   affiliationurl: Oregon_State_University
   city: Corvallis
+  cityurl: Corvallis
   country: USA
   countryurl: USA
   field: "seizmol\xF3gia"
@@ -2095,6 +2169,7 @@
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   affiliationurl: Technicka_univerzita_v_Kosiciach
   city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
   field: "automatiz\xE1cia"
@@ -2124,6 +2199,7 @@
       all: 86
       since_2016: 68
   city: Brno
+  cityurl: Brno
   country: "\u010Cesko"
   countryurl: Cesko
   field: "environment\xE1lna ch\xE9mia"
@@ -2155,6 +2231,7 @@
       all: 139
       since_2016: 105
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "molekul\xE1rna biomedic\xEDna"
@@ -2184,6 +2261,7 @@
       all: 77
       since_2016: 66
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "virol\xF3gia"
@@ -2221,6 +2299,7 @@
       all: 105
       since_2016: 58
   city: Tucson
+  cityurl: Tucson
   country: USA
   countryurl: USA
   field: optika
@@ -2248,6 +2327,7 @@
       all: 85
       since_2016: 71
   city: Hannover
+  cityurl: Hannover
   country: Nemecko
   countryurl: Nemecko
   field: neuroveda
@@ -2281,6 +2361,7 @@
       all: 123
       since_2016: 62
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "elektr\xF3nov\xE1 a plazmov\xE1 fyzika"
@@ -2308,6 +2389,7 @@
       all: 83
       since_2016: 24
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "teoretick\xE1 ch\xE9mia"
@@ -2351,6 +2433,7 @@
       all: 77
       since_2016: 62
   city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia rastl\xEDn"
@@ -2386,6 +2469,7 @@
       all: 75
       since_2016: 62
   city: Bethesda
+  cityurl: Bethesda
   country: USA
   countryurl: USA
   field: "neuroimunol\xF3gia"
@@ -2423,6 +2507,7 @@
       all: 57
       since_2016: 50
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "fyzik\xE1lna ch\xE9mia"
@@ -2452,6 +2537,7 @@
       all: 88
       since_2016: 77
   city: Olomouc
+  cityurl: Olomouc
   country: "\u010Cesko"
   countryurl: Cesko
   field: "behavior\xE1lna ekol\xF3gia"
@@ -2485,6 +2571,7 @@
       all: 111
       since_2016: 88
   city: Abu Dhabi
+  cityurl: Abu_Dhabi
   country: "Spojen\xE9 Arabsk\xE9 Emir\xE1ty"
   countryurl: Spojene_Arabske_Emiraty
   field: "oftalmol\xF3gia"
@@ -2514,6 +2601,7 @@
       all: 131
       since_2016: 130
   city: Brno
+  cityurl: Brno
   country: "\u010Cesko"
   countryurl: Cesko
   field: "biol\xF3gia"
@@ -2545,6 +2633,7 @@
       all: 64
       since_2016: 51
   city: Dubna
+  cityurl: Dubna
   country: "Rusk\xE1 Feder\xE1cia"
   countryurl: Ruska_Federacia
   field: biofyzika
@@ -2580,6 +2669,7 @@
       all: 76
       since_2016: 43
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
@@ -2611,6 +2701,7 @@
       all: 78
       since_2016: 48
   city: Praha
+  cityurl: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "komplexn\xE9 syst\xE9my"
@@ -2644,6 +2735,7 @@
       all: 99
       since_2016: 66
   city: Birmingham
+  cityurl: Birmingham
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "komplexn\xE9 a adapt\xEDvne syst\xE9my"
@@ -2675,6 +2767,7 @@
       all: 99
       since_2016: 73
   city: Sydney
+  cityurl: Sydney
   country: "Austr\xE1lia"
   countryurl: Australia
   field: fyzika
@@ -2712,6 +2805,7 @@
       all: 92
       since_2016: 27
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "ch\xE9mia"
@@ -2747,6 +2841,7 @@
       all: 138
       since_2016: 67
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: biofyzika
@@ -2764,6 +2859,7 @@
 - affiliation: "ETH Z\xFCrich"
   affiliationurl: ETH_Zurich
   city: "Z\xFCrich"
+  cityurl: Zurich
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: informatika
@@ -2801,6 +2897,7 @@
       all: 132
       since_2016: 81
   city: Nitra
+  cityurl: Nitra
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia \u017Eivo\u010D\xEDchov"
@@ -2836,6 +2933,7 @@
 - affiliation: "ETH Z\xFCrich"
   affiliationurl: ETH_Zurich
   city: "Z\xFCrich"
+  cityurl: Zurich
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: "hydrol\xF3gia"
@@ -2857,6 +2955,7 @@
 - affiliation: University of Missouri
   affiliationurl: University_of_Missouri
   city: Columbia
+  cityurl: Columbia
   country: USA
   countryurl: USA
   field: "geol\xF3gia"
@@ -2890,6 +2989,7 @@
       all: 72
       since_2016: 49
   city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 matematika"
@@ -2923,6 +3023,7 @@
       all: 131
       since_2016: 73
   city: Nitra
+  cityurl: Nitra
   country: Slovensko
   countryurl: Slovensko
   field: "biol\xF3gia reprodukcie"
@@ -2955,6 +3056,7 @@
       all: 67
       since_2016: 63
   city: Nitra
+  cityurl: Nitra
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia rastl\xEDn"
@@ -2984,6 +3086,7 @@
       all: 94
       since_2016: 36
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "bioch\xE9mia"
@@ -3025,6 +3128,7 @@
       all: 52
       since_2016: 32
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
@@ -3044,6 +3148,7 @@
 - affiliation: "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave"
   affiliationurl: Univerzita_svateho_Cyrila_a_Metoda_v_Trnave
   city: Trnava
+  cityurl: Trnava
   country: Slovensko
   countryurl: Slovensko
   field: "bioanalytick\xE1 ch\xE9mia"
@@ -3069,6 +3174,7 @@
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: geofyzika
@@ -3090,6 +3196,7 @@
 - affiliation: University of Natural Resources and Life Sciences
   affiliationurl: University_of_Natural_Resources_and_Life_Sciences
   city: "Viede\u0148"
+  cityurl: Vieden
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "fyzik\xE1lna ch\xE9mia"
@@ -3123,6 +3230,7 @@
       all: 75
       since_2016: 40
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia"
@@ -3150,6 +3258,7 @@
       all: 84
       since_2016: 64
   city: Sevilla
+  cityurl: Sevilla
   country: "\u0160panielsko"
   countryurl: Spanielsko
   field: "ekon\xF3mia"
@@ -3183,6 +3292,7 @@
       all: 64
       since_2016: 62
   city: Melbourne
+  cityurl: Melbourne
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "neurol\xF3gia"
@@ -3206,6 +3316,7 @@
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
   city: Praha
+  cityurl: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "optick\xE9 materi\xE1ly"
@@ -3230,6 +3341,7 @@
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "onkol\xF3gia"
@@ -3247,6 +3359,7 @@
 - affiliation: University Medical Center Utrecht
   affiliationurl: University_Medical_Center_Utrecht
   city: Utrecht
+  cityurl: Utrecht
   country: Holandsko
   countryurl: Holandsko
   field: "kardiovaskul\xE1rna genetika"
@@ -3278,6 +3391,7 @@
       all: 84
       since_2016: 53
   city: Glasgow
+  cityurl: Glasgow
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "chemick\xE9 in\u017Einierstvo"
@@ -3313,6 +3427,7 @@
       all: 67
       since_2016: 45
   city: "Viede\u0148"
+  cityurl: Vieden
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "nanomateri\xE1ly"
@@ -3346,6 +3461,7 @@
       all: 108
       since_2016: 26
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "v\xFDpo\u010Dtov\xE1 ch\xE9mia"
@@ -3375,6 +3491,7 @@
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "biol\xF3gia"
@@ -3406,6 +3523,7 @@
       all: 55
       since_2016: 33
   city: Bloomington
+  cityurl: Bloomington
   country: USA
   countryurl: USA
   field: "fyzika \u010Dast\xEDc"
@@ -3425,6 +3543,7 @@
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
   field: "nanomateri\xE1ly"
@@ -3452,6 +3571,7 @@
 - affiliation: Zeppelin University
   affiliationurl: Zeppelin_University
   city: Friedrichshafen
+  cityurl: Friedrichshafen
   country: Nemecko
   countryurl: Nemecko
   field: "medzin\xE1rodn\xE1 ekon\xF3mia"
@@ -3485,6 +3605,7 @@
       all: 82
       since_2016: 34
   city: Praha
+  cityurl: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "bioch\xE9mia"
@@ -3514,6 +3635,7 @@
       all: 71
       since_2016: 12
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "fyzik\xE1lna ch\xE9mia"
@@ -3545,6 +3667,7 @@
       all: 61
       since_2016: 52
   city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
   field: "behavior\xE1lna medic\xEDna"
@@ -3562,6 +3685,7 @@
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "intern\xE1 medic\xEDna"
@@ -3591,6 +3715,7 @@
       all: 51
       since_2016: 30
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "materi\xE1lov\xE1 veda"
@@ -3618,6 +3743,7 @@
       all: 93
       since_2016: 49
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "ch\xE9mia"
@@ -3647,6 +3773,7 @@
       all: 74
       since_2016: 61
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
@@ -3676,6 +3803,7 @@
       all: 94
       since_2016: 49
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "modifik\xE1cia polym\xE9rov"
@@ -3715,6 +3843,7 @@
       all: 48
       since_2016: 40
   city: New York
+  cityurl: New_York
   country: USA
   countryurl: USA
   field: "strojov\xE9 u\u010Denie"
@@ -3750,6 +3879,7 @@
       all: 56
       since_2016: 402
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "bioch\xE9mia"
@@ -3787,6 +3917,7 @@
       all: 67
       since_2016: 31
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: matematika
@@ -3812,6 +3943,7 @@
 - affiliation: University of Pittsburgh
   affiliationurl: University_of_Pittsburgh
   city: Pittsburgh
+  cityurl: Pittsburgh
   country: USA
   countryurl: USA
   field: informatika
@@ -3839,6 +3971,7 @@
 - affiliation: Univerzita Karlova
   affiliationurl: Univerzita_Karlova
   city: Praha
+  cityurl: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "ekon\xF3mia"
@@ -3870,6 +4003,7 @@
       all: 67
       since_2016: 55
   city: Sydney
+  cityurl: Sydney
   country: "Austr\xE1lia"
   countryurl: Australia
   field: energetika
@@ -3899,6 +4033,7 @@
       all: 106
       since_2016: 90
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "onkol\xF3gia"
@@ -3940,6 +4075,7 @@
       all: 51
       since_2016: 44
   city: Filadelfia
+  cityurl: Filadelfia
   country: USA
   countryurl: USA
   field: pediatria
@@ -3971,6 +4107,7 @@
       all: 59
       since_2016: 49
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "paleobiol\xF3gia"
@@ -4021,6 +4158,7 @@
       all: 55
       since_2016: 45
   city: Tallahassee
+  cityurl: Tallahassee
   country: USA
   countryurl: USA
   field: "fyzika tuh\xFDch l\xE1tok"
@@ -4056,6 +4194,7 @@
       all: 79
       since_2016: 73
   city: Perth
+  cityurl: Perth
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "geochronol\xF3gia"
@@ -4093,6 +4232,7 @@
       all: 121
       since_2016: 76
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: matematika
@@ -4122,6 +4262,7 @@
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
@@ -4151,6 +4292,7 @@
       all: 76
       since_2016: 63
   city: Doha
+  cityurl: Doha
   country: Katar
   countryurl: Katar
   field: "ch\xE9mia"
@@ -4180,6 +4322,7 @@
       all: 121
       since_2016: 77
   city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
   field: "experiment\xE1lna fyzika"
@@ -4201,6 +4344,7 @@
 - affiliation: Amazon
   affiliationurl: Amazon
   city: Berkeley
+  cityurl: Berkeley
   country: USA
   countryurl: USA
   field: "strojov\xE9 u\u010Denie"
@@ -4220,6 +4364,7 @@
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "lek\xE1rska bioch\xE9mia"
@@ -4253,6 +4398,7 @@
       all: 53
       since_2016: 48
   city: Reading
+  cityurl: Reading
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "ekol\xF3gia"
@@ -4272,6 +4418,7 @@
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "molekul\xE1rna biol\xF3gia"
@@ -4303,6 +4450,7 @@
       all: 63
       since_2016: 33
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "fyzika kondenzovan\xFDch l\xE1tok"
@@ -4322,6 +4470,7 @@
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 matematika"
@@ -4339,6 +4488,7 @@
 - affiliation: "Univerzita PJ \u0160af\xE1rika"
   affiliationurl: Univerzita_PJ_Safarika
   city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
   field: "farmakol\xF3gia"
@@ -4366,6 +4516,7 @@
       all: 62
       since_2016: 20
   city: Upton
+  cityurl: Upton
   country: USA
   countryurl: USA
   field: "jadrov\xE1 fyzika"
@@ -4387,6 +4538,7 @@
 - affiliation: Google
   affiliationurl: Google
   city: "Z\xFCrich"
+  cityurl: Zurich
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: informatika
@@ -4420,6 +4572,7 @@
       all: 52
       since_2016: 41
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "patofyziol\xF3gia"
@@ -4437,6 +4590,7 @@
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia"
@@ -4466,6 +4620,7 @@
       all: 97
       since_2016: 48
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "materi\xE1lov\xE1 veda"
@@ -4495,6 +4650,7 @@
       all: 74
       since_2016: 62
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "analytick\xE1 ch\xE9mia"
@@ -4530,6 +4686,7 @@
       all: 108
       since_2016: 60
   city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
   field: fyzika magnetizmu
@@ -4563,6 +4720,7 @@
       all: 58
       since_2016: 54
   city: Dublin
+  cityurl: Dublin
   country: "\xCDrsko"
   countryurl: Irsko
   field: "psychol\xF3gia"
@@ -4582,6 +4740,7 @@
 - affiliation: "Slovesk\xE1 akad\xE9mia vied"
   affiliationurl: Sloveska_akademia_vied
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "patofyziol\xF3gia"
@@ -4619,6 +4778,7 @@
       all: 60
       since_2016: 33
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "molekul\xE1rna biol\xF3gia"
@@ -4654,6 +4814,7 @@
       all: 75
       since_2016: 43
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "biotechnol\xF3gia"
@@ -4679,6 +4840,7 @@
 - affiliation: Aalborg Universitet
   affiliationurl: Aalborg_Universitet
   city: Aalborg
+  cityurl: Aalborg
   country: "D\xE1nsko"
   countryurl: Dansko
   field: informatika
@@ -4714,6 +4876,7 @@
       all: 54
       since_2016: 49
   city: Manoa
+  cityurl: Manoa
   country: USA
   countryurl: USA
   field: "oce\xE1nografia"
@@ -4735,6 +4898,7 @@
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: matematika
@@ -4775,6 +4939,7 @@
       all: 84
       since_2016: 61
   city: Olomouc
+  cityurl: Olomouc
   country: "\u010Cesko"
   countryurl: Cesko
   field: "ch\xE9mia"
@@ -4800,6 +4965,7 @@
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   affiliationurl: Technicka_univerzita_v_Kosiciach
   city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
   field: "v\xFDobn\xE9 technol\xF3gie"
@@ -4827,6 +4993,7 @@
       all: 69
       since_2016: 17
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
@@ -4856,6 +5023,7 @@
       all: 47
       since_2016: 37
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: geofyzika
@@ -4891,6 +5059,7 @@
       all: 64
       since_2016: 45
   city: Brisbane
+  cityurl: Brisbane
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "bezdr\xF4tov\xE9 siete a syst\xE9my"
@@ -4928,6 +5097,7 @@
       all: 74
       since_2016: 34
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "biomedic\xEDna"
@@ -4957,6 +5127,7 @@
       all: 55
       since_2016: 27
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: matematika
@@ -4996,6 +5167,7 @@
       all: 44
       since_2016: 23
   city: San Francisco
+  cityurl: San_Francisco
   country: USA
   countryurl: USA
   field: "bioch\xE9mia"
@@ -5027,6 +5199,7 @@
       all: 93
       since_2016: 55
   city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
   field: "te\xF3ria grafov"
@@ -5062,6 +5235,7 @@
       all: 48
       since_2016: 45
   city: Menlo Park
+  cityurl: Menlo_Park
   country: USA
   countryurl: USA
   field: "v\xFDpo\u010Dtov\xE1 katal\xFDza"
@@ -5107,6 +5281,7 @@
       all: 56
       since_2016: 56
   city: Antwerpy
+  cityurl: Antwerpy
   country: Holandsko
   countryurl: Holandsko
   field: "reproduk\u010Dn\xE9 a ment\xE1lne zdravie"
@@ -5132,6 +5307,7 @@
 - affiliation: "Univerzita PJ \u0160af\xE1rika"
   affiliationurl: Univerzita_PJ_Safarika
   city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
   field: "teoretick\xE1 fyzika"
@@ -5159,6 +5335,7 @@
       all: 86
       since_2016: 57
   city: Zvolen
+  cityurl: Zvolen
   country: Slovensko
   countryurl: Slovensko
   field: "genetika drev\xEDn"
@@ -5192,6 +5369,7 @@
       all: 46
       since_2016: 39
   city: "Viede\u0148"
+  cityurl: Vieden
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "ekon\xF3mia"
@@ -5241,6 +5419,7 @@
       all: 64
       since_2016: 57
   city: "\u017Dilina"
+  cityurl: Zilina
   country: Slovensko
   countryurl: Slovensko
   field: "finan\u010Dn\xFD mana\u017Ement"
@@ -5278,6 +5457,7 @@
       all: 44
       since_2016: 29
   city: Marseille
+  cityurl: Marseille
   country: "Franc\xFAzsko"
   countryurl: Francuzsko
   field: "matematick\xE1 fyzika"
@@ -5307,6 +5487,7 @@
       all: 55
       since_2016: 28
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: biofyzika
@@ -5340,6 +5521,7 @@
       all: 54
       since_2016: 30
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "vulkanol\xF3gia"
@@ -5375,6 +5557,7 @@
       all: 47
       since_2016: 40
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
@@ -5414,6 +5597,7 @@
       all: 48
       since_2016: 29
   city: Brno
+  cityurl: Brno
   country: "\u010Cesko"
   countryurl: Cesko
   field: biofyzika
@@ -5449,6 +5633,7 @@
       all: 34
       since_2016: 34
   city: Chicago
+  cityurl: Chicago
   country: USA
   countryurl: USA
   field: "ekon\xF3mia"
@@ -5478,6 +5663,7 @@
       all: 72
       since_2016: 42
   city: Zvolen
+  cityurl: Zvolen
   country: Slovensko
   countryurl: Slovensko
   field: "fytol\xF3gia"
@@ -5505,6 +5691,7 @@
       all: 71
       since_2016: 37
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "geol\xF3gia"
@@ -5536,6 +5723,7 @@
       all: 117
       since_2016: 112
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "chemick\xE9 in\u017Einierstvo"
@@ -5569,6 +5757,7 @@
       all: 57
       since_2016: 27
   city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "membr\xE1ny"
@@ -5606,6 +5795,7 @@
       all: 67
       since_2016: 56
   city: Praha
+  cityurl: Praha
   country: "\u010Cesko"
   countryurl: Cesko
   field: "chemick\xE9 in\u017Einierstvo"
@@ -5643,6 +5833,7 @@
       all: 51
       since_2016: 50
   city: Abu Dhabi
+  cityurl: Abu_Dhabi
   country: "Spojen\xE9 Arabsk\xE9 Emir\xE1ty"
   countryurl: Spojene_Arabske_Emiraty
   field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
@@ -5696,6 +5887,7 @@
       all: 78
       since_2016: 56
   city: Thuwal
+  cityurl: Thuwal
   country: "Saudsk\xE1 Ar\xE1bia"
   countryurl: Saudska_Arabia
   field: "po\u010D\xEDta\u010Dov\xE1 grafika a vizualiz\xE1cia"
@@ -5731,6 +5923,7 @@
       all: 50
       since_2016: 37
   city: "Viede\u0148"
+  cityurl: Vieden
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "fylogenomick\xE1 ekol\xF3gia"
