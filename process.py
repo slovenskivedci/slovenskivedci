@@ -38,7 +38,7 @@ for y in glob.glob("./people/*.yaml"):
 			institutions[dic['affiliation']] = []
 		dic["countryurl"]=repl(dic["country"].replace(" ","_"))
 		dic["affiliationurl"]=repl(dic["affiliation"].replace(" ","_"))
-		
+		dic["last"]=repl(dic["last"])
 		links=dic['links']
 		links=[ [k, links[k]] for k in links]
 		
@@ -71,7 +71,7 @@ for y in glob.glob("./people/*.yaml"):
 			
 
 
-alllst = sorted(alllst,key= lambda e: -int(e['hindex']))		
+alllst = sorted(alllst,key= lambda e: (-int(e['hindex']), e['last'] ))		
 with open(r'_data/all.yaml', 'w') as file:
 	documents = yaml.dump(alllst, file)
 
