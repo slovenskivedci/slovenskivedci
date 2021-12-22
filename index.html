@@ -20,12 +20,13 @@ title: Home
 					<div class="post-wrapper" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
 
 					<div class="row container flex-direction">
-						<div class="column div1">
+						<div class="w-col w-col-6  column">
+							
+							
 							<img src="/images/{{ item.img }}" width="100%" role="img" />
 						</div>
-						<div class="columnsep">&nbsp;&nbsp;&nbsp;
-						</div>
-						<div class="column div2" >
+
+						<div class="w-col w-col-6" >
 							<h1 class="blog-title">{{ item.name }}
 
 							{% if item.year.size > 0 %}
@@ -50,16 +51,14 @@ title: Home
 
 
 
-						        <p>
-								   <a class="button-round w-button toggle toggle-position toggle-position-{{ item.positionurl }} " id="position:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}:{{ item.positionurl }}" >{{ item.position }}</a>
+ 								   <a class="button-round w-button toggle toggle-position toggle-position-{{ item.positionurl }} " id="position:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}:{{ item.positionurl }}" >{{ item.position }}</a>
 								    <br/>
 
 								  <a class="button-round w-button toggle toggle-affiliation toggle-affiliation-{{ item.affiliationurl }} " id="affiliation:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}" >{{ item.affiliation }}</a>
 								   
 								   <a class="button-round w-button toggle toggle-city toggle-city-{{ item.cityurl }} " id="city:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}">{{ item.city }}</a>
                    <a class="button-round w-button toggle toggle-country  toggle-country-{{ item.countryurl }} " id="country:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}" >{{ item.country }}</a>
-                </p>
-
+  
 
 
 
