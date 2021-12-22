@@ -7,35 +7,67 @@
 	<script>
 	$(document).ready(function(){
 
-
-	   
-	  
-	  $(".toggle-country").click(function(){
-		
-		if($(this).hasClass("selected")){  
-			// remove filters
+		 function showAll() {
 			$(".selected").removeClass("selected");
 			$(".entry").fadeIn(); 
 			$(".toggle").css("background-color", "white");
 			
-			
-			
+		}
+	   
+	   
+
+	  $(".toggle-affiliation").click(function(){		
+		if($(this).hasClass("selected")){  
+			// remove filters
+			showAll();
         }else{
-			
+			showAll();
 			var id = $(this).attr('id');
+			affiliation = id.split(":")[3];  
 			
+ 			
+			$(".entry").hide();   
+			$(".affiliation-"+affiliation).fadeIn();  
+			$(".toggle-affiliation-"+affiliation).addClass("selected"); 
+			$(".toggle-affiliation-"+affiliation).css("background-color", "yellow");
+		}
+	  });
+	  
+	   
+	  
+	  $(".toggle-country").click(function(){		
+		if($(this).hasClass("selected")){  
+			// remove filters
+			showAll();
+        }else{
+			showAll();
+			var id = $(this).attr('id');
 			country = id.split(":")[2];  
 			$(".entry").hide();   
 			$(".country-"+country).fadeIn();  
-			$(".toggle-country-"+country).addClass("selected");
-			  
+			$(".toggle-country-"+country).addClass("selected"); 
 			$(".toggle-country-"+country).css("background-color", "yellow");
-			
 		}
-		
- 		
-
 	  });
+	  
+	  $(".toggle-city").click(function(){		
+		if($(this).hasClass("selected")){  
+			// remove filters
+			showAll();
+        }else{
+			showAll();
+			var id = $(this).attr('id');
+			city = id.split(":")[4];  
+			
+			 
+			$(".entry").hide();   
+			$(".city-"+city).fadeIn();  
+			$(".toggle-city-"+city).addClass("selected"); 
+			$(".toggle-city-"+city).css("background-color", "yellow");
+		}
+	  });
+	  
+	  
 	  
 	});
 	</script>

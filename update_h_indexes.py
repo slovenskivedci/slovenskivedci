@@ -38,6 +38,9 @@ for kv in people: # we start updating the last updated person
 
 	search = GoogleSearch(params)
 	results = search.get_dict()
+	
+ 
+	
 	author = results['author']
 	
 

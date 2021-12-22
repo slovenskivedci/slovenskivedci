@@ -13,7 +13,7 @@ title: Home
 
 														
 
-			<div role="list" class="w-dyn-items entry country-{{ item.countryurl }}" 
+			<div role="list" class="w-dyn-items entry country-{{ item.countryurl }} city-{{ item.cityurl }} affiliation-{{ item.affiliationurl }} " 
 			
 			  id="{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}">
 				<div role="listitem" class="w-dyn-item">
@@ -50,9 +50,9 @@ title: Home
 								   {{ item.position }}
 								    <br/>
 
-								  <a class="button-round w-button toggle" >{{ item.affiliation }}</a>
+								  <a class="button-round w-button toggle toggle-affiliation toggle-affiliation-{{ item.affiliationurl }} " id="affiliation:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}" >{{ item.affiliation }}</a>
 								   
-								   <a class="button-round w-button toggle" >{{ item.city }}</a>
+								   <a class="button-round w-button toggle toggle-city toggle-city-{{ item.cityurl }} " id="city:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}">{{ item.city }}</a>
                    <a class="button-round w-button toggle toggle-country  toggle-country-{{ item.countryurl }} " id="country:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}" >{{ item.country }}</a>
                 </p>
 
