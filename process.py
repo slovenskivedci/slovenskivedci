@@ -23,7 +23,7 @@ os.system("rm _data/*yaml")
 import unicodedata
 
 def repl(text):
-	return unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode('UTF-8').replace(",","_")
+	return unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode('UTF-8').replace(",","_").replace("(","_").replace(")","_")
 
 for y in glob.glob("./people/*.yaml"):
 	with open(y) as f:
@@ -37,6 +37,11 @@ for y in glob.glob("./people/*.yaml"):
 		if dic['affiliation'] not in institutions:
 			institutions[dic['affiliation']] = []
 		dic["countryurl"]=repl(dic["country"].replace(" ","_"))
+		
+		dic["fieldurl"]=repl(dic["field"].replace(" ","_"))
+		dic["positionurl"]=repl(dic["position"].replace(" ","_"))
+		
+		
 		dic["affiliationurl"]=repl(dic["affiliation"].replace(" ","_"))
 		dic["cityurl"]=repl(dic["city"].replace(" ","_"))
 		

@@ -5,6 +5,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
+  fieldurl: jadrova_fyzika
   hindex: 123
   img: Branislav_Sitar.jpg
   last: Sitar
@@ -21,6 +22,7 @@
       \ \u017Eivotopis_Branislav Sit\xE1r.pdf"
   name: "Branislav Sit\xE1r"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=4ymEP0sAAAAJ
   year: 1946
 - affiliation: New York University
@@ -30,6 +32,7 @@
   country: USA
   countryurl: USA
   field: "mikrobiol\xF3gia"
+  fieldurl: mikrobiologia
   hindex: 104
   img: Jan_Vilcek.jpg
   last: Vilcek
@@ -41,6 +44,7 @@
     - "https://en.wikipedia.org/wiki/Jan_Vil\u010Dek"
   name: "J\xE1n Vil\u010Dek"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=zG9xTAcAAAAJ&amp;hl=en
   year: 1933
 - affiliation: University of Ottawa
@@ -50,6 +54,7 @@
   country: Kanada
   countryurl: Kanada
   field: "geoch\xE9mia"
+  fieldurl: geochemia
   hindex: 89
   img: Jan_Veizer_2.jpg
   last: Veizer
@@ -69,6 +74,7 @@
     - https://en.wikipedia.org/wiki/Jan_Veizer
   name: "J\xE1n Veizer"
   position: "emeritn\xFD profesor"
+  positionurl: emeritny_profesor
   scholar: https://scholar.google.com/citations?user=b-gm8tgAAAAJ&hl=en
   year: 1941
 - affiliation: University of Illinois
@@ -88,6 +94,7 @@
   country: USA
   countryurl: USA
   field: informatika
+  fieldurl: informatika
   hindex: 87
   img: Klara_Nahrstedt.jpg
   last: Nahrstedt
@@ -101,6 +108,7 @@
     - https://en.wikipedia.org/wiki/Klara_Nahrstedt
   name: "Kl\xE1ra Bajcsy Nahrstedt"
   position: profesorka
+  positionurl: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
   year: 1957
 - affiliation: University of Adelaide
@@ -110,6 +118,7 @@
   country: "Austr\xE1lia"
   countryurl: Australia
   field: neurogenetika
+  fieldurl: neurogenetika
   hindex: 86
   img: Jozef_Gecz.jpg
   last: Gecz
@@ -123,6 +132,7 @@
     - https://prabook.com/web/jozef.gecz/418497
   name: "Jozef G\xE9cz"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=FTejMNwAAAAJ&amp;hl=en
   year: 1962
 - affiliation: Krembil Research Institute
@@ -142,6 +152,7 @@
   country: Kanada
   countryurl: Kanada
   field: bioinformatika
+  fieldurl: bioinformatika
   hindex: 79
   img: Igor_Jurisica.png
   last: Jurisica
@@ -167,6 +178,7 @@
     - https://www.fmb.unesp.br/Home/ensino/Pos-Graduacao/mestradoacademicoedoutorado/pgbasesgeraisdacirurgia/igor-jurisica_curriculum-vitae-july-2015-1.pdf
   name: "Igor Juri\u0161ica"
   position: "v\xFDskumn\xFD pracovn\xEDk"
+  positionurl: vyskumny_pracovnik
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ
   year: 1967
 - affiliation: University of Bonn
@@ -186,6 +198,7 @@
   country: Nemecko
   countryurl: Nemecko
   field: "neurobiol\xF3gia rastl\xEDn"
+  fieldurl: neurobiologia_rastlin
   hindex: 78
   img: Frantisek_Baluska.jpg
   last: Baluska
@@ -203,6 +216,7 @@
     - http://ds9.botanik.uni-bonn.de/zellbio/AG-Baluska-Volkmann/index.php
   name: "Franti\u0161ek Balu\u0161ka"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=KF4AYR4AAAAJ&amp;hl=en
   year: 1957
 - affiliation: University of California
@@ -222,6 +236,7 @@
   country: USA
   countryurl: USA
   field: "robotika a umel\xE1 inteligencia"
+  fieldurl: robotika_a_umela_inteligencia
   hindex: 72
   img: Ruzena_Bajcsy.jpg
   last: Bajcsy
@@ -235,6 +250,7 @@
     - https://www.memoryofnations.eu/en/bajcsy-ruzena-1933
   name: "Ru\u017Eena Bajcsy"
   position: profesorka
+  positionurl: profesorka
   scholar: https://scholar.google.com/citations?user=s9Ikf1EAAAAJ&amp
   year: 1933
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -254,6 +270,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "onkol\xF3gia"
+  fieldurl: onkologia
   hindex: 69
   img: Silvia_Pastorekova.jpg
   last: Pastorekova
@@ -281,6 +298,7 @@
     - files/cv_Silvia Pastorekova_2021-12.pdf
   name: "Silvia Pastorekov\xE1"
   position: profesorka
+  positionurl: profesorka
   scholar: https://scholar.google.com/citations?hl=en&user=7AYmCSIAAAAJ
   year: 1961
 - affiliation: University of Toronto
@@ -300,6 +318,7 @@
   country: Kanada
   countryurl: Kanada
   field: "kardiol\xF3gia"
+  fieldurl: kardiologia
   hindex: 68
   img: Vladimir_Dzavik.jpg
   last: Dzavik
@@ -319,6 +338,7 @@
     - https://www.uhnresearch.ca/researcher/vladimir-dzavic
   name: "Vladim\xEDr D\u017Eav\xEDk"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=psbZKP4AAAAJ
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -338,6 +358,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "virol\xF3gia"
+  fieldurl: virologia
   hindex: 67
   img: Jaromir_Pastorek.jpg
   last: Pastorek
@@ -361,6 +382,7 @@
     - https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/prof.Pastorek-curriculum%20vitae.pdf
   name: "Jarom\xEDr Pastorek"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=r7j9ZoYAAAAJ&hl=en&oi=sra
   year: 1957
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
@@ -370,6 +392,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 matematika"
+  fieldurl: aplikovana_matematika
   hindex: 65
   img: Radko_Mesiar.jpeg
   last: Mesiar
@@ -389,6 +412,7 @@
     - https://www.math.sk/mesiar/
   name: Radko Mesiar
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=_kXpl5YAAAAJ&amp;hl=en
   year: 1951
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -408,6 +432,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "kvantov\xE1 fyzika"
+  fieldurl: kvantova_fyzika
   hindex: 61
   img: Vladimir_Buzek.jpg
   last: Buzek
@@ -419,6 +444,7 @@
     - https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf
   name: "Vladim\xEDr Bu\u017Eek"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=m2hSZWQAAAAJ&amp;hl=en
   year: 1957
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -438,6 +464,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
+  fieldurl: jadrova_fyzika
   hindex: 60
   img: Fedor_Simkovic.jpg
   last: Simkovic
@@ -455,6 +482,7 @@
     - https://drive.google.com/file/d/1blN4ByXStaQ2gcbCpD7J7Ra0uTVTZio8/view?usp=sharing
   name: "Fedor \u0160imkovic"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=aC__pxUAAAAJ&amp;hl=en&amp;oi=ao
   year: 1959
 - affiliation: National Research Council
@@ -464,6 +492,7 @@
   country: Kanada
   countryurl: Kanada
   field: optika a fotonika
+  fieldurl: optika_a_fotonika
   hindex: 59
   img: Pavel_Cheben.jpg
   last: Cheben
@@ -477,6 +506,7 @@
     - https://drive.google.com/file/d/1uc5JzZPAZjk8NoGP0xPp_eEs1lv1gGcn/view?usp=sharing
   name: Pavel Cheben
   position: principal research officer
+  positionurl: principal_research_officer
   scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ&amp;hl=sk&amp;oi=ao
   year: 1967
 - affiliation: University Oxford
@@ -496,6 +526,7 @@
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "virol\xF3gia"
+  fieldurl: virologia
   hindex: 58
   img: Ervin_Fodor.jpg
   last: Fodor
@@ -523,6 +554,7 @@
     - https://en.wikipedia.org/wiki/Ervin_Fodor
   name: Ervin Fodor
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=vcIizE8AAAAJ
   year: 1965
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -532,6 +564,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "bioch\xE9mia"
+  fieldurl: biochemia
   hindex: 57
   img: Peter_Biely.jpg
   last: Biely
@@ -547,6 +580,7 @@
     - "https://www.learned.sk/wp-content/uploads/2020/03/\u017Divotopis-Peter-Biely.pdf"
   name: Peter Biely
   position: "v\xFDskumn\xFD pracovn\xEDk"
+  positionurl: vyskumny_pracovnik
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
   year: 1941
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -556,6 +590,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
+  fieldurl: fyzika
   hindex: 57
   img: Vladimir_Cerny.jpg
   last: Cerny
@@ -565,6 +600,7 @@
     - http://davinci.fmph.uniba.sk/~cerny1/
   name: "Vladim\xEDr \u010Cern\xFD"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=m-twF5IAAAAJ
   year: 1952
 - affiliation: "Univerzita Palack\xE9ho v Olomouci"
@@ -584,6 +620,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: botanika
+  fieldurl: botanika
   hindex: 57
   img: Jozef_Samaj.jpg
   last: Samaj
@@ -595,6 +632,7 @@
     - "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160amaj.pdf"
   name: "Jozef \u0160amaj"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
   year: 1964
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -604,6 +642,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
+  fieldurl: jadrova_fyzika
   hindex: 56
   img: Pavel_Povinec.jpg
   last: Povinec
@@ -623,6 +662,7 @@
     - https://uniba.sk/fileadmin/ruk/ovv/2014/141112_Profesorska_prednaska_o_Fukusime-CV_Povinec.pdf
   name: Pavel Povinec
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
   year: 1942
 - affiliation: University of Missouri
@@ -632,6 +672,7 @@
   country: USA
   countryurl: USA
   field: "reproduk\u010Dn\xE1 biol\xF3gia"
+  fieldurl: reprodukcna_biologia
   hindex: 56
   img: Peter_Sutovsky.jpeg
   last: Sutovsky
@@ -647,6 +688,7 @@
     - https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf
   name: "Peter \u0160utovsk\xFD"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp
   year: 1967
 - affiliation: IST Austria
@@ -666,6 +708,7 @@
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "biol\xF3gia rastl\xEDn"
+  fieldurl: biologia_rastlin
   hindex: 55
   img: Eva_Benkova.jpg
   last: Benkova
@@ -677,6 +720,7 @@
     - https://ist.ac.at/wp-content/uploads/2019/11/CV_Benkova.pdf
   name: "Eva Benkov\xE1"
   position: profesorka
+  positionurl: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=3knjVQkAAAAJ
   year: 1969
 - affiliation: University of British Columbia
@@ -696,6 +740,7 @@
   country: Kanada
   countryurl: Kanada
   field: fyzika
+  fieldurl: fyzika
   hindex: 55
   img: Marcel_Franz.jpg
   last: Franz
@@ -705,6 +750,7 @@
     - https://phas.ubc.ca/~franz/
   name: Marcel Franz
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=qOmkOIAAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Trnavsk\xE1 univerzita"
@@ -724,6 +770,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "epidemiol\xF3gia"
+  fieldurl: epidemiologia
   hindex: 55
   img: Marek_Majdan.jpg
   last: Majdan
@@ -737,6 +784,7 @@
     - https://www.researchgate.net/profile/Marek-Majdan-3
   name: Marek Majdan
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.sk/citations?user=xwG1s8YAAAAJ&amp;hl=sk&amp;oi=sra
   year: ''
 - affiliation: Murdoch University
@@ -746,6 +794,7 @@
   country: "Austr\xE1lia"
   countryurl: Australia
   field: biogeografia
+  fieldurl: biogeografia
   hindex: 55
   img: Ladislav_Mucina.png
   last: Mucina
@@ -771,6 +820,7 @@
     - https://en.wikipedia.org/wiki/Ladislav_Mucina
   name: Ladislav Mucina
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=BPId440AAAAJ
   year: 1956
 - affiliation: Medical University of Vienna
@@ -780,6 +830,7 @@
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "hematol\xF3gia"
+  fieldurl: hematologia
   hindex: 54
   img: Robert_Kralovics.jpg
   last: Kralovics
@@ -795,6 +846,7 @@
     - https://en.wikipedia.org/wiki/Robert_Kralovics
   name: "R\xF3bert Kr\xE1lovics"
   position: "v\xFDskumn\xFD pracovn\xEDk"
+  positionurl: vyskumny_pracovnik
   scholar: https://scholar.google.com/citations?user=-oTaCR8AAAAJ&amp
   year: 1970
 - affiliation: Monash University
@@ -804,6 +856,7 @@
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "epidemiol\xF3gia"
+  fieldurl: epidemiologia
   hindex: 54
   img: Barbora_Courten.jpg
   last: de Courten
@@ -823,6 +876,7 @@
     - https://research.monash.edu/en/persons/barbora-de-courten
   name: "Barbora (Voz\xE1rov\xE1) de Courten"
   position: profesorka
+  positionurl: profesorka
   scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
   year: null
 - affiliation: University of Regensburg
@@ -842,6 +896,7 @@
   country: Nemecko
   countryurl: Nemecko
   field: "kvantov\xE1 fyzika"
+  fieldurl: kvantova_fyzika
   hindex: 53
   img: Jaroslav_Fabian.jpg
   last: Fabian
@@ -853,6 +908,7 @@
     - http://www.physik.uni-regensburg.de/forschung/fabian/pages/mainframes/people/JaroslavFabian/resume.pdf
   name: "Jaroslav Fabi\xE1n"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.de/citations?user=bNu69CcAAAAJ&amp;hl=en
   year: 1967
 - affiliation: RWTH Aachen
@@ -872,6 +928,7 @@
   country: Nemecko
   countryurl: Nemecko
   field: "patol\xF3gia"
+  fieldurl: patologia
   hindex: 52
   img: Peter_Boor.jpeg
   last: Boor
@@ -883,6 +940,7 @@
     - http://www.imbm.sk/wp-content/uploads/2018/01/cv-english-pb.pdf
   name: Peter Boor
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
   year: 1979
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -892,6 +950,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 mechanika"
+  fieldurl: aplikovana_mechanika
   hindex: 52
   img: Jan_Sladek.jpg
   last: Sladek
@@ -903,6 +962,7 @@
     - https://www.ae-info.org/ae/Member/Sladek_Jan
   name: "J\xE1n Sl\xE1dek"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=EuDw2JcAAAAJ&amp;hl=en
   year: 1952
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -922,6 +982,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 mechanika"
+  fieldurl: aplikovana_mechanika
   hindex: 52
   img: Vladimir_Sladek.png
   last: Sladek
@@ -931,6 +992,7 @@
     - https://www.osobnosti.sk/osobnost/vladimir-sladek-591
   name: "Vladim\xEDr Sl\xE1dek"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=Z8DDt0kAAAAJ&amp;hl=en
   year: 1954
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -950,6 +1012,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "epidemiol\xF3gia"
+  fieldurl: epidemiologia
   hindex: 49
   img: Alexandra_Brazinova.jpg
   last: Brazinova
@@ -963,6 +1026,7 @@
     - https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
   name: "Alexandra Bra\u017Einov\xE1"
   position: docentka
+  positionurl: docentka
   scholar: https://scholar.google.com/citations?view_op=list_works&amp;hl=sk&amp;user=_tpva74AAAAJ&amp;gmla=AJsN-F4enZVXEbSLey5sIxs2iYX1b7cqmKalMsteEbPCoYJYJxTGQ_Zt-LvTIN2kkDL4gvas8IzPL_-d-a2pm35LzuGeTzsZ-_QtrpIO0EjpojuHFcUXAHqhiyBxqm1VoP8CFAzsgdRpPW7w8bg5bGlASKOHjuCzhA&amp;fbclid=IwAR3a7AhdjAeyLhXviBDKjED2xYkm112lWx5VvKswNvukEuxNdsJdW37SfLg
   year: 1971
 - affiliation: University of Toronto
@@ -972,6 +1036,7 @@
   country: Kanada
   countryurl: Kanada
   field: "reprodukt\xEDvna biol\xF3gia"
+  fieldurl: reproduktivna_biologia
   hindex: 49
   img: Andrea_Jurisicova.png
   last: Jurisicova
@@ -987,6 +1052,7 @@
     - http://www.lunenfeld.ca/?page=jurisicova-andrea
   name: "Andrea Juri\u0161icov\xE1"
   position: docentka
+  positionurl: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=JPCdl08AAAAJ
   year: ''
 - affiliation: Delft University of Technology
@@ -1006,6 +1072,7 @@
   country: Holandsko
   countryurl: Holandsko
   field: fotovoltika
+  fieldurl: fotovoltika
   hindex: 49
   img: Miro_Zeman.jpg
   last: Zeman
@@ -1017,6 +1084,7 @@
     - https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/photovoltaic-materials-and-devices/staff/miro-zeman/
   name: Miro Zeman
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YP4gwRsAAAAJ
   year: 1957
 - affiliation: Delft University of Technology
@@ -1036,6 +1104,7 @@
   country: Holandsko
   countryurl: Holandsko
   field: elektronika
+  fieldurl: elektronika
   hindex: 48
   img: Pavol_Bauer.jpg
   last: Bauer
@@ -1047,6 +1116,7 @@
     - https://www.tudelft.nl/en/staff/p.bauer/
   name: Pavol Bauer
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp
   year: ''
 - affiliation: Georga Mason University
@@ -1066,6 +1136,7 @@
   country: USA
   countryurl: USA
   field: "robotika a strojov\xE9 videnie"
+  fieldurl: robotika_a_strojove_videnie
   hindex: 48
   img: Jana_Kosecka.jpg
   last: Kosecka
@@ -1079,10 +1150,11 @@
     - "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
   name: "Jana Ko\u0161eck\xE1"
   position: profesorka
+  positionurl: profesorka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
   year: ''
 - affiliation: King Abdullah University of Science and Technology (KAUST)
-  affiliationurl: King_Abdullah_University_of_Science_and_Technology_(KAUST)
+  affiliationurl: King_Abdullah_University_of_Science_and_Technology__KAUST_
   cited_by:
   - citations:
       all: 10800
@@ -1098,6 +1170,7 @@
   country: "Saudsk\xE1 Ar\xE1bia"
   countryurl: Saudska_Arabia
   field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
+  fieldurl: optimalizacia_a_strojove_ucenie
   hindex: 48
   img: Peter_Richtarik.jpg
   last: Richtarik
@@ -1129,6 +1202,7 @@
     - https://richtarik.org/docs/richtarik-cv-2021-03.pdf
   name: "Peter Richt\xE1rik"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
   year: ''
 - affiliation: Simon Fraser University
@@ -1138,6 +1212,7 @@
   country: Kanada
   countryurl: Kanada
   field: "grafov\xE9 algoritmy"
+  fieldurl: grafove_algoritmy
   hindex: 47
   img: Pavol_Hell.jpg
   last: Hell
@@ -1149,6 +1224,7 @@
     - https://en.wikipedia.org/wiki/Pavol_Hell
   name: Pavol Hell
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=8KDwlbEAAAAJ
   year: 1946
 - affiliation: University of California
@@ -1158,6 +1234,7 @@
   country: USA
   countryurl: USA
   field: neuroveda
+  fieldurl: neuroveda
   hindex: 47
   img: Martin_Marsala.jpg
   last: Marsala
@@ -1169,6 +1246,7 @@
     - http://www.marsala-lab.com/team/
   name: "Martin Mar\u0161ala"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
   year: ''
 - affiliation: University of North Carolina
@@ -1178,6 +1256,7 @@
   country: USA
   countryurl: USA
   field: fyzika
+  fieldurl: fyzika
   hindex: 47
   img: Lubos_Mitas.jpg
   last: Mitas
@@ -1189,6 +1268,7 @@
     - http://altair.physics.ncsu.edu/cv.html
   name: "Lubo\u0161 Mit\xE1\u0161"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
   year: ''
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
@@ -1198,6 +1278,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "mikrobiol\xF3gia"
+  fieldurl: mikrobiologia
   hindex: 47
   img: Peter_Sebo.jpeg
   last: Sebo
@@ -1221,6 +1302,7 @@
     - https://independent.academia.edu/PeterSebo/CurriculumVitae
   name: "Peter \u0160ebo"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp
   year: 1960
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
@@ -1240,6 +1322,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia rastl\xEDn"
+  fieldurl: fyziologia_rastlin
   hindex: 46
   img: Marian_Brestic.jpg
   last: Brestic
@@ -1253,6 +1336,7 @@
     - https://uniag.academia.edu/MarianBrestic/CurriculumVitae
   name: "Mari\xE1n Bresti\u010D"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=9LXjvp8AAAAJ&amp;hl=en&amp;oi=sra
   year: 1959
 - affiliation: "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe"
@@ -1262,6 +1346,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "jadrov\xE1 fyzika"
+  fieldurl: jadrova_fyzika
   hindex: 46
   img: Katarina_Krizkova_Gajdosova.jpg
   last: Gajdosova
@@ -1273,6 +1358,7 @@
     - https://www.meltingpotforum.com/cs/archiv/recnici-2019/katarina-krizkova-gajdosova-svk-cze
   name: "Katar\xEDna K\u0159\xED\u017Ekov\xE1 Gajdo\u0161ov\xE1"
   position: "vedeck\xE1 pracovn\xED\u010Dka"
+  positionurl: vedecka_pracovnicka
   scholar: https://scholar.google.com/citations?user=n1zAfusAAAAJ&amp;hl=en
   year: ''
 - affiliation: University of Washington
@@ -1292,6 +1378,7 @@
   country: USA
   countryurl: USA
   field: programovacie jazyky
+  fieldurl: programovacie_jazyky
   hindex: 45
   img: Rastislav_Bodik.jpg
   last: Bodik
@@ -1319,6 +1406,7 @@
     - https://homes.cs.washington.edu/~bodik/cv.pdf
   name: "Rastislav Bod\xEDk"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
   year: 1968
 - affiliation: University of Zurich
@@ -1338,6 +1426,7 @@
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: "fyziol\xF3gia buniek"
+  fieldurl: fyziologia_buniek
   hindex: 45
   img: Lubor_Borsig.jpg
   last: Borsig
@@ -1353,6 +1442,7 @@
     - https://www.physiol.uzh.ch/en/research/institutegroups/grborsig/membersgrborsig.html
   name: Lubor Borsig
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?hl=en&amp;user=XOPkMEAAAAAJ
   year: ''
 - affiliation: University of Louisville
@@ -1362,6 +1452,7 @@
   country: USA
   countryurl: USA
   field: "neurol\xF3gia"
+  fieldurl: neurologia
   hindex: 45
   img: Peter_Hedera.jpg
   last: Hedera
@@ -1375,6 +1466,7 @@
     - https://uoflphysicians.com/provider/peter-hedera/
   name: Peter Hedera
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?user=QB0X-6sAAAAJ
   year: ''
 - affiliation: University of Adelaide
@@ -1394,6 +1486,7 @@
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "bioch\xE9mia"
+  fieldurl: biochemia
   hindex: 45
   img: Maria_Hrmova.jpg
   last: Hrmova
@@ -1407,6 +1500,7 @@
     - https://www.adelaide.edu.au/directory/maria.hrmova
   name: "M\xE1ria Hrmov\xE1"
   position: profesorka
+  positionurl: profesorka
   scholar: https://scholar.google.sk/citations?user=Hvt2QdYAAAAJ&amp;hl=en
   year: ''
 - affiliation: Medical University of Vienna
@@ -1426,6 +1520,7 @@
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "lek\xE1rska fyzika"
+  fieldurl: lekarska_fyzika
   hindex: 45
   img: Martin_Krssak.jpg
   last: Krssak
@@ -1437,6 +1532,7 @@
     - https://www.meduniwien.ac.at/hp/programs-endocrinology/supervisors-topics/krssak-martin/
   name: "Martin Kr\u0161\u0161\xE1k"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ynt9VvUAAAAJ
   year: ''
 - affiliation: "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave"
@@ -1456,6 +1552,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "anorganick\xE1 ch\xE9mia"
+  fieldurl: anorganicka_chemia
   hindex: 44
   img: Roman_Boca.jpg
   last: Boca
@@ -1469,6 +1566,7 @@
     - https://www.stuba.sk/new/docs//stu/uradna_tabula/2010volby/_boca.pdf
   name: "Roman Bo\u010Da"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=I5zYMOsAAAAJ&amp
   year: 1950
 - affiliation: Oxford University
@@ -1478,6 +1576,7 @@
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
   hindex: 44
   img: Philipp_Kukura.jpeg
   last: Kukura
@@ -1491,6 +1590,7 @@
     - https://www.phys.uniroma1.it/fisica/sites/default/files/bandi/CV/CurrentCVKukura.pdf
   name: Philipp Kukura
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NgHGnt0AAAAJ
   year: 1978
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -1500,6 +1600,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: botanika
+  fieldurl: botanika
   hindex: 44
   img: Karol_Marhold.jpg
   last: Marhold
@@ -1511,6 +1612,7 @@
     - https://ibot.sav.sk/usr/Karol/
   name: Karol Marhold
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=uA0tObYAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -1520,6 +1622,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "materi\xE1lov\xE1 ch\xE9mia"
+  fieldurl: materialova_chemia
   hindex: 44
   img: Maria_Omastova.jpg
   last: Omastova
@@ -1533,6 +1636,7 @@
     - https://drive.google.com/file/d/1N08kDcSaK0QsIq5_lGpbp-D4Xp1e7xGO/view?usp=sharing
   name: "M\xE1ria Omastov\xE1"
   position: "vedeck\xE1 pracovn\xED\u010Dka"
+  positionurl: vedecka_pracovnicka
   scholar: https://scholar.google.sk/citations?user=8X3B8LAAAAAJ&amp;hl=en&amp;oi=ao
   year: 1962
 - affiliation: Vienna University of Technology
@@ -1542,6 +1646,7 @@
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "hydrol\xF3gia"
+  fieldurl: hydrologia
   hindex: 44
   img: Juraj_Parajka.jpg
   last: Parajka
@@ -1555,6 +1660,7 @@
     - https://www.waterresources.at/index.php?id=113
   name: Juraj Parajka
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=EI8VHcMAAAAJ
   year: ''
 - affiliation: Apple
@@ -1574,6 +1680,7 @@
   country: USA
   countryurl: USA
   field: "aplikovan\xE1 informatika"
+  fieldurl: aplikovana_informatika
   hindex: 44
   img: Martin_Pelikan.jpg
   last: Pelikan
@@ -1587,6 +1694,7 @@
     - https://www.researchgate.net/profile/Martin-Pelikan
   name: "Martin Pelik\xE1n"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?hl=en&amp;user=f59x6y4AAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -1606,6 +1714,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "behavior\xE1lna ekol\xF3gia"
+  fieldurl: behavioralna_ekologia
   hindex: 44
   img: Pavol_Prokop.png
   last: Prokop
@@ -1619,6 +1728,7 @@
     - https://fns.uniba.sk/pracoviska/environmentalna-sekcia/kee/zamestnanci/pavol-prokop/
   name: Pavol Prokop
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=q6uGy_4AAAAJ&amp;hl=sk
   year: ''
 - affiliation: University of Minnesota
@@ -1628,6 +1738,7 @@
   country: USA
   countryurl: USA
   field: "r\xE1diol\xF3gia"
+  fieldurl: radiologia
   hindex: 44
   img: Ivan_Tkac.jpeg
   last: Tkac
@@ -1642,6 +1753,7 @@
       2011/Tkac- curriculum vitae 2011-02-14.pdf
   name: "Ivan Tk\xE1\u010D"
   position: "odborn\xFD asistent"
+  positionurl: odborny_asistent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=DNCCZHYAAAAJ
   year: 1954
 - affiliation: Karlsruhe Institute of Technology
@@ -1661,6 +1773,7 @@
   country: Nemecko
   countryurl: Nemecko
   field: "nanotechnol\xF3gia"
+  fieldurl: nanotechnologia
   hindex: 43
   img: Vladimir_Sepelak.png
   last: Sepelak
@@ -1678,6 +1791,7 @@
     - https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Vladimir-Sepelak.pdf
   name: "Vladim\xEDr \u0160epel\xE1k"
   position: "v\xFDskumn\xFD pracovn\xEDk"
+  positionurl: vyskumny_pracovnik
   scholar: https://scholar.google.com/citations?user=gpGngJUAAAAJ&hl=en&oi=sra
   year: null
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -1687,6 +1801,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "biotechnol\xF3gia"
+  fieldurl: biotechnologia
   hindex: 43
   img: Jan_Tkac.jpeg
   last: Tkac
@@ -1701,6 +1816,7 @@
       \ Ba 2013/CV_Ing_J\xE1n Tk\xE1\u010D_DrSc.pdf"
   name: "J\xE1n Tk\xE1\u010D"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?user=jfkqa18AAAAJ&amp;hl=en
   year: 1972
 - affiliation: University of Edinburgh
@@ -1710,6 +1826,7 @@
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "nukle\xE1rna magnetick\xE1 rezonancia"
+  fieldurl: nuklearna_magneticka_rezonancia
   hindex: 43
   img: Dusan_Uhrin.jpg
   last: Uhrin
@@ -1721,6 +1838,7 @@
     - https://uhringroup.wixsite.com/nmrgroup
   name: "Du\u0161an Uhr\xEDn"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=BSx7_CEAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita PJ \u0160af\xE1rika"
@@ -1740,6 +1858,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "soci\xE1lna psychol\xF3gia"
+  fieldurl: socialna_psychologia
   hindex: 42
   img: Andrea_Madarasova_Geckova.jpg
   last: Geckova
@@ -1753,6 +1872,7 @@
     - https://www.upjs.sk/LF/zamestnanec/andrea.geckova/
   name: "Andrea Madarasov\xE1 Geckov\xE1"
   position: profesorka
+  positionurl: profesorka
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=VbZM3zYAAAAJ
   year: 1972
 - affiliation: Qatar University
@@ -1772,6 +1892,7 @@
   country: Katar
   countryurl: Katar
   field: "materi\xE1lov\xE1 veda"
+  fieldurl: materialova_veda
   hindex: 42
   img: Igor_Krupa.jpg
   last: Krupa
@@ -1787,6 +1908,7 @@
     - https://cam.qu.edu.qa/static_file/qu/Faculty and Staff/images/Prof. Igor Krupa.pdf
   name: Igor Krupa
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=Pz7_cpAAAAAJ&amp;hl=en
   year: '1968'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -1806,6 +1928,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "makromolekul\xE1rna ch\xE9mia"
+  fieldurl: makromolekularna_chemia
   hindex: 42
   img: Igor_Lacik.jpeg
   last: Lacik
@@ -1821,6 +1944,7 @@
     - https://www.learned.sk/wp-content/uploads/2020/01/ZIVOTOPIS_Lacik_Europass-Jan-2020_pre-UcSS.pdf
   name: "Igor Lac\xEDk"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?user=SB6Z-ScAAAAJ&amp;hl=en
   year: 1962
 - affiliation: "Z\xE1pado\u010Desk\xE1 univerzita v Plzni"
@@ -1840,6 +1964,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "aplikovan\xE1 fyzika"
+  fieldurl: aplikovana_fyzika
   hindex: 42
   img: Jan_Minar.jpeg
   last: Minar
@@ -1853,6 +1978,7 @@
     - https://drive.google.com/file/d/1-pg-_rFi7oDd62TJW8nJh7ffCWBr6y-M/view?usp=sharing
   name: "J\xE1n Min\xE1r"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=EZ8YetQAAAAJ&amp;hl=en
   year: 1975
 - affiliation: Medical University of Vienna
@@ -1862,6 +1988,7 @@
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
   hindex: '42'
   img: Vladimir_Mlynarik.png
   last: Mlynarik
@@ -1879,6 +2006,7 @@
     - https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/Mlynarik_CV_webpage-1.pdf
   name: "Vladim\xEDr Mlyn\xE1rik"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?hl=en&amp;user=OYXbmu0AAAAJ
   year: '1951'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -1888,6 +2016,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "bioch\xE9mia"
+  fieldurl: biochemia
   hindex: 42
   img: Olga_Pechanova.jpg
   last: Pechanova
@@ -1901,6 +2030,7 @@
     - https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Pechanova/H13_RNDr._Pechanova_-_zivotopis.pdf
   name: "O\u013Ega Pech\xE1\u0148ov\xE1"
   position: docentka
+  positionurl: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=1bNNlZUAAAAJ
   year: 1962
 - affiliation: McMaster University
@@ -1910,6 +2040,7 @@
   country: Kanada
   countryurl: Kanada
   field: "te\xF3ria grafov"
+  fieldurl: teoria_grafov
   hindex: 42
   img: Alexander_Rosa.jpg
   last: Rosa
@@ -1925,6 +2056,7 @@
     - https://sk.wikipedia.org/wiki/Alexander_Rosa
   name: Alexander Rosa
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=7lVA1vkAAAAJ&amp;hl=en&amp;oi=sra
   sex: "mu\u017E"
   year: 1937
@@ -1945,6 +2077,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "farmakol\xF3gia"
+  fieldurl: farmakologia
   hindex: 42
   img: Tomas_Trnovec.jpg
   last: Trnovec
@@ -1958,6 +2091,7 @@
     - https://www.researchgate.net/profile/Tomas-Trnovec
   name: "Tom\xE1\u0161 Trnovec"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iQivvkcAAAAJ
   year: 1932
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -1978,6 +2112,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "biotechnol\xF3gia"
+  fieldurl: biotechnologia
   hindex: 41
   img: Peter_Gemeiner.png
   last: Gemeiner
@@ -1991,6 +2126,7 @@
     - https://prabook.com/web/peter.gemeiner/337833
   name: Peter Gemeiner
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   year: 1946
 - affiliation: University of Strathclyde
   affiliationurl: University_of_Strathclyde
@@ -2009,6 +2145,7 @@
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: elektrotechnika
+  fieldurl: elektrotechnika
   hindex: 41
   img: Ivan_Glesk.jpeg
   last: Glesk
@@ -2022,6 +2159,7 @@
     - https://pureportal.strath.ac.uk/en/persons/ivan-glesk
   name: Ivan Glesk
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=2f6Yg78AAAAJ
   year: ''
 - affiliation: Simon Fraser University
@@ -2041,6 +2179,7 @@
   country: Kanada
   countryurl: Kanada
   field: "d\xE1tov\xE1 veda"
+  fieldurl: datova_veda
   hindex: 41
   img: Marek_Hatala.jpg
   last: Hatala
@@ -2058,6 +2197,7 @@
     - https://www.sfu.ca/siat/people/research-faculty/marek-hatala.html
   name: Marek Hatala
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ApdHT0UAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -2067,6 +2207,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "lek\xE1rska ch\xE9mia"
+  fieldurl: lekarska_chemia
   hindex: 41
   img: Josef_Jampilek.jpg
   last: Jampilek
@@ -2082,6 +2223,7 @@
     - https://benthamscience.com/journals/medicinal-chemistry/editorial-board/biography/mc_ebm_jampilek_001/
   name: "Josef Jamp\xEDlek"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=co9rdhQAAAAJ&hl=sk&oi=sra
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -2101,6 +2243,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "molekul\xE1rna biol\xF3gia"
+  fieldurl: molekularna_biologia
   hindex: 41
   img: Stefan_Janecek.jpg
   last: Janecek
@@ -2112,6 +2255,7 @@
     - https://fpv-kbio.webnode.sk/stefan-janecek/
   name: "\u0160tefan Jane\u010Dek"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.sk/citations?user=_l2tp6kAAAAJ&amp;hl=en
   year: ''
 - affiliation: University of North Carolina
@@ -2131,6 +2275,7 @@
   country: USA
   countryurl: USA
   field: "geovizualiz\xE1cia"
+  fieldurl: geovizualizacia
   hindex: 41
   img: Helena_Mitasova.jpg
   last: Mitasova
@@ -2144,6 +2289,7 @@
     - https://meas.sciences.ncsu.edu/wp-content/uploads/sites/3/2015/08/Mitasova_CV2p_Dec2020.pdf
   name: "Helena Mit\xE1\u0161ov\xE1"
   position: profesorka
+  positionurl: profesorka
   scholar: https://scholar.google.com/citations?user=TIVMwT4AAAAJ
   year: ''
 - affiliation: Oregon State University
@@ -2153,6 +2299,7 @@
   country: USA
   countryurl: USA
   field: "seizmol\xF3gia"
+  fieldurl: seizmologia
   hindex: 41
   img: John_Nabelek.jpeg
   last: Nabelek
@@ -2164,6 +2311,7 @@
     - https://ceoas.oregonstate.edu/people/john-nabelek
   name: "John Nabelek - J\xE1n Ludv\xEDk N\xE1b\u011Blek"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=G0MJo3UAAAAJ&amp;hl=en
   year: 1952
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
@@ -2173,6 +2321,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "automatiz\xE1cia"
+  fieldurl: automatizacia
   hindex: 41
   img: Ivo_Petras.jpg
   last: Petras
@@ -2184,6 +2333,7 @@
     - https://www.uiam.sk/~fikar/drsc/petras/Navrh_VRSTU.pdf
   name: "Ivo Petr\xE1\u0161"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=01msi28AAAAJ&amp;hl=en
   year: 1973
 - affiliation: Masarykova univerzita
@@ -2203,6 +2353,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "environment\xE1lna ch\xE9mia"
+  fieldurl: environmentalna_chemia
   hindex: 41
   img: Branislav_Vrana.jpg
   last: Vrana
@@ -2216,6 +2367,7 @@
     - https://www.recetox.muni.cz/en/research/principal-investigators/dr-branislav-vrana
   name: Branislav Vrana
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?user=50d9fJAAAAAJ&amp;hl=sk
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -2235,6 +2387,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "molekul\xE1rna biomedic\xEDna"
+  fieldurl: molekularna_biomedicina
   hindex: 40
   img: Peter_Celec.jpg
   last: Celec
@@ -2246,6 +2399,7 @@
     - http://www.imbm.sk/wp-content/uploads/2017/03/cv_peter-celec-short-en.pdf
   name: Peter Celec
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.sk/citations?user=iPch8vQAAAAJ&amp;hl=en
   year: 1979
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -2265,6 +2419,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "virol\xF3gia"
+  fieldurl: virologia
   hindex: 40
   img: Boris_Klempa.jpg
   last: Klempa
@@ -2284,6 +2439,7 @@
     - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=3476
   name: Boris Klempa
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?user=FSHRkJgAAAAJ&hl=en
   year: ''
 - affiliation: University of Arizona
@@ -2303,6 +2459,7 @@
   country: USA
   countryurl: USA
   field: optika
+  fieldurl: optika
   hindex: 40
   img: Miroslav_Kolesik.jpg
   last: Kolesik
@@ -2312,6 +2469,7 @@
     - http://acms.arizona.edu/FemtoTheory/MK_personal/index.html
   name: "Miroslav Koles\xEDk"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=1tCBM2kAAAAJ
   year: ''
 - affiliation: Hanover Medical University
@@ -2331,6 +2489,7 @@
   country: Nemecko
   countryurl: Nemecko
   field: neuroveda
+  fieldurl: neuroveda
   hindex: 40
   img: Andrej_Kral.jpg
   last: Kral
@@ -2346,6 +2505,7 @@
     - https://www.neuroprostheses.com/AK/Main.html
   name: "Andrej Kr\xE1\u013E"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=y0Fdk30AAAAJ&amp;hl=en
   year: 1969
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -2365,6 +2525,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "elektr\xF3nov\xE1 a plazmov\xE1 fyzika"
+  fieldurl: elektronova_a_plazmova_fyzika
   hindex: 40
   img: Stefan_Matejcik.jpg
   last: Matejcik
@@ -2374,6 +2535,7 @@
     - http://neon.dpp.fmph.uniba.sk/workgroup/index.php?option=com_content&view=article&id=1&Itemid=101
   name: "\u0160tefan Matej\u010D\xEDk"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?hl=cs&amp;user=Bvdw6vIAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -2393,6 +2555,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "teoretick\xE1 ch\xE9mia"
+  fieldurl: teoreticka_chemia
   hindex: 40
   img: Jozef_Noga.jpg
   last: Noga
@@ -2418,6 +2581,7 @@
     - https://fns.uniba.sk/fileadmin/prif/chem/kag/Zam-Noga/jozef_noga_2014.pdf
   name: Jozef Noga
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=lZvsE4EAAAAJ
   year: 1955
 - affiliation: "Univerzita PJ \u0160af\xE1rika"
@@ -2437,6 +2601,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia rastl\xEDn"
+  fieldurl: fyziologia_rastlin
   hindex: 38
   img: Martin_Backor_1.jpg
   last: Backor
@@ -2454,6 +2619,7 @@
     - http://kfrserver.natur.cuni.cz/studium/anatomie/soubory/CV_Backor.pdf
   name: "Martin Ba\u010Dkor"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.co.uk/citations?user=yuz_CywAAAAJ&hl=en&oi=sra
   year: 1970
 - affiliation: National Institute of Allergy and Infectious Diseases
@@ -2473,6 +2639,7 @@
   country: USA
   countryurl: USA
   field: "neuroimunol\xF3gia"
+  fieldurl: neuroimunologia
   hindex: 38
   img: Bibiana_Bielekova.jpg
   last: Bielekova
@@ -2492,6 +2659,7 @@
     - https://demystifyingmedicine.od.nih.gov/dm11/biosketch/dm0301-bielekova-bibiana.pdf
   name: "Bibiana Bielekov\xE1"
   position: "vedeck\xE1 pracovn\xED\u010Dka"
+  positionurl: vedecka_pracovnicka
   scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
   year: 1969
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -2511,6 +2679,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
   hindex: 38
   img: Tomas_Bucko.png
   last: Bucko
@@ -2522,6 +2691,7 @@
     - https://fns.uniba.sk/en/departments/chemistry/department-of-physical-and-theoretical-chemistry/people/central-database-of-staff/?tx_unibausers_pi1[person]=bucko19
   name: "Tom\xE1\u0161 Bu\u010Dko"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.de/citations?user=wsJN2SMAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita Palack\xE9ho v Olomouci"
@@ -2541,6 +2711,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "behavior\xE1lna ekol\xF3gia"
+  fieldurl: behavioralna_ekologia
   hindex: 38
   img: Tomas_Grim.jpg
   last: Grim
@@ -2556,6 +2727,7 @@
     - http://www.tomasgrim.com
   name: "Tom\xE1\u0161 Grim"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=T0MNJGgAAAAJ
   year: '1973'
 - affiliation: Moorfields Eye Hospital
@@ -2575,6 +2747,7 @@
   country: "Spojen\xE9 Arabsk\xE9 Emir\xE1ty"
   countryurl: Spojene_Arabske_Emiraty
   field: "oftalmol\xF3gia"
+  fieldurl: oftalmologia
   hindex: 38
   img: Igor_Kozak.jpeg
   last: Kozak
@@ -2586,6 +2759,7 @@
     - https://moorfields.ae/medical-team/ophthalmologists/dr-igor-kozak/
   name: "Igor Koz\xE1k"
   position: konzultant
+  positionurl: konzultant
   scholar: https://scholar.google.com/citations?hl=en&amp;user=uQGtqxoAAAAJ
   year: ''
 - affiliation: Research and Development Services
@@ -2605,6 +2779,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "biol\xF3gia"
+  fieldurl: biologia
   hindex: 38
   img: Peter_Kruzliak.jpg
   last: Kruzliak
@@ -2618,6 +2793,7 @@
     - https://orcid.org/0000-0002-7069-3784
   name: "Peter Kru\u017Eliak"
   position: CEO
+  positionurl: CEO
   scholar: https://scholar.google.com/citations?user=ICo_N5sAAAAJ&hl=sk
   year: ''
 - affiliation: Joint Institute for Nuclear Research
@@ -2637,6 +2813,7 @@
   country: "Rusk\xE1 Feder\xE1cia"
   countryurl: Ruska_Federacia
   field: biofyzika
+  fieldurl: biofyzika
   hindex: 38
   img: Norbert_Kucerka.jpeg
   last: Kucerka
@@ -2654,6 +2831,7 @@
     - http://www.norbbi.com/curriculum/curriculum.html
   name: "Norbert Ku\u010Derka"
   position: "v\xFDskumn\xFD pracovn\xEDk"
+  positionurl: vyskumny_pracovnik
   scholar: https://scholar.google.com/citations?user=W9ls60kAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -2673,6 +2851,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
+  fieldurl: jadrova_fyzika
   hindex: 38
   img: Jozef_Masarik.jpg
   last: Masarik
@@ -2686,6 +2865,7 @@
     - https://uniba.sk/fileadmin/ruk/ovv/2018/181031_Volby-JozefMasarikZivotopis.pdf
   name: Jozef Masarik
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=DkqU0V4AAAAJ&amp;hl=th
   year: 1959
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
@@ -2705,6 +2885,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "komplexn\xE9 syst\xE9my"
+  fieldurl: komplexne_systemy
   hindex: 38
   img: Milan_Palus.jpg
   last: Palus
@@ -2720,6 +2901,7 @@
     - http://www.cs.cas.cz/mp/
   name: "Milan Palu\u0161"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
   year: 1963
 - affiliation: University of Birmingham
@@ -2739,6 +2921,7 @@
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "komplexn\xE9 a adapt\xEDvne syst\xE9my"
+  fieldurl: komplexne_a_adaptivne_systemy
   hindex: 38
   img: Peter_Tino.jpg
   last: Tino
@@ -2752,6 +2935,7 @@
     - https://www.cs.bham.ac.uk/~pxt/cv_pt.pdf
   name: "Peter Ti\u0148o"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=jntY1osAAAAJ&amp
   year: ''
 - affiliation: University of Technology Sydney
@@ -2771,6 +2955,7 @@
   country: "Austr\xE1lia"
   countryurl: Australia
   field: fyzika
+  fieldurl: fyzika
   hindex: 38
   img: Milos_Toth.png
   last: Toth
@@ -2790,6 +2975,7 @@
     - https://tmos.org.au/team/cis/
   name: "Milo\u0161 T\xF3th"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=OMBz3bIAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -2809,6 +2995,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "ch\xE9mia"
+  fieldurl: chemia
   hindex: 38
   img: Miroslav_Urban.jpg
   last: Urban
@@ -2826,6 +3013,7 @@
     - http://www.qch.fns.uniba.sk/GroupPage/members/urban/cv-urban.pdf
   name: Miroslav Urban
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=9Ff2ZsoAAAAJ
   year: 1942
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -2845,6 +3033,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: biofyzika
+  fieldurl: biofyzika
   hindex: 37
   img: Tibor_Hianik.jpg
   last: Hianik
@@ -2854,6 +3043,7 @@
     - https://uniba.sk/ludia/hianik1/
   name: Tibor Hianik
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=FNfPewQAAAAJ&amp;hl=en
   year: ''
 - affiliation: "ETH Z\xFCrich"
@@ -2863,6 +3053,7 @@
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: informatika
+  fieldurl: informatika
   hindex: 37
   img: Juraj_Hromkovic.jpg
   last: Hromkovic
@@ -2882,6 +3073,7 @@
     - https://en.wikipedia.org/wiki/Juraj_Hromkovi\u010D
   name: "Juraj Hromkovi\u010D"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=xG2VV1UAAAAJ&amp;hl=de
   year: 1958
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
@@ -2901,6 +3093,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia \u017Eivo\u010D\xEDchov"
+  fieldurl: fyziologia_zivocichov
   hindex: 37
   img: Peter_Massanyi.jpg
   last: Massanyi
@@ -2928,6 +3121,7 @@
     - https://sites.google.com/site/massanyip/1_curriculum-vitae
   name: "Peter Mass\xE1nyi"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=pXeemKMAAAAJ&hl=sk
   year: 1968
 - affiliation: "ETH Z\xFCrich"
@@ -2937,6 +3131,7 @@
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: "hydrol\xF3gia"
+  fieldurl: hydrologia
   hindex: 37
   img: Peter_Molnar.png
   last: Molnar
@@ -2950,6 +3145,7 @@
     - https://hyd.ifu.ethz.ch/the-group/people/person-detail.html?persid=100330
   name: "Peter Moln\xE1r"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
   year: 1982
 - affiliation: University of Missouri
@@ -2959,6 +3155,7 @@
   country: USA
   countryurl: USA
   field: "geol\xF3gia"
+  fieldurl: geologia
   hindex: 37
   img: Peter_Nabelek.jpeg
   last: Nabelek
@@ -2974,6 +3171,7 @@
     - https://geology.missouri.edu/sites/default/files/people-files/2019-09/nabelek_cv.pdf
   name: Peter I. Nabelek
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=bIXqQ6oAAAAJ&amp;hl=en
   year: 1955
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
@@ -2993,6 +3191,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 matematika"
+  fieldurl: aplikovana_matematika
   hindex: 37
   img: Igor_Podlubny.jpeg
   last: Podlubny
@@ -3008,6 +3207,7 @@
     - http://people.tuke.sk/igor.podlubny/index.html
   name: "Igor Podlubn\xFD"
   position: profesor
+  positionurl: profesor
   scholar: http://scholar.google.com/citations?user=4H2CInEAAAAJ
   year: 1961
 - affiliation: "Univerzita Kon\u0161tant\xEDna Filozofa"
@@ -3027,6 +3227,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "biol\xF3gia reprodukcie"
+  fieldurl: biologia_reprodukcie
   hindex: 37
   img: Alexander_Sirotkin.jpg
   last: Sirotkin
@@ -3040,6 +3241,7 @@
     - https://portal.ukf.sk/kvalita/upload/inauguracie/5/1428071166_1440_551ea2fe525e0_zivotopis_asirotkin.pdf
   name: Alexander V. Sirotkin
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=hVqCXAcAAAAJ
   sex: "mu\u017E"
   year: 1954
@@ -3060,6 +3262,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia rastl\xEDn"
+  fieldurl: fyziologia_rastlin
   hindex: 37
   img: Marek_Zivcak.jpg
   last: Zivcak
@@ -3071,6 +3274,7 @@
     - https://is.uniag.sk/lide/clovek.pl?id=1211;zalozka=3;lang=en
   name: "Marek \u017Div\u010D\xE1k"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.sk/citations?user=fbrMtJsAAAAJ&amp;hl=sk
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -3090,6 +3294,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "bioch\xE9mia"
+  fieldurl: biochemia
   hindex: 36
   img: Vladimir_Farkas.jpg
   last: Farkas
@@ -3113,6 +3318,7 @@
     - "https://www.learned.sk/wp-content/uploads/2020/03/\u017Eivotopis-UcSS.pdf"
   name: "Vladim\xEDr Farka\u0161"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.ro/citations?user=lakc8cQAAAAJ&hl=en
   year: 1941
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -3132,6 +3338,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
+  fieldurl: fyzika
   hindex: 36
   img: Andrej_Liptaj.jpg
   last: Liptaj
@@ -3143,6 +3350,7 @@
     - https://www.sav.sk/uploads/users_cv/20191219104536_138_zivotopis.pdf
   name: Andrej Liptaj
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?user=cwsmFUUAAAAJ&amp;hl=sk
   year: 1980
 - affiliation: "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave"
@@ -3152,6 +3360,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "bioanalytick\xE1 ch\xE9mia"
+  fieldurl: bioanalyticka_chemia
   hindex: 36
   img: Stanislav_Miertus.jpg
   last: Miertus
@@ -3169,6 +3378,7 @@
     - https://www.icarst.org/prof-s-miertus/
   name: "Stanislav Miertu\u0161"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=MhwlHXIAAAAJ
   year: 1948
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -3178,6 +3388,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: geofyzika
+  fieldurl: geofyzika
   hindex: 36
   img: Peter_Moczo.jpg
   last: Moczo
@@ -3191,6 +3402,7 @@
     - https://vedanadosah.cvtisr.sk/prof-peter-moczo-sme-radi-ze-sme-sucastou-spickoveho-vyskumu
   name: Peter Moczo
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=OF5iXJQAAAAJ&amp;hl=sk
   year: 1956
 - affiliation: University of Natural Resources and Life Sciences
@@ -3200,6 +3412,7 @@
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
   hindex: 36
   img: Daniel_Tunega.jpg
   last: Tunega
@@ -3215,6 +3428,7 @@
     - http://202.113.8.3/oneschool/Upload/activity/201605/627386.pdf
   name: Daniel Tunega
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.sk/citations?user=6XPvlE8AAAAJ&amp;hl=en
   year: 1961
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -3234,6 +3448,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia"
+  fieldurl: fyziologia
   hindex: 35
   img: Iveta_Bernatova.jpg
   last: Bernatova
@@ -3243,6 +3458,7 @@
     - https://www.researchgate.net/profile/Iveta_Bernatova/2
   name: "Iveta Bern\xE1tov\xE1"
   position: "vedeck\xE1 pracovn\xED\u010Dka"
+  positionurl: vedecka_pracovnicka
   scholar: https://scholar.google.sk/citations?user=S9nvaAkAAAAJ&amp;hl=sk
   year: ''
 - affiliation: "Eur\xF3pska komisia"
@@ -3262,6 +3478,7 @@
   country: "\u0160panielsko"
   countryurl: Spanielsko
   field: "ekon\xF3mia"
+  fieldurl: ekonomia
   hindex: 35
   img: Pavel_Ciaian.jpg
   last: Ciaian
@@ -3277,6 +3494,7 @@
     - http://ciaian.szm.sk/
   name: Pavel Ciaian
   position: "v\xFDskumn\xFD pracovn\xEDk"
+  positionurl: vyskumny_pracovnik
   scholar: https://scholar.google.sk/citations?user=s_AVnN0AAAAJ
   year: ''
 - affiliation: The University of Melbourne
@@ -3296,6 +3514,7 @@
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "neurol\xF3gia"
+  fieldurl: neurologia
   hindex: 35
   img: Tomas_Kalincik.png
   last: Kalincik
@@ -3311,6 +3530,7 @@
     - https://findanexpert.unimelb.edu.au/profile/458758-tomas-kalincik
   name: "Tom\xE1\u0161 Kalin\u010D\xEDk"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=uoit0TEAAAAJ
   year: 1982
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
@@ -3320,6 +3540,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "optick\xE9 materi\xE1ly"
+  fieldurl: opticke_materialy
   hindex: 35
   img: Alexander_Kromka.png
   last: Kromka
@@ -3335,6 +3556,7 @@
     - https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
   name: Alexander Kromka
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.cz/citations?user=3S5wnV8AAAAJ&amp;hl=cs
   sex: "mu\u017E"
   year: ''
@@ -3345,6 +3567,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "onkol\xF3gia"
+  fieldurl: onkologia
   hindex: 35
   img: Michal_Mego.jpg
   last: Mego
@@ -3354,6 +3577,7 @@
     - https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
   name: Michal Mego
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=NvHY0EcAAAAJ&amp;hl=en&amp;oi=ao
   year: 1977
 - affiliation: University Medical Center Utrecht
@@ -3363,6 +3587,7 @@
   country: Holandsko
   countryurl: Holandsko
   field: "kardiovaskul\xE1rna genetika"
+  fieldurl: kardiovaskularna_genetika
   hindex: 35
   img: Michal_Mokry.jpg
   last: Mokry
@@ -3376,6 +3601,7 @@
     - https://www.umcutrecht.nl/en/research/researchers/mokry-michal-m
   name: "Michal Mokr\xFD"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=rX7GiUAAAAAJ
   year: 1982
 - affiliation: University of Strathclyde
@@ -3395,6 +3621,7 @@
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "chemick\xE9 in\u017Einierstvo"
+  fieldurl: chemicke_inzinierstvo
   hindex: 35
   img: Jan_Sefcik.jpeg
   last: Sefcik
@@ -3412,6 +3639,7 @@
     - https://pureportal.strath.ac.uk/en/persons/jan-sefcik
   name: "J\xE1n \u0160ef\u010D\xEDk"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5akXP_8AAAAJ
   year: ''
 - affiliation: University of Vienna
@@ -3431,6 +3659,7 @@
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "nanomateri\xE1ly"
+  fieldurl: nanomaterialy
   hindex: 35
   img: Viera_Skakalova.jpeg
   last: Skakalova
@@ -3446,6 +3675,7 @@
     - https://iea.u-cergy.fr/en/invited-researchers-cv/fellows-in-residence-2019-2020/viera-skakalova.html
   name: "Viera Sk\xE1kalov\xE1"
   position: "vedeck\xE1 pracovn\xED\u010Dka"
+  positionurl: vedecka_pracovnicka
   scholar: https://scholar.google.com/citations?user=3PIAo10AAAAJ&amp;hl=en
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -3465,6 +3695,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "v\xFDpo\u010Dtov\xE1 ch\xE9mia"
+  fieldurl: vypoctova_chemia
   hindex: 35
   img: Igor_Tvaroska.jpg
   last: Tvaroska
@@ -3486,6 +3717,7 @@
     - http://www.chem.sk/people/tvaroskaigor/
   name: "Igor Tvaro\u0161ka"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?hl=en&amp;user=v71jEjAAAAAJ
   year: 1944
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -3495,6 +3727,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "biol\xF3gia"
+  fieldurl: biologia
   hindex: 35
   img: Michal_Zeman.jpg
   last: Zeman
@@ -3508,6 +3741,7 @@
     - https://fns.uniba.sk/kontakt/zamestnanci-prif-uk/?tx_unibausers_pi1[person]=zeman1
   name: Michal Zeman
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=dWhSd2wAAAAJ&amp;hl=en&amp;oi=sra
   year: ''
 - affiliation: Indiana University Bloomington
@@ -3527,6 +3761,7 @@
   country: USA
   countryurl: USA
   field: "fyzika \u010Dast\xEDc"
+  fieldurl: fyzika_castic
   hindex: 34
   img: Radovan_Dermisek.jpg
   last: Dermisek
@@ -3538,6 +3773,7 @@
     - https://dermisek.pages.iu.edu/dermisek_CV.pdf
   name: "Radovan Derm\xED\u0161ek"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ell1TQQAAAAJ
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -3547,6 +3783,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "nanomateri\xE1ly"
+  fieldurl: nanomaterialy
   hindex: 34
   img: Jan_Dusza.jpg
   last: Dusza
@@ -3566,6 +3803,7 @@
     - https://promatech.sk
   name: "J\xE1n Dusza"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=FMHHfNAAAAAJ&amp;hl=en
   year: 1952
 - affiliation: Zeppelin University
@@ -3575,6 +3813,7 @@
   country: Nemecko
   countryurl: Nemecko
   field: "medzin\xE1rodn\xE1 ekon\xF3mia"
+  fieldurl: medzinarodna_ekonomia
   hindex: 34
   img: Jarko_Fidrmuc.jpg
   last: Fidrmuc
@@ -3590,6 +3829,7 @@
     - https://henuecon.education/images/CV-Fidrmuc.pdf
   name: Jarko Fidrmuc
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=wOi5anQAAAAJ
   year: 1968
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
@@ -3609,6 +3849,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "bioch\xE9mia"
+  fieldurl: biochemia
   hindex: 34
   img: Juraj_Harmatha.jpg
   last: Harmatha
@@ -3620,6 +3861,7 @@
     - https://www.researchgate.net/profile/Juraj-Harmatha/10
   name: Juraj Harmatha
   position: "emeritn\xFD vedeck\xFD pracovn\xEDk"
+  positionurl: emeritny_vedecky_pracovnik
   scholar: https://scholar.google.com/citations?user=AZDDb3gAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -3639,6 +3881,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
   hindex: 34
   img: Vladimir_Kello.jpg
   last: Kello
@@ -3652,6 +3895,7 @@
     - https://fns.uniba.sk/fileadmin/prif/chem/kfz/profiles/CV_Kello_2020.pdf
   name: "Vladim\xEDr Kell\xF6"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=f8595C4AAAAJ
   year: 1947
 - affiliation: "Univerzita PJ \u0160af\xE1rika"
@@ -3671,6 +3915,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "behavior\xE1lna medic\xEDna"
+  fieldurl: behavioralna_medicina
   hindex: 34
   img: Iveta_Nagyova.jpg
   last: Nagyova
@@ -3680,6 +3925,7 @@
     - https://mc3.sk/autor/iveta-nagyova/
   name: "Iveta Nagyov\xE1"
   position: "vedeck\xE1 v\xFDskumn\xED\u010Dka"
+  positionurl: vedecka_vyskumnicka
   scholar: https://scholar.google.com/citations?user=A2l-bV8AAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -3689,6 +3935,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "intern\xE1 medic\xEDna"
+  fieldurl: interna_medicina
   hindex: 34
   img: Katarina_Sebekova.jpg
   last: Sebekova
@@ -3700,6 +3947,7 @@
     - http://www.imbm.sk/wp-content/uploads/2017/03/cv-ks-3.pdf
   name: "Katar\xEDna \u0160ebekov\xE1"
   position: docentka
+  positionurl: docentka
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=jsJC9WgAAAAJ
   year: 1955
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -3719,6 +3967,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "materi\xE1lov\xE1 veda"
+  fieldurl: materialova_veda
   hindex: 34
   img: Milan_Sykora.png
   last: Sykora
@@ -3728,6 +3977,7 @@
     - https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
   name: "Milan S\xFDkora"
   position: "v\xFDskumn\xFD pracovn\xEDk"
+  positionurl: vyskumny_pracovnik
   scholar: https://scholar.google.com/citations?user=fxBzWQcAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
@@ -3747,6 +3997,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "ch\xE9mia"
+  fieldurl: chemia
   hindex: 34
   img: Marian_Valko.jpeg
   last: Valko
@@ -3758,6 +4009,7 @@
     - http://edisk.cvt.stuba.sk/~valkom/Homepage.html
   name: "Mari\xE1n Valko"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=Csnoq7QAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -3777,6 +4029,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "jadrov\xE1 fyzika"
+  fieldurl: jadrova_fyzika
   hindex: 33
   img: Stanislav_Antalic.jpg
   last: Antalic
@@ -3788,6 +4041,7 @@
     - http://antalic.dnp.fmph.uniba.sk/cv.php
   name: "Stanislav Antali\u010D"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?user=h08MR_wAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -3807,6 +4061,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "modifik\xE1cia polym\xE9rov"
+  fieldurl: modifikacia_polymerov
   hindex: 33
   img: Ivan_Chodak.jpg
   last: Chodak
@@ -3828,6 +4083,7 @@
     - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1629
   name: "Ivan Chod\xE1k"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=OGYiJWwAAAAJ
   year: '1943'
 - affiliation: Microsoft Research
@@ -3847,6 +4103,7 @@
   country: USA
   countryurl: USA
   field: "strojov\xE9 u\u010Denie"
+  fieldurl: strojove_ucenie
   hindex: 33
   img: Miro_Dudik.jpg
   last: Dudik
@@ -3864,6 +4121,7 @@
     - https://www.microsoft.com/en-us/research/people/mdudik/
   name: "Miroslav Dud\xEDk"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?user=wYMTld8AAAAJ&
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -3883,6 +4141,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "bioch\xE9mia"
+  fieldurl: biochemia
   hindex: 33
   img: Zdenka_Durackova.jpg
   last: Durackova
@@ -3902,6 +4161,7 @@
     - https://portal.fmed.uniba.sk/autori.php?tid=18
   name: "Zdenka \u010Eura\u010Dkov\xE1"
   position: profesorka
+  positionurl: profesorka
   scholar: https://scholar.google.com/citations?hl=en&user=Dwytj-UAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -3921,6 +4181,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: matematika
+  fieldurl: matematika
   hindex: 33
   img: Marek_Fila.jpg
   last: Fila
@@ -3938,6 +4199,7 @@
     - http://www.iam.fmph.uniba.sk/institute/fila/
   name: Marek Fila
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ&amp;hl=en
   year: 1959
 - affiliation: University of Pittsburgh
@@ -3947,6 +4209,7 @@
   country: USA
   countryurl: USA
   field: informatika
+  fieldurl: informatika
   hindex: 33
   img: Milos_Hauskrecht.jpg
   last: Hauskrecht
@@ -3966,6 +4229,7 @@
     - http://people.cs.pitt.edu/~milos/CV.pdf
   name: "Milo\u0161 Hauskrecht"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp
   year: ''
 - affiliation: Univerzita Karlova
@@ -3975,6 +4239,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "ekon\xF3mia"
+  fieldurl: ekonomia
   hindex: 33
   img: Roman_Horvath.jpg
   last: Horvath
@@ -3988,6 +4253,7 @@
     - http://ies.fsv.cuni.cz/en/staff/horvath
   name: "Roman Horv\xE1th"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=QCr9FugAAAAJ
   year: 1978
 - affiliation: University of New South Wales
@@ -4007,6 +4273,7 @@
   country: "Austr\xE1lia"
   countryurl: Australia
   field: energetika
+  fieldurl: energetika
   hindex: 33
   img: Branislav_Hredzak.jpg
   last: Hredzak
@@ -4018,6 +4285,7 @@
     - https://s324741.wixsite.com/bhredzak
   name: "Branislav Hredz\xE1k"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=LSvxvEIAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -4037,6 +4305,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "onkol\xF3gia"
+  fieldurl: onkologia
   hindex: 33
   img: Peter_Kubatka.jpg
   last: Kubatka
@@ -4060,6 +4329,7 @@
     - https://uniba.sk/fileadmin/ruk/veda/docprof/PriF_UK/KUBATKA/CV_Kubatka.pdf
   name: Peter Kubatka
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=sk&user=Bg2qAyoAAAAJ
   year: 1973
 - affiliation: University of Pennsylvania
@@ -4079,6 +4349,7 @@
   country: USA
   countryurl: USA
   field: pediatria
+  fieldurl: pediatria
   hindex: 33
   img: Lubica_Rauova.jpg
   last: Rauova
@@ -4092,6 +4363,7 @@
     - https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
   name: "\u013Dubica Rauov\xE1"
   position: docentka
+  positionurl: docentka
   scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -4111,6 +4383,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "paleobiol\xF3gia"
+  fieldurl: paleobiologia
   hindex: 33
   img: Adam_Tomasovych.jpg
   last: Tomasovych
@@ -4142,6 +4415,7 @@
     - http://www.geol.sav.sk/tomasovych/curriculum%20vitae.pdf
   name: "Adam Toma\u0161ov\xFDch"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?user=7Zkz-9MAAAAJ
   sex: "mu\u017E"
   year: 1978
@@ -4162,6 +4436,7 @@
   country: USA
   countryurl: USA
   field: "fyzika tuh\xFDch l\xE1tok"
+  fieldurl: fyzika_tuhych_latok
   hindex: 33
   img: Oskar_Vafek.jpg
   last: Vafek
@@ -4179,6 +4454,7 @@
     - https://fs.magnet.fsu.edu/~vafek/cv2015 Apr.pdf
   name: Oskar Vafek
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=-toxVLsAAAAJ&amp;hl=en
   year: ''
 - affiliation: Curtin University
@@ -4198,6 +4474,7 @@
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "geochronol\xF3gia"
+  fieldurl: geochronologia
   hindex: 32
   img: Martin_Danisik.jpg
   last: Danisik
@@ -4217,6 +4494,7 @@
     - https://staffportal.curtin.edu.au/staff/profile/view/martin-danisik-b20e9bfb/
   name: "Martin Dani\u0161\xEDk"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com.au/citations?user=bLoHCS8AAAAJ&hl=en
   year: null
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -4236,6 +4514,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: matematika
+  fieldurl: matematika
   hindex: 32
   img: Michal_Feckan.jpg
   last: Feckan
@@ -4257,6 +4536,7 @@
     - https://www.mat.savba.sk/~feckan/#_toc16
   name: "Michal Fe\u010Dkan"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
   year: 1960
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -4266,6 +4546,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
+  fieldurl: fyzika
   hindex: 32
   img: Miroslav_Grajcar.jpg
   last: Grajcar
@@ -4277,6 +4558,7 @@
     - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9067&action=cv
   name: Miroslav Grajcar
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.co.in/citations?user=KPgJyEAAAAAJ&amp;hl=en
   year: 1966
 - affiliation: Qatar University
@@ -4296,6 +4578,7 @@
   country: Katar
   countryurl: Katar
   field: "ch\xE9mia"
+  fieldurl: chemia
   hindex: 32
   img: Peter_Kasak.jpeg
   last: Kasak
@@ -4307,6 +4590,7 @@
     - http://www.qu.edu.qa/static_file/qu/Faculty and Staff/images/resume_1464862560.pdf
   name: "Peter Kas\xE1k"
   position: "technick\xFD mana\u017E\xE9r"
+  positionurl: technicky_manazer
   scholar: https://scholar.google.sk/citations?user=9uNi5IMAAAAJ&amp
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -4326,6 +4610,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "experiment\xE1lna fyzika"
+  fieldurl: experimentalna_fyzika
   hindex: 32
   img: Peter_Kopcansky.jpeg
   last: Kopcansky
@@ -4339,6 +4624,7 @@
     - https://www.sav.sk/uploads/users_cv/20160108133831_137_2015_PK_Vedeckyzivotopis_ENG.pdf
   name: "Peter Kop\u010Dansk\xFD"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.co.il/citations?user=ZCMAk9sAAAAJ
   year: 1955
 - affiliation: Amazon
@@ -4348,6 +4634,7 @@
   country: USA
   countryurl: USA
   field: "strojov\xE9 u\u010Denie"
+  fieldurl: strojove_ucenie
   hindex: 32
   img: Branislav_Kveton.jpg
   last: Kveton
@@ -4359,6 +4646,7 @@
     - http://www.bkveton.com
   name: "Branislav Kveto\u0148"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -4368,6 +4656,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "lek\xE1rska bioch\xE9mia"
+  fieldurl: lekarska_biochemia
   hindex: 32
   img: Jan_Lehotsky.jpg
   last: Lehotsky
@@ -4383,6 +4672,7 @@
     - https://www.jfmed.uniba.sk/pracoviska/vedecko-pedagogicke-pracoviska/teoreticke-ustavy/ustav-lekarskej-biochemie/zamestnanci-ustavu/prof-rndr-jan-lehotsky-drsc-zastupca-veduceho/
   name: "J\xE1n Lehotsk\xFD"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=rXl9hY0AAAAJ&amp;hl=sk&amp;oi=sra
   year: 1954
 - affiliation: University of Reading
@@ -4402,6 +4692,7 @@
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   countryurl: Velka_Britania
   field: "ekol\xF3gia"
+  fieldurl: ekologia
   hindex: 32
   img: Martin_Lukac.png
   last: Lukac
@@ -4413,6 +4704,7 @@
     - https://www.reading.ac.uk/apd/staff/m-lukac.aspx
   name: "Martin Luk\xE1\u010D"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=K0dUsrwAAAAJ&hl=en
   year: null
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -4422,6 +4714,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "molekul\xE1rna biol\xF3gia"
+  fieldurl: molekularna_biologia
   hindex: 32
   img: Juraj_Majtan.jpg
   last: Majtan
@@ -4435,6 +4728,7 @@
     - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10368
   name: "Juraj Majt\xE1n"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.sk/citations?hl=en&amp;user=Wt7wd3QAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -4454,6 +4748,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "fyzika kondenzovan\xFDch l\xE1tok"
+  fieldurl: fyzika_kondenzovanych_latok
   hindex: 32
   img: Roman_Martonak.jpg
   last: Martonak
@@ -4465,6 +4760,7 @@
     - https://dep.fmph.uniba.sk/cv-rm/
   name: "Roman Marto\u0148\xE1k"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=FNaaPIwAAAAJ&amp
   year: 1964
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
@@ -4474,6 +4770,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "aplikovan\xE1 matematika"
+  fieldurl: aplikovana_matematika
   hindex: 32
   img: Karol_Mikula.jpg
   last: Mikula
@@ -4483,6 +4780,7 @@
     - http://www.math.sk/mikula/
   name: Karol Mikula
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=nM3oZ78AAAAJ&amp;hl=en&amp;oi=ao
   year: 1963
 - affiliation: "Univerzita PJ \u0160af\xE1rika"
@@ -4492,6 +4790,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "farmakol\xF3gia"
+  fieldurl: farmakologia
   hindex: 32
   img: Jan_Mojzis.jpg
   last: Mojzis
@@ -4501,6 +4800,7 @@
     - https://www.upjs.sk/LF/zamestnanec/jan.mojzis/
   name: "J\xE1n Moj\u017Ei\u0161"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=TjtaxQ8AAAAJ&amp;hl=en
   year: ''
 - affiliation: Brookhaven National Laboratory
@@ -4520,6 +4820,7 @@
   country: USA
   countryurl: USA
   field: "jadrov\xE1 fyzika"
+  fieldurl: jadrova_fyzika
   hindex: 32
   img: Pavel_Oblozinsky.png
   last: Oblozinsky
@@ -4533,6 +4834,7 @@
     - https://indico.cern.ch/event/675816/page/12195-pavel-oblozinsky
   name: "Pavel Oblo\u017Einsk\xFD"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=lrz3brYAAAAJ&hl=en
   year: 1943
 - affiliation: Google
@@ -4542,6 +4844,7 @@
   country: "\u0160vaj\u010Diarsko"
   countryurl: Svajciarsko
   field: informatika
+  fieldurl: informatika
   hindex: 32
   img: Martin_Pal.jpg
   last: Pal
@@ -4557,6 +4860,7 @@
     - http://martin.palenica.com/cv2.pdf
   name: "Martin P\xE1l"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?&user=NDhlLv0AAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -4576,6 +4880,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "patofyziol\xF3gia"
+  fieldurl: patofyziologia
   hindex: 32
   img: Ludovit_Paulis.jpg
   last: Paulis
@@ -4585,6 +4890,7 @@
     - https://eccr.org/dr-ludovit-paulis/
   name: "\u013Dudov\xEDt Paulis"
   position: "odborn\xFD asistent"
+  positionurl: odborny_asistent
   scholar: https://scholar.google.sk/citations?user=eBoisLQAAAAJ&amp;hl=sk&amp;oi=ao
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -4594,6 +4900,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "fyziol\xF3gia"
+  fieldurl: fyziologia
   hindex: 32
   img: Tanya_Ravingerova.jpg
   last: Ravingerova
@@ -4605,6 +4912,7 @@
     - https://www.sav.sk/uploads/users_cv/20181126205307_445_CV_Ravingerova_15.11.2018.doc
   name: "Tanya Ravingerov\xE1"
   position: "vedeck\xE1 pracovn\xED\u010Dka"
+  positionurl: vedecka_pracovnicka
   scholar: https://scholar.google.com/citations?user=_fONjMIAAAAJ&amp;hl=en
   year: 1951
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -4624,6 +4932,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "materi\xE1lov\xE1 veda"
+  fieldurl: materialova_veda
   hindex: 32
   img: Pavol_Sajgalik.jpeg
   last: Sajgalik
@@ -4635,6 +4944,7 @@
     - "https://sk.wikipedia.org/wiki/Pavol_\u0160ajgal\xEDk"
   name: "Pavol \u0160ajgal\xEDk"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=AULzHfIAAAAJ&amp;hl=en
   year: 1955
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
@@ -4654,6 +4964,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "analytick\xE1 ch\xE9mia"
+  fieldurl: analyticka_chemia
   hindex: 32
   img: Lubomir_Svorc.jpg
   last: Svorc
@@ -4671,6 +4982,7 @@
     - https://is.stuba.sk/lide/clovek.pl?id=19350;lang=sk
   name: "\u013Dubom\xEDr \u0160vorc"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?hl=en&user=AudOPSIAAAAJ
   year: 1983
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -4690,6 +5002,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: fyzika magnetizmu
+  fieldurl: fyzika_magnetizmu
   hindex: 32
   img: Milan_Timko.jpg
   last: Timko
@@ -4705,6 +5018,7 @@
     - https://www.osobnosti.sk/osobnost/milan-timko-846
   name: Milan Timko
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.sk/citations?user=ckojWlAAAAAJ
   year: 1954
 - affiliation: Trinity College Dublin
@@ -4724,6 +5038,7 @@
   country: "\xCDrsko"
   countryurl: Irsko
   field: "psychol\xF3gia"
+  fieldurl: psychologia
   hindex: 32
   img: Ladislav_Timulak.jpg
   last: Timulak
@@ -4735,6 +5050,7 @@
     - https://www.tcd.ie/research/profiles/?profile=timulakl
   name: "Ladislav Timu\u013E\xE1k"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?user=NoS4378AAAAJ&hl=en&oi=sra
   year: null
 - affiliation: "Slovesk\xE1 akad\xE9mia vied"
@@ -4744,6 +5060,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "patofyziol\xF3gia"
+  fieldurl: patofyziologia
   hindex: 32
   img: Jozef_Ukropec.jpg
   last: Ukropec
@@ -4763,6 +5080,7 @@
     - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273&action=cv
   name: Jozef Ukropec
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?user=geK1ms0AAAAJ&amp;hl=en
   year: 1974
 - affiliation: "Slovesk\xE1 akad\xE9mia vied"
@@ -4782,6 +5100,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "molekul\xE1rna biol\xF3gia"
+  fieldurl: molekularna_biologia
   hindex: 31
   img: Imrich_Barak.jpg
   last: Barak
@@ -4799,6 +5118,7 @@
     - http://imb.savba.sk/~barak/
   name: "Imrich Bar\xE1k"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
   year: 1961
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
@@ -4818,6 +5138,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "biotechnol\xF3gia"
+  fieldurl: biotechnologia
   hindex: 31
   img: Milan_Certik.jpg
   last: Certik
@@ -4835,6 +5156,7 @@
     - https://www.researchgate.net/profile/Milan-Certik
   name: "Milan \u010Cert\xEDk"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp
   year: 1962
 - affiliation: Aalborg Universitet
@@ -4844,6 +5166,7 @@
   country: "D\xE1nsko"
   countryurl: Dansko
   field: informatika
+  fieldurl: informatika
   hindex: 31
   img: Peter_Dolog.jpg
   last: Dolog
@@ -4861,6 +5184,7 @@
     - https://peterdolog.wordpress.com
   name: Peter Dolog
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?user=gCafUI0AAAAJ&amp;hl=en
   year: ''
 - affiliation: University of Hawaii
@@ -4880,6 +5204,7 @@
   country: USA
   countryurl: USA
   field: "oce\xE1nografia"
+  fieldurl: oceanografia
   hindex: 31
   img: Henrietta_Dulai.jpg
   last: Dulai
@@ -4893,6 +5218,7 @@
     - http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/files/CV_henrietta.pdf
   name: Henrietta Dulai
   position: docentka
+  positionurl: docentka
   scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -4902,6 +5228,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: matematika
+  fieldurl: matematika
   hindex: 31
   img: Anatolij_Dvurecenskij.jpeg
   last: Dvurecenskij
@@ -4924,6 +5251,7 @@
       ivotopis_prof._dvure\u010Denskij14421.pdf"
   name: "Anatolij Dvure\u010Denskij"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC
   year: 1949
 - affiliation: "Univerzita Palack\xE9ho v Olomouci"
@@ -4943,6 +5271,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "ch\xE9mia"
+  fieldurl: chemia
   hindex: 31
   img: Radovan_Herchel.jpg
   last: Herchel
@@ -4960,6 +5289,7 @@
     - https://www.prf.upol.cz/nc/afc/kontakty/vizitka/empid/22158/
   name: Radovan Herchel
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.cz/citations?user=t_V_OnwAAAAJ&amp;hl=cs
   year: ''
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
@@ -4969,6 +5299,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "v\xFDobn\xE9 technol\xF3gie"
+  fieldurl: vyobne_technologie
   hindex: 31
   img: Sergej_Hloch.jpeg
   last: Hloch
@@ -4978,6 +5309,7 @@
     - http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
   name: Sergej Hloch
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -4997,6 +5329,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
+  fieldurl: fyzika
   hindex: 31
   img: Marian_Krajci.jpg
   last: Krajci
@@ -5008,6 +5341,7 @@
     - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2056-marian-krajci
   name: "Mari\xE1n Kraj\u010D\xED"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?user=WawpXZIAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -5027,6 +5361,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: geofyzika
+  fieldurl: geofyzika
   hindex: 31
   img: Jozef_Kristek.jpg
   last: Kristek
@@ -5044,6 +5379,7 @@
     - http://www.geo.sav.sk/en/staff/jozef-kristek-en/
   name: Jozef Kristek
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?user=CgbiV4EAAAAJ&amp;hl=en
   year: ''
 - affiliation: CSIRO
@@ -5063,6 +5399,7 @@
   country: "Austr\xE1lia"
   countryurl: Australia
   field: "bezdr\xF4tov\xE9 siete a syst\xE9my"
+  fieldurl: bezdrotove_siete_a_systemy
   hindex: 31
   img: Branislav_Kusy.jpg
   last: Kusy
@@ -5082,6 +5419,7 @@
     - https://sites.google.com/site/branislavkusy/cv
   name: "Branislav Kus\xFD"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?hl=en&amp;user=G9w7WT4AAAAJ
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -5101,6 +5439,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "biomedic\xEDna"
+  fieldurl: biomedicina
   hindex: 31
   img: Karol_Ondrias.png
   last: Ondrias
@@ -5112,6 +5451,7 @@
     - "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"
   name: "Karol Ondria\u0161"
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
   year: 1952
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -5131,6 +5471,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: matematika
+  fieldurl: matematika
   hindex: 31
   img: Pavol_Quittner.jpg
   last: Quittner
@@ -5152,6 +5493,7 @@
     - https://sk.wikipedia.org/wiki/Pavol_Quittner
   name: Pavol Quittner
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=QhrxwOcAAAAJ
   year: 1958
 - affiliation: NGM Biopharmaceuticals
@@ -5171,6 +5513,7 @@
   country: USA
   countryurl: USA
   field: "bioch\xE9mia"
+  fieldurl: biochemia
   hindex: 31
   img: Juraj_Svitel.jpg
   last: Svitel
@@ -5184,6 +5527,7 @@
     - https://www.signalhire.com/profiles/juraj-george-svitel%27s-email/133523625
   name: "Juraj \u0160vitel"
   position: "riadite\u013E"
+  positionurl: riaditel
   scholar: https://scholar.google.com/citations?hl=en&user=X5-SX04AAAAJ
   year: ''
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
@@ -5203,6 +5547,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "te\xF3ria grafov"
+  fieldurl: teoria_grafov
   hindex: 30
   img: Martin_Baca.jpeg
   last: Baca
@@ -5220,6 +5565,7 @@
     - https://www.sjf.tuke.sk/kamai/en/bacainfo
   name: "Martin Ba\u010Da"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
   year: ''
 - affiliation: Stanford University
@@ -5239,6 +5585,7 @@
   country: USA
   countryurl: USA
   field: "v\xFDpo\u010Dtov\xE1 katal\xFDza"
+  fieldurl: vypoctova_katalyza
   hindex: 30
   img: Michal_Bajdich.jpg
   last: Bajdich
@@ -5266,6 +5613,7 @@
     - https://suncat.stanford.edu/sites/default/files/MBajdich_CV_late_2020_0.pdf
   name: Michal Bajdich
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.com/citations?hl=en&user=x9sZ1Q4AAAAJ
   year: null
 - affiliation: Institute of Tropical Medicine Antwerp
@@ -5285,6 +5633,7 @@
   country: Holandsko
   countryurl: Holandsko
   field: "reproduk\u010Dn\xE9 a ment\xE1lne zdravie"
+  fieldurl: reprodukcne_a_mentalne_zdravie
   hindex: 30
   img: Lenka_Benova.jpg
   last: Benova
@@ -5302,6 +5651,7 @@
     - https://www.lshtm.ac.uk/aboutus/people/benova.lenka
   name: "Lenka Be\u0148ov\xE1"
   position: "vedeck\xE1 pracovn\xED\u010Dka"
+  positionurl: vedecka_pracovnicka
   scholar: https://scholar.google.com/citations?user=BZTPCTIAAAAJ&hl=en
   year: null
 - affiliation: "Univerzita PJ \u0160af\xE1rika"
@@ -5311,6 +5661,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "teoretick\xE1 fyzika"
+  fieldurl: teoreticka_fyzika
   hindex: 30
   img: Martin_Gmitra.jpg
   last: Gmitra
@@ -5320,6 +5671,7 @@
     - https://ktfa.science.upjs.sk/people/martin-gmitra/
   name: Martin Gmitra
   position: "vedeck\xFD pracovn\xEDk"
+  positionurl: vedecky_pracovnik
   scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
@@ -5339,6 +5691,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "genetika drev\xEDn"
+  fieldurl: genetika_drevin
   hindex: 30
   img: Dusan_Gomory.png
   last: Gomory
@@ -5354,6 +5707,7 @@
     - https://www.tuzvo.sk/en/ludia-na-tuzvo/792
   name: "Du\u0161an G\xF6m\xF6ry"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=RllC3asAAAAJ
   year: ''
 - affiliation: Central European University
@@ -5373,6 +5727,7 @@
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "ekon\xF3mia"
+  fieldurl: ekonomia
   hindex: 30
   img: Martin_Kahanec.jpg
   last: Kahanec
@@ -5404,6 +5759,7 @@
     - https://www.celsi.sk/media/people/cv/Kahanec_CV_20190917_ONLINE.pdf
   name: Martin Kahanec
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=2lo3e7sAAAAJ&hl=en
   year: 1977
 - affiliation: "\u017Dilinsk\xE1 univerzita"
@@ -5423,6 +5779,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "finan\u010Dn\xFD mana\u017Ement"
+  fieldurl: financny_manazment
   hindex: 30
   img: Tomas_Kliestik.jpg
   last: Kliestik
@@ -5442,6 +5799,7 @@
     - https://www.uniza.sk/document/hab_in/529885c867b31.pdf
   name: "Tom\xE1\u0161 Klie\u0161tik"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?user=zsFNpOgAAAAJ&hl=en
   year: 1972
 - affiliation: "Universit\xE9 Aix-Marseille"
@@ -5461,6 +5819,7 @@
   country: "Franc\xFAzsko"
   countryurl: Francuzsko
   field: "matematick\xE1 fyzika"
+  fieldurl: matematicka_fyzika
   hindex: 30
   img: Ctirad_Klimcik.png
   last: Klimcik
@@ -5472,6 +5831,7 @@
     - https://www.i2m.univ-amu.fr/user/ctirad.klimcik/
   name: "Ctirad Klim\u010D\xEDk"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=sk&user=gKofB3UAAAAJ
   year: 1961
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -5491,6 +5851,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: biofyzika
+  fieldurl: biofyzika
   hindex: 30
   img: Lubica_Lacinova.png
   last: Lacinova
@@ -5506,6 +5867,7 @@
     - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1384
   name: "\u013Dubica Lacinov\xE1"
   position: profesorka
+  positionurl: profesorka
   scholar: https://scholar.google.com/citations?user=GLiFrtgAAAAJ&amp;hl=sk
   year: 1959
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -5525,6 +5887,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "vulkanol\xF3gia"
+  fieldurl: vulkanologia
   hindex: 30
   img: Jaroslav_Lexa.jpg
   last: Lexa
@@ -5542,6 +5905,7 @@
     - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443&action=cv
   name: Jaroslav Lexa
   position: "v\xFDskumn\xFD pracovn\xEDk"
+  positionurl: vyskumny_pracovnik
   scholar: https://scholar.google.com/citations?user=rHgfxxwAAAAJ&hl=en
   year: 1944
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -5561,6 +5925,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: fyzika
+  fieldurl: fyzika
   hindex: 30
   img: Zdenko_Machala.jpg
   last: Machala
@@ -5582,6 +5947,7 @@
     - http://enviro.fmph.uniba.sk/index.php?link=machala
   name: Zdenko Machala
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.sk/citations?hl=en&user=3xq6b60AAAAJ
   year: null
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
@@ -5601,6 +5967,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: biofyzika
+  fieldurl: biofyzika
   hindex: 30
   img: Veronika_Ostatna.jpeg
   last: Ostatna
@@ -5618,6 +5985,7 @@
     - https://www.ibp.cz/cs/vyzkum/oddeleni/biofyzikalni-chemie-a-molekularni-onkologie/zamestnanci/129
   name: "Veronika Ostatn\xE1"
   position: "vedeck\xE1 pracovn\xED\u010Dka"
+  positionurl: vedecka_pracovnicka
   scholar: https://scholar.google.com/citations?hl=en&user=ZezlLfEAAAAJ
   year: null
 - affiliation: University of Chicago
@@ -5637,6 +6005,7 @@
   country: USA
   countryurl: USA
   field: "ekon\xF3mia"
+  fieldurl: ekonomia
   hindex: 30
   img: Lubos_Pastor.png
   last: Pastor
@@ -5648,6 +6017,7 @@
     - https://faculty.chicagobooth.edu/lubos-pastor
   name: "\u013Dubo\u0161 P\xE1stor"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
   year: 1974
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
@@ -5667,6 +6037,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "fytol\xF3gia"
+  fieldurl: fytologia
   hindex: 30
   img: Ladislav_Paule.jpg
   last: Paule
@@ -5676,6 +6047,7 @@
     - http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
   name: Ladislav Paule
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -5695,6 +6067,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "geol\xF3gia"
+  fieldurl: geologia
   hindex: 30
   img: Dusan_Plasienka.jpg
   last: Plasienka
@@ -5708,6 +6081,7 @@
     - https://geopaleo.sk/plasienka-dusan/plasienka-dusan-cv/
   name: "Du\u0161an Pla\u0161ienka"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=JCOUk6EAAAAJ
   year: 1953
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
@@ -5727,6 +6101,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "chemick\xE9 in\u017Einierstvo"
+  fieldurl: chemicke_inzinierstvo
   hindex: 30
   img: Milan_Polakovic.jpg
   last: Polakovic
@@ -5742,6 +6117,7 @@
     - https://is.stuba.sk/lide/clovek.pl?id=3882;lang=sk
   name: "Milan Polakovi\u010D"
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=W8akvAsAAAAJ
   year: ''
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
@@ -5761,6 +6137,7 @@
   country: Slovensko
   countryurl: Slovensko
   field: "membr\xE1ny"
+  fieldurl: membrany
   hindex: 30
   img: Stefan_Schlosser.jpg
   last: Schlosser
@@ -5780,6 +6157,7 @@
     - http://kchbi.chtf.stuba.sk/clenovia/detail.aspx?ID=26
   name: "\u0160tefan Schlosser"
   position: "v\xFDskumn\xFD pracovn\xEDk"
+  positionurl: vyskumny_pracovnik
   scholar: https://scholar.google.com/citations?user=J2qs3RMAAAAJ&hl=en
   year: ''
 - affiliation: "Vysok\xE1 \u0161kola chemicko-technologick\xE1"
@@ -5799,6 +6177,7 @@
   country: "\u010Cesko"
   countryurl: Cesko
   field: "chemick\xE9 in\u017Einierstvo"
+  fieldurl: chemicke_inzinierstvo
   hindex: 30
   img: Miroslav_Soos.jpeg
   last: Soos
@@ -5818,10 +6197,11 @@
     - http://www.biotech2017.cz/domains/biotech2017.cz/data/uploads/CV_MSoos.pdf
   name: "Miroslav \u0160o\xF3\u0161"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?user=5sAJJkgAAAAJ
   year: ''
 - affiliation: Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)
-  affiliationurl: Mohamed_Bin_Zayed_University_of_Artificial_Intelligence_(MBZUAI)
+  affiliationurl: Mohamed_Bin_Zayed_University_of_Artificial_Intelligence__MBZUAI_
   cited_by:
   - citations:
       all: 5114
@@ -5837,6 +6217,7 @@
   country: "Spojen\xE9 Arabsk\xE9 Emir\xE1ty"
   countryurl: Spojene_Arabske_Emiraty
   field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
+  fieldurl: optimalizacia_a_strojove_ucenie
   hindex: 30
   img: Martin_Takac.jpg
   last: Takac
@@ -5872,10 +6253,11 @@
     - https://mtakac.com/CV
   name: "Martin Tak\xE1\u010D"
   position: docent
+  positionurl: docent
   scholar: https://scholar.google.com/citations?hl=en&user=qKQD-2cAAAAJ
   year: ''
 - affiliation: King Abdullah University of Science and Technology (KAUST)
-  affiliationurl: King_Abdullah_University_of_Science_and_Technology_(KAUST)
+  affiliationurl: King_Abdullah_University_of_Science_and_Technology__KAUST_
   cited_by:
   - citations:
       all: 3495
@@ -5891,6 +6273,7 @@
   country: "Saudsk\xE1 Ar\xE1bia"
   countryurl: Saudska_Arabia
   field: "po\u010D\xEDta\u010Dov\xE1 grafika a vizualiz\xE1cia"
+  fieldurl: pocitacova_grafika_a_vizualizacia
   hindex: 30
   img: Ivan_Viola.jpg
   last: Viola
@@ -5908,6 +6291,7 @@
     - http://ii.uib.no/vis_old/team/viola/_pdfs/IvanViolaCV.pdf
   name: Ivan Viola
   position: profesor
+  positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ELMPg_gAAAAJ
   year: 1977
 - affiliation: University of Natural Resources and Life Sciences
@@ -5927,6 +6311,7 @@
   country: "Rak\xFAsko"
   countryurl: Rakusko
   field: "fylogenomick\xE1 ekol\xF3gia"
+  fieldurl: fylogenomicka_ekologia
   hindex: 30
   img: Marcel_Zamocky.jpg
   last: Zamocky
@@ -5944,5 +6329,6 @@
     - https://www.sav.sk/index.php?lang=en&doc=user-org-user&user_no=2990
   name: "Marcel Z\xE1mock\xFD"
   position: "v\xFDskumn\xFD pracovn\xEDk"
+  positionurl: vyskumny_pracovnik
   scholar: https://scholar.google.com/citations?user=pT4T7F4AAAAJ&hl=sk
   year: ''

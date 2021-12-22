@@ -13,6 +13,42 @@
 			$(".toggle").css("background-color", "white");
 			
 		}
+
+	  $(".toggle-field").click(function(){		
+		if($(this).hasClass("selected")){  
+			// remove filters
+			showAll();
+        }else{
+			showAll();
+			var id = $(this).attr('id');
+			field = id.split(":")[6];  
+			
+ 			
+			$(".entry").hide();   
+			$(".field-"+field).fadeIn();  
+			$(".toggle-field-"+field).addClass("selected"); 
+			$(".toggle-field-"+field).css("background-color", "yellow");
+		}
+	  });
+	   
+
+
+	  $(".toggle-position").click(function(){		
+		if($(this).hasClass("selected")){  
+			// remove filters
+			showAll();
+        }else{
+			showAll();
+			var id = $(this).attr('id');
+			position = id.split(":")[5];  
+			
+ 			
+			$(".entry").hide();   
+			$(".position-"+position).fadeIn();  
+			$(".toggle-position-"+position).addClass("selected"); 
+			$(".toggle-position-"+position).css("background-color", "yellow");
+		}
+	  });
 	   
 	   
 
@@ -24,7 +60,7 @@
 			showAll();
 			var id = $(this).attr('id');
 			affiliation = id.split(":")[3];  
-			
+			 
  			
 			$(".entry").hide();   
 			$(".affiliation-"+affiliation).fadeIn();  

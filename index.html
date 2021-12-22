@@ -13,7 +13,7 @@ title: Home
 
 														
 
-			<div role="list" class="w-dyn-items entry country-{{ item.countryurl }} city-{{ item.cityurl }} affiliation-{{ item.affiliationurl }} " 
+			<div role="list" class="w-dyn-items entry country-{{ item.countryurl }}  field-{{ item.fieldurl }}  position-{{ item.positionurl }}  city-{{ item.cityurl }} affiliation-{{ item.affiliationurl }} " 
 			
 			  id="{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}">
 				<div role="listitem" class="w-dyn-item">
@@ -38,16 +38,20 @@ title: Home
 
 							<p class="post-summary">
 
-								<b>{{ item.field }}</b>
-
-								<br/>
- 
 
 								 <b><a href="{{ item.scholar }}" target="_blank">H-index: {{ item.hindex }}</a></b>
 
+								<br/>
+
+
+								<a class="button-round w-button toggle toggle-field toggle-field-{{ item.fieldurl }} " id="field:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}:{{ item.positionurl }}:{{ item.fieldurl }}" ><b>{{ item.field }}</b></a>
+
+ 
+
+
 
 						        <p>
-								   {{ item.position }}
+								   <a class="button-round w-button toggle toggle-position toggle-position-{{ item.positionurl }} " id="position:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}:{{ item.positionurl }}" >{{ item.position }}</a>
 								    <br/>
 
 								  <a class="button-round w-button toggle toggle-affiliation toggle-affiliation-{{ item.affiliationurl }} " id="affiliation:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}" >{{ item.affiliation }}</a>
