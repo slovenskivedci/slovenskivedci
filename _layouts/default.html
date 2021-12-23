@@ -58,9 +58,10 @@
 			  return keep==false;
 			});
 		  //$(".entry").fideIn();
-		  showAll().addClass("showed");
+		  $(".entry").addClass("showed");
 		  toHide.removeClass("showed"); 
 		  toHide.hide();
+		  $(".showed").fadeIn();
 		  
 		  updateSelectedNumber(); 
 		  
@@ -243,7 +244,7 @@
 	<p style="background: red">
 	REBRÍČEK 2021 &nbsp; <span id="scientists-count"></span>
 	
-    <div id="filter" >style="visibility: hidden"
+    <div id="filter" style="visibility: hidden">
 		<span id="filter-field"></span>
 		<span id="filter-position"></span>
 		<span id="filter-affiliation"></span>
