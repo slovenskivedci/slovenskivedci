@@ -1,0 +1,29 @@
+affiliation: "Microsoft Research"
+cited_by:
+- citations:
+    all: 28631
+    since_2016: 17185
+- h_index:
+    all: 32
+    since_2016: 31
+- i10_index:
+    all: 48
+    since_2016: 40
+city: "New York"
+country: "USA"
+field: "strojové učenie"
+hindex: 33
+img: Miro_Dudik.jpg
+last_update: '2021-09-16'
+links:
+  dblp: https://dblp.org/pid/30/2146.html
+  web: https://www.microsoft.com/en-us/research/people/mdudik/
+  LinkedIn: https://www.linkedin.com/in/mdudik/
+  SlidesLive: https://slideslive.at/s/miro-dudik-19100
+  IOI: https://stats.ioinformatics.org/people/1613
+
+name: "Miroslav Dudík"
+last: "Dudík"
+position: "vedecký pracovník"
+scholar: https://scholar.google.com/citations?user=wYMTld8AAAAJ&
+year: ''
