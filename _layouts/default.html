@@ -7,86 +7,162 @@
 	<script>
 	$(document).ready(function(){
 
+         updateSelectedNumber(); 
+
 		 function showAll() {
-			$(".selected").removeClass("selected");
+			//$(".selected").removeClass("selected");
 			$(".entry").fadeIn(); 
-			$(".toggle").css("background-color", "white");
+			//$(".toggle").css("background-color", "white");
 			
 		}
+	  function updateSelectedNumber(){	
+		  var numItems = $('.showed').length;	
+		  $("#scientists-count").html("("+ numItems+" VEDCOV)");	
+      }
+
+
+	 function filter(){
+		 
+		 
+		 var field = $("#filter-field").html();
+		 var position = $("#filter-position").html();
+		 var country = $("#filter-country").html();
+		 var affiliation = $("#filter-affiliation").html();
+		 var city = $("#filter-city").html();
+		 
+		//  alert(field+" "+position);
+		 
+		 
+		  
+		 var toHide = $(".entry").filter(function() {  
+			  var keep = true;
+			  
+ 			  
+			  if (field!="" &&   !$(this).hasClass("field-"+field)  ){
+				  keep=false;
+			  }
+			  if (position!="" &&   !$(this).hasClass("position-"+position)  ){
+				  keep=false;
+			  }
+			  if (country!="" &&   !$(this).hasClass("country-"+country)  ){
+				  keep=false;
+			  }
+			  if (city!="" &&   !$(this).hasClass("city-"+city)  ){
+				  keep=false;
+			  }
+			  if (affiliation!="" &&   !$(this).hasClass("affiliation-"+affiliation)  ){
+				  keep=false;
+			  }
+			  
+			  
+			  return keep==false;
+			});
+		  //$(".entry").fideIn();
+		  showAll().addClass("showed");
+		  toHide.removeClass("showed"); 
+		  toHide.hide();
+		  
+		  updateSelectedNumber(); 
+		  
+		 //return common; 
+	 }
+
+
+//<span id="filter-field"></span>
+//		<span id="filter-position"></span>
+//		<span id="filter-affiliation"></span>
+//		<span id="filter-country"></span>
+//		<span id="filter-city"></span>		
 
 	  $(".toggle-field").click(function(){		
 		if($(this).hasClass("selected")){  
-			// remove filters
-			showAll();
+			$("#filter-field").html("");	
+			$(".toggle-field").css("background-color", "white");	
+			$(".toggle-field").removeClass("selected"); 	
+				
         }else{
-			showAll();
 			var id = $(this).attr('id');
 			field = id.split(":")[6];  
-			
- 			
-			$(".entry").hide();   
-			$(".field-"+field).fadeIn();  
+			$("#filter-field").html(field);
 			$(".toggle-field-"+field).addClass("selected"); 
 			$(".toggle-field-"+field).css("background-color", "yellow");
 		}
+		filter();
+		
 	  });
-	   
-
-
+ 	   
 	  $(".toggle-position").click(function(){		
 		if($(this).hasClass("selected")){  
-			// remove filters
-			showAll();
+			$("#filter-position").html("");	
+			$(".toggle-position").css("background-color", "white");	
+			$(".toggle-position").removeClass("selected"); 	
+				
         }else{
-			showAll();
 			var id = $(this).attr('id');
 			position = id.split(":")[5];  
-			
- 			
-			$(".entry").hide();   
-			$(".position-"+position).fadeIn();  
+			$("#filter-position").html(position);
 			$(".toggle-position-"+position).addClass("selected"); 
 			$(".toggle-position-"+position).css("background-color", "yellow");
 		}
+		filter();
 	  });
-	   
-	   
-
+ 	  
 	  $(".toggle-affiliation").click(function(){		
 		if($(this).hasClass("selected")){  
-			// remove filters
-			showAll();
+			$("#filter-affiliation").html("");	
+			$(".toggle-affiliation").css("background-color", "white");	
+			$(".toggle-affiliation").removeClass("selected"); 	
+				
         }else{
-			showAll();
 			var id = $(this).attr('id');
 			affiliation = id.split(":")[3];  
-			 
- 			
-			$(".entry").hide();   
-			$(".affiliation-"+affiliation).fadeIn();  
+			$("#filter-affiliation").html(affiliation);
 			$(".toggle-affiliation-"+affiliation).addClass("selected"); 
 			$(".toggle-affiliation-"+affiliation).css("background-color", "yellow");
 		}
-	  });
-	  
+		filter();
+	  }); 
 	   
-	  
+
 	  $(".toggle-country").click(function(){		
 		if($(this).hasClass("selected")){  
-			// remove filters
-			showAll();
+			$("#filter-country").html("");	
+			$(".toggle-country").css("background-color", "white");	
+			$(".toggle-country").removeClass("selected"); 	
+				
         }else{
-			showAll();
 			var id = $(this).attr('id');
 			country = id.split(":")[2];  
-			$(".entry").hide();   
-			$(".country-"+country).fadeIn();  
+			$("#filter-country").html(country);
 			$(".toggle-country-"+country).addClass("selected"); 
 			$(".toggle-country-"+country).css("background-color", "yellow");
 		}
-	  });
-	  
+		filter();
+	  }); 
+ 
 	  $(".toggle-city").click(function(){		
+		if($(this).hasClass("selected")){  
+			$("#filter-city").html("");	
+			$(".toggle-city").css("background-color", "white");	
+			$(".toggle-city").removeClass("selected"); 	
+				
+        }else{
+			var id = $(this).attr('id');
+			city = id.split(":")[4];  
+			$("#filter-city").html(city);
+			$(".toggle-city-"+city).addClass("selected"); 
+			$(".toggle-city-"+city).css("background-color", "yellow");
+		}
+		filter();
+	  }); 
+	  
+	  
+ 
+	    
+	    
+	    
+	  /*
+	  $(".toggle-cityxxxx").click(function(){		
 		if($(this).hasClass("selected")){  
 			// remove filters
 			showAll();
@@ -102,7 +178,7 @@
 			$(".toggle-city-"+city).css("background-color", "yellow");
 		}
 	  });
-	  
+	  */
 	  
 	  
 	});
@@ -163,6 +239,28 @@
 	Iba vedci s kontom na Študovni Google a s H-indexom 30 a viac sú zahrnutí v rebríčku. Ak viete o niekom kto v tabuľke chýba, alebo máte akékoľvek doplňujúce informácie, napíšte mi email (peter.richtarik@kaust.edu.sa) alebo použite tento formulár.
 	</p>
 	
+	<br/>
+	<p style="background: red">
+	REBRÍČEK 2021 &nbsp; <span id="scientists-count"></span>
+	
+    <div id="filter" >style="visibility: hidden"
+		<span id="filter-field"></span>
+		<span id="filter-position"></span>
+		<span id="filter-affiliation"></span>
+		<span id="filter-country"></span>
+		<span id="filter-city"></span>		
+	</div>	
+	
+	
+
+
+
+
+
+	
+	
+	</p>
+	<br/>
 	<div data-delay="200" data-hover="false" data-w-id="6584a19a-5691-0e50-f8da-d2bf173f6d2b" class="dropdown-wrapper w-dropdown">
 		
 		<div class="dropdown-menu w-clearfix w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
