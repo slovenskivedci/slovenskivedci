@@ -509,8 +509,8 @@
   positionurl: principal_research_officer
   scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ&amp;hl=sk&amp;oi=ao
   year: 1967
-- affiliation: University Oxford
-  affiliationurl: University_Oxford
+- affiliation: University of Oxford
+  affiliationurl: University_of_Oxford
   cited_by:
   - citations:
       all: 11387
@@ -1569,8 +1569,8 @@
   positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=I5zYMOsAAAAJ&amp
   year: 1950
-- affiliation: Oxford University
-  affiliationurl: Oxford_University
+- affiliation: University of Oxford
+  affiliationurl: University_of_Oxford
   city: Oxford
   cityurl: Oxford
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
