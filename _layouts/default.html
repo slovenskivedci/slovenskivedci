@@ -17,7 +17,7 @@
 		}
 	  function updateSelectedNumber(){
 		  var numItems = $('.showed').length;
-		  $("#scientists-count").html("POČET VEDCOV: " + numItems + " ");
+		  $("#scientists-count").html("POČET VEDCOV: " + numItems + " / 193 ");
       }
 
 
@@ -236,7 +236,7 @@
     <a aria-current="page" class="main-title w--current">
 		Slovenskí Vedci s Vysokým Hirschovým Indexom</a>
 	<p class="main-subheading">
-	Rebríček je zostavený podľa Hirschovho indexu tak ako je vypočítaný v Študovni Google.
+	Rebríček je zostavený podľa <a href="https://sk.wikipedia.org/wiki/Hirschov_index">Hirschovho indexu</a> tak ako je vypočítaný v Študovni Google.
 	Iba vedci s kontom na Študovni Google a s H-indexom 30 a viac sú zahrnutí v rebríčku. Ak viete o niekom kto v tabuľke chýba, alebo máte akékoľvek doplňujúce informácie, napíšte mi email (peter.richtarik@kaust.edu.sa).
 	</p>
 
@@ -246,7 +246,7 @@
 -->
   <p>
 
-	  <span id="scientists-count"></span>
+	  <b><span id="scientists-count"></span></b>
 
     <div id="filter" style="visibility: hidden">
 		    <span id="filter-field"></span>
@@ -257,14 +257,8 @@
 	  </div>
 
 
-
-
-
-
-
-
-
 	</p>
+
 	<br/>
 	<div data-delay="200" data-hover="false" data-w-id="6584a19a-5691-0e50-f8da-d2bf173f6d2b" class="dropdown-wrapper w-dropdown">
 
