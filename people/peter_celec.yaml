@@ -12,7 +12,7 @@ cited_by:
     all: 5949
     since_2016: 3519
 - h_index:
-    all: 40
+    all: 41
     since_2016: 32
 - i10_index:
     all: 139
@@ -20,9 +20,9 @@ cited_by:
 city: "Bratislava"
 country: "Slovensko"
 field: "molekulárna biomedicína"
-hindex: 40
+hindex: 41
 img: Peter_Celec.jpg
-last_update: '2021-09-16'
+last_update: '2021-12-25'
 links:
   web: https://www.imbm.sk/sk/members/peter-celec-sk/
   životopis: http://www.imbm.sk/wp-content/uploads/2017/03/cv_peter-celec-short-en.pdf

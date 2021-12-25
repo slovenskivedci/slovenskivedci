@@ -4,7 +4,7 @@ cited_by:
     all: 4373
     since_2016: 1127
 - h_index:
-    all: 34
+    all: 35
     since_2016: 19
 - i10_index:
     all: 55
@@ -12,9 +12,9 @@ cited_by:
 city: "Bloomington"
 country: "USA"
 field: "fyzika častíc"
-hindex: 34
+hindex: 35
 img: Radovan_Dermisek.jpg
-last_update: '2021-09-16'
+last_update: '2021-12-25'
 links:
   web: https://physics.indiana.edu/about/directory/all-faculty-scientists/dermisek-radovan.html
   životopis: https://dermisek.pages.iu.edu/dermisek_CV.pdf

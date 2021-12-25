@@ -10,7 +10,7 @@ cited_by:
     all: 6999
     since_2016: 2917
 - h_index:
-    all: 40
+    all: 41
     since_2016: 25
 - i10_index:
     all: 105
@@ -18,8 +18,8 @@ cited_by:
 city: "Tucson"
 country: "USA"
 field: "optika"
-hindex: 40
+hindex: 41
 img: Miroslav_Kolesik.jpg
-last_update: '2021-09-16'
+last_update: '2021-12-25'
 links:
   web: http://acms.arizona.edu/FemtoTheory/MK_personal/index.html

@@ -11,7 +11,7 @@ cited_by:
     all: 5708
     since_2016: 2592
 - h_index:
-    all: 35
+    all: 36
     since_2016: 25
 - i10_index:
     all: 67
@@ -19,9 +19,9 @@ cited_by:
 city: "Viedeň"
 country: "Rakúsko"
 field: "nanomateriály"
-hindex: 35
+hindex: 36
 
-last_update: '2021-09-16'
+last_update: '2021-12-25'
 links:
   ResearchGate: https://www.researchgate.net/profile/Viera_Skakalova
   orcid: https://orcid.org/0000-0002-7016-8584

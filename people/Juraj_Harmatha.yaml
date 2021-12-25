@@ -4,7 +4,7 @@ cited_by:
     all: 3530
     since_2016: 1020
 - h_index:
-    all: 34
+    all: 33
     since_2016: 16
 - i10_index:
     all: 82
@@ -12,9 +12,9 @@ cited_by:
 city: "Praha"
 country: "Česko"
 field: "biochémia"
-hindex: 34
+hindex: 33
 img: Juraj_Harmatha.jpg
-last_update: '2021-09-16'
+last_update: '2021-12-25'
 links:
   ResearchGate: https://www.researchgate.net/profile/Juraj-Harmatha/10
   orcid: https://orcid.org/0000-0003-4385-0841
