@@ -29,7 +29,7 @@ title: Home
 							</h1>
 
 							<p>
-							<a href="{{ item.scholar }}" target="_blank">H-index: {{ item.hindex }} </a><br>
+							<a href="{{ item.scholar }}" target="_blank">H-index: {{ item.hindex }}</a><br>
 						  </p>
 
 
@@ -47,24 +47,27 @@ title: Home
 
 
 							{% for link in item.links %}
-								<a href="{{ link[1] }}" >{{ link[0] }}</a>
+								<a href="{{ link[1] }}" >{{ link[0] }}</a> &nbsp;
 							{% endfor %}
 
 
 
 						</div>
+
+
 					</div>
 
 
 
 
 
-
-
-
-
 				</div>
+
+
+
 			</div>
+
+
 
 
       </div>
