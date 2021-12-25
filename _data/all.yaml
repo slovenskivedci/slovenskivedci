@@ -2352,6 +2352,27 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ApdHT0UAAAAJ
   sex: "mu\u017E"
   year: ''
+- affiliation: University of Notre Dame
+  affiliationurl: University_of_Notre_Dame
+  city: Notre Dame
+  cityurl: Notre_Dame
+  country: USA
+  countryurl: USA
+  field: "ch\xE9mia"
+  fieldurl: chemia
+  hindex: 41
+  img: Dusan_Hesek.jpg
+  last: Hesek
+  last_update: '2021-12-25'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Dusan-Hesek
+  name: "Du\u0161an Hesek"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=D5pfAK0AAAAJ&hl=en
+  sex: "mu\u017E"
+  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:

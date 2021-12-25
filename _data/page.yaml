@@ -65,6 +65,7 @@ affiliation:
   University of Natural Resources and Life Sciences: 2
   University of New South Wales: 1
   University of North Carolina: 2
+  University of Notre Dame: 1
   University of Ottawa: 1
   University of Oxford: 2
   University of Pennsylvania: 1
@@ -104,7 +105,7 @@ countries:
   "Saudsk\xE1 Ar\xE1bia": 2
   Slovensko: 93
   "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
-  USA: 27
+  USA: 28
   "Ve\u013Ek\xE1 Brit\xE1nia": 7
   "\xCDrsko": 1
   "\u010Cesko": 14
@@ -131,6 +132,7 @@ hindex:
 - 38
 - 58
 - 34
+- 41
 - 72
 - 42
 - 32
@@ -304,5 +306,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 167
+man: 168
 women: 0
