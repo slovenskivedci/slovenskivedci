@@ -10,7 +10,7 @@ cited_by:
     all: 3792
     since_2016: 2105
 - h_index:
-    all: 31
+    all: 32
     since_2016: 27
 - i10_index:
     all: 54
@@ -18,9 +18,9 @@ cited_by:
 city: "Manoa"
 country: "USA"
 field: "oceánografia"
-hindex: 31
+hindex: 32
 img: Henrietta_Dulai.jpg
-last_update: '2021-09-16'
+last_update: '2021-12-25'
 links:
   orcid: https://orcid.org/0000-0001-5970-1483
   web: http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/

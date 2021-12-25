@@ -10,7 +10,7 @@ cited_by:
     all: 3630
     since_2016: 1614
 - h_index:
-    all: 32
+    all: 33
     since_2016: 23
 - i10_index:
     all: 97
@@ -18,9 +18,9 @@ cited_by:
 city: "Bratislava"
 country: "Slovensko"
 field: "materiálová veda"
-hindex: 32
+hindex: 33
 
-last_update: '2021-09-16'
+last_update: '2021-12-25'
 links:
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9228
   wikipédia: "https://sk.wikipedia.org/wiki/Pavol_\u0160ajgal\xEDk"

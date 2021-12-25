@@ -3,13 +3,13 @@ last: "Tomašových"
 year: 1978
 sex: "muž"
 
-position: "vedecký pracovník"
+position: "vedec"
 field: "paleobiológia"
 affiliation: "Slovenská akadémia vied"
 city: "Bratislava"
 country: "Slovensko"
 
-hindex: 33
+hindex: 30
 scholar: https://scholar.google.com/citations?user=7Zkz-9MAAAAJ
 
 cited_by:
@@ -23,7 +23,7 @@ cited_by:
     all: 59
     since_2016: 49
 
-last_update: '2021-11-20'
+last_update: '2021-12-25'
 
 links:
   web: http://www.geol.sav.sk/tomasovych/

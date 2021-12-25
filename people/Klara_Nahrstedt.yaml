@@ -2,7 +2,7 @@ name: "Klára Nahrstedt"
 last: "Nahrstedt"
 year: 1957
 
-hindex: 87
+hindex: 88
 scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
 
 position: "profesorka"
@@ -17,7 +17,7 @@ cited_by:
     all: 32106
     since_2016: 6487
 - h_index:
-    all: 87
+    all: 88
     since_2016: 39
 - i10_index:
     all: 359
@@ -25,7 +25,7 @@ cited_by:
 
 
 img: Klara_Nahrstedt.jpg
-last_update: '2021-09-16'
+last_update: '2021-12-25'
 links:
   dblp: https://dblp.org/pid/45/3224.html
   web: https://cs.illinois.edu/about/people/faculty/klara

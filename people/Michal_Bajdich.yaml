@@ -2,13 +2,13 @@ name: "Michal Bajdich"
 last: "Bajdich"
 year:
 
-position: "vedecký pracovník"
+position: "vedec"
 field: "výpočtová katalýza"
 affiliation: "Stanford University"
 city: "Menlo Park"
 country: "USA"
 
-hindex: 30
+hindex: 31
 scholar: https://scholar.google.com/citations?hl=en&user=x9sZ1Q4AAAAJ
 
 cited_by:
@@ -22,7 +22,7 @@ cited_by:
     all: 48
     since_2016: 45
 
-last_update: '2021-11-21'
+last_update: '2021-12-25'
 
 links:
   web 1: https://suncat.stanford.edu/people/michal-bajdich

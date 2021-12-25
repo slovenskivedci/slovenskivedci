@@ -1,6 +1,6 @@
 name: "Zdenko Machala"
 last: "Machala"
-year: 
+year:
 
 position: "docent"
 field: "fyzika"
@@ -8,12 +8,12 @@ affiliation: "Univerzita Komenského"
 city: "Bratislava"
 country: "Slovensko"
 
-hindex: 30
+hindex: 31
 scholar: https://scholar.google.sk/citations?hl=en&user=3xq6b60AAAAJ
 
 cited_by:
 - citations:
-    all: 3869
+    all: 3956
     since_2016: 2901
 - h_index:
     all: 30
@@ -22,7 +22,7 @@ cited_by:
     all: 47
     since_2016: 40
 
-last_update: '2021-11-21'
+last_update: '2021-12-25'
 
 links:
   web: http://enviro.fmph.uniba.sk/index.php?link=machala

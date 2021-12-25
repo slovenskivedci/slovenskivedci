@@ -6,9 +6,9 @@ field: "biomedicína"
 
 
 scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
-hindex: 31
+hindex: 30
 
-position: "vedecký pracovník"
+position: "vedec"
 affiliation: "Slovenská akadémia vied"
 city: "Bratislava"
 country: "Slovensko"
@@ -24,10 +24,10 @@ cited_by:
     all: 5131
     since_2016: 1280
 - h_index:
-    all: 31
+    all: 30
     since_2016: 18
 - i10_index:
     all: 74
     since_2016: 34
 
-last_update: '2021-09-16'
+last_update: '2021-12-25'

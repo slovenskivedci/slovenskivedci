@@ -2,9 +2,9 @@ affiliation: "Google"
 city: "Zürich"
 country: "Švajčiarsko"
 field: "informatika"
-hindex: 32
+hindex: 33
 img: Martin_Pal.jpg
-last_update: '2020-12-31'
+last_update: '2021-12-25'
 links:
   dblp: https://dblp.org/pid/p/MartinPal.html
   web: https://research.google/people/author20/
@@ -13,6 +13,6 @@ links:
 
 name: "Martin Pál"
 last: "Pál"
-position: "vedecký pracovník"
+position: "vedec"
 scholar: https://scholar.google.com/citations?&user=NDhlLv0AAAAJ
 year: ''

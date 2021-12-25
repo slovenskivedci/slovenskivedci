@@ -2,13 +2,13 @@ name: "Lenka Beňová"
 last: "Beňová"
 year:
 
-position: "vedecká pracovníčka"
+position: "vedkyňa"
 field: "reprodukčné zdravie"
 affiliation: "Institute of Tropical Medicine Antwerp"
 city: "Antwerpy"
 country: "Holandsko"
 
-hindex: 30
+hindex: 31
 scholar: https://scholar.google.com/citations?user=BZTPCTIAAAAJ&hl=en
 
 cited_by:
@@ -22,7 +22,7 @@ cited_by:
     all: 56
     since_2016: 56
 
-last_update: '2021-11-19'
+last_update: '2021-12-25'
 
 links:
   web 1: https://research.itg.be/en/persons/lenka-benova

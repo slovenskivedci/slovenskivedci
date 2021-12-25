@@ -4,7 +4,7 @@ cited_by:
     all: 6632
     since_2016: 4243
 - h_index:
-    all: 42
+    all: 43
     since_2016: 31
 - i10_index:
     all: 133
@@ -12,9 +12,9 @@ cited_by:
 city: "Plzeň"
 country: "Česko"
 field: "aplikovaná fyzika"
-hindex: 42
+hindex: 43
 img: Jan_Minar.jpeg
-last_update: '2021-09-16'
+last_update: '2021-12-25'
 links:
   ResearchGate: https://www.researchgate.net/profile/Jan-Minar
   web: https://cedam.ntc.zcu.cz/cz/kontakt.html

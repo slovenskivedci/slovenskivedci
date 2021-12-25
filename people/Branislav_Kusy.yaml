@@ -9,7 +9,7 @@ cited_by:
     all: 7105
     since_2016: 2201
 - h_index:
-    all: 31
+    all: 32
     since_2016: 23
 - i10_index:
     all: 64
@@ -17,9 +17,9 @@ cited_by:
 city: "Brisbane"
 country: "Austrália"
 field: "bezdrôtové siete a systémy"
-hindex: 31
+hindex: 32
 img: Branislav_Kusy.jpg
-last_update: '2021-09-16'
+last_update: '2021-12-25'
 links:
   Semantic Scholar: https://www.semanticscholar.org/author/Branislav-Kusy/1752891
   dblp: https://dblp.org/pid/19/3001.html
@@ -28,5 +28,5 @@ links:
   web: https://sites.google.com/site/branislavkusy/
   životopis: https://sites.google.com/site/branislavkusy/cv
 
-position: "vedecký pracovník"
+position: "vedec"
 scholar: https://scholar.google.com/citations?hl=en&amp;user=G9w7WT4AAAAJ

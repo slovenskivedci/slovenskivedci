@@ -77,6 +77,40 @@
   positionurl: emeritny_profesor
   scholar: https://scholar.google.com/citations?user=b-gm8tgAAAAJ&hl=en
   year: 1941
+- affiliation: University of Illinois
+  affiliationurl: University_of_Illinois
+  cited_by:
+  - citations:
+      all: 32106
+      since_2016: 6487
+  - h_index:
+      all: 88
+      since_2016: 39
+  - i10_index:
+      all: 359
+      since_2016: 145
+  city: Urbana-Champaign
+  cityurl: Urbana-Champaign
+  country: USA
+  countryurl: USA
+  field: informatika
+  fieldurl: informatika
+  hindex: 88
+  img: Klara_Nahrstedt.jpg
+  last: Nahrstedt
+  last_update: '2021-12-25'
+  links:
+  - - dblp
+    - https://dblp.org/pid/45/3224.html
+  - - web
+    - https://cs.illinois.edu/about/people/faculty/klara
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Klara_Nahrstedt
+  name: "Kl\xE1ra Nahrstedt"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
+  year: 1957
 - affiliation: University of Adelaide
   affiliationurl: University_of_Adelaide
   city: Adelaide
@@ -101,40 +135,6 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?user=FTejMNwAAAAJ&amp;hl=en
   year: 1962
-- affiliation: University of Illinois
-  affiliationurl: University_of_Illinois
-  cited_by:
-  - citations:
-      all: 32106
-      since_2016: 6487
-  - h_index:
-      all: 87
-      since_2016: 39
-  - i10_index:
-      all: 359
-      since_2016: 145
-  city: Urbana-Champaign
-  cityurl: Urbana-Champaign
-  country: USA
-  countryurl: USA
-  field: informatika
-  fieldurl: informatika
-  hindex: 87
-  img: Klara_Nahrstedt.jpg
-  last: Nahrstedt
-  last_update: '2021-09-16'
-  links:
-  - - dblp
-    - https://dblp.org/pid/45/3224.html
-  - - web
-    - https://cs.illinois.edu/about/people/faculty/klara
-  - - "wikip\xE9dia"
-    - https://en.wikipedia.org/wiki/Klara_Nahrstedt
-  name: "Kl\xE1ra Nahrstedt"
-  position: profesorka
-  positionurl: profesorka
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
-  year: 1957
 - affiliation: University of Bonn
   affiliationurl: University_of_Bonn
   cited_by:
@@ -215,8 +215,8 @@
   - - "\u017Eivotopis"
     - https://www.fmb.unesp.br/Home/ensino/Pos-Graduacao/mestradoacademicoedoutorado/pgbasesgeraisdacirurgia/igor-jurisica_curriculum-vitae-july-2015-1.pdf
   name: "Igor Juri\u0161ica"
-  position: "v\xFDskumn\xFD pracovn\xEDk"
-  positionurl: vyskumny_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ
   year: 1967
 - affiliation: University of California
@@ -237,10 +237,10 @@
   countryurl: USA
   field: "robotika a umel\xE1 inteligencia"
   fieldurl: robotika_a_umela_inteligencia
-  hindex: 71
+  hindex: 72
   img: Ruzena_Bajcsy.jpg
   last: Bajcsy
-  last_update: '2021-09-16'
+  last_update: '2021-12-25'
   links:
   - - web
     - https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.htmlhttps://people.eecs.berkeley.edu/~bajcsy/
@@ -637,8 +637,8 @@
   - - "\u017Eivotopis"
     - "https://www.learned.sk/wp-content/uploads/2020/03/\u017Divotopis-Peter-Biely.pdf"
   name: Peter Biely
-  position: "v\xFDskumn\xFD pracovn\xEDk"
-  positionurl: vyskumny_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
   year: 1941
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -691,6 +691,36 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
   year: 1942
+- affiliation: Monash University
+  affiliationurl: Monash_University
+  city: Melbourne
+  cityurl: Melbourne
+  country: "Austr\xE1lia"
+  countryurl: Australia
+  field: "epidemiol\xF3gia"
+  fieldurl: epidemiologia
+  hindex: 57
+  img: Barbora_Courten.jpg
+  last: de Courten
+  last_update: '2021-12-25'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/371235/overview
+  - - orcid
+    - https://orcid.org/0000-0001-8760-2511
+  - - publons
+    - https://publons.com/researcher/1662815/barbora-de-courten/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Barbora_De_Courten2
+  - - web 1
+    - https://www.monash.edu/medicine/scs/researchers/barbora-de-courten
+  - - web 2
+    - https://research.monash.edu/en/persons/barbora-de-courten
+  name: "Barbora (Voz\xE1rov\xE1) de Courten"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
+  year: null
 - affiliation: IST Austria
   affiliationurl: IST_Austria
   cited_by:
@@ -787,6 +817,32 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?user=qOmkOIAAAAAJ&amp;hl=en
   year: ''
+- affiliation: Medical University of Vienna
+  affiliationurl: Medical_University_of_Vienna
+  city: "Viede\u0148"
+  cityurl: Vieden
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "hematol\xF3gia"
+  fieldurl: hematologia
+  hindex: 55
+  img: Robert_Kralovics.jpg
+  last: Kralovics
+  last_update: '2021-12-25'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/robert-kralovics-0150ab32/
+  - - orcid
+    - https://orcid.org/0000-0002-6997-8539
+  - - web
+    - https://www.meduniwien.ac.at/hp/sfb-mpn/projects/project-02-somatic-aberration-networks-in-mpn/principal-investigator/
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Robert_Kralovics
+  name: "R\xF3bert Kr\xE1lovics"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=-oTaCR8AAAAJ&amp
+  year: 1970
 - affiliation: Murdoch University
   affiliationurl: Murdoch_University
   city: Perth
@@ -823,62 +879,38 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?user=BPId440AAAAJ
   year: 1956
-- affiliation: Medical University of Vienna
-  affiliationurl: Medical_University_of_Vienna
-  city: "Viede\u0148"
-  cityurl: Vieden
-  country: "Rak\xFAsko"
-  countryurl: Rakusko
-  field: "hematol\xF3gia"
-  fieldurl: hematologia
+- affiliation: RWTH Aachen
+  affiliationurl: RWTH_Aachen
+  cited_by:
+  - citations:
+      all: 8563
+      since_2016: 6147
+  - h_index:
+      all: 54
+      since_2016: 46
+  - i10_index:
+      all: 140
+      since_2016: 128
+  city: Aachen
+  cityurl: Aachen
+  country: Nemecko
+  countryurl: Nemecko
+  field: "patol\xF3gia"
+  fieldurl: patologia
   hindex: 54
-  img: Robert_Kralovics.jpg
-  last: Kralovics
-  last_update: '2020-12-31'
+  img: Peter_Boor.jpeg
+  last: Boor
+  last_update: '2021-12-25'
   links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/robert-kralovics-0150ab32/
-  - - orcid
-    - https://orcid.org/0000-0002-6997-8539
   - - web
-    - https://www.meduniwien.ac.at/hp/sfb-mpn/projects/project-02-somatic-aberration-networks-in-mpn/principal-investigator/
-  - - "wikip\xE9dia"
-    - https://en.wikipedia.org/wiki/Robert_Kralovics
-  name: "R\xF3bert Kr\xE1lovics"
-  position: "v\xFDskumn\xFD pracovn\xEDk"
-  positionurl: vyskumny_pracovnik
-  scholar: https://scholar.google.com/citations?user=-oTaCR8AAAAJ&amp
-  year: 1970
-- affiliation: Monash University
-  affiliationurl: Monash_University
-  city: Melbourne
-  cityurl: Melbourne
-  country: "Austr\xE1lia"
-  countryurl: Australia
-  field: "epidemiol\xF3gia"
-  fieldurl: epidemiologia
-  hindex: 54
-  img: Barbora_Courten.jpg
-  last: de Courten
-  last_update: '2020-12-31'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/371235/overview
-  - - orcid
-    - https://orcid.org/0000-0001-8760-2511
-  - - publons
-    - https://publons.com/researcher/1662815/barbora-de-courten/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Barbora_De_Courten2
-  - - web 1
-    - https://www.monash.edu/medicine/scs/researchers/barbora-de-courten
-  - - web 2
-    - https://research.monash.edu/en/persons/barbora-de-courten
-  name: "Barbora (Voz\xE1rov\xE1) de Courten"
-  position: profesorka
-  positionurl: profesorka
-  scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
-  year: null
+    - https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/
+  - - "\u017Eivotopis"
+    - http://www.imbm.sk/wp-content/uploads/2018/01/cv-english-pb.pdf
+  name: Peter Boor
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
+  year: 1979
 - affiliation: University of Regensburg
   affiliationurl: University_of_Regensburg
   cited_by:
@@ -911,38 +943,6 @@
   positionurl: profesor
   scholar: https://scholar.google.de/citations?user=bNu69CcAAAAJ&amp;hl=en
   year: 1967
-- affiliation: RWTH Aachen
-  affiliationurl: RWTH_Aachen
-  cited_by:
-  - citations:
-      all: 8563
-      since_2016: 6147
-  - h_index:
-      all: 52
-      since_2016: 46
-  - i10_index:
-      all: 140
-      since_2016: 128
-  city: Aachen
-  cityurl: Aachen
-  country: Nemecko
-  countryurl: Nemecko
-  field: "patol\xF3gia"
-  fieldurl: patologia
-  hindex: 52
-  img: Peter_Boor.jpeg
-  last: Boor
-  last_update: '2021-09-16'
-  links:
-  - - web
-    - https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/
-  - - "\u017Eivotopis"
-    - http://www.imbm.sk/wp-content/uploads/2018/01/cv-english-pb.pdf
-  name: Peter Boor
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
-  year: 1979
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -951,10 +951,10 @@
   countryurl: Slovensko
   field: "aplikovan\xE1 mechanika"
   fieldurl: aplikovana_mechanika
-  hindex: 52
+  hindex: 53
   img: Jan_Sladek.jpg
   last: Sladek
-  last_update: '2020-12-31'
+  last_update: '2021-12-25'
   links:
   - - osobnosti
     - https://www.osobnosti.sk/osobnost/jan-sladek-590
@@ -995,6 +995,130 @@
   positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=Z8DDt0kAAAAJ&amp;hl=en
   year: 1954
+- affiliation: University of Toronto
+  affiliationurl: University_of_Toronto
+  city: Toronto
+  cityurl: Toronto
+  country: Kanada
+  countryurl: Kanada
+  field: "reprodukt\xEDvna biol\xF3gia"
+  fieldurl: reproduktivna_biologia
+  hindex: 51
+  img: Andrea_Jurisicova.png
+  last: Jurisicova
+  last_update: '2021-12-25'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/andrea-jurisicova-205a2975/?originalSubdomain=ca
+  - - publons
+    - https://publons.com/researcher/2649349/andrea-jurisicova/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Andrea-Jurisicova
+  - - web
+    - http://www.lunenfeld.ca/?page=jurisicova-andrea
+  name: "Andrea Juri\u0161icov\xE1"
+  position: docentka
+  positionurl: docentka
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=JPCdl08AAAAJ
+  year: ''
+- affiliation: Delft University of Technology
+  affiliationurl: Delft_University_of_Technology
+  cited_by:
+  - citations:
+      all: 11293
+      since_2016: 6621
+  - h_index:
+      all: 51
+      since_2016: 37
+  - i10_index:
+      all: 198
+      since_2016: 158
+  city: Delft
+  cityurl: Delft
+  country: Holandsko
+  countryurl: Holandsko
+  field: fotovoltika
+  fieldurl: fotovoltika
+  hindex: 51
+  img: Miro_Zeman.jpg
+  last: Zeman
+  last_update: '2021-12-25'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Miro_Zeman
+  - - web
+    - https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/photovoltaic-materials-and-devices/staff/miro-zeman/
+  name: Miro Zeman
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=YP4gwRsAAAAJ
+  year: 1957
+- affiliation: Delft University of Technology
+  affiliationurl: Delft_University_of_Technology
+  cited_by:
+  - citations:
+      all: 8984
+      since_2016: 5513
+  - h_index:
+      all: 50
+      since_2016: 39
+  - i10_index:
+      all: 200
+      since_2016: 124
+  city: Delft
+  cityurl: Delft
+  country: Holandsko
+  countryurl: Holandsko
+  field: elektronika
+  fieldurl: elektronika
+  hindex: 50
+  img: Pavol_Bauer.jpg
+  last: Bauer
+  last_update: '2021-12-25'
+  links:
+  - - web
+    - https://www.tudelft.nl/staff/p.bauer/?cHash=96dc8f6d55c5ea75995f7e9d5b68a50d
+  - - "\u017Eivotopis"
+    - https://www.tudelft.nl/en/staff/p.bauer/
+  name: Pavol Bauer
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp
+  year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 45683
+      since_2016: 44550
+  - h_index:
+      all: 50
+      since_2016: 45
+  - i10_index:
+      all: 74
+      since_2016: 71
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "epidemiol\xF3gia"
+  fieldurl: epidemiologia
+  hindex: 50
+  img: Alexandra_Brazinova.jpg
+  last: Brazinova
+  last_update: '2021-12-25'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-0625-256X
+  - - publons
+    - https://publons.com/researcher/2304958/alexandra-brazinova
+  - - "\u017Eivotopis"
+    - https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
+  name: "Alexandra Bra\u017Einov\xE1"
+  position: docentka
+  positionurl: docentka
+  scholar: https://scholar.google.com/citations?view_op=list_works&amp;hl=sk&amp;user=_tpva74AAAAJ&amp;gmla=AJsN-F4enZVXEbSLey5sIxs2iYX1b7cqmKalMsteEbPCoYJYJxTGQ_Zt-LvTIN2kkDL4gvas8IzPL_-d-a2pm35LzuGeTzsZ-_QtrpIO0EjpojuHFcUXAHqhiyBxqm1VoP8CFAzsgdRpPW7w8bg5bGlASKOHjuCzhA&amp;fbclid=IwAR3a7AhdjAeyLhXviBDKjED2xYkm112lWx5VvKswNvukEuxNdsJdW37SfLg
+  year: 1971
 - affiliation: "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe"
   affiliationurl: Ceske_vysoke_uceni_technicke_v_Prahe
   city: Praha
@@ -1013,44 +1137,10 @@
   - - web
     - https://www.meltingpotforum.com/cs/archiv/recnici-2019/katarina-krizkova-gajdosova-svk-cze
   name: "Katar\xEDna K\u0159\xED\u017Ekov\xE1 Gajdo\u0161ov\xE1"
-  position: "vedeck\xE1 pracovn\xED\u010Dka"
-  positionurl: vedecka_pracovnicka
+  position: "vedky\u0148a"
+  positionurl: vedkyna
   scholar: https://scholar.google.com/citations?user=n1zAfusAAAAJ&amp;hl=en
   year: ''
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 45683
-      since_2016: 44550
-  - h_index:
-      all: 49
-      since_2016: 45
-  - i10_index:
-      all: 74
-      since_2016: 71
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "epidemiol\xF3gia"
-  fieldurl: epidemiologia
-  hindex: 49
-  img: Alexandra_Brazinova.jpg
-  last: Brazinova
-  last_update: '2021-09-16'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0003-0625-256X
-  - - publons
-    - https://publons.com/researcher/2304958/alexandra-brazinova
-  - - "\u017Eivotopis"
-    - https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
-  name: "Alexandra Bra\u017Einov\xE1"
-  position: docentka
-  positionurl: docentka
-  scholar: https://scholar.google.com/citations?view_op=list_works&amp;hl=sk&amp;user=_tpva74AAAAJ&amp;gmla=AJsN-F4enZVXEbSLey5sIxs2iYX1b7cqmKalMsteEbPCoYJYJxTGQ_Zt-LvTIN2kkDL4gvas8IzPL_-d-a2pm35LzuGeTzsZ-_QtrpIO0EjpojuHFcUXAHqhiyBxqm1VoP8CFAzsgdRpPW7w8bg5bGlASKOHjuCzhA&amp;fbclid=IwAR3a7AhdjAeyLhXviBDKjED2xYkm112lWx5VvKswNvukEuxNdsJdW37SfLg
-  year: 1971
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
   affiliationurl: Slovenska_polnohospodarska_univerzita
   cited_by:
@@ -1085,32 +1175,6 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?user=9LXjvp8AAAAJ&amp;hl=en&amp;oi=sra
   year: 1959
-- affiliation: University of Toronto
-  affiliationurl: University_of_Toronto
-  city: Toronto
-  cityurl: Toronto
-  country: Kanada
-  countryurl: Kanada
-  field: "reprodukt\xEDvna biol\xF3gia"
-  fieldurl: reproduktivna_biologia
-  hindex: 49
-  img: Andrea_Jurisicova.png
-  last: Jurisicova
-  last_update: '2020-12-31'
-  links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/andrea-jurisicova-205a2975/?originalSubdomain=ca
-  - - publons
-    - https://publons.com/researcher/2649349/andrea-jurisicova/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Andrea-Jurisicova
-  - - web
-    - http://www.lunenfeld.ca/?page=jurisicova-andrea
-  name: "Andrea Juri\u0161icov\xE1"
-  position: docentka
-  positionurl: docentka
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=JPCdl08AAAAJ
-  year: ''
 - affiliation: University of California
   affiliationurl: University_of_California
   city: San Diego
@@ -1154,70 +1218,6 @@
   position: profesor
   positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
-  year: ''
-- affiliation: Delft University of Technology
-  affiliationurl: Delft_University_of_Technology
-  cited_by:
-  - citations:
-      all: 11293
-      since_2016: 6621
-  - h_index:
-      all: 49
-      since_2016: 37
-  - i10_index:
-      all: 198
-      since_2016: 158
-  city: Delft
-  cityurl: Delft
-  country: Holandsko
-  countryurl: Holandsko
-  field: fotovoltika
-  fieldurl: fotovoltika
-  hindex: 49
-  img: Miro_Zeman.jpg
-  last: Zeman
-  last_update: '2021-09-16'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Miro_Zeman
-  - - web
-    - https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/photovoltaic-materials-and-devices/staff/miro-zeman/
-  name: Miro Zeman
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=YP4gwRsAAAAJ
-  year: 1957
-- affiliation: Delft University of Technology
-  affiliationurl: Delft_University_of_Technology
-  cited_by:
-  - citations:
-      all: 8984
-      since_2016: 5513
-  - h_index:
-      all: 48
-      since_2016: 39
-  - i10_index:
-      all: 200
-      since_2016: 124
-  city: Delft
-  cityurl: Delft
-  country: Holandsko
-  countryurl: Holandsko
-  field: elektronika
-  fieldurl: elektronika
-  hindex: 48
-  img: Pavol_Bauer.jpg
-  last: Bauer
-  last_update: '2021-09-16'
-  links:
-  - - web
-    - https://www.tudelft.nl/staff/p.bauer/?cHash=96dc8f6d55c5ea75995f7e9d5b68a50d
-  - - "\u017Eivotopis"
-    - https://www.tudelft.nl/en/staff/p.bauer/
-  name: Pavol Bauer
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp
   year: ''
 - affiliation: Simon Fraser University
   affiliationurl: Simon_Fraser_University
@@ -1581,6 +1581,31 @@
   positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=q6uGy_4AAAAJ&amp;hl=sk
   year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "biotechnol\xF3gia"
+  fieldurl: biotechnologia
+  hindex: 45
+  img: Jan_Tkac.jpeg
+  last: Tkac
+  last_update: '2021-12-25'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/jan-tkac
+  - - web
+    - http://elena.sav.sk
+  - - "\u017Eivotopis"
+    - "https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda v Centre\
+      \ Ba 2013/CV_Ing_J\xE1n Tk\xE1\u010D_DrSc.pdf"
+  name: "J\xE1n Tk\xE1\u010D"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=jfkqa18AAAAJ&amp;hl=en
+  year: 1972
 - affiliation: University of Minnesota
   affiliationurl: University_of_Minnesota
   city: Twin Cities
@@ -1672,8 +1697,8 @@
   - - web2
     - https://www.physiol.uzh.ch/en/research/institutegroups/grborsig/membersgrborsig.html
   name: Lubor Borsig
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?hl=en&amp;user=XOPkMEAAAAAJ
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -1718,8 +1743,8 @@
   - - "\u017Eivotopis"
     - https://drive.google.com/file/d/1N08kDcSaK0QsIq5_lGpbp-D4Xp1e7xGO/view?usp=sharing
   name: "M\xE1ria Omastov\xE1"
-  position: "vedeck\xE1 pracovn\xED\u010Dka"
-  positionurl: vedecka_pracovnicka
+  position: "vedky\u0148a"
+  positionurl: vedkyna
   scholar: https://scholar.google.sk/citations?user=8X3B8LAAAAAJ&amp;hl=en&amp;oi=ao
   year: 1962
 - affiliation: Apple
@@ -1752,10 +1777,96 @@
   - - ResearchGate
     - https://www.researchgate.net/profile/Martin-Pelikan
   name: "Martin Pelik\xE1n"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?hl=en&amp;user=f59x6y4AAAAJ
   year: ''
+- affiliation: "Z\xE1pado\u010Desk\xE1 univerzita v Plzni"
+  affiliationurl: Zapadoceska_univerzita_v_Plzni
+  cited_by:
+  - citations:
+      all: 6632
+      since_2016: 4243
+  - h_index:
+      all: 43
+      since_2016: 31
+  - i10_index:
+      all: 133
+      since_2016: 106
+  city: "Plze\u0148"
+  cityurl: Plzen
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "aplikovan\xE1 fyzika"
+  fieldurl: aplikovana_fyzika
+  hindex: 43
+  img: Jan_Minar.jpeg
+  last: Minar
+  last_update: '2021-12-25'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jan-Minar
+  - - web
+    - https://cedam.ntc.zcu.cz/cz/kontakt.html
+  - - "\u017Eivotopis"
+    - https://drive.google.com/file/d/1-pg-_rFi7oDd62TJW8nJh7ffCWBr6y-M/view?usp=sharing
+  name: "J\xE1n Min\xE1r"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=EZ8YetQAAAAJ&amp;hl=en
+  year: 1975
+- affiliation: Medical University of Vienna
+  affiliationurl: Medical_University_of_Vienna
+  city: "Viede\u0148"
+  cityurl: Vieden
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
+  hindex: 43
+  img: Vladimir_Mlynarik.png
+  last: Mlynarik
+  last_update: '2021-12-25'
+  links:
+  - - prabook
+    - https://prabook.com/web/vladimir.mlynarik/338489
+  - - publons
+    - https://publons.com/researcher/2791541/vladimir-mlynarik/
+  - - scopus
+    - https://www.scopus.com/results/results.uri?sort=plf-f&src=s&sid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a1070&sot=a&sdt=a&sl=77&s=AUTHOR-NAME%28Mlynarik%2c+V%29+OR+AUTHOR-NAME%28Mlynrik%2cV%29+OR+AUTHOR-NAME%28Mlinarik%2cV%29&origin=savedSearchNewOnly&txGid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a107
+  - - web
+    - https://hfmr.meduniwien.ac.at/general-information/staff/mlynarik/?L=1
+  - - "\u017Eivotopis"
+    - https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/Mlynarik_CV_webpage-1.pdf
+  name: "Vladim\xEDr Mlyn\xE1rik"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=OYXbmu0AAAAJ
+  year: '1951'
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "bioch\xE9mia"
+  fieldurl: biochemia
+  hindex: 43
+  img: Olga_Pechanova.jpg
+  last: Pechanova
+  last_update: '2021-12-25'
+  links:
+  - - osobnosti
+    - https://www.osobnosti.sk/osobnost/olga-pechanova-654
+  - - web
+    - http://cem.sav.sk/index.php/en/cem/
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Pechanova/H13_RNDr._Pechanova_-_zivotopis.pdf
+  name: "O\u013Ega Pech\xE1\u0148ov\xE1"
+  position: docentka
+  positionurl: docentka
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=1bNNlZUAAAAJ
+  year: 1962
 - affiliation: Karlsruhe Institute of Technology
   affiliationurl: Karlsruhe_Institute_of_Technology
   cited_by:
@@ -1790,35 +1901,10 @@
   - - "\u017Eivotopis"
     - https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Vladimir-Sepelak.pdf
   name: "Vladim\xEDr \u0160epel\xE1k"
-  position: "v\xFDskumn\xFD pracovn\xEDk"
-  positionurl: vyskumny_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=gpGngJUAAAAJ&hl=en&oi=sra
   year: null
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "biotechnol\xF3gia"
-  fieldurl: biotechnologia
-  hindex: 43
-  img: Jan_Tkac.jpeg
-  last: Tkac
-  last_update: '2020-12-31'
-  links:
-  - - ESET Science Award
-    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/jan-tkac
-  - - web
-    - http://elena.sav.sk
-  - - "\u017Eivotopis"
-    - "https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda v Centre\
-      \ Ba 2013/CV_Ing_J\xE1n Tk\xE1\u010D_DrSc.pdf"
-  name: "J\xE1n Tk\xE1\u010D"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
-  scholar: https://scholar.google.com/citations?user=jfkqa18AAAAJ&amp;hl=en
-  year: 1972
 - affiliation: University of Edinburgh
   affiliationurl: University_of_Edinburgh
   city: Edinburg
@@ -1841,8 +1927,8 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?user=BSx7_CEAAAAJ&amp;hl=en
   year: ''
-- affiliation: "Univerzita PJ \u0160af\xE1rika"
-  affiliationurl: Univerzita_PJ_Safarika
+- affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   cited_by:
   - citations:
       all: 8945
@@ -1943,95 +2029,9 @@
   - - "\u017Eivotopis 2"
     - https://www.learned.sk/wp-content/uploads/2020/01/ZIVOTOPIS_Lacik_Europass-Jan-2020_pre-UcSS.pdf
   name: "Igor Lac\xEDk"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=SB6Z-ScAAAAJ&amp;hl=en
-  year: 1962
-- affiliation: "Z\xE1pado\u010Desk\xE1 univerzita v Plzni"
-  affiliationurl: Zapadoceska_univerzita_v_Plzni
-  cited_by:
-  - citations:
-      all: 6632
-      since_2016: 4243
-  - h_index:
-      all: 42
-      since_2016: 31
-  - i10_index:
-      all: 133
-      since_2016: 106
-  city: "Plze\u0148"
-  cityurl: Plzen
-  country: "\u010Cesko"
-  countryurl: Cesko
-  field: "aplikovan\xE1 fyzika"
-  fieldurl: aplikovana_fyzika
-  hindex: 42
-  img: Jan_Minar.jpeg
-  last: Minar
-  last_update: '2021-09-16'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Jan-Minar
-  - - web
-    - https://cedam.ntc.zcu.cz/cz/kontakt.html
-  - - "\u017Eivotopis"
-    - https://drive.google.com/file/d/1-pg-_rFi7oDd62TJW8nJh7ffCWBr6y-M/view?usp=sharing
-  name: "J\xE1n Min\xE1r"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=EZ8YetQAAAAJ&amp;hl=en
-  year: 1975
-- affiliation: Medical University of Vienna
-  affiliationurl: Medical_University_of_Vienna
-  city: "Viede\u0148"
-  cityurl: Vieden
-  country: "Rak\xFAsko"
-  countryurl: Rakusko
-  field: "fyzik\xE1lna ch\xE9mia"
-  fieldurl: fyzikalna_chemia
-  hindex: '42'
-  img: Vladimir_Mlynarik.png
-  last: Mlynarik
-  last_update: '2020-12-31'
-  links:
-  - - prabook
-    - https://prabook.com/web/vladimir.mlynarik/338489
-  - - publons
-    - https://publons.com/researcher/2791541/vladimir-mlynarik/
-  - - scopus
-    - https://www.scopus.com/results/results.uri?sort=plf-f&src=s&sid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a1070&sot=a&sdt=a&sl=77&s=AUTHOR-NAME%28Mlynarik%2c+V%29+OR+AUTHOR-NAME%28Mlynrik%2cV%29+OR+AUTHOR-NAME%28Mlinarik%2cV%29&origin=savedSearchNewOnly&txGid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a107
-  - - web
-    - https://hfmr.meduniwien.ac.at/general-information/staff/mlynarik/?L=1
-  - - "\u017Eivotopis"
-    - https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/Mlynarik_CV_webpage-1.pdf
-  name: "Vladim\xEDr Mlyn\xE1rik"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=OYXbmu0AAAAJ
-  year: '1951'
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "bioch\xE9mia"
-  fieldurl: biochemia
-  hindex: 42
-  img: Olga_Pechanova.jpg
-  last: Pechanova
-  last_update: '2020-12-31'
-  links:
-  - - osobnosti
-    - https://www.osobnosti.sk/osobnost/olga-pechanova-654
-  - - web
-    - http://cem.sav.sk/index.php/en/cem/
-  - - "\u017Eivotopis"
-    - https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Pechanova/H13_RNDr._Pechanova_-_zivotopis.pdf
-  name: "O\u013Ega Pech\xE1\u0148ov\xE1"
-  position: docentka
-  positionurl: docentka
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=1bNNlZUAAAAJ
   year: 1962
 - affiliation: McMaster University
   affiliationurl: McMaster_University
@@ -2096,7 +2096,6 @@
   year: 1932
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
   cited_by:
   - citations:
       all: 6764
@@ -2125,8 +2124,9 @@
   - - "\u017Eivotopis"
     - https://prabook.com/web/peter.gemeiner/337833
   name: Peter Gemeiner
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
   year: 1946
 - affiliation: University of Strathclyde
   affiliationurl: University_of_Strathclyde
@@ -2438,8 +2438,8 @@
   - - web
     - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=3476
   name: Boris Klempa
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=FSHRkJgAAAAJ&hl=en
   year: ''
 - affiliation: University of Arizona
@@ -2584,8 +2584,8 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=lZvsE4EAAAAJ
   year: 1955
-- affiliation: "Univerzita PJ \u0160af\xE1rika"
-  affiliationurl: Univerzita_PJ_Safarika
+- affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   cited_by:
   - citations:
       all: 4165
@@ -2658,8 +2658,8 @@
   - - "\u017Eivotopis"
     - https://demystifyingmedicine.od.nih.gov/dm11/biosketch/dm0301-bielekova-bibiana.pdf
   name: "Bibiana Bielekov\xE1"
-  position: "vedeck\xE1 pracovn\xED\u010Dka"
-  positionurl: vedecka_pracovnicka
+  position: "vedky\u0148a"
+  positionurl: vedkyna
   scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
   year: 1969
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -2830,8 +2830,8 @@
   - - "\u017Eivotopis"
     - http://www.norbbi.com/curriculum/curriculum.html
   name: "Norbert Ku\u010Derka"
-  position: "v\xFDskumn\xFD pracovn\xEDk"
-  positionurl: vyskumny_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=W9ls60kAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -2900,8 +2900,8 @@
   - - web
     - http://www.cs.cas.cz/mp/
   name: "Milan Palu\u0161"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
   year: 1963
 - affiliation: University of Birmingham
@@ -3349,8 +3349,8 @@
   - - "\u017Eivotopis"
     - https://www.sav.sk/uploads/users_cv/20191219104536_138_zivotopis.pdf
   name: Andrej Liptaj
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=cwsmFUUAAAAJ&amp;hl=sk
   year: 1980
 - affiliation: "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave"
@@ -3457,8 +3457,8 @@
   - - ResearchGate
     - https://www.researchgate.net/profile/Iveta_Bernatova/2
   name: "Iveta Bern\xE1tov\xE1"
-  position: "vedeck\xE1 pracovn\xED\u010Dka"
-  positionurl: vedecka_pracovnicka
+  position: "vedky\u0148a"
+  positionurl: vedkyna
   scholar: https://scholar.google.sk/citations?user=S9nvaAkAAAAJ&amp;hl=sk
   year: ''
 - affiliation: "Eur\xF3pska komisia"
@@ -3493,8 +3493,8 @@
   - - web
     - http://ciaian.szm.sk/
   name: Pavel Ciaian
-  position: "v\xFDskumn\xFD pracovn\xEDk"
-  positionurl: vyskumny_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.sk/citations?user=s_AVnN0AAAAJ
   year: ''
 - affiliation: The University of Melbourne
@@ -3604,6 +3604,36 @@
   positionurl: docent
   scholar: https://scholar.google.com/citations?hl=en&amp;user=rX7GiUAAAAAJ
   year: 1982
+- affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
+  cited_by:
+  - citations:
+      all: 2921
+      since_2016: 1601
+  - h_index:
+      all: 34
+      since_2016: 23
+  - i10_index:
+      all: 61
+      since_2016: 52
+  city: "Ko\u0161ice"
+  cityurl: Kosice
+  country: Slovensko
+  countryurl: Slovensko
+  field: "behavior\xE1lna medic\xEDna"
+  fieldurl: behavioralna_medicina
+  hindex: 35
+  img: Iveta_Nagyova.jpg
+  last: Nagyova
+  last_update: '2021-12-25'
+  links:
+  - - web
+    - https://mc3.sk/autor/iveta-nagyova/
+  name: "Iveta Nagyov\xE1"
+  position: "vedky\u0148a"
+  positionurl: vedkyna
+  scholar: https://scholar.google.com/citations?user=A2l-bV8AAAAJ&amp;hl=en
+  year: ''
 - affiliation: University of Strathclyde
   affiliationurl: University_of_Strathclyde
   cited_by:
@@ -3674,8 +3704,8 @@
   - - "\u017Eivotopis"
     - https://iea.u-cergy.fr/en/invited-researchers-cv/fellows-in-residence-2019-2020/viera-skakalova.html
   name: "Viera Sk\xE1kalov\xE1"
-  position: "vedeck\xE1 pracovn\xED\u010Dka"
-  positionurl: vedecka_pracovnicka
+  position: "vedky\u0148a"
+  positionurl: vedkyna
   scholar: https://scholar.google.com/citations?user=3PIAo10AAAAJ&amp;hl=en
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
@@ -3716,10 +3746,42 @@
   - - web
     - http://www.chem.sk/people/tvaroskaigor/
   name: "Igor Tvaro\u0161ka"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?hl=en&amp;user=v71jEjAAAAAJ
   year: 1944
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 39905
+      since_2016: 19218
+  - h_index:
+      all: 34
+      since_2016: 27
+  - i10_index:
+      all: 93
+      since_2016: 49
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "ch\xE9mia"
+  fieldurl: chemia
+  hindex: 35
+  img: Marian_Valko.jpeg
+  last: Valko
+  last_update: '2021-12-25'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/127211/overview
+  - - web
+    - http://edisk.cvt.stuba.sk/~valkom/Homepage.html
+  name: "Mari\xE1n Valko"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.sk/citations?user=Csnoq7QAAAAJ&amp;hl=en
+  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -3860,9 +3922,41 @@
   - - ResearchGate
     - https://www.researchgate.net/profile/Juraj-Harmatha/10
   name: Juraj Harmatha
-  position: "emeritn\xFD vedeck\xFD pracovn\xEDk"
-  positionurl: emeritny_vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=AZDDb3gAAAAJ&amp;hl=en
+  year: ''
+- affiliation: University of New South Wales
+  affiliationurl: University_of_New_South_Wales
+  cited_by:
+  - citations:
+      all: 3866
+      since_2016: 3354
+  - h_index:
+      all: 33
+      since_2016: 30
+  - i10_index:
+      all: 67
+      since_2016: 55
+  city: Sydney
+  cityurl: Sydney
+  country: "Austr\xE1lia"
+  countryurl: Australia
+  field: energetika
+  fieldurl: energetika
+  hindex: 34
+  img: Branislav_Hredzak.jpg
+  last: Hredzak
+  last_update: '2021-12-25'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-4863-3419
+  - - web
+    - https://s324741.wixsite.com/bhredzak
+  name: "Branislav Hredz\xE1k"
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=LSvxvEIAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
@@ -3898,35 +3992,103 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&user=f8595C4AAAAJ
   year: 1947
-- affiliation: "Univerzita PJ \u0160af\xE1rika"
-  affiliationurl: Univerzita_PJ_Safarika
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
-      all: 2921
-      since_2016: 1601
+      all: 3597
+      since_2016: 3166
   - h_index:
-      all: 34
-      since_2016: 23
+      all: 33
+      since_2016: 31
   - i10_index:
-      all: 61
-      since_2016: 52
+      all: 106
+      since_2016: 90
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "onkol\xF3gia"
+  fieldurl: onkologia
+  hindex: 34
+  img: Peter_Kubatka.jpg
+  last: Kubatka
+  last_update: '2021-12-25'
+  links:
+  - - facebook
+    - https://m.facebook.com/peter.kubatka
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
+  - - loop
+    - https://loop.frontiersin.org/people/1386452/overview
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
+  - - orcid
+    - https://orcid.org/0000-0003-4312-5076
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Kubatka
+  - - web
+    - https://www.jfmed.uniba.sk/en/departments/scientific-and-teaching-workplaces/departments-of-basic-sciences/department-of-medical-biology/staff/
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/veda/docprof/PriF_UK/KUBATKA/CV_Kubatka.pdf
+  name: Peter Kubatka
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=sk&user=Bg2qAyoAAAAJ
+  year: 1973
+- affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   city: "Ko\u0161ice"
   cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
-  field: "behavior\xE1lna medic\xEDna"
-  fieldurl: behavioralna_medicina
+  field: "farmakol\xF3gia"
+  fieldurl: farmakologia
   hindex: 34
-  img: Iveta_Nagyova.jpg
-  last: Nagyova
-  last_update: '2021-09-16'
+  img: Jan_Mojzis.jpg
+  last: Mojzis
+  last_update: '2021-12-25'
   links:
   - - web
-    - https://mc3.sk/autor/iveta-nagyova/
-  name: "Iveta Nagyov\xE1"
-  position: "vedeck\xE1 v\xFDskumn\xED\u010Dka"
-  positionurl: vedecka_vyskumnicka
-  scholar: https://scholar.google.com/citations?user=A2l-bV8AAAAJ&amp;hl=en
+    - https://www.upjs.sk/LF/zamestnanec/jan.mojzis/
+  name: "J\xE1n Moj\u017Ei\u0161"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.sk/citations?user=TjtaxQ8AAAAJ&amp;hl=en
+  year: ''
+- affiliation: University of Pennsylvania
+  affiliationurl: University_of_Pennsylvania
+  cited_by:
+  - citations:
+      all: 3717
+      since_2016: 1845
+  - h_index:
+      all: 33
+      since_2016: 25
+  - i10_index:
+      all: 51
+      since_2016: 44
+  city: Filadelfia
+  cityurl: Filadelfia
+  country: USA
+  countryurl: USA
+  field: pediatria
+  fieldurl: pediatria
+  hindex: 34
+  img: Lubica_Rauova.jpg
+  last: Rauova
+  last_update: '2021-12-25'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-1990-3077
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Lubica_Rauova
+  - - web
+    - https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
+  name: "\u013Dubica Rauov\xE1"
+  position: docentka
+  positionurl: docentka
+  scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
@@ -3976,41 +4138,9 @@
   - - "\u017Eivotopis"
     - https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
   name: "Milan S\xFDkora"
-  position: "v\xFDskumn\xFD pracovn\xEDk"
-  positionurl: vyskumny_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=fxBzWQcAAAAJ&amp;hl=en
-  year: ''
-- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
-  affiliationurl: Slovenska_technicka_univerzita
-  cited_by:
-  - citations:
-      all: 39905
-      since_2016: 19218
-  - h_index:
-      all: 34
-      since_2016: 27
-  - i10_index:
-      all: 93
-      since_2016: 49
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "ch\xE9mia"
-  fieldurl: chemia
-  hindex: 34
-  img: Marian_Valko.jpeg
-  last: Valko
-  last_update: '2021-09-16'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/127211/overview
-  - - web
-    - http://edisk.cvt.stuba.sk/~valkom/Homepage.html
-  name: "Mari\xE1n Valko"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.sk/citations?user=Csnoq7QAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
@@ -4120,8 +4250,8 @@
   - - web
     - https://www.microsoft.com/en-us/research/people/mdudik/
   name: "Miroslav Dud\xEDk"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=wYMTld8AAAAJ&
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -4164,6 +4294,48 @@
   positionurl: profesorka
   scholar: https://scholar.google.com/citations?hl=en&user=Dwytj-UAAAAJ
   year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 5133
+      since_2016: 2969
+  - h_index:
+      all: 32
+      since_2016: 28
+  - i10_index:
+      all: 121
+      since_2016: 76
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: matematika
+  fieldurl: matematika
+  hindex: 33
+  img: Michal_Feckan.jpg
+  last: Feckan
+  last_update: '2021-12-25'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
+  - - LinkedIn
+    - https://www.linkedin.com/in/michal-feckan-177b153b/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0002-7385-6737
+  - - publons
+    - https://publons.com/researcher/1846317/michal-feckan/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Michal-Feckan
+  - - web
+    - https://www.mat.savba.sk/~feckan/
+  - - "\u017Eivotopis"
+    - https://www.mat.savba.sk/~feckan/#_toc16
+  name: "Michal Fe\u010Dkan"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
+  year: 1960
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -4232,6 +4404,26 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp
   year: ''
+- affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
+  affiliationurl: Technicka_univerzita_v_Kosiciach
+  city: "Ko\u0161ice"
+  cityurl: Kosice
+  country: Slovensko
+  countryurl: Slovensko
+  field: "v\xFDobn\xE9 technol\xF3gie"
+  fieldurl: vyobne_technologie
+  hindex: 33
+  img: Sergej_Hloch.jpeg
+  last: Hloch
+  last_update: '2021-12-25'
+  links:
+  - - web
+    - http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
+  name: Sergej Hloch
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
+  year: ''
 - affiliation: Univerzita Karlova
   affiliationurl: Univerzita_Karlova
   city: Praha
@@ -4256,169 +4448,198 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=QCr9FugAAAAJ
   year: 1978
-- affiliation: University of New South Wales
-  affiliationurl: University_of_New_South_Wales
-  cited_by:
-  - citations:
-      all: 3866
-      since_2016: 3354
-  - h_index:
-      all: 33
-      since_2016: 30
-  - i10_index:
-      all: 67
-      since_2016: 55
-  city: Sydney
-  cityurl: Sydney
-  country: "Austr\xE1lia"
-  countryurl: Australia
-  field: energetika
-  fieldurl: energetika
-  hindex: 33
-  img: Branislav_Hredzak.jpg
-  last: Hredzak
-  last_update: '2021-09-16'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0002-4863-3419
-  - - web
-    - https://s324741.wixsite.com/bhredzak
-  name: "Branislav Hredz\xE1k"
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=LSvxvEIAAAAJ
-  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 3597
-      since_2016: 3166
-  - h_index:
-      all: 33
-      since_2016: 31
-  - i10_index:
-      all: 106
-      since_2016: 90
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
-  field: "onkol\xF3gia"
-  fieldurl: onkologia
+  field: "lek\xE1rska bioch\xE9mia"
+  fieldurl: lekarska_biochemia
   hindex: 33
-  img: Peter_Kubatka.jpg
-  last: Kubatka
-  last_update: '2021-11-20'
+  img: Jan_Lehotsky.jpg
+  last: Lehotsky
+  last_update: '2021-12-25'
   links:
-  - - facebook
-    - https://m.facebook.com/peter.kubatka
-  - - LinkedIn
-    - https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
   - - loop
-    - https://loop.frontiersin.org/people/1386452/overview
-  - - Microsoft Academic
-    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
-  - - orcid
-    - https://orcid.org/0000-0003-4312-5076
+    - https://loop.frontiersin.org/people/362858/overview
+  - - osobnosti
+    - https://www.osobnosti.sk/osobnost/jan-lehotsky-1982
   - - ResearchGate
-    - https://www.researchgate.net/profile/Peter-Kubatka
+    - https://www.researchgate.net/profile/Jan_Lehotsky
   - - web
-    - https://www.jfmed.uniba.sk/en/departments/scientific-and-teaching-workplaces/departments-of-basic-sciences/department-of-medical-biology/staff/
-  - - "\u017Eivotopis"
-    - https://uniba.sk/fileadmin/ruk/veda/docprof/PriF_UK/KUBATKA/CV_Kubatka.pdf
-  name: Peter Kubatka
+    - https://www.jfmed.uniba.sk/pracoviska/vedecko-pedagogicke-pracoviska/teoreticke-ustavy/ustav-lekarskej-biochemie/zamestnanci-ustavu/prof-rndr-jan-lehotsky-drsc-zastupca-veduceho/
+  name: "J\xE1n Lehotsk\xFD"
   position: profesor
   positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=sk&user=Bg2qAyoAAAAJ
-  year: 1973
-- affiliation: University of Pennsylvania
-  affiliationurl: University_of_Pennsylvania
+  scholar: https://scholar.google.sk/citations?user=rXl9hY0AAAAJ&amp;hl=sk&amp;oi=sra
+  year: 1954
+- affiliation: University of Reading
+  affiliationurl: University_of_Reading
   cited_by:
   - citations:
-      all: 3717
-      since_2016: 1845
+      all: 4246
+      since_2016: 2110
   - h_index:
-      all: 33
-      since_2016: 25
+      all: 32
+      since_2016: 26
   - i10_index:
-      all: 51
-      since_2016: 44
-  city: Filadelfia
-  cityurl: Filadelfia
-  country: USA
-  countryurl: USA
-  field: pediatria
-  fieldurl: pediatria
+      all: 53
+      since_2016: 48
+  city: Reading
+  cityurl: Reading
+  country: "Ve\u013Ek\xE1 Brit\xE1nia"
+  countryurl: Velka_Britania
+  field: "ekol\xF3gia"
+  fieldurl: ekologia
   hindex: 33
-  img: Lubica_Rauova.jpg
-  last: Rauova
-  last_update: '2021-09-16'
+  img: Martin_Lukac.png
+  last: Lukac
+  last_update: '2021-12-25'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin-Lukac-4
+  - - web
+    - https://www.reading.ac.uk/apd/staff/m-lukac.aspx
+  name: "Martin Luk\xE1\u010D"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=K0dUsrwAAAAJ&hl=en
+  year: null
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "molekul\xE1rna biol\xF3gia"
+  fieldurl: molekularna_biologia
+  hindex: 33
+  img: Juraj_Majtan.jpg
+  last: Majtan
+  last_update: '2021-12-25'
   links:
   - - orcid
-    - https://orcid.org/0000-0003-1990-3077
+    - https://orcid.org/0000-0002-7268-1584
   - - ResearchGate
-    - https://www.researchgate.net/profile/Lubica_Rauova
+    - https://www.researchgate.net/profile/Juraj_Majtan
   - - web
-    - https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
-  name: "\u013Dubica Rauov\xE1"
-  position: docentka
-  positionurl: docentka
-  scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10368
+  name: "Juraj Majt\xE1n"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.sk/citations?hl=en&amp;user=Wt7wd3QAAAAJ
   year: ''
+- affiliation: Google
+  affiliationurl: Google
+  city: "Z\xFCrich"
+  cityurl: Zurich
+  country: "\u0160vaj\u010Diarsko"
+  countryurl: Svajciarsko
+  field: informatika
+  fieldurl: informatika
+  hindex: 33
+  img: Martin_Pal.jpg
+  last: Pal
+  last_update: '2021-12-25'
+  links:
+  - - dblp
+    - https://dblp.org/pid/p/MartinPal.html
+  - - IMO
+    - https://www.imo-official.org/participant_r.aspx?id=3826
+  - - web
+    - https://research.google/people/author20/
+  - - "\u017Eivotopis"
+    - http://martin.palenica.com/cv2.pdf
+  name: "Martin P\xE1l"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?&user=NDhlLv0AAAAJ
+  year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyziol\xF3gia"
+  fieldurl: fyziologia
+  hindex: 33
+  img: Tanya_Ravingerova.jpg
+  last: Ravingerova
+  last_update: '2021-12-25'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Tanya_Ravingerova
+  - - "\u017Eivotopis"
+    - https://www.sav.sk/uploads/users_cv/20181126205307_445_CV_Ravingerova_15.11.2018.doc
+  name: "Tanya Ravingerov\xE1"
+  position: "vedky\u0148a"
+  positionurl: vedkyna
+  scholar: https://scholar.google.com/citations?user=_fONjMIAAAAJ&amp;hl=en
+  year: 1951
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
-      all: 3130
-      since_2016: 1818
+      all: 3630
+      since_2016: 1614
   - h_index:
-      all: 30
+      all: 33
       since_2016: 23
   - i10_index:
-      all: 59
-      since_2016: 49
+      all: 97
+      since_2016: 48
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
-  field: "paleobiol\xF3gia"
-  fieldurl: paleobiologia
+  field: "materi\xE1lov\xE1 veda"
+  fieldurl: materialova_veda
   hindex: 33
-  img: Adam_Tomasovych.jpg
-  last: Tomasovych
-  last_update: '2021-11-20'
+  img: Pavol_Sajgalik.jpeg
+  last: Sajgalik
+  last_update: '2021-12-25'
   links:
-  - - facebook
-    - https://m.facebook.com/peter.kubatka
-  - - LinkedIn
-    - https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
-  - - loop
-    - https://loop.frontiersin.org/people/1386452/overview
-  - - Microsoft Academic
-    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
-  - - "Na\u0161i a svetov\xED"
-    - https://slovensko.rtvs.sk/rubriky/nasi-a-svetovi/182332/nasi-a-svetovi-adam-tomasovych
-  - - orcid
-    - https://orcid.org/0000-0002-0471-9480
-  - - ResearchGate
-    - http://www.researchgate.net/profile/Adam_Tomasovych
-  - - twitter
-    - https://twitter.com/atomasovych
   - - web
-    - http://www.geol.sav.sk/tomasovych/
-  - - web 1
-    - http://www.geol.sav.sk/tomasovych/
-  - - web 2
-    - http://www.geo.sav.sk/en/staff/adam-tomasovych-en/
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9228
+  - - "wikip\xE9dia"
+    - "https://sk.wikipedia.org/wiki/Pavol_\u0160ajgal\xEDk"
+  name: "Pavol \u0160ajgal\xEDk"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=AULzHfIAAAAJ&amp;hl=en
+  year: 1955
+- affiliation: "Slovesk\xE1 akad\xE9mia vied"
+  affiliationurl: Sloveska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "patofyziol\xF3gia"
+  fieldurl: patofyziologia
+  hindex: 33
+  img: Jozef_Ukropec.jpg
+  last: Ukropec
+  last_update: '2021-12-25'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/506233/overview
+  - - orcid
+    - https://orcid.org/0000-0001-8401-6621
+  - - publons
+    - https://publons.com/researcher/3489206/jozef-ukropec/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jozef_Ukropec
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273
   - - "\u017Eivotopis"
-    - http://www.geol.sav.sk/tomasovych/curriculum%20vitae.pdf
-  name: "Adam Toma\u0161ov\xFDch"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
-  scholar: https://scholar.google.com/citations?user=7Zkz-9MAAAAJ
-  sex: "mu\u017E"
-  year: 1978
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273&action=cv
+  name: Jozef Ukropec
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=geK1ms0AAAAJ&amp;hl=en
+  year: 1974
 - affiliation: Florida State University
   affiliationurl: Florida_State_University
   cited_by:
@@ -4497,70 +4718,98 @@
   positionurl: docent
   scholar: https://scholar.google.com.au/citations?user=bLoHCS8AAAAJ&hl=en
   year: null
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
+- affiliation: University of Hawaii
+  affiliationurl: University_of_Hawaii
   cited_by:
   - citations:
-      all: 5133
-      since_2016: 2969
+      all: 3792
+      since_2016: 2105
   - h_index:
       all: 32
-      since_2016: 28
+      since_2016: 27
   - i10_index:
-      all: 121
-      since_2016: 76
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: matematika
-  fieldurl: matematika
+      all: 54
+      since_2016: 49
+  city: Manoa
+  cityurl: Manoa
+  country: USA
+  countryurl: USA
+  field: "oce\xE1nografia"
+  fieldurl: oceanografia
   hindex: 32
-  img: Michal_Feckan.jpg
-  last: Feckan
-  last_update: '2021-09-16'
+  img: Henrietta_Dulai.jpg
+  last: Dulai
+  last_update: '2021-12-25'
   links:
-  - - ESET Science Award
-    - https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
-  - - LinkedIn
-    - https://www.linkedin.com/in/michal-feckan-177b153b/?originalSubdomain=sk
   - - orcid
-    - https://orcid.org/0000-0002-7385-6737
-  - - publons
-    - https://publons.com/researcher/1846317/michal-feckan/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Michal-Feckan
+    - https://orcid.org/0000-0001-5970-1483
   - - web
-    - https://www.mat.savba.sk/~feckan/
+    - http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/
   - - "\u017Eivotopis"
-    - https://www.mat.savba.sk/~feckan/#_toc16
-  name: "Michal Fe\u010Dkan"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
-  year: 1960
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  city: Bratislava
-  cityurl: Bratislava
+    - http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/files/CV_henrietta.pdf
+  name: Henrietta Dulai
+  position: docentka
+  positionurl: docentka
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
+  year: ''
+- affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
+  city: "Ko\u0161ice"
+  cityurl: Kosice
   country: Slovensko
   countryurl: Slovensko
-  field: fyzika
-  fieldurl: fyzika
+  field: "teoretick\xE1 fyzika"
+  fieldurl: teoreticka_fyzika
   hindex: 32
-  img: Miroslav_Grajcar.jpg
-  last: Grajcar
-  last_update: '2020-12-31'
+  img: Martin_Gmitra.jpg
+  last: Gmitra
+  last_update: '2021-12-25'
   links:
   - - web
-    - http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=grajcar
-  - - "\u017Eivotopis"
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9067&action=cv
-  name: Miroslav Grajcar
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.co.in/citations?user=KPgJyEAAAAAJ&amp;hl=en
-  year: 1966
+    - https://ktfa.science.upjs.sk/people/martin-gmitra/
+  name: Martin Gmitra
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&amp;hl=en
+  year: ''
+- affiliation: "Univerzita Palack\xE9ho v Olomouci"
+  affiliationurl: Univerzita_Palackeho_v_Olomouci
+  cited_by:
+  - citations:
+      all: 2865
+      since_2016: 1872
+  - h_index:
+      all: 31
+      since_2016: 24
+  - i10_index:
+      all: 84
+      since_2016: 61
+  city: Olomouc
+  cityurl: Olomouc
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "ch\xE9mia"
+  fieldurl: chemia
+  hindex: 32
+  img: Radovan_Herchel.jpg
+  last: Herchel
+  last_update: '2021-12-25'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/61544/overview
+  - - orcid
+    - https://orcid.org/0000-0001-8262-4666
+  - - publons
+    - https://publons.com/researcher/1372193/radovan-herchel/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Radovan-Herchel
+  - - web
+    - https://www.prf.upol.cz/nc/afc/kontakty/vizitka/empid/22158/
+  name: Radovan Herchel
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.cz/citations?user=t_V_OnwAAAAJ&amp;hl=cs
+  year: ''
 - affiliation: Qatar University
   affiliationurl: Qatar_University
   cited_by:
@@ -4627,6 +4876,46 @@
   positionurl: docent
   scholar: https://scholar.google.co.il/citations?user=ZCMAk9sAAAAJ
   year: 1955
+- affiliation: CSIRO
+  affiliationurl: CSIRO
+  cited_by:
+  - citations:
+      all: 7105
+      since_2016: 2201
+  - h_index:
+      all: 32
+      since_2016: 23
+  - i10_index:
+      all: 64
+      since_2016: 45
+  city: Brisbane
+  cityurl: Brisbane
+  country: "Austr\xE1lia"
+  countryurl: Australia
+  field: "bezdr\xF4tov\xE9 siete a syst\xE9my"
+  fieldurl: bezdrotove_siete_a_systemy
+  hindex: 32
+  img: Branislav_Kusy.jpg
+  last: Kusy
+  last_update: '2021-12-25'
+  links:
+  - - dblp
+    - https://dblp.org/pid/19/3001.html
+  - - IEEE Xplore
+    - https://ieeexplore.ieee.org/author/37272332400
+  - - publons
+    - https://publons.com/researcher/2806804/branislav-kusy/
+  - - Semantic Scholar
+    - https://www.semanticscholar.org/author/Branislav-Kusy/1752891
+  - - web
+    - https://sites.google.com/site/branislavkusy/
+  - - "\u017Eivotopis"
+    - https://sites.google.com/site/branislavkusy/cv
+  name: "Branislav Kus\xFD"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=G9w7WT4AAAAJ
+  year: ''
 - affiliation: Amazon
   affiliationurl: Amazon
   city: Berkeley
@@ -4645,91 +4934,9 @@
   - - web
     - http://www.bkveton.com
   name: "Branislav Kveto\u0148"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
-  year: ''
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "lek\xE1rska bioch\xE9mia"
-  fieldurl: lekarska_biochemia
-  hindex: 32
-  img: Jan_Lehotsky.jpg
-  last: Lehotsky
-  last_update: '2020-12-31'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/362858/overview
-  - - osobnosti
-    - https://www.osobnosti.sk/osobnost/jan-lehotsky-1982
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Jan_Lehotsky
-  - - web
-    - https://www.jfmed.uniba.sk/pracoviska/vedecko-pedagogicke-pracoviska/teoreticke-ustavy/ustav-lekarskej-biochemie/zamestnanci-ustavu/prof-rndr-jan-lehotsky-drsc-zastupca-veduceho/
-  name: "J\xE1n Lehotsk\xFD"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.sk/citations?user=rXl9hY0AAAAJ&amp;hl=sk&amp;oi=sra
-  year: 1954
-- affiliation: University of Reading
-  affiliationurl: University_of_Reading
-  cited_by:
-  - citations:
-      all: 4246
-      since_2016: 2110
-  - h_index:
-      all: 32
-      since_2016: 26
-  - i10_index:
-      all: 53
-      since_2016: 48
-  city: Reading
-  cityurl: Reading
-  country: "Ve\u013Ek\xE1 Brit\xE1nia"
-  countryurl: Velka_Britania
-  field: "ekol\xF3gia"
-  fieldurl: ekologia
-  hindex: 32
-  img: Martin_Lukac.png
-  last: Lukac
-  last_update: '2021-11-21'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Martin-Lukac-4
-  - - web
-    - https://www.reading.ac.uk/apd/staff/m-lukac.aspx
-  name: "Martin Luk\xE1\u010D"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=K0dUsrwAAAAJ&hl=en
-  year: null
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "molekul\xE1rna biol\xF3gia"
-  fieldurl: molekularna_biologia
-  hindex: 32
-  img: Juraj_Majtan.jpg
-  last: Majtan
-  last_update: '2020-12-31'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0002-7268-1584
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Juraj_Majtan
-  - - web
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10368
-  name: "Juraj Majt\xE1n"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
-  scholar: https://scholar.google.sk/citations?hl=en&amp;user=Wt7wd3QAAAAJ
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
@@ -4783,26 +4990,6 @@
   positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=nM3oZ78AAAAJ&amp;hl=en&amp;oi=ao
   year: 1963
-- affiliation: "Univerzita PJ \u0160af\xE1rika"
-  affiliationurl: Univerzita_PJ_Safarika
-  city: "Ko\u0161ice"
-  cityurl: Kosice
-  country: Slovensko
-  countryurl: Slovensko
-  field: "farmakol\xF3gia"
-  fieldurl: farmakologia
-  hindex: 32
-  img: Jan_Mojzis.jpg
-  last: Mojzis
-  last_update: '2020-12-31'
-  links:
-  - - web
-    - https://www.upjs.sk/LF/zamestnanec/jan.mojzis/
-  name: "J\xE1n Moj\u017Ei\u0161"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.sk/citations?user=TjtaxQ8AAAAJ&amp;hl=en
-  year: ''
 - affiliation: Brookhaven National Laboratory
   affiliationurl: Brookhaven_National_Laboratory
   cited_by:
@@ -4837,32 +5024,6 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?user=lrz3brYAAAAJ&hl=en
   year: 1943
-- affiliation: Google
-  affiliationurl: Google
-  city: "Z\xFCrich"
-  cityurl: Zurich
-  country: "\u0160vaj\u010Diarsko"
-  countryurl: Svajciarsko
-  field: informatika
-  fieldurl: informatika
-  hindex: 32
-  img: Martin_Pal.jpg
-  last: Pal
-  last_update: '2020-12-31'
-  links:
-  - - dblp
-    - https://dblp.org/pid/p/MartinPal.html
-  - - IMO
-    - https://www.imo-official.org/participant_r.aspx?id=3826
-  - - web
-    - https://research.google/people/author20/
-  - - "\u017Eivotopis"
-    - http://martin.palenica.com/cv2.pdf
-  name: "Martin P\xE1l"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
-  scholar: https://scholar.google.com/citations?&user=NDhlLv0AAAAJ
-  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -4893,60 +5054,46 @@
   positionurl: odborny_asistent
   scholar: https://scholar.google.sk/citations?user=eBoisLQAAAAJ&amp;hl=sk&amp;oi=ao
   year: ''
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "fyziol\xF3gia"
-  fieldurl: fyziologia
-  hindex: 32
-  img: Tanya_Ravingerova.jpg
-  last: Ravingerova
-  last_update: '2020-12-31'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Tanya_Ravingerova
-  - - "\u017Eivotopis"
-    - https://www.sav.sk/uploads/users_cv/20181126205307_445_CV_Ravingerova_15.11.2018.doc
-  name: "Tanya Ravingerov\xE1"
-  position: "vedeck\xE1 pracovn\xED\u010Dka"
-  positionurl: vedecka_pracovnicka
-  scholar: https://scholar.google.com/citations?user=_fONjMIAAAAJ&amp;hl=en
-  year: 1951
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
+- affiliation: "Vysok\xE1 \u0161kola chemicko-technologick\xE1"
+  affiliationurl: Vysoka_skola_chemicko-technologicka
   cited_by:
   - citations:
-      all: 3630
-      since_2016: 1614
+      all: 2873
+      since_2016: 1813
   - h_index:
       all: 32
-      since_2016: 23
+      since_2016: 26
   - i10_index:
-      all: 97
-      since_2016: 48
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "materi\xE1lov\xE1 veda"
-  fieldurl: materialova_veda
+      all: 67
+      since_2016: 56
+  city: Praha
+  cityurl: Praha
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "chemick\xE9 in\u017Einierstvo"
+  fieldurl: chemicke_inzinierstvo
   hindex: 32
-  img: Pavol_Sajgalik.jpeg
-  last: Sajgalik
-  last_update: '2021-09-16'
+  img: Miroslav_Soos.jpeg
+  last: Soos
+  last_update: '2021-12-25'
   links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/miroslav-soos-184a7b8/?originalSubdomain=cz
+  - - orcid
+    - https://orcid.org/0000-0002-9742-7160
+  - - publons
+    - https://publons.com/researcher/2491751/miroslav-soos/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Miroslav_Soos
   - - web
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9228
-  - - "wikip\xE9dia"
-    - "https://sk.wikipedia.org/wiki/Pavol_\u0160ajgal\xEDk"
-  name: "Pavol \u0160ajgal\xEDk"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=AULzHfIAAAAJ&amp;hl=en
-  year: 1955
+    - http://labsoos.vscht.cz
+  - - "\u017Eivotopis"
+    - http://www.biotech2017.cz/domains/biotech2017.cz/data/uploads/CV_MSoos.pdf
+  name: "Miroslav \u0160o\xF3\u0161"
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.com/citations?user=5sAJJkgAAAAJ
+  year: ''
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   cited_by:
@@ -5017,8 +5164,8 @@
   - - "\u017Eivotopis"
     - https://www.osobnosti.sk/osobnost/milan-timko-846
   name: Milan Timko
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.sk/citations?user=ckojWlAAAAAJ
   year: 1954
 - affiliation: Trinity College Dublin
@@ -5053,36 +5200,54 @@
   positionurl: docent
   scholar: https://scholar.google.com/citations?user=NoS4378AAAAJ&hl=en&oi=sra
   year: null
-- affiliation: "Slovesk\xE1 akad\xE9mia vied"
-  affiliationurl: Sloveska_akademia_vied
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "patofyziol\xF3gia"
-  fieldurl: patofyziologia
-  hindex: 32
-  img: Jozef_Ukropec.jpg
-  last: Ukropec
-  last_update: '2020-12-31'
+- affiliation: Stanford University
+  affiliationurl: Stanford_University
+  cited_by:
+  - citations:
+      all: 6560
+      since_2016: 5878
+  - h_index:
+      all: 30
+      since_2016: 29
+  - i10_index:
+      all: 48
+      since_2016: 45
+  city: Menlo Park
+  cityurl: Menlo_Park
+  country: USA
+  countryurl: USA
+  field: "v\xFDpo\u010Dtov\xE1 katal\xFDza"
+  fieldurl: vypoctova_katalyza
+  hindex: 31
+  img: Michal_Bajdich.jpg
+  last: Bajdich
+  last_update: '2021-12-25'
   links:
+  - - facebook
+    - https://www.facebook.com/michal.bajdich.37
+  - - LinkedIn
+    - https://www.linkedin.com/in/michal-bajdich-1a1b3426
   - - loop
-    - https://loop.frontiersin.org/people/506233/overview
+    - https://loop.frontiersin.org/people/1122602/overview
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/2776854392/publication/search?q=Michal%20Bajdich&qe=Composite(AA.AuId%253D2776854392)&f=&orderBy=0&paperId=2984061692
   - - orcid
-    - https://orcid.org/0000-0001-8401-6621
-  - - publons
-    - https://publons.com/researcher/3489206/jozef-ukropec/
+    - https://orcid.org/0000-0003-1168-8616
   - - ResearchGate
-    - https://www.researchgate.net/profile/Jozef_Ukropec
-  - - web
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273
+    - https://www.researchgate.net/profile/Michal-Bajdich
+  - - web 1
+    - https://suncat.stanford.edu/people/michal-bajdich
+  - - web 2
+    - https://www.catalysis-hub.org
+  - - web 3
+    - https://profiles.stanford.edu/michal-bajdich
   - - "\u017Eivotopis"
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273&action=cv
-  name: Jozef Ukropec
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
-  scholar: https://scholar.google.com/citations?user=geK1ms0AAAAJ&amp;hl=en
-  year: 1974
+    - https://suncat.stanford.edu/sites/default/files/MBajdich_CV_late_2020_0.pdf
+  name: Michal Bajdich
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?hl=en&user=x9sZ1Q4AAAAJ
+  year: null
 - affiliation: "Slovesk\xE1 akad\xE9mia vied"
   affiliationurl: Sloveska_akademia_vied
   cited_by:
@@ -5117,10 +5282,48 @@
   - - web
     - http://imb.savba.sk/~barak/
   name: "Imrich Bar\xE1k"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
   year: 1961
+- affiliation: Institute of Tropical Medicine Antwerp
+  affiliationurl: Institute_of_Tropical_Medicine_Antwerp
+  cited_by:
+  - citations:
+      all: 2735
+      since_2016: 2552
+  - h_index:
+      all: 30
+      since_2016: 29
+  - i10_index:
+      all: 56
+      since_2016: 56
+  city: Antwerpy
+  cityurl: Antwerpy
+  country: Holandsko
+  countryurl: Holandsko
+  field: "reproduk\u010Dn\xE9 zdravie"
+  fieldurl: reprodukcne_zdravie
+  hindex: 31
+  img: Lenka_Benova.jpg
+  last: Benova
+  last_update: '2021-12-25'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0001-8595-365X
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Lenka-Benova/3
+  - - twitter
+    - https://twitter.com/lenkabenova
+  - - web 1
+    - https://research.itg.be/en/persons/lenka-benova
+  - - web 2
+    - https://www.lshtm.ac.uk/aboutus/people/benova.lenka
+  name: "Lenka Be\u0148ov\xE1"
+  position: "vedky\u0148a"
+  positionurl: vedkyna
+  scholar: https://scholar.google.com/citations?user=BZTPCTIAAAAJ&hl=en
+  year: null
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   cited_by:
@@ -5187,40 +5390,6 @@
   positionurl: docent
   scholar: https://scholar.google.com/citations?user=gCafUI0AAAAJ&amp;hl=en
   year: ''
-- affiliation: University of Hawaii
-  affiliationurl: University_of_Hawaii
-  cited_by:
-  - citations:
-      all: 3792
-      since_2016: 2105
-  - h_index:
-      all: 31
-      since_2016: 27
-  - i10_index:
-      all: 54
-      since_2016: 49
-  city: Manoa
-  cityurl: Manoa
-  country: USA
-  countryurl: USA
-  field: "oce\xE1nografia"
-  fieldurl: oceanografia
-  hindex: 31
-  img: Henrietta_Dulai.jpg
-  last: Dulai
-  last_update: '2021-09-16'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0001-5970-1483
-  - - web
-    - http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/
-  - - "\u017Eivotopis"
-    - http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/files/CV_henrietta.pdf
-  name: Henrietta Dulai
-  position: docentka
-  positionurl: docentka
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
-  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -5254,64 +5423,60 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC
   year: 1949
-- affiliation: "Univerzita Palack\xE9ho v Olomouci"
-  affiliationurl: Univerzita_Palackeho_v_Olomouci
-  cited_by:
-  - citations:
-      all: 2865
-      since_2016: 1872
-  - h_index:
-      all: 31
-      since_2016: 24
-  - i10_index:
-      all: 84
-      since_2016: 61
-  city: Olomouc
-  cityurl: Olomouc
-  country: "\u010Cesko"
-  countryurl: Cesko
-  field: "ch\xE9mia"
-  fieldurl: chemia
-  hindex: 31
-  img: Radovan_Herchel.jpg
-  last: Herchel
-  last_update: '2021-09-16'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/61544/overview
-  - - orcid
-    - https://orcid.org/0000-0001-8262-4666
-  - - publons
-    - https://publons.com/researcher/1372193/radovan-herchel/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Radovan-Herchel
-  - - web
-    - https://www.prf.upol.cz/nc/afc/kontakty/vizitka/empid/22158/
-  name: Radovan Herchel
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.cz/citations?user=t_V_OnwAAAAJ&amp;hl=cs
-  year: ''
-- affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
-  affiliationurl: Technicka_univerzita_v_Kosiciach
-  city: "Ko\u0161ice"
-  cityurl: Kosice
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
-  field: "v\xFDobn\xE9 technol\xF3gie"
-  fieldurl: vyobne_technologie
+  field: fyzika
+  fieldurl: fyzika
   hindex: 31
-  img: Sergej_Hloch.jpeg
-  last: Hloch
-  last_update: '2020-12-31'
+  img: Miroslav_Grajcar.jpg
+  last: Grajcar
+  last_update: '2021-12-25'
   links:
   - - web
-    - http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
-  name: Sergej Hloch
+    - http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=grajcar
+  - - "\u017Eivotopis"
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9067&action=cv
+  name: Miroslav Grajcar
   position: profesor
   positionurl: profesor
-  scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
-  year: ''
+  scholar: https://scholar.google.co.in/citations?user=KPgJyEAAAAAJ&amp;hl=en
+  year: 1966
+- affiliation: "Universit\xE9 Aix-Marseille"
+  affiliationurl: Universite_Aix-Marseille
+  cited_by:
+  - citations:
+      all: 4164
+      since_2016: 1652
+  - h_index:
+      all: 30
+      since_2016: 21
+  - i10_index:
+      all: 44
+      since_2016: 29
+  city: Marseille
+  cityurl: Marseille
+  country: "Franc\xFAzsko"
+  countryurl: Francuzsko
+  field: "matematick\xE1 fyzika"
+  fieldurl: matematicka_fyzika
+  hindex: 31
+  img: Ctirad_Klimcik.png
+  last: Klimcik
+  last_update: '2021-12-25'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Ctirad-Klimcik
+  - - web
+    - https://www.i2m.univ-amu.fr/user/ctirad.klimcik/
+  name: "Ctirad Klim\u010D\xEDk"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=sk&user=gKofB3UAAAAJ
+  year: 1961
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -5340,8 +5505,8 @@
   - - "\u017Eivotopis"
     - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2056-marian-krajci
   name: "Mari\xE1n Kraj\u010D\xED"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=WawpXZIAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
@@ -5382,78 +5547,78 @@
   positionurl: docent
   scholar: https://scholar.google.com/citations?user=CgbiV4EAAAAJ&amp;hl=en
   year: ''
-- affiliation: CSIRO
-  affiliationurl: CSIRO
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
-      all: 7105
-      since_2016: 2201
+      all: 3956
+      since_2016: 2901
   - h_index:
-      all: 31
-      since_2016: 23
+      all: 30
+      since_2016: 26
   - i10_index:
-      all: 64
-      since_2016: 45
-  city: Brisbane
-  cityurl: Brisbane
-  country: "Austr\xE1lia"
-  countryurl: Australia
-  field: "bezdr\xF4tov\xE9 siete a syst\xE9my"
-  fieldurl: bezdrotove_siete_a_systemy
-  hindex: 31
-  img: Branislav_Kusy.jpg
-  last: Kusy
-  last_update: '2021-09-16'
-  links:
-  - - dblp
-    - https://dblp.org/pid/19/3001.html
-  - - IEEE Xplore
-    - https://ieeexplore.ieee.org/author/37272332400
-  - - publons
-    - https://publons.com/researcher/2806804/branislav-kusy/
-  - - Semantic Scholar
-    - https://www.semanticscholar.org/author/Branislav-Kusy/1752891
-  - - web
-    - https://sites.google.com/site/branislavkusy/
-  - - "\u017Eivotopis"
-    - https://sites.google.com/site/branislavkusy/cv
-  name: "Branislav Kus\xFD"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=G9w7WT4AAAAJ
-  year: ''
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 5131
-      since_2016: 1280
-  - h_index:
-      all: 31
-      since_2016: 18
-  - i10_index:
-      all: 74
-      since_2016: 34
+      all: 47
+      since_2016: 40
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
-  field: "biomedic\xEDna"
-  fieldurl: biomedicina
+  field: fyzika
+  fieldurl: fyzika
   hindex: 31
-  img: Karol_Ondrias.png
-  last: Ondrias
+  img: Zdenko_Machala.jpg
+  last: Machala
+  last_update: '2021-12-25'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/zdenko-machala
+  - - LinkedIn
+    - https://www.linkedin.com/in/zdenko-machala-11405110/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0003-1424-1350
+  - - publons
+    - https://publons.com/researcher/1223900/zdenko-machala/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Zdenko-Machala
+  - - scopus
+    - https://www.scopus.com/authid/detail.uri?authorId=22941510900
+  - - web
+    - http://enviro.fmph.uniba.sk/index.php?link=machala
+  name: Zdenko Machala
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.sk/citations?hl=en&user=3xq6b60AAAAJ
+  year: null
+- affiliation: "Technick\xE1 univerzita vo Zvolene"
+  affiliationurl: Technicka_univerzita_vo_Zvolene
+  cited_by:
+  - citations:
+      all: 4054
+      since_2016: 1655
+  - h_index:
+      all: 30
+      since_2016: 20
+  - i10_index:
+      all: 72
+      since_2016: 42
+  city: Zvolen
+  cityurl: Zvolen
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fytol\xF3gia"
+  fieldurl: fytologia
+  hindex: 31
+  img: Ladislav_Paule.jpg
+  last: Paule
   last_update: '2021-09-16'
   links:
   - - web
-    - http://www.ondrias.sk
-  - - "wikip\xE9dia"
-    - "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"
-  name: "Karol Ondria\u0161"
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
-  scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
-  year: 1952
+    - http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
+  name: Ladislav Paule
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
+  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -5567,112 +5732,6 @@
   position: profesor
   positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
-  year: ''
-- affiliation: Stanford University
-  affiliationurl: Stanford_University
-  cited_by:
-  - citations:
-      all: 6560
-      since_2016: 5878
-  - h_index:
-      all: 30
-      since_2016: 29
-  - i10_index:
-      all: 48
-      since_2016: 45
-  city: Menlo Park
-  cityurl: Menlo_Park
-  country: USA
-  countryurl: USA
-  field: "v\xFDpo\u010Dtov\xE1 katal\xFDza"
-  fieldurl: vypoctova_katalyza
-  hindex: 30
-  img: Michal_Bajdich.jpg
-  last: Bajdich
-  last_update: '2021-11-21'
-  links:
-  - - facebook
-    - https://www.facebook.com/michal.bajdich.37
-  - - LinkedIn
-    - https://www.linkedin.com/in/michal-bajdich-1a1b3426
-  - - loop
-    - https://loop.frontiersin.org/people/1122602/overview
-  - - Microsoft Academic
-    - https://academic.microsoft.com/author/2776854392/publication/search?q=Michal%20Bajdich&qe=Composite(AA.AuId%253D2776854392)&f=&orderBy=0&paperId=2984061692
-  - - orcid
-    - https://orcid.org/0000-0003-1168-8616
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Michal-Bajdich
-  - - web 1
-    - https://suncat.stanford.edu/people/michal-bajdich
-  - - web 2
-    - https://www.catalysis-hub.org
-  - - web 3
-    - https://profiles.stanford.edu/michal-bajdich
-  - - "\u017Eivotopis"
-    - https://suncat.stanford.edu/sites/default/files/MBajdich_CV_late_2020_0.pdf
-  name: Michal Bajdich
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
-  scholar: https://scholar.google.com/citations?hl=en&user=x9sZ1Q4AAAAJ
-  year: null
-- affiliation: Institute of Tropical Medicine Antwerp
-  affiliationurl: Institute_of_Tropical_Medicine_Antwerp
-  cited_by:
-  - citations:
-      all: 2735
-      since_2016: 2552
-  - h_index:
-      all: 30
-      since_2016: 29
-  - i10_index:
-      all: 56
-      since_2016: 56
-  city: Antwerpy
-  cityurl: Antwerpy
-  country: Holandsko
-  countryurl: Holandsko
-  field: "reproduk\u010Dn\xE9 zdravie"
-  fieldurl: reprodukcne_zdravie
-  hindex: 30
-  img: Lenka_Benova.jpg
-  last: Benova
-  last_update: '2021-11-19'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0001-8595-365X
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Lenka-Benova/3
-  - - twitter
-    - https://twitter.com/lenkabenova
-  - - web 1
-    - https://research.itg.be/en/persons/lenka-benova
-  - - web 2
-    - https://www.lshtm.ac.uk/aboutus/people/benova.lenka
-  name: "Lenka Be\u0148ov\xE1"
-  position: "vedeck\xE1 pracovn\xED\u010Dka"
-  positionurl: vedecka_pracovnicka
-  scholar: https://scholar.google.com/citations?user=BZTPCTIAAAAJ&hl=en
-  year: null
-- affiliation: "Univerzita PJ \u0160af\xE1rika"
-  affiliationurl: Univerzita_PJ_Safarika
-  city: "Ko\u0161ice"
-  cityurl: Kosice
-  country: Slovensko
-  countryurl: Slovensko
-  field: "teoretick\xE1 fyzika"
-  fieldurl: teoreticka_fyzika
-  hindex: 30
-  img: Martin_Gmitra.jpg
-  last: Gmitra
-  last_update: '2020-12-31'
-  links:
-  - - web
-    - https://ktfa.science.upjs.sk/people/martin-gmitra/
-  name: Martin Gmitra
-  position: "vedeck\xFD pracovn\xEDk"
-  positionurl: vedecky_pracovnik
-  scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&amp;hl=en
   year: ''
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
   affiliationurl: Technicka_univerzita_vo_Zvolene
@@ -5802,38 +5861,6 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?user=zsFNpOgAAAAJ&hl=en
   year: 1972
-- affiliation: "Universit\xE9 Aix-Marseille"
-  affiliationurl: Universite_Aix-Marseille
-  cited_by:
-  - citations:
-      all: 4139
-      since_2016: 1652
-  - h_index:
-      all: 30
-      since_2016: 21
-  - i10_index:
-      all: 44
-      since_2016: 29
-  city: Marseille
-  cityurl: Marseille
-  country: "Franc\xFAzsko"
-  countryurl: Francuzsko
-  field: "matematick\xE1 fyzika"
-  fieldurl: matematicka_fyzika
-  hindex: 30
-  img: Ctirad_Klimcik.png
-  last: Klimcik
-  last_update: '2021-12-14'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Ctirad-Klimcik
-  - - web
-    - https://www.i2m.univ-amu.fr/user/ctirad.klimcik/
-  name: "Ctirad Klim\u010D\xEDk"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=sk&user=gKofB3UAAAAJ
-  year: 1961
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -5904,52 +5931,42 @@
   - - "\u017Eivotopis"
     - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443&action=cv
   name: Jaroslav Lexa
-  position: "v\xFDskumn\xFD pracovn\xEDk"
-  positionurl: vyskumny_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=rHgfxxwAAAAJ&hl=en
   year: 1944
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
-      all: 3869
-      since_2016: 2901
+      all: 5131
+      since_2016: 1280
   - h_index:
       all: 30
-      since_2016: 26
+      since_2016: 18
   - i10_index:
-      all: 47
-      since_2016: 40
+      all: 74
+      since_2016: 34
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
-  field: fyzika
-  fieldurl: fyzika
+  field: "biomedic\xEDna"
+  fieldurl: biomedicina
   hindex: 30
-  img: Zdenko_Machala.jpg
-  last: Machala
-  last_update: '2021-11-21'
+  img: Karol_Ondrias.png
+  last: Ondrias
+  last_update: '2021-12-25'
   links:
-  - - ESET Science Award
-    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/zdenko-machala
-  - - LinkedIn
-    - https://www.linkedin.com/in/zdenko-machala-11405110/?originalSubdomain=sk
-  - - orcid
-    - https://orcid.org/0000-0003-1424-1350
-  - - publons
-    - https://publons.com/researcher/1223900/zdenko-machala/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Zdenko-Machala
-  - - scopus
-    - https://www.scopus.com/authid/detail.uri?authorId=22941510900
   - - web
-    - http://enviro.fmph.uniba.sk/index.php?link=machala
-  name: Zdenko Machala
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.sk/citations?hl=en&user=3xq6b60AAAAJ
-  year: null
+    - http://www.ondrias.sk
+  - - "wikip\xE9dia"
+    - "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"
+  name: "Karol Ondria\u0161"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
+  year: 1952
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
   cited_by:
@@ -5984,8 +6001,8 @@
   - - web
     - https://www.ibp.cz/cs/vyzkum/oddeleni/biofyzikalni-chemie-a-molekularni-onkologie/zamestnanci/129
   name: "Veronika Ostatn\xE1"
-  position: "vedeck\xE1 pracovn\xED\u010Dka"
-  positionurl: vedecka_pracovnicka
+  position: "vedky\u0148a"
+  positionurl: vedkyna
   scholar: https://scholar.google.com/citations?hl=en&user=ZezlLfEAAAAJ
   year: null
 - affiliation: University of Chicago
@@ -6020,36 +6037,6 @@
   positionurl: profesor
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
   year: 1974
-- affiliation: "Technick\xE1 univerzita vo Zvolene"
-  affiliationurl: Technicka_univerzita_vo_Zvolene
-  cited_by:
-  - citations:
-      all: 3995
-      since_2016: 1655
-  - h_index:
-      all: 30
-      since_2016: 20
-  - i10_index:
-      all: 72
-      since_2016: 42
-  city: Zvolen
-  cityurl: Zvolen
-  country: Slovensko
-  countryurl: Slovensko
-  field: "fytol\xF3gia"
-  fieldurl: fytologia
-  hindex: 30
-  img: Ladislav_Paule.jpg
-  last: Paule
-  last_update: '2021-09-16'
-  links:
-  - - web
-    - http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
-  name: Ladislav Paule
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
-  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -6156,49 +6143,9 @@
   - - web 2
     - http://kchbi.chtf.stuba.sk/clenovia/detail.aspx?ID=26
   name: "\u0160tefan Schlosser"
-  position: "v\xFDskumn\xFD pracovn\xEDk"
-  positionurl: vyskumny_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=J2qs3RMAAAAJ&hl=en
-  year: ''
-- affiliation: "Vysok\xE1 \u0161kola chemicko-technologick\xE1"
-  affiliationurl: Vysoka_skola_chemicko-technologicka
-  cited_by:
-  - citations:
-      all: 2719
-      since_2016: 1813
-  - h_index:
-      all: 30
-      since_2016: 26
-  - i10_index:
-      all: 67
-      since_2016: 56
-  city: Praha
-  cityurl: Praha
-  country: "\u010Cesko"
-  countryurl: Cesko
-  field: "chemick\xE9 in\u017Einierstvo"
-  fieldurl: chemicke_inzinierstvo
-  hindex: 30
-  img: Miroslav_Soos.jpeg
-  last: Soos
-  last_update: '2021-09-16'
-  links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/miroslav-soos-184a7b8/?originalSubdomain=cz
-  - - orcid
-    - https://orcid.org/0000-0002-9742-7160
-  - - publons
-    - https://publons.com/researcher/2491751/miroslav-soos/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Miroslav_Soos
-  - - web
-    - http://labsoos.vscht.cz
-  - - "\u017Eivotopis"
-    - http://www.biotech2017.cz/domains/biotech2017.cz/data/uploads/CV_MSoos.pdf
-  name: "Miroslav \u0160o\xF3\u0161"
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.com/citations?user=5sAJJkgAAAAJ
   year: ''
 - affiliation: Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)
   affiliationurl: Mohamed_Bin_Zayed_University_of_Artificial_Intelligence__MBZUAI_
@@ -6256,6 +6203,59 @@
   positionurl: docent
   scholar: https://scholar.google.com/citations?hl=en&user=qKQD-2cAAAAJ
   year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
+      all: 3130
+      since_2016: 1818
+  - h_index:
+      all: 30
+      since_2016: 23
+  - i10_index:
+      all: 59
+      since_2016: 49
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "paleobiol\xF3gia"
+  fieldurl: paleobiologia
+  hindex: 30
+  img: Adam_Tomasovych.jpg
+  last: Tomasovych
+  last_update: '2021-12-25'
+  links:
+  - - facebook
+    - https://m.facebook.com/peter.kubatka
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
+  - - loop
+    - https://loop.frontiersin.org/people/1386452/overview
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
+  - - "Na\u0161i a svetov\xED"
+    - https://slovensko.rtvs.sk/rubriky/nasi-a-svetovi/182332/nasi-a-svetovi-adam-tomasovych
+  - - orcid
+    - https://orcid.org/0000-0002-0471-9480
+  - - ResearchGate
+    - http://www.researchgate.net/profile/Adam_Tomasovych
+  - - twitter
+    - https://twitter.com/atomasovych
+  - - web
+    - http://www.geol.sav.sk/tomasovych/
+  - - web 1
+    - http://www.geol.sav.sk/tomasovych/
+  - - web 2
+    - http://www.geo.sav.sk/en/staff/adam-tomasovych-en/
+  - - "\u017Eivotopis"
+    - http://www.geol.sav.sk/tomasovych/curriculum%20vitae.pdf
+  name: "Adam Toma\u0161ov\xFDch"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=7Zkz-9MAAAAJ
+  sex: "mu\u017E"
+  year: 1978
 - affiliation: King Abdullah University of Science and Technology (KAUST)
   affiliationurl: King_Abdullah_University_of_Science_and_Technology__KAUST_
   cited_by:
@@ -6328,7 +6328,7 @@
   - - web 2
     - https://www.sav.sk/index.php?lang=en&doc=user-org-user&user_no=2990
   name: "Marcel Z\xE1mock\xFD"
-  position: "v\xFDskumn\xFD pracovn\xEDk"
-  positionurl: vyskumny_pracovnik
+  position: vedec
+  positionurl: vedec
   scholar: https://scholar.google.com/citations?user=pT4T7F4AAAAJ&hl=sk
   year: ''

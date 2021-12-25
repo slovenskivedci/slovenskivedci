@@ -10,22 +10,27 @@ cited_by:
     all: 8563
     since_2016: 6147
 - h_index:
-    all: 52
+    all: 54
     since_2016: 46
 - i10_index:
     all: 140
     since_2016: 128
 
+last_update: '2021-12-25'
+
+
 city: "Aachen"
 country: "Nemecko"
 field: "patológia"
-hindex: 52
+hindex: 54
 
-img: Peter_Boor.jpeg
-last_update: '2021-09-16'
+
+
 links:
   web: https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/
   životopis: http://www.imbm.sk/wp-content/uploads/2018/01/cv-english-pb.pdf
 
 position: docent
 scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
+
+img: Peter_Boor.jpeg

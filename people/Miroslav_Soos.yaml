@@ -5,10 +5,10 @@ affiliation: "Vysoká škola chemicko-technologická"
 
 cited_by:
 - citations:
-    all: 2719
+    all: 2873
     since_2016: 1813
 - h_index:
-    all: 30
+    all: 32
     since_2016: 26
 - i10_index:
     all: 67
@@ -17,9 +17,9 @@ cited_by:
 city: "Praha"
 country: "Česko"
 field: "chemické inžinierstvo"
-hindex: 30
+hindex: 32
 
-last_update: '2021-09-16'
+last_update: '2021-12-25'
 
 links:
   LinkedIn: https://www.linkedin.com/in/miroslav-soos-184a7b8/?originalSubdomain=cz

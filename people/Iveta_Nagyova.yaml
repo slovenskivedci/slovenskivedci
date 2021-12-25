@@ -1,10 +1,10 @@
 name: "Iveta Nagyová"
 last: "Nagyová"
-position: "vedecká výskumníčka"
+position: "vedkyňa"
 scholar: https://scholar.google.com/citations?user=A2l-bV8AAAAJ&amp;hl=en
 year: ''
 
-affiliation: "Univerzita PJ Šafárika"
+affiliation: "Univerzita Pavla Jozefa Šafárika"
 cited_by:
 - citations:
     all: 2921
@@ -18,8 +18,8 @@ cited_by:
 city: "Košice"
 country: "Slovensko"
 field: "behaviorálna medicína"
-hindex: 34
+hindex: 35
 img: Iveta_Nagyova.jpg
-last_update: '2021-09-16'
+last_update: '2021-12-25'
 links:
   web: https://mc3.sk/autor/iveta-nagyova/
