@@ -6354,8 +6354,8 @@
   scholar: https://scholar.google.com/citations?user=J2qs3RMAAAAJ&hl=en
   sex: "mu\u017E"
   year: ''
-- affiliation: Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)
-  affiliationurl: Mohamed_Bin_Zayed_University_of_Artificial_Intelligence__MBZUAI_
+- affiliation: Mohamed Bin Zayed University of Artificial Intelligence
+  affiliationurl: Mohamed_Bin_Zayed_University_of_Artificial_Intelligence
   cited_by:
   - citations:
       all: 5114

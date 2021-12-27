@@ -17,7 +17,7 @@
 		}
 	  function updateSelectedNumber(){
 		  var numItems = $('.showed').length;
-		  $("#scientists-count").html("POČET VEDCOV: " + numItems + " / 194 ");
+		  $("#scientists-count").html("POČET VEDCOV: " + numItems + " ");
       }
 
 
@@ -86,7 +86,7 @@
 			field = id.split(":")[6];
 			$("#filter-field").html(field);
 			$(".toggle-field-"+field).addClass("selected");
-			$(".toggle-field-"+field).css("background-color", "#FFF59E");
+			$(".toggle-field-"+field).css("background-color", "yellow");
 		}
 		filter();
 
@@ -103,7 +103,7 @@
 			position = id.split(":")[5];
 			$("#filter-position").html(position);
 			$(".toggle-position-"+position).addClass("selected");
-			$(".toggle-position-"+position).css("background-color", "#FFF59E");
+			$(".toggle-position-"+position).css("background-color", "yellow");
 		}
 		filter();
 	  });
@@ -119,7 +119,7 @@
 			affiliation = id.split(":")[3];
 			$("#filter-affiliation").html(affiliation);
 			$(".toggle-affiliation-"+affiliation).addClass("selected");
-			$(".toggle-affiliation-"+affiliation).css("background-color", "#FFF59E");
+			$(".toggle-affiliation-"+affiliation).css("background-color", "yellow");
 		}
 		filter();
 	  });
@@ -136,7 +136,7 @@
 			country = id.split(":")[2];
 			$("#filter-country").html(country);
 			$(".toggle-country-"+country).addClass("selected");
-			$(".toggle-country-"+country).css("background-color", "#FFF59E");
+			$(".toggle-country-"+country).css("background-color", "yellow");
 		}
 		filter();
 	  });
@@ -152,7 +152,7 @@
 			city = id.split(":")[4];
 			$("#filter-city").html(city);
 			$(".toggle-city-"+city).addClass("selected");
-			$(".toggle-city-"+city).css("background-color", "#FFF59E");
+			$(".toggle-city-"+city).css("background-color", "yellow");
 		}
 		filter();
 	  });
@@ -176,7 +176,7 @@
 			$(".entry").hide();
 			$(".city-"+city).fadeIn();
 			$(".toggle-city-"+city).addClass("selected");
-			$(".toggle-city-"+city).css("background-color", "#FFF59E");
+			$(".toggle-city-"+city).css("background-color", "yellow");
 		}
 	  });
 	  */
@@ -234,50 +234,27 @@
 <header id="header" class="header-section wf-section">
   <div class="w-container">
     <a aria-current="page" class="main-title w--current">
-		Slovenskí vedci s vysokým Hirschovým indexom</a>
+		Slovenskí vedci s vysokým Hirschovým indexom </a>
     <p class="main-subheading">
   	Rebríček je zostavený podľa <a href="https://sk.wikipedia.org/wiki/Hirschov_index">Hirschovho indexu</a> tak, ako je vypočítaný v <a href="https://scholar.google.sk/?hl=sk">Študovni Google.</a>
     V rebríčku sú zahrnutí iba slovenskí vedci a vedkyne s kontom v Študovni Google a s h-indexom 30 alebo vyšším. Ak viete o niekom, kto v zozname chýba, alebo
     máte akékoľvek doplňujúce informácie, <a href="https://richtarik.org">napíšte mi email.</a>
   	</p>
 
-  <br>
-
-<!-- <p style="background: grey">
--->
-  <p>
-
-	  <b><span id="scientists-count"></span></b>
-
-    <div id="filter" style="display:none">
-		    <span id="filter-field"></span>
-		    <span id="filter-position"></span>
-		    <span id="filter-affiliation"></span>
-		    <span id="filter-country"></span>
-		    <span id="filter-city"></span>
-	  </div>
-
-
-	</p>
-
-	<br/>
 	<div data-delay="200" data-hover="false" data-w-id="6584a19a-5691-0e50-f8da-d2bf173f6d2b" class="dropdown-wrapper w-dropdown">
 
-		<div class="dropdown-menu w-clearfix w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
-			<!--<img src="./Blog Home_files/61420b7147224db5504a8887_menu.svg" width="12" height="12" alt="" class="menu-icon">
-	     -->
-	<a href="/"><div class="menu-text">Domov</div></a>
+  <div class="dropdown-menu w-clearfix w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
+        <a href="/"><div class="menu-text">Domov</div></a>
+  </div>
 
+  <div class="dropdown-menu w-clearfix w-dropdown-toggle"   role="button" tabindex="0">
+    <a href="/zoznam.html"><div class="menu-text">Zoznam</div></a>
+  </div>
 
-	</div>
+  <div class="dropdown-menu w-clearfix w-dropdown-toggle"   role="button" tabindex="0">
+    <a href="/statistiky.html"><div class="menu-text">Štatistiky</div></a>
+  </div>
 
-	<div class="dropdown-menu w-clearfix w-dropdown-toggle"   role="button" tabindex="0">
-
-
- 	<a href="/page.html"><div class="menu-text">Štatistiky</div></a>
-
-
-	</div>
 
 
 	</div>
