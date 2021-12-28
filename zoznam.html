@@ -3,7 +3,52 @@ layout: lay-zoznam
 title: Zoznam
 ---
 
+<div class="post-wrapper-new" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+
+	<div class="row container flex-direction">
+
+
+		<div class="w-col w-col-1 column">
+
+			h-index
+
+		</div>
+
+		<div class="w-col w-col-2  column">
+
+			foto
+
+		</div>
+
+		<div class="w-col w-col-4  column">
+
+			<b>
+			Meno
+			</b>
+			<br>
+			(rok narodenia)
+
+		</div>
+
+
+
+
+
+
+		<div class="w-col w-col-5  column">
+    informácie
+		</div>
+
+
+
+	</div>
+			</div>
+
+
+
 {% for item in site.data.all %}
+
+
 
 			<div role="list" class="w-dyn-items showed entry country-{{ item.countryurl }}  field-{{ item.fieldurl }}  position-{{ item.positionurl }}  city-{{ item.cityurl }} affiliation-{{ item.affiliationurl }} sex-{{ item.sexurl }}" id="{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}:{{ item.positionurl }}:{{ item.fieldurl }}:{{ item.sexurl }}">
 
@@ -12,28 +57,47 @@ title: Zoznam
 
 					<div class="post-wrapper-new" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
 
-							<img src="/images/{{ item.img }}" width="5%" role="img" />
+						<div class="row container flex-direction">
 
 
+							<div class="w-col w-col-1 column">
 
-								<b>
+								<a href="{{ item.scholar }}" target="_blank">{{ item.hindex }}</a>
+
+							</div>
+
+							<div class="w-col w-col-2  column">
+
+								<img src="/images/{{ item.img }}" width="75%" role="img" />
+
+
+							</div>
+
+							<div class="w-col w-col-4  column">
+
+                <b>
 								{{ item.name }}
-								</b>
-
-
+ 								</b>
 
 								{% if item.year.size > 0 %}
-							 	({{ item.year }})
+								<br>
+								({{ item.year }})
 								{% endif %}
 
-								<a href="{{ item.scholar }}" target="_blank">h-index: {{ item.hindex }}</a>
+							</div>
 
+
+
+
+
+
+							<div class="w-col w-col-5  column">
 
 								<a class="button-round-small w-button toggle toggle-sex toggle-sex-{{ item.sexurl }} " id="sex:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}:{{ item.positionurl }}:{{ item.fieldurl }}:{{ item.sexurl }}">{{ item.sex }}</a>
 
 								<a class="button-round-small w-button toggle toggle-position toggle-position-{{ item.positionurl }} " id="position:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}:{{ item.positionurl }}:{{ item.fieldurl }}:{{ item.sexurl }}">{{ item.position }}</a>
 
-								<a class="button-round-small w-button toggle toggle-field toggle-field-{{ item.fieldurl }} " id="field:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}:{{ item.positionurl }}:{{ item.fieldurl }}:{{ item.sexurl }}">{{ item.field }}</a>
+								<a class="button-round-small w-button toggle toggle-field toggle-field-{{ item.fieldurl }} " id="field:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}:{{ item.positionurl }}:{{ item.fieldurl }}:{{ item.sexurl }}">{{ item.field }}</a> <br>
 
 								<a class="button-round-small w-button toggle toggle-affiliation toggle-affiliation-{{ item.affiliationurl }} " id="affiliation:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}:{{ item.positionurl }}:{{ item.fieldurl }}:{{ item.sexurl }}">{{ item.affiliation }}</a>
 
@@ -41,7 +105,12 @@ title: Zoznam
 
 								<a class="button-round-small w-button toggle toggle-country  toggle-country-{{ item.countryurl }} " id="country:{{ item.last }}:{{ item.countryurl }}:{{ item.affiliationurl }}:{{ item.cityurl }}:{{ item.positionurl }}:{{ item.fieldurl }}:{{ item.sexurl }}">{{ item.country }}</a>
 
+								</div>
+
+
+
 						</div>
+								</div>
 
 			</div>
 

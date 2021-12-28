@@ -1357,8 +1357,8 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
-- affiliation: King Abdullah University of Science and Technology (KAUST)
-  affiliationurl: King_Abdullah_University_of_Science_and_Technology__KAUST_
+- affiliation: KAUST
+  affiliationurl: KAUST
   cited_by:
   - citations:
       all: 10800
@@ -6544,8 +6544,8 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: Mohamed Bin Zayed University of Artificial Intelligence
-  affiliationurl: Mohamed_Bin_Zayed_University_of_Artificial_Intelligence
+- affiliation: MBZUAI
+  affiliationurl: MBZUAI
   cited_by:
   - citations:
       all: 5114
@@ -6656,8 +6656,8 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1978
-- affiliation: King Abdullah University of Science and Technology (KAUST)
-  affiliationurl: King_Abdullah_University_of_Science_and_Technology__KAUST_
+- affiliation: KAUST
+  affiliationurl: KAUST
   cited_by:
   - citations:
       all: 3495
