@@ -29,6 +29,7 @@
 		 var country = $("#filter-country").html();
 		 var affiliation = $("#filter-affiliation").html();
 		 var city = $("#filter-city").html();
+     var sex = $("#filter-sex").html();
 
 		//  alert(field+" "+position);
 
@@ -53,10 +54,13 @@
 			  if (affiliation!="" &&   !$(this).hasClass("affiliation-"+affiliation)  ){
 				  keep=false;
 			  }
-
+        if (sex!="" &&   !$(this).hasClass("sex-"+sex)  ){
+				  keep=false;
+			  }
 
 			  return keep==false;
 			});
+
 		  //$(".entry").fideIn();
 		  $(".entry").addClass("showed");
 		  toHide.removeClass("showed");
@@ -157,7 +161,21 @@
 		filter();
 	  });
 
+    $(".toggle-sex").click(function(){
+		if($(this).hasClass("selected")){
+			$("#filter-sex").html("");
+			$(".toggle-sex").css("background-color", "white");
+			$(".toggle-sex").removeClass("selected");
 
+        }else{
+			var id = $(this).attr('id');
+			sex = id.split(":")[7];
+			$("#filter-sex").html(sex);
+			$(".toggle-sex-"+sex).addClass("selected");
+			$(".toggle-sex-"+sex).css("background-color", "#FFF59E");
+		}
+		filter();
+	  });
 
 
 
@@ -255,6 +273,7 @@ width: 100%
 		    <span id="filter-affiliation"></span>
 		    <span id="filter-country"></span>
 		    <span id="filter-city"></span>
+        <span id="filter-sex"></span>
 	  </div>
 
 
