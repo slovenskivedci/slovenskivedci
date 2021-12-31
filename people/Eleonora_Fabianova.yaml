@@ -1,0 +1,34 @@
+name: "Eleonóra Fabiánová"
+last: "Fabiánová"
+year: 1953
+sex: "žena"
+
+position: "vedkyňa"
+field: "verejné zdravotníctvo"
+affiliation: "Regionálny úrad verejného zdravotníctva"
+city: "Banská Bystrica"
+country: "Slovensko"
+
+hindex: 66
+scholar: https://scholar.google.co.uk/citations?user=Ey9s5FcAAAAJ&hl=en&oi=ao
+
+cited_by:
+- citations:
+    all: 17260
+    since_2016: 8588
+- h_index:
+    all: 66
+    since_2016: 50
+- i10_index:
+    all: 126
+    since_2016: 117
+
+last_update: '2021-12-31'
+
+links:
+  wikipédia: https://sk.wikipedia.org/wiki/Eleonóra_Fabiánová
+  životopis: https://www.vzbb.sk/sk/historia/fabianova_eleonora_zivotopis.pdf
+  LinkedIn: https://www.linkedin.com/in/eleonora-fabianova-09818942/?originalSubdomain=sk
+
+
+img: Eleonora_Fabianova.jpg

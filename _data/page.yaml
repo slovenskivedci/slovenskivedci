@@ -32,9 +32,11 @@ affiliation:
   National Institute of Allergy and Infectious Diseases: 1
   National Research Council: 1
   New York University: 1
+  North Carolina State University: 2
   Oregon State University: 1
   Qatar University: 2
   RWTH Aachen: 1
+  "Region\xE1lny \xFArad verejn\xE9ho zdravotn\xEDctva": 1
   Research and Development Services: 1
   Simon Fraser University: 2
   "Slovensk\xE1 akad\xE9mia vied": 31
@@ -64,7 +66,6 @@ affiliation:
   University of Missouri: 2
   University of Natural Resources and Life Sciences: 2
   University of New South Wales: 1
-  University of North Carolina: 2
   University of Notre Dame: 1
   University of Ottawa: 1
   University of Oxford: 2
@@ -103,7 +104,7 @@ countries:
   "Rak\xFAsko": 9
   "Rusk\xE1 feder\xE1cia": 1
   "Saudsk\xE1 Ar\xE1bia": 2
-  Slovensko: 93
+  Slovensko: 94
   "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
   USA: 28
   "Ve\u013Ek\xE1 Brit\xE1nia": 7
@@ -181,6 +182,7 @@ hindex:
 - 35
 - 30
 - 31
+- 66
 - 60
 - 30
 - 34
@@ -307,4 +309,4 @@ hindex:
 - 42
 - 35
 man: 168
-woman: 26
+woman: 27
