@@ -469,8 +469,8 @@
   - - "\u017Eivotopis"
     - https://www.vzbb.sk/sk/historia/fabianova_eleonora_zivotopis.pdf
   name: "Eleon\xF3ra Fabi\xE1nov\xE1"
-  position: "vedky\u0148a"
-  positionurl: vedkyna
+  position: docentka
+  positionurl: docentka
   scholar: https://scholar.google.co.uk/citations?user=Ey9s5FcAAAAJ&hl=en&oi=ao
   sex: "\u017Eena"
   sexurl: zena
@@ -4955,8 +4955,8 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1955
-- affiliation: "Slovesk\xE1 akad\xE9mia vied"
-  affiliationurl: Sloveska_akademia_vied
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -5631,8 +5631,8 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: "Slovesk\xE1 akad\xE9mia vied"
-  affiliationurl: Sloveska_akademia_vied
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
       all: 3046
