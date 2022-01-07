@@ -1,4 +1,19 @@
+name: "Jozef Šamaj"
+last: "Šamaj"
+
+
+year: 1964
+sex: "muž"
+
+position: "profesor"
+field: "botanika"
 affiliation: "Univerzita Palackého v Olomouci"
+city: "Olomouc"
+country: "Česko"
+
+hindex: 58
+scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
+
 cited_by:
 - citations:
     all: 10511
@@ -9,20 +24,17 @@ cited_by:
 - i10_index:
     all: 154
     since_2016: 108
-city: "Olomouc"
-country: "Česko"
-field: "botanika"
-hindex: 58
-img: Jozef_Samaj.jpg
+
 last_update: '2021-09-16'
+
 links:
   web: http://cr-hana.upol.cz/cellbiol/
   životopis: "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160\
     amaj.pdf"
+  lab: https://twitter.com/Samaj_lab
+  ResearchGate: https://www.researchgate.net/profile/Jozef-Samaj
+  loop: https://loop.frontiersin.org/people/26551/overview
+  learned.sk: https://www.learned.sk/clenovia/riadni-clenovia/
 
-name: "Jozef Šamaj"
-last: "Šamaj"
-position: "profesor"
-scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
-year: 1964
-sex: "muž"
+
+img: Jozef_Samaj.jpg
