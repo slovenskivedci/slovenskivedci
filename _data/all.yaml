@@ -15,13 +15,12 @@
     - https://cds.cern.ch/search?f=author&p=Bartos%2C%20Pavol&ln=en
   - - inspirehep
     - https://inspirehep.net/authors/1051572
-  - - scholar
-    - https://scholar.google.com/citations?hl=en&user=pCW77HEAAAAJ
   - - web
     - https://uniba.sk/ludia/?tx_unibausers_pi1=Array&cHash=1e2f0cf1f02d8841b8d704c04ba8059b&p3::omega-page=27
   name: "Pavol Barto\u0161"
   position: "odborn\xFD asistent"
   positionurl: odborny_asistent
+  scholar: https://scholar.google.com/citations?hl=en&user=pCW77HEAAAAJ
   sex: "mu\u017E"
   sexurl: muz
   year: null
@@ -675,6 +674,14 @@
   last: Samaj
   last_update: '2021-09-16'
   links:
+  - - lab
+    - https://twitter.com/Samaj_lab
+  - - learned.sk
+    - https://www.learned.sk/clenovia/riadni-clenovia/
+  - - loop
+    - https://loop.frontiersin.org/people/26551/overview
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jozef-Samaj
   - - web
     - http://cr-hana.upol.cz/cellbiol/
   - - "\u017Eivotopis"
@@ -2839,8 +2846,12 @@
   last: Molnar
   last_update: '2021-12-25'
   links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-molnar-eth/
   - - orcid
     - https://orcid.org/0000-0001-6437-4931
+  - - publons
+    - https://publons.com/researcher/2642895/peter-molnar/
   - - ResearchGate
     - https://www.researchgate.net/profile/Peter_Molnar11
   - - web
@@ -2851,7 +2862,7 @@
   scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
   sex: "mu\u017E"
   sexurl: muz
-  year: 1982
+  year: 1967
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
