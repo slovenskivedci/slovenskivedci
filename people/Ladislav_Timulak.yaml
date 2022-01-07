@@ -1,16 +1,16 @@
 name: "Ladislav Timuľák"
 last: "Timuľák"
 
-year: ''
+year: 1971
 sex: "muž"
 
-position: "docent"
+position: "profesor"
 field: "psychológia"
 affiliation: "Trinity College Dublin"
 city: "Dublin"
 country: "Írsko"
 
-hindex: 32
+hindex: 33
 scholar: https://scholar.google.com/citations?user=NoS4378AAAAJ&hl=en&oi=sra
 
 cited_by:
@@ -18,16 +18,18 @@ cited_by:
     all: 4019
     since_2016: 3092
 - h_index:
-    all: 32
+    all: 33
     since_2016: 29
 - i10_index:
     all: 58
     since_2016: 54
 
-last_update: '2021-11-20'
+last_update: '2022-01-07'
 
 links:
   web 1: https://people.tcd.ie/Profile?Username=timulakl
   web 2: https://www.tcd.ie/research/profiles/?profile=timulakl
+  group 1: https://www.ementalhealthgroup.com
+  group 2: https://emotionfocusedtherapygroup.ie
 
 img: Ladislav_Timulak.jpg
