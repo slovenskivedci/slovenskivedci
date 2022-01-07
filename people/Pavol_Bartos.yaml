@@ -1,0 +1,25 @@
+name: "Pavol Bartoš"
+last: "Bartoš"
+year:
+sex: "muž"
+
+field: "subjadrová fyzika"
+
+position: "odborný asistent"
+affiliation: "Univerzita Komenského"
+city: "Bratislava"
+country: "Slovensko"
+
+
+hindex: 171
+
+last_update: '2022-01-07'
+
+
+links:
+  web: https://uniba.sk/ludia/?tx_unibausers_pi1=Array&cHash=1e2f0cf1f02d8841b8d704c04ba8059b&p3::omega-page=27
+  scholar: https://scholar.google.com/citations?hl=en&user=pCW77HEAAAAJ
+  inspirehep: https://inspirehep.net/authors/1051572
+  CERN: https://cds.cern.ch/search?f=author&p=Bartos%2C%20Pavol&ln=en
+
+img: Pavol_Bartos.jpg

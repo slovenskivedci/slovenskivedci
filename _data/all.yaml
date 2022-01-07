@@ -4,8 +4,35 @@
   cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
-  field: "jadrov\xE1 fyzika"
-  fieldurl: jadrova_fyzika
+  field: "subjadrov\xE1 fyzika"
+  fieldurl: subjadrova_fyzika
+  hindex: 171
+  img: Pavol_Bartos.jpg
+  last: Bartos
+  last_update: '2022-01-07'
+  links:
+  - - CERN
+    - https://cds.cern.ch/search?f=author&p=Bartos%2C%20Pavol&ln=en
+  - - inspirehep
+    - https://inspirehep.net/authors/1051572
+  - - scholar
+    - https://scholar.google.com/citations?hl=en&user=pCW77HEAAAAJ
+  - - web
+    - https://uniba.sk/ludia/?tx_unibausers_pi1=Array&cHash=1e2f0cf1f02d8841b8d704c04ba8059b&p3::omega-page=27
+  name: "Pavol Barto\u0161"
+  position: "odborn\xFD asistent"
+  positionurl: odborny_asistent
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "subjadrov\xE1 fyzika"
+  fieldurl: subjadrova_fyzika
   hindex: 126
   img: Branislav_Sitar.jpg
   last: Sitar
@@ -721,8 +748,8 @@
   cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
-  field: fyzika
-  fieldurl: fyzika
+  field: "subjadrov\xE1 fyzika"
+  fieldurl: subjadrova_fyzika
   hindex: 57
   img: Vladimir_Cerny.jpg
   last: Cerny
@@ -4189,7 +4216,8 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: "Univerzita Komensk\xE9ho"
+- ResearchGate: https://www.researchgate.net/profile/Stanislav-Antalic
+  affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
@@ -4216,7 +4244,7 @@
     - http://antalic.dnp.fmph.uniba.sk/index.php
   - - "\u017Eivotopis"
     - http://antalic.dnp.fmph.uniba.sk/cv.php
-  name: "Stanislav Antali\u010D"
+  name: Stanislav Antalic
   position: docent
   positionurl: docent
   scholar: https://scholar.google.com/citations?user=h08MR_wAAAAJ&amp;hl=en
@@ -5968,8 +5996,8 @@
   cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
-  field: fyzika
-  fieldurl: fyzika
+  field: "fyzika plazmy a environment\xE1lna fyzika"
+  fieldurl: fyzika_plazmy_a_environmentalna_fyzika
   hindex: 31
   img: Zdenko_Machala.jpg
   last: Machala
@@ -5995,7 +6023,7 @@
   scholar: https://scholar.google.sk/citations?hl=en&user=3xq6b60AAAAJ
   sex: "mu\u017E"
   sexurl: muz
-  year: ''
+  year: 1974
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
   affiliationurl: Technicka_univerzita_vo_Zvolene
   cited_by:
