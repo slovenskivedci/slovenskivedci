@@ -18,7 +18,11 @@
     
 	  function updateSelectedNumber(){
 		  var numItems = $('.showed').length;
-		  $("#scientists-count").html("POČET VEDCOV: " + numItems + " / 196 ");
+		  
+		  
+		   
+		  
+		  $("#scientists-count").html("POČET VEDCOV: " + numItems + " /  {{ site.data.all.size }} ");
       }
 
 
