@@ -9,7 +9,7 @@ affiliation: "Žilinská univerzita"
 city: "Žilina"
 country: "Slovensko"
 
-hindex: 30
+hindex: 31
 scholar: https://scholar.google.com/citations?user=zsFNpOgAAAAJ&hl=en
 
 cited_by:
@@ -17,7 +17,7 @@ cited_by:
     all: 2974
     since_2016: 2661
 - h_index:
-    all: 30
+    all: 31
     since_2016: 27
 - i10_index:
     all: 64
@@ -25,7 +25,7 @@ cited_by:
 
 img: Tomas_Kliestik.jpg
 
-last_update: '2021-12-09'
+last_update: '2022-01-08'
 
 links:
   publons: https://publons.com/researcher/2335189/tomas-kliestik/
