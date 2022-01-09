@@ -773,6 +773,38 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1952
+- affiliation: Norwegian Institute for Air Research
+  affiliationurl: Norwegian_Institute_for_Air_Research
+  city: Kjeller
+  cityurl: Kjeller
+  country: "N\xF3rsko"
+  countryurl: Norsko
+  field: "toxikol\xF3gia"
+  fieldurl: toxikologia
+  hindex: 57
+  img: Maria_Dusinska.jpg
+  last: Dusinska
+  last_update: '2022-01-09'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/110414/overview
+  - - marfan
+    - http://marfan.sk
+  - - orcid
+    - https://orcid.org/0000-0003-1358-1652
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Maria-Dusinska
+  - - web
+    - https://www.nilu.com/employee/maria-dusinska/
+  - - "\u017Eivotopis"
+    - https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/cv_sccs_dusinska_en.pdf
+  name: "M\xE1ria Du\u0161insk\xE1"
+  position: "seni\xF3rna vedky\u0148a"
+  positionurl: seniorna_vedkyna
+  scholar: https://scholar.google.com/citations?user=tF7f4yEAAAAJ&hl=en
+  sex: "\u017Eena"
+  sexurl: zena
+  year: null
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava

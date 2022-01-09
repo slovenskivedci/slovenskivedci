@@ -34,6 +34,7 @@ affiliation:
   National Research Council: 1
   New York University: 1
   North Carolina State University: 2
+  Norwegian Institute for Air Research: 1
   Oregon State University: 1
   Qatar University: 2
   RWTH Aachen: 1
@@ -101,6 +102,7 @@ countries:
   Kanada: 10
   Katar: 2
   Nemecko: 6
+  "N\xF3rsko": 1
   "Rak\xFAsko": 9
   "Rusk\xE1 feder\xE1cia": 1
   "Saudsk\xE1 Ar\xE1bia": 2
@@ -284,6 +286,7 @@ hindex:
 - 36
 - 52
 - 31
+- 57
 - 33
 - 30
 - 30
@@ -313,4 +316,4 @@ hindex:
 - 42
 - 35
 man: 172
-woman: 27
+woman: 28
