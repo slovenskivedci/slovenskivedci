@@ -2763,8 +2763,8 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: Hanover Medical University
-  affiliationurl: Hanover_Medical_University
+- affiliation: Hannover Medical School
+  affiliationurl: Hannover_Medical_School
   cited_by:
   - citations:
       all: 7271
@@ -5883,6 +5883,48 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1966
+- affiliation: "\u017Dilinsk\xE1 univerzita"
+  affiliationurl: Zilinska_univerzita
+  cited_by:
+  - citations:
+      all: 2974
+      since_2016: 2661
+  - h_index:
+      all: 31
+      since_2016: 27
+  - i10_index:
+      all: 64
+      since_2016: 57
+  city: "\u017Dilina"
+  cityurl: Zilina
+  country: Slovensko
+  countryurl: Slovensko
+  field: "finan\u010Dn\xFD mana\u017Ement"
+  fieldurl: financny_manazment
+  hindex: 31
+  img: Tomas_Kliestik.jpg
+  last: Kliestik
+  last_update: '2022-01-08'
+  links:
+  - - econpapers
+    - https://econpapers.repec.org/RAS/pkl192.htm
+  - - orcid
+    - https://orcid.org/0000-0002-3815-5409
+  - - publons
+    - https://publons.com/researcher/2335189/tomas-kliestik/
+  - - repec
+    - https://ideas.repec.org/e/pkl192.html
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Tomas-Kliestik
+  - - "\u017Eivotopis"
+    - https://www.uniza.sk/document/hab_in/529885c867b31.pdf
+  name: "Tom\xE1\u0161 Klie\u0161tik"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=zsFNpOgAAAAJ&hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1972
 - affiliation: "Universit\xE9 Aix-Marseille"
   affiliationurl: Universite_Aix-Marseille
   cited_by:
@@ -6134,6 +6176,8 @@
   last: Svitel
   last_update: '2021-11-21'
   links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/juraj-george-svitel-1211203/
   - - ResearchGate
     - https://www.researchgate.net/profile/George-Svitel
   - - Semantic Scholar
@@ -6279,48 +6323,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1977
-- affiliation: "\u017Dilinsk\xE1 univerzita"
-  affiliationurl: Zilinska_univerzita
-  cited_by:
-  - citations:
-      all: 2974
-      since_2016: 2661
-  - h_index:
-      all: 30
-      since_2016: 27
-  - i10_index:
-      all: 64
-      since_2016: 57
-  city: "\u017Dilina"
-  cityurl: Zilina
-  country: Slovensko
-  countryurl: Slovensko
-  field: "finan\u010Dn\xFD mana\u017Ement"
-  fieldurl: financny_manazment
-  hindex: 30
-  img: Tomas_Kliestik.jpg
-  last: Kliestik
-  last_update: '2021-12-09'
-  links:
-  - - econpapers
-    - https://econpapers.repec.org/RAS/pkl192.htm
-  - - orcid
-    - https://orcid.org/0000-0002-3815-5409
-  - - publons
-    - https://publons.com/researcher/2335189/tomas-kliestik/
-  - - repec
-    - https://ideas.repec.org/e/pkl192.html
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Tomas-Kliestik
-  - - "\u017Eivotopis"
-    - https://www.uniza.sk/document/hab_in/529885c867b31.pdf
-  name: "Tom\xE1\u0161 Klie\u0161tik"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=zsFNpOgAAAAJ&hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1972
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
