@@ -1321,6 +1321,40 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1959
+- affiliation: Carleton University
+  affiliationurl: Carleton_University
+  city: Ottawa
+  cityurl: Ottawa
+  country: Canada
+  countryurl: Canada
+  field: "synt\xE9za prote\xEDnov"
+  fieldurl: synteza_proteinov
+  hindex: 49
+  img: Martin_Holcik.jpg
+  last: Holcik
+  last_update: '2022-01-09'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/martin-holcik-69896210/?originalSubdomain=ca
+  - - loop
+    - https://loop.frontiersin.org/people/33499/bio
+  - - publons
+    - https://publons.com/researcher/2891037/martin-holcik/
+  - - PubMed
+    - https://pubmed.ncbi.nlm.nih.gov/?term=holcik+m
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin-Holcik
+  - - twitter
+    - https://twitter.com/mholcik
+  - - web
+    - https://carleton.ca/healthsciences/people/martin-holcik/
+  name: "Martin Hol\u010D\xEDk"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=nluwC9EAAAAJ&hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
 - affiliation: University of California
   affiliationurl: University_of_California
   city: San Diego

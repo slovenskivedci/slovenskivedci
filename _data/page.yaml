@@ -4,6 +4,7 @@ affiliation:
   Apple: 1
   Brookhaven National Laboratory: 1
   CSIRO: 1
+  Carleton University: 1
   Central European University: 1
   Curtin University: 1
   Delft University of Technology: 2
@@ -94,6 +95,7 @@ affiliation:
   "\u017Dilinsk\xE1 univerzita": 1
 countries:
   "Austr\xE1lia": 9
+  Canada: 1
   "D\xE1nsko": 1
   "Franc\xFAzsko": 1
   Holandsko: 4
@@ -146,6 +148,7 @@ hindex:
 - 88
 - 40
 - 42
+- 49
 - 33
 - 79
 - 31
@@ -310,5 +313,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 171
+man: 172
 woman: 27
