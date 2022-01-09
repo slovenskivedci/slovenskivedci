@@ -79,7 +79,7 @@ affiliation:
   University of Washington: 1
   University of Zurich: 1
   "Universit\xE9 Aix-Marseille": 1
-  Univerzita Karlova: 1
+  Univerzita Karlova: 2
   "Univerzita Komensk\xE9ho": 34
   "Univerzita Kon\u0161tant\xEDna Filozofa": 1
   "Univerzita Palack\xE9ho v Olomouci": 3
@@ -108,7 +108,7 @@ countries:
   USA: 28
   "Ve\u013Ek\xE1 Brit\xE1nia": 7
   "\xCDrsko": 1
-  "\u010Cesko": 14
+  "\u010Cesko": 15
   "\u0160panielsko": 1
   "\u0160vaj\u010Diarsko": 4
 hindex:
@@ -129,6 +129,7 @@ hindex:
 - 44
 - 40
 - 30
+- 37
 - 38
 - 58
 - 34
@@ -309,5 +310,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 170
+man: 171
 woman: 27

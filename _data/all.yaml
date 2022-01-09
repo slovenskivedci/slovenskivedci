@@ -3489,6 +3489,42 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1952
+- affiliation: Univerzita Karlova
+  affiliationurl: Univerzita_Karlova
+  city: Praha
+  cityurl: Praha
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "\u0161truktur\xE1lna geol\xF3gia a tektonika"
+  fieldurl: strukturalna_geologia_a_tektonika
+  hindex: 37
+  img: Ondrej_Lexa.jpg
+  last: Lexa
+  last_update: '2022-01-09'
+  links:
+  - - facebook
+    - https://www.facebook.com/lexa.ondrej
+  - - github
+    - https://github.com/ondrolexa
+  - - orcid
+    - https://orcid.org/0000-0003-4616-9154
+  - - publons
+    - https://publons.com/researcher/1317955/ondrej-lexa/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Ondrej-Lexa
+  - - twitter
+    - https://twitter.com/ondrolexa
+  - - web
+    - https://petrol.natur.cuni.cz/~ondro/
+  - - "\u017Eivotopis"
+    - https://petrol.natur.cuni.cz/~ondro/research/cv
+  name: Ondrej Lexa
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.com/citations?hl=en&user=lo8ugg0AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1972
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
   affiliationurl: Slovenska_polnohospodarska_univerzita
   cited_by:
