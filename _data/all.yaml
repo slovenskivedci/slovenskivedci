@@ -282,8 +282,10 @@
   last: Bajcsy
   last_update: '2021-12-25'
   links:
-  - - web
-    - https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.htmlhttps://people.eecs.berkeley.edu/~bajcsy/
+  - - web 1
+    - https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.html
+  - - web 2
+    - https://people.eecs.berkeley.edu/~bajcsy/
   - - "wikip\xE9dia"
     - https://en.wikipedia.org/wiki/Ruzena_Bajcsy
   - - "\u017Eivotopis"
@@ -1332,6 +1334,8 @@
   last: Marsala
   last_update: '2020-12-31'
   links:
+  - - orcid
+    - https://orcid.org/0000-0001-5048-6422
   - - ResearchGate
     - https://www.researchgate.net/profile/Martin_Marsala
   - - web
@@ -1416,8 +1420,12 @@
   links:
   - - KInIT
     - https://kinit.sk/meet-jana-kosecka-kinit-external-mentor/
-  - - web
+  - - LinkedIn
+    - https://www.linkedin.com/in/jana-kosecka-9a95801b
+  - - web 1
     - https://cs.gmu.edu/~kosecka/
+  - - web 2
+    - https://volgenau.gmu.edu/profiles/kosecka
   - - "wikip\xE9dia"
     - "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
   name: "Jana Ko\u0161eck\xE1"

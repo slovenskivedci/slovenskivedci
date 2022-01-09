@@ -1,19 +1,22 @@
 name: "Oľga Pecháňová"
 last: "Pecháňová"
-
-position: docentka
-scholar: https://scholar.google.com/citations?hl=en&amp;user=1bNNlZUAAAAJ
 year: 1962
 sex: "žena"
 
+position: docentka
+field: "biochémia"
 affiliation: "Slovenská akadémia vied"
 city: "Bratislava"
 country: "Slovensko"
-field: "biochémia"
+
+scholar: https://scholar.google.com/citations?hl=en&amp;user=1bNNlZUAAAAJ
 hindex: 43
-img: Olga_Pechanova.jpg
 last_update: '2021-12-25'
+
 links:
   osobnosti: https://www.osobnosti.sk/osobnost/olga-pechanova-654
   web: http://cem.sav.sk/index.php/en/cem/
   životopis: https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Pechanova/H13_RNDr._Pechanova_-_zivotopis.pdf
+
+
+img: Olga_Pechanova.jpg
