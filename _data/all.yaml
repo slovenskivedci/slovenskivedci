@@ -3213,6 +3213,38 @@
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
+  hindex: 38
+  img: Juraj_Bujdak.jpg
+  last: Bujdak
+  last_update: '2022-01-10'
+  links:
+  - - publons
+    - https://publons.com/researcher/3271361/juraj-bujdak/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Juraj-Bujdak
+  - - "r\xE1dio"
+    - https://www.rtvs.sk/radio/archiv/11436/1121234
+  - - web 1
+    - https://uniba.sk/ludia/bujdak3/
+  - - web 2
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1203
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/veda/docprof/PriF_UK/BUJDAK-prof/CV_Bujdak.pdf
+  name: "Juraj Bujd\xE1k"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.sk/citations?hl=en&user=WHTCo3IAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1965
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
       all: 5715
