@@ -10,22 +10,19 @@ city: "Brno"
 country: "Česko"
 
 hindex: 50
-scholar: https://scholar.google.com/citations?user=tF7f4yEAAAAJ&hl=en
+scholar: https://scholar.google.com/citations?hl=en&user=D93yu9MAAAAJ
 
 last_update: '2022-01-10'
 
 links:
-  web 1: https://www.muni.cz/en/people/239396-norbert-werner
-  web 2: https://physics.elte.hu/en/ATOM_WernerNorbert
-  web 3: https://kipac.stanford.edu/people/norbert-werner
+  web: http://hea.physics.muni.cz/people/norbert.html
   news 1: https://dennikn.sk/2032127/astrofyzik-nasa-civilizacia-je-sice-specialna-ale-pochybujem-ze-je-vo-vesmire-jedina/
   news 2: https://dennikn.sk/463866/astrofyzik-norbert-werner-presvedceny-ze-vo-vesmire-zivot-velmi-rozsireny/
   news 3: https://www.idnes.cz/brno/zpravy/norbert-werner-astrofyzik-brno-vesmir-exploze-kosmicka-pavucina.A200715_559372_brno-zpravy_krut
   news 4: https://roznavskenoviny.sk/cestnym-obcanom-roznavy-sa-stal-astrofyzik-norbert-werner/
-  youtube: https://www.youtube.com/watch?v=ZR1zPEA87p0
+  youtube: https://www.youtube.com/c/UTFAMUNI
   TEDx: https://www.tedxbratislava.sk/en/video/norbert-werner-tlcuce-srdcia-galaxii-beating-hearts-of-galaxies-2/
   orcid: https://orcid.org/0000-0003-0392-0120
-  LinkedIn: https://www.linkedin.com/in/norbert-werner-846ba813b/?originalSubdomain=hu
   životopis: https://www.upjs.sk/prirodovedecka-fakulta/absolventi/as/archiv/hostia-nw/
 
 img: Norbert_Werner.jpg
