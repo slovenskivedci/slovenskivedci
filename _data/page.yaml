@@ -22,7 +22,7 @@ affiliation:
   Karlsruhe Institute of Technology: 1
   Krembil Research Institute: 1
   MBZUAI: 1
-  Masarykova univerzita: 1
+  Masarykova univerzita: 2
   McMaster University: 1
   Medical University of Vienna: 3
   Microsoft Research: 1
@@ -111,7 +111,7 @@ countries:
   USA: 28
   "Ve\u013Ek\xE1 Brit\xE1nia": 7
   "\xCDrsko": 1
-  "\u010Cesko": 15
+  "\u010Cesko": 16
   "\u0160panielsko": 1
   "\u0160vaj\u010Diarsko": 4
 hindex:
@@ -247,6 +247,7 @@ hindex:
 - 44
 - 56
 - 34
+- 50
 - 51
 - 44
 - 36
@@ -315,5 +316,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 172
+man: 173
 woman: 28
