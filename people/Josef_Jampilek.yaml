@@ -3,18 +3,20 @@ last: "Jampílek"
 year: ''
 sex: "muž"
 
-hindex: 42
-scholar: https://scholar.google.sk/citations?user=co9rdhQAAAAJ&hl=sk&oi=sra
-
 position: "profesor"
-field: "lekárska chémia"
+field: "medicinálna chémia"
 affiliation: "Univerzita Komenského"
 city: "Bratislava"
 country: "Slovensko"
 
+hindex: 42
+scholar: https://scholar.google.sk/citations?user=co9rdhQAAAAJ&hl=sk&oi=sra
+last_update: '2021-12-25'
+
+
 img: Josef_Jampilek.jpg
 
-last_update: '2021-12-25'
+
 
 links:
   ResearchGate: https://www.researchgate.net/profile/Josef-Jampilek-2
