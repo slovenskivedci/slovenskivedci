@@ -2402,12 +2402,20 @@
   hindex: 42
   img: Ivo_Petras.jpg
   last: Petras
-  last_update: '2021-12-25'
+  last_update: '2022-01-12'
   links:
+  - - learned.sk
+    - https://www.learned.sk/prof-ing-ivo-petras-drsc/
+  - - orcid
+    - https://orcid.org/0000-0002-9250-6986
+  - - publons
+    - https://publons.com/researcher/1658399/ivo-petras/
+  - - scopus
+    - https://www.scopus.com/authid/detail.uri?authorId=23975184900
   - - web
     - http://people.tuke.sk/ivo.petras/
   - - "\u017Eivotopis"
-    - https://www.uiam.sk/~fikar/drsc/petras/Navrh_VRSTU.pdf
+    - http://people.tuke.sk/ivo.petras/CV_Petras.pdf
   name: "Ivo Petr\xE1\u0161"
   position: profesor
   positionurl: profesor
