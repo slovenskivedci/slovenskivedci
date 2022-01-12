@@ -3285,6 +3285,40 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: New York University
+  affiliationurl: New_York_University
+  city: New York
+  cityurl: New_York
+  country: USA
+  countryurl: USA
+  field: genetika rakoviny
+  fieldurl: genetika_rakoviny
+  hindex: 38
+  img: Tomas_Kirchhoff.jpg
+  last: Kirchhoff
+  last_update: '2022-01-12'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/tomas-kirchhoff-5b84b43b/
+  - - loop
+    - https://loop.frontiersin.org/people/1501978/overview
+  - - orcid
+    - https://orcid.org/0000-0002-9055-2364
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Tomas-Kirchhoff-39486254
+  - - twitter
+    - https://twitter.com/tkfeeds
+  - - web 1
+    - https://www.kirchhofflab.org/team
+  - - web 2
+    - https://med.nyu.edu/faculty/tomas-kirchhoff
+  name: "Tom\xE1\u0161 Kirchhoff"
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.com/citations?hl=en&user=RSuayLUAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
 - affiliation: Research and Development Services
   affiliationurl: Research_and_Development_Services
   cited_by:

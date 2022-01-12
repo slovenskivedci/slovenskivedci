@@ -32,7 +32,7 @@ affiliation:
   NGM Biopharmaceuticals: 1
   National Institute of Allergy and Infectious Diseases: 1
   National Research Council: 1
-  New York University: 1
+  New York University: 2
   North Carolina State University: 2
   Norwegian Institute for Air Research: 1
   Oregon State University: 1
@@ -108,7 +108,7 @@ countries:
   "Saudsk\xE1 Ar\xE1bia": 2
   Slovensko: 97
   "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
-  USA: 28
+  USA: 29
   "Ve\u013Ek\xE1 Brit\xE1nia": 7
   "\xCDrsko": 1
   "\u010Cesko": 16
@@ -195,6 +195,7 @@ hindex:
 - 69
 - 45
 - 36
+- 38
 - 47
 - 30
 - 32
@@ -317,5 +318,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 174
+man: 175
 woman: 28
