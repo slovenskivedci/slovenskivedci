@@ -10,21 +10,21 @@ affiliation: "Slovenská technická univerzita"
 city: "Bratislava"
 country: "Slovensko"
 
-hindex: 29
+hindex: 30
 scholar: https://scholar.google.com/citations?user=2ZVSiB8AAAAJ&hl=en
 
 cited_by:
 - citations:
-    all: 3433
-    since_2016: 1716
+    all: 3493
+    since_2016: 1513
 - h_index:
     all: 30
-    since_2016: 18
+    since_2016: 17
 - i10_index:
     all: 76
-    since_2016: 29
+    since_2016: 27
 
-last_update: '2021-11-24'
+last_update: '2022-01-12'
 
 links:
   orcid: https://orcid.org/0000-0002-6958-1638

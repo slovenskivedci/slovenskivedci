@@ -43,7 +43,7 @@ affiliation:
   Simon Fraser University: 2
   "Slovensk\xE1 akad\xE9mia vied": 34
   "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita": 3
-  "Slovensk\xE1 technick\xE1 univerzita": 7
+  "Slovensk\xE1 technick\xE1 univerzita": 8
   "Slovensk\xE1 zdravotn\xEDcka univerzita": 1
   Stanford University: 1
   "Technick\xE1 univerzita v Ko\u0161iciach": 4
@@ -107,7 +107,7 @@ countries:
   "Rak\xFAsko": 9
   "Rusk\xE1 feder\xE1cia": 1
   "Saudsk\xE1 Ar\xE1bia": 2
-  Slovensko: 97
+  Slovensko: 98
   "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
   USA: 29
   "Ve\u013Ek\xE1 Brit\xE1nia": 7
@@ -272,6 +272,7 @@ hindex:
 - 44
 - 30
 - 35
+- 30
 - 38
 - 48
 - 33
@@ -319,5 +320,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 175
+man: 176
 woman: 28

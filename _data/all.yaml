@@ -6549,6 +6549,46 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 3493
+      since_2016: 1513
+  - h_index:
+      all: 30
+      since_2016: 17
+  - i10_index:
+      all: 76
+      since_2016: 27
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "organick\xE1 technol\xF3gia"
+  fieldurl: organicka_technologia
+  hindex: 30
+  img: Milan_Hronec.gif
+  last: Hronec
+  last_update: '2022-01-12'
+  links:
+  - - AMiner
+    - https://www.aminer.cn/profile/milan-hronec/5405d945dabfae91d3014404
+  - - LinkedIn
+    - https://www.linkedin.com/in/milan-hronec-80624b75/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0002-6958-1638
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Milan-Hronec
+  - - web
+    - https://www.fchpt.stuba.sk/english/institutes-and-departments/institute-of-organic-chemistry-catalysis-and-petrochemistry/department-of-organic-technology/staff.html?page_id=3974
+  name: Milan Hronec
+  position: "emeritn\xFD profesor"
+  positionurl: emeritny_profesor
+  scholar: https://scholar.google.com/citations?user=2ZVSiB8AAAAJ&hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: Central European University
   affiliationurl: Central_European_University
   cited_by:
