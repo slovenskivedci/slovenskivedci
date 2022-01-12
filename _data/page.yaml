@@ -21,6 +21,7 @@ affiliation:
   KAUST: 2
   Karlsruhe Institute of Technology: 1
   Krembil Research Institute: 1
+  Lawrence Berkeley National Laboratory: 1
   MBZUAI: 1
   Masarykova univerzita: 2
   McMaster University: 1
@@ -109,7 +110,7 @@ countries:
   "Saudsk\xE1 Ar\xE1bia": 2
   Slovensko: 98
   "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
-  USA: 29
+  USA: 30
   "Ve\u013Ek\xE1 Brit\xE1nia": 7
   "\xCDrsko": 1
   "\u010Cesko": 16
@@ -282,6 +283,7 @@ hindex:
 - 36
 - 32
 - 38
+- 44
 - 54
 - 37
 - 58
@@ -320,5 +322,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 176
+man: 177
 woman: 28

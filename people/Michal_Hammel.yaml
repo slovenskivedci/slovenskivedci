@@ -1,0 +1,23 @@
+name: "Michal Hammel"
+last: "Hammel"
+year: ''
+sex: "muž"
+
+position: "vedec"
+field: "molekulárna biofyzika"
+affiliation: "Lawrence Berkeley National Laboratory"
+city: "Berkeley"
+country: "USA"
+
+hindex: 44
+scholar: https://scholar.google.com/citations?hl=en&user=ElcuTkwAAAAJ
+
+last_update: '2022-01-12'
+
+links:
+  web: https://biosciences.lbl.gov/profiles/michal-hammel-2/
+  orcid: https://orcid.org/0000-0002-5610-9289
+  ResearchGate: https://www.researchgate.net/profile/Michal-Hammel
+
+
+img: Michal_Hammel.jpg

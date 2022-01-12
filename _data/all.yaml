@@ -2009,6 +2009,32 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: Lawrence Berkeley National Laboratory
+  affiliationurl: Lawrence_Berkeley_National_Laboratory
+  city: Berkeley
+  cityurl: Berkeley
+  country: USA
+  countryurl: USA
+  field: "molekul\xE1rna biofyzika"
+  fieldurl: molekularna_biofyzika
+  hindex: 44
+  img: Michal_Hammel.jpg
+  last: Hammel
+  last_update: '2022-01-12'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-5610-9289
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Michal-Hammel
+  - - web
+    - https://biosciences.lbl.gov/profiles/michal-hammel-2/
+  name: Michal Hammel
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?hl=en&user=ElcuTkwAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
