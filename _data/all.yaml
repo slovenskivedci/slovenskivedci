@@ -1491,6 +1491,40 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Univerzita Palack\xE9ho v Olomouci"
+  affiliationurl: Univerzita_Palackeho_v_Olomouci
+  city: Olomouc
+  cityurl: Olomouc
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "onkol\xF3gia"
+  fieldurl: onkologia
+  hindex: 48
+  img: Marian_Hajduch.jpg
+  last: Hajduch
+  last_update: '2022-01-16'
+  links:
+  - - iDNES
+    - https://www.idnes.cz/onadnes/zdravi/marian-hajduch.K467490
+  - - orcid
+    - https://orcid.org/0000-0002-4834-908X
+  - - publons
+    - https://publons.com/researcher/2502000/marian-hajduch/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marian-Hajduch/31
+  - - twitter
+    - https://twitter.com/marian_hajduch?lang=en
+  - - web
+    - https://www.imtm.cz/users/mari%C3%A1n-hajd%C3%BAch
+  - - "\u017Eivotopis"
+    - https://cenamesta.cz/laureati/marian-hajduch/
+  name: "Mari\xE1n Hajd\xFAch"
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.cz/citations?user=-jBJ1_gAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1969
 - affiliation: Simon Fraser University
   affiliationurl: Simon_Fraser_University
   city: Burnaby
