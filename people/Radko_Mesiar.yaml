@@ -1,16 +1,17 @@
 name: "Radko Mesiar"
 last: "Mesiar"
 
-position: profesor
-scholar: https://scholar.google.com/citations?user=_kXpl5YAAAAJ&amp;hl=en
 year: 1951
 sex: "muž"
 
+position: profesor
+field: "aplikovaná matematika"
 affiliation: "Slovenská technická univerzita"
 city: "Bratislava"
 country: Slovensko
-field: "aplikovaná matematika"
+
 hindex: 68
+scholar: https://scholar.google.com/citations?user=_kXpl5YAAAAJ&amp;hl=en
 
 last_update: '2020-12-31'
 links:

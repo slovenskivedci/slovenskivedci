@@ -3183,7 +3183,7 @@
   name: Jozef Masarik
   position: profesor
   positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=DkqU0V4AAAAJ&amp;hl=th
+  scholar: https://scholar.google.com/citations?user=DkqU0V4AAAAJ
   sex: "mu\u017E"
   sexurl: muz
   year: 1959
@@ -6945,6 +6945,40 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: International Institute for Applied Systems Analysis
+  affiliationurl: International_Institute_for_Applied_Systems_Analysis
+  city: Laxenburg
+  cityurl: Laxenburg
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "klimatick\xE1 zmena"
+  fieldurl: klimaticka_zmena
+  hindex: 30
+  img: Peter_Rafaj.jpg
+  last: Rafaj
+  last_update: '2022-01-16'
+  links:
+  - - dblp
+    - https://dblp.org/pid/134/4516.html
+  - - "denn\xEDkN"
+    - https://e.dennikn.sk/2304346/v-pekingu-dychate-taky-znecisteny-vzduch-ako-keby-ste-vyfajcili-krabicku-denne-hovori-slovensky-vedec-ktory-publikoval-v-lancete/
+  - - iiasa
+    - https://iiasa.ac.at
+  - - publons
+    - https://publons.com/researcher/2462168/peter-rafaj/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Rafaj-2
+  - - web
+    - https://iiasa.ac.at/staff/staff.php?type=auto&visibility=visible&search=true&login=rafaj
+  - - "\u017Eivotopis"
+    - https://biography.omicsonline.org/austria/international-institute-for-applied-systems-analysis/peter-rafaj-77808
+  name: Peter Rafaj
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?hl=en&user=ooffTIwAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   cited_by:

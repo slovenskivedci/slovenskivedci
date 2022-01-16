@@ -17,6 +17,7 @@ affiliation:
   IST Austria: 1
   Indiana University Bloomington: 1
   Institute of Tropical Medicine Antwerp: 1
+  International Institute for Applied Systems Analysis: 1
   Joint Institute for Nuclear Research: 1
   KAUST: 2
   Karlsruhe Institute of Technology: 1
@@ -105,7 +106,7 @@ countries:
   Katar: 2
   Nemecko: 6
   "N\xF3rsko": 1
-  "Rak\xFAsko": 9
+  "Rak\xFAsko": 10
   "Rusk\xE1 feder\xE1cia": 1
   "Saudsk\xE1 Ar\xE1bia": 2
   Slovensko: 98
@@ -199,6 +200,7 @@ hindex:
 - 36
 - 38
 - 47
+- 30
 - 30
 - 32
 - 38
@@ -322,5 +324,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 177
+man: 178
 woman: 28
