@@ -1,0 +1,22 @@
+name: "Tomáš Dado"
+last: "Dado"
+year:
+sex: "muž"
+
+position: "postdoc"
+field: "subjadrová fyzika"
+affiliation: "Technical University Dortmund"
+city: "Dortmund"
+country: "Nemecko"
+
+hindex: 122
+scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
+
+last_update: '2022-01-17'
+
+links:
+  inspireHEP: https://inspirehep.net/authors/1346585
+  web: https://www.e4.physik.tu-dortmund.de/cms/de/AG-Kroeninger/Mitarbeiter/WiMis/Tomas-Dado.html
+  LinkedIn: https://www.linkedin.com/in/tomas-dado-298a75191/?originalSubdomain=sk
+
+img: Tomas_Dado.jpg

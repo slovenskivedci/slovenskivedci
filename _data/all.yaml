@@ -53,6 +53,32 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1946
+- affiliation: Technical University Dortmund
+  affiliationurl: Technical_University_Dortmund
+  city: Dortmund
+  cityurl: Dortmund
+  country: Nemecko
+  countryurl: Nemecko
+  field: "subjadrov\xE1 fyzika"
+  fieldurl: subjadrova_fyzika
+  hindex: 122
+  img: Tomas_Dado.jpg
+  last: Dado
+  last_update: '2022-01-17'
+  links:
+  - - inspireHEP
+    - https://inspirehep.net/authors/1346585
+  - - LinkedIn
+    - https://www.linkedin.com/in/tomas-dado-298a75191/?originalSubdomain=sk
+  - - web
+    - https://www.e4.physik.tu-dortmund.de/cms/de/AG-Kroeninger/Mitarbeiter/WiMis/Tomas-Dado.html
+  name: "Tom\xE1\u0161 Dado"
+  position: postdoc
+  positionurl: postdoc
+  scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
 - affiliation: New York University
   affiliationurl: New_York_University
   city: New York
