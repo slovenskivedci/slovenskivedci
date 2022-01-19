@@ -90,6 +90,7 @@ affiliation:
   "Univerzita Palack\xE9ho v Olomouci": 4
   "Univerzita Pavla Jozefa \u0160af\xE1rika": 5
   "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave": 2
+  Uppsala University: 1
   Vienna University of Technology: 1
   "Vysok\xE1 \u0161kola chemicko-technologick\xE1": 1
   Zeppelin University: 1
@@ -118,6 +119,7 @@ countries:
   "\u010Cesko": 17
   "\u0160panielsko": 1
   "\u0160vaj\u010Diarsko": 4
+  "\u0160v\xE9dsko": 1
 hindex:
 - 36
 - 33
@@ -170,7 +172,7 @@ hindex:
 - 126
 - 47
 - 48
-- 32
+- 33
 - 33
 - 41
 - 55
@@ -316,6 +318,7 @@ hindex:
 - 30
 - 38
 - 33
+- 31
 - 40
 - 57
 - 33
@@ -327,5 +330,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 180
+man: 181
 woman: 28

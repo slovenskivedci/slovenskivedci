@@ -1353,8 +1353,8 @@
   - - "\u017Eivotopis"
     - https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
   name: "Alexandra Bra\u017Einov\xE1"
-  position: docentka
-  positionurl: docentka
+  position: profesorka
+  positionurl: profesorka
   scholar: https://scholar.google.com/citations?view_op=list_works&amp;hl=sk&amp;user=_tpva74AAAAJ&amp;gmla=AJsN-F4enZVXEbSLey5sIxs2iYX1b7cqmKalMsteEbPCoYJYJxTGQ_Zt-LvTIN2kkDL4gvas8IzPL_-d-a2pm35LzuGeTzsZ-_QtrpIO0EjpojuHFcUXAHqhiyBxqm1VoP8CFAzsgdRpPW7w8bg5bGlASKOHjuCzhA&amp;fbclid=IwAR3a7AhdjAeyLhXviBDKjED2xYkm112lWx5VvKswNvukEuxNdsJdW37SfLg
   sex: "\u017Eena"
   sexurl: zena
@@ -5370,6 +5370,46 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1955
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 2847
+      since_2016: 2284
+  - h_index:
+      all: 33
+      since_2016: 30
+  - i10_index:
+      all: 74
+      since_2016: 62
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "analytick\xE1 ch\xE9mia"
+  fieldurl: analyticka_chemia
+  hindex: 33
+  img: Lubomir_Svorc.jpg
+  last: Svorc
+  last_update: '2022-01-19'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-9588-8609
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Lubomir-Svorc-2052109038/publications/2
+  - - Veda na dosah
+    - https://vedanadosah.cvtisr.sk/priroda/chemia/lubomir-svorc-patri-medzi-svetovu-spicku-mladych-chemikov/
+  - - Vedec roka
+    - https://sk.wikipedia.org/wiki/Vedec_roka_SR
+  - - web
+    - https://is.stuba.sk/lide/clovek.pl?id=19350;lang=sk
+  name: "\u013Dubom\xEDr \u0160vorc"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=AudOPSIAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1983
 - affiliation: Trinity College Dublin
   affiliationurl: Trinity_College_Dublin
   cited_by:
@@ -5926,46 +5966,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
-  affiliationurl: Slovenska_technicka_univerzita
-  cited_by:
-  - citations:
-      all: 2847
-      since_2016: 2284
-  - h_index:
-      all: 32
-      since_2016: 30
-  - i10_index:
-      all: 74
-      since_2016: 62
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "analytick\xE1 ch\xE9mia"
-  fieldurl: analyticka_chemia
-  hindex: 32
-  img: Lubomir_Svorc.jpg
-  last: Svorc
-  last_update: '2021-11-20'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0002-9588-8609
-  - - ResearchGate
-    - https://www.researchgate.net/scientific-contributions/Lubomir-Svorc-2052109038/publications/2
-  - - Veda na dosah
-    - https://vedanadosah.cvtisr.sk/priroda/chemia/lubomir-svorc-patri-medzi-svetovu-spicku-mladych-chemikov/
-  - - Vedec roka
-    - https://sk.wikipedia.org/wiki/Vedec_roka_SR
-  - - web
-    - https://is.stuba.sk/lide/clovek.pl?id=19350;lang=sk
-  name: "\u013Dubom\xEDr \u0160vorc"
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.com/citations?hl=en&user=AudOPSIAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1983
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -6413,6 +6413,36 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: Uppsala University
+  affiliationurl: Uppsala_University
+  city: Uppsala
+  cityurl: Uppsala
+  country: "\u0160v\xE9dsko"
+  countryurl: Svedsko
+  field: "geol\xF3gia"
+  fieldurl: geologia
+  hindex: 31
+  img: Peter_Lazor.png
+  last: Lazor
+  last_update: '2022-01-20'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-lazor-840a3967/?originalSubdomain=se
+  - - orcid
+    - https://orcid.org/0000-0001-9992-8009
+  - - web 1
+    - https://katalog.uu.se/profile/?id=N96-3988
+  - - web 2
+    - https://www.geo.uu.se/research/min-pet-tek-en/about-us/
+  - - "wikip\xE9dia"
+    - https://species.wikimedia.org/wiki/Peter_Lazor
+  name: Peter Lazor
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=AudOPSIAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
