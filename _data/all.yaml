@@ -2339,6 +2339,38 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
+  hindex: 42
+  img: Vlasta_Brezova.jpg
+  last: Brezova
+  last_update: '2022-01-20'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-5368-0498
+  - - publons
+    - https://publons.com/researcher/3187343/vlasta-brezova/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Vlasta-Brezova-9796750/publications/2
+  - - Semantic Scholar
+    - https://www.semanticscholar.org/author/V.-Brezov%C3%A1/3575770
+  - - web 1
+    - https://ufchchf.fchpt.stuba.sk/en/people/academics/7-vlasta-brezova
+  - - web 2
+    - https://www.fchpt.stuba.sk/english/institutes-and-departments/institute-of-physical-chemistry-and-chemical-physics/department-of-physical-chemistry/staff.html?page_id=3970
+  name: "Vlasta Brezov\xE1"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.co.uk/citations?user=kKciUuQAAAAJ&hl=en&oi=ao
+  sex: "\u017Eena"
+  sexurl: zena
+  year: null
 - affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   cited_by:
@@ -6439,7 +6471,7 @@
   name: Peter Lazor
   position: profesor
   positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=en&user=AudOPSIAAAAJ
+  scholar: https://scholar.google.se/citations?user=v61ZVcoAAAAJ&hl=sv
   sex: "mu\u017E"
   sexurl: muz
   year: null
