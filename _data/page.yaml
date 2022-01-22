@@ -85,7 +85,7 @@ affiliation:
   University of Zurich: 1
   "Universit\xE9 Aix-Marseille": 1
   Univerzita Karlova: 2
-  "Univerzita Komensk\xE9ho": 35
+  "Univerzita Komensk\xE9ho": 36
   "Univerzita Kon\u0161tant\xEDna Filozofa": 1
   "Univerzita Palack\xE9ho v Olomouci": 4
   "Univerzita Pavla Jozefa \u0160af\xE1rika": 5
@@ -111,7 +111,7 @@ countries:
   "Rak\xFAsko": 10
   "Rusk\xE1 feder\xE1cia": 1
   "Saudsk\xE1 Ar\xE1bia": 2
-  Slovensko: 99
+  Slovensko: 100
   "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
   USA: 30
   "Ve\u013Ek\xE1 Brit\xE1nia": 7
@@ -300,6 +300,7 @@ hindex:
 - 62
 - 36
 - 52
+- 30
 - 31
 - 57
 - 35
@@ -331,5 +332,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 181
+man: 182
 woman: 29

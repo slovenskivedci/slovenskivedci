@@ -2353,7 +2353,7 @@
   last_update: '2022-01-20'
   links:
   - - learned.sk
-    - https://www.learned.sk/clenovia/riadni-clenovia/
+    - https://www.learned.sk/prof-ing-vlasta-brezova-drsc/
   - - orcid
     - https://orcid.org/0000-0002-5368-0498
   - - publons
@@ -2372,7 +2372,7 @@
   scholar: https://scholar.google.co.uk/citations?user=kKciUuQAAAAJ&hl=en&oi=ao
   sex: "\u017Eena"
   sexurl: zena
-  year: null
+  year: 1958
 - affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   cited_by:
@@ -7100,6 +7100,32 @@
   position: vedec
   positionurl: vedec
   scholar: https://scholar.google.com/citations?hl=en&user=ooffTIwAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyzika tuh\xFDch l\xE1tok"
+  fieldurl: fyzika_tuhych_latok
+  hindex: 30
+  img: Tomas_Roch.jpg
+  last: Roch
+  last_update: '2022-01-22'
+  links:
+  - - AMiner
+    - https://www.aminer.org/profile/tomas-roch/5630762045cedb3399a6c7e5
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Tomas-Roch
+  - - web
+    - https://sluzby.fmph.uniba.sk/ludia/roch1
+  name: "Tom\xE1\u0161 Roch"
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.sk/citations?user=PVRQZxcAAAAJ
   sex: "mu\u017E"
   sexurl: muz
   year: null
