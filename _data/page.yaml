@@ -19,6 +19,7 @@ affiliation:
   Institute of Tropical Medicine Antwerp: 1
   International Institute for Applied Systems Analysis: 1
   Joint Institute for Nuclear Research: 1
+  "J\xFClich Research Centre": 1
   KAUST: 2
   Karlsruhe Institute of Technology: 1
   Krembil Research Institute: 1
@@ -106,7 +107,7 @@ countries:
   Holandsko: 3
   Kanada: 10
   Katar: 2
-  Nemecko: 7
+  Nemecko: 8
   "N\xF3rsko": 1
   "Rak\xFAsko": 10
   "Rusk\xE1 feder\xE1cia": 1
@@ -221,6 +222,7 @@ hindex:
 - 35
 - 31
 - 45
+- 50
 - 38
 - 41
 - 42
@@ -333,4 +335,4 @@ hindex:
 - 42
 - 35
 man: 182
-woman: 29
+woman: 30
