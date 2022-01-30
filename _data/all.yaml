@@ -4349,6 +4349,38 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: Vanderbilt university
+  affiliationurl: Vanderbilt_university
+  city: Nashville
+  cityurl: Nashville
+  country: USA
+  countryurl: USA
+  field: "fyziol\xF3gia"
+  fieldurl: fyziologia
+  hindex: 35
+  img: Marcela_Brissova.jpg
+  last: Brissova
+  last_update: '2022-01-30'
+  links:
+  - - lab
+    - https://labnodes.vanderbilt.edu/community/profile/id/2228
+  - - "na\u0161i a svetov\xED"
+    - https://slovensko.rtvs.sk/rubriky/nasi-a-svetovi/210476/nasi-a-svetovi-marcela-brissova
+  - - orcid
+    - https://orcid.org/0000-0002-4999-3280
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marcela-Brissova
+  - - web 1
+    - https://medicine.vumc.org/person/marcela-brissova-phd
+  - - web 2
+    - https://labnodes.vanderbilt.edu/member/profile/id/10427
+  name: "Marcela Brissov\xE1"
+  position: "vedky\u0148a"
+  positionurl: vedkyna
+  scholar: https://scholar.google.com.tr/citations?user=3rQF3wIAAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: null
 - affiliation: "Eur\xF3pska komisia"
   affiliationurl: Europska_komisia
   cited_by:
@@ -6717,6 +6749,44 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Pre\u0161ovsk\xE1 univerzita"
+  affiliationurl: Presovska_univerzita
+  city: "Pre\u0161ov"
+  cityurl: Presov
+  country: Slovensko
+  countryurl: Slovensko
+  field: "magnetick\xE1 rezonancia"
+  fieldurl: magneticka_rezonancia
+  hindex: 30
+  img: Marek_Chmelik.jpg
+  last: Chmelik
+  last_update: '2022-01-30'
+  links:
+  - - AD
+    - https://www.adscientificindex.com/scientist.php?id=1237729
+  - - Facebook
+    - https://www.facebook.com/marek.chmelik.96
+  - - LinkedIn
+    - https://www.linkedin.com/in/marek-chmelik-b101b7139/?originalSubdomain=sk
+  - - loop
+    - https://loop.frontiersin.org/people/770457/overview
+  - - orcid
+    - https://orcid.org/0000-0002-9727-9014
+  - - pubmed
+    - https://pubmed.ncbi.nlm.nih.gov/?term=(((((chmelik+M%5BAuthor%5D)+NOT+chmelik+MS))+NOT+1973+NOT+1995+NOT+1982+NOT+1979+NOT+1990+NOT+1974+NOT+1966+NOT+Lohse))
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marek_Chmelik
+  - - scopus
+    - https://www.scopus.com/authid/detail.uri?authorId=16401060100
+  - - "\u017Eivotopis"
+    - https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/CV/CV_Chmelik_PI.pdf
+  name: "Marek Chmel\xEDk"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.at/citations?user=uTmDnEsAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1980
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
   affiliationurl: Technicka_univerzita_vo_Zvolene
   cited_by:
@@ -6927,6 +6997,30 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1944
+- affiliation: Fraunhofer Institute
+  affiliationurl: Fraunhofer_Institute
+  city: Darmstadt
+  cityurl: Darmstadt
+  country: Nemecko
+  countryurl: Nemecko
+  field: "analytick\xE1 ch\xE9mia"
+  fieldurl: analyticka_chemia
+  hindex: 30
+  img: Tibor_Macko.jpg
+  last: Macko
+  last_update: '2022-01-30'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/tibor-macko-915b1912/?originalSubdomain=de
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Tibor-Macko-2
+  name: Tibor Macko
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.co.uk/citations?user=zakQyxMAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
