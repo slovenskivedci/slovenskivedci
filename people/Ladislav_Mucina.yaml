@@ -3,7 +3,7 @@ last: "Mucina"
 year: 1956
 sex: "muž"
 
-hindex: 55
+hindex: 56
 scholar: https://scholar.google.com/citations?user=BPId440AAAAJ
 
 position: "profesor"
@@ -12,9 +12,7 @@ affiliation: "Murdoch University"
 city: "Perth"
 country: "Austrália"
 
-img: Ladislav_Mucina.png
-
-last_update: '2021-11-06'
+last_update: '2022-02-02'
 
 links:
   web: http://profiles.murdoch.edu.au/myprofile/ladislav-mucina/
@@ -26,3 +24,6 @@ links:
   publons: https://publons.com/researcher/2752198/ladislav-mucina/
   loop: https://loop.frontiersin.org/people/1091669/overview
   IAVS: https://www.sci.muni.cz/botany/chytry/Laco-Mucina-Honorary-Membership.pdf
+
+
+img: Ladislav_Mucina.png

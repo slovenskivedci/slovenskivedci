@@ -6,22 +6,13 @@ year: 1969
 sex: "žena"
 
 affiliation: "IST Austria"
-cited_by:
-- citations:
-    all: 20494
-    since_2016: 9044
-- h_index:
-    all: 55
-    since_2016: 49
-- i10_index:
-    all: 83
-    since_2016: 81
+
 city: "Klosterneuburg"
 country: "Rakúsko"
 field: "biológia rastlín"
-hindex: 56
+hindex: 57
 img: Eva_Benkova.jpg
-last_update: '2021-09-16'
+last_update: '2022-02-02'
 links:
   web: https://ist.ac.at/en/research/benkova-group/#career
   životopis: https://ist.ac.at/wp-content/uploads/2019/11/CV_Benkova.pdf
