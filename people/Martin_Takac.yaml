@@ -9,7 +9,7 @@ affiliation: "MBZUAI"
 city: "Abu Dhabi"
 country: "Spojené arabské emiráty"
 
-hindex: 30
+hindex: 31
 scholar: https://scholar.google.com/citations?hl=en&user=qKQD-2cAAAAJ
 
 cited_by:
@@ -23,7 +23,7 @@ cited_by:
     all: 51
     since_2016: 50
 
-last_update: '2021-12-14'
+last_update: '2022-02-04'
 
 links:
   dblp: https://dblp.org/pid/42/3759.html
