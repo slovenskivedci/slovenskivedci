@@ -3,13 +3,13 @@ last: "Richtárik"
 year: ''
 sex: "muž"
 
-position: profesor
+position: "profesor"
 field: "optimalizácia a strojové učenie"
 affiliation: "KAUST"
 city: "Thuwal"
 country: "Saudská Arábia"
 
-hindex: 48
+hindex: 50
 scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
 
 cited_by:
@@ -23,7 +23,7 @@ cited_by:
     all: 117
     since_2016: 112
 
-last_update: '2021-11-18'
+last_update: '2022-02-03'
 
 links:
   dblp: https://dblp.org/pid/62/8001.html
