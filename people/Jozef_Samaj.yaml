@@ -11,7 +11,7 @@ affiliation: "Univerzita Palackého v Olomouci"
 city: "Olomouc"
 country: "Česko"
 
-hindex: 58
+hindex: 59
 scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
 
 cited_by:
@@ -25,16 +25,17 @@ cited_by:
     all: 154
     since_2016: 108
 
-last_update: '2021-09-16'
+last_update: '2022-02-12'
 
 links:
-  web: http://cr-hana.upol.cz/cellbiol/
+  web: https://kbt.upol.cz/en/
   životopis: "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160\
     amaj.pdf"
-  lab: https://twitter.com/Samaj_lab
+  twitter: https://twitter.com/Samaj_lab
   ResearchGate: https://www.researchgate.net/profile/Jozef-Samaj
   loop: https://loop.frontiersin.org/people/26551/overview
   learned.sk: https://www.learned.sk/clenovia/riadni-clenovia/
+  orcid: https://orcid.org/0000-0003-4750-2123
 
 
 img: Jozef_Samaj.jpg

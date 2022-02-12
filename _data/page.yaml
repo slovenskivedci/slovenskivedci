@@ -90,7 +90,7 @@ affiliation:
   Univerzita Karlova: 2
   "Univerzita Komensk\xE9ho": 36
   "Univerzita Kon\u0161tant\xEDna Filozofa": 1
-  "Univerzita Palack\xE9ho v Olomouci": 4
+  "Univerzita Palack\xE9ho v Olomouci": 5
   "Univerzita Pavla Jozefa \u0160af\xE1rika": 5
   "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave": 2
   Uppsala University: 1
@@ -120,7 +120,7 @@ countries:
   USA: 31
   "Ve\u013Ek\xE1 Brit\xE1nia": 7
   "\xCDrsko": 1
-  "\u010Cesko": 17
+  "\u010Cesko": 18
   "\u0160panielsko": 1
   "\u0160vaj\u010Diarsko": 4
   "\u0160v\xE9dsko": 1
@@ -236,6 +236,7 @@ hindex:
 - 43
 - 41
 - 37
+- 31
 - 42
 - 37
 - 43
@@ -301,7 +302,7 @@ hindex:
 - 44
 - 55
 - 37
-- 58
+- 59
 - 32
 - 34
 - 62
@@ -340,5 +341,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 184
+man: 185
 woman: 31

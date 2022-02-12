@@ -1,0 +1,25 @@
+name: "Miroslav Ovečka"
+last: "Ovečka"
+
+year: 1967
+sex: "muž"
+
+position: "profesor"
+field: "molekulárna a bunková biológia"
+affiliation: "Univerzita Palackého v Olomouci"
+city: "Olomouc"
+country: "Česko"
+
+hindex: 31
+scholar: https://scholar.google.com/citations?hl=en&user=bM-HEmgAAAAJ
+
+last_update: '2022-02-12'
+
+links:
+  web: http://www.kbt.upol.cz/
+  orcid: https://orcid.org/0000-0002-1570-2174
+  ResearchGate: https://www.researchgate.net/profile/Miroslav-Ovecka
+  loop: https://loop.frontiersin.org/people/233296/overview
+  životopis: files/cv_Miroslav_Ovecka.pdf
+
+img: Miroslav_Ovecka.jpg

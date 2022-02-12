@@ -707,21 +707,23 @@
   countryurl: Cesko
   field: botanika
   fieldurl: botanika
-  hindex: 58
+  hindex: 59
   img: Jozef_Samaj.jpg
   last: Samaj
-  last_update: '2021-09-16'
+  last_update: '2022-02-12'
   links:
-  - - lab
-    - https://twitter.com/Samaj_lab
   - - learned.sk
     - https://www.learned.sk/clenovia/riadni-clenovia/
   - - loop
     - https://loop.frontiersin.org/people/26551/overview
+  - - orcid
+    - https://orcid.org/0000-0003-4750-2123
   - - ResearchGate
     - https://www.researchgate.net/profile/Jozef-Samaj
+  - - twitter
+    - https://twitter.com/Samaj_lab
   - - web
-    - http://cr-hana.upol.cz/cellbiol/
+    - https://kbt.upol.cz/en/
   - - "\u017Eivotopis"
     - "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160amaj.pdf"
   name: "Jozef \u0160amaj"
@@ -1492,6 +1494,8 @@
     - https://orcid.org/0000-0003-4380-5848
   - - research.com
     - https://research.com/u/peter-richtarik
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Richtarik-2
   - - twitter
     - https://twitter.com/peter_richtarik?lang=en
   - - web 1
@@ -6613,6 +6617,36 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1974
+- affiliation: "Univerzita Palack\xE9ho v Olomouci"
+  affiliationurl: Univerzita_Palackeho_v_Olomouci
+  city: Olomouc
+  cityurl: Olomouc
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "molekul\xE1rna a bunkov\xE1 biol\xF3gia"
+  fieldurl: molekularna_a_bunkova_biologia
+  hindex: 31
+  img: Miroslav_Ovecka.jpg
+  last: Ovecka
+  last_update: '2022-02-12'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/233296/overview
+  - - orcid
+    - https://orcid.org/0000-0002-1570-2174
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Miroslav-Ovecka
+  - - web
+    - http://www.kbt.upol.cz/
+  - - "\u017Eivotopis"
+    - files/cv_Miroslav_Ovecka.pdf
+  name: "Miroslav Ove\u010Dka"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=bM-HEmgAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1967
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
   affiliationurl: Technicka_univerzita_vo_Zvolene
   cited_by:
