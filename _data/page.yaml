@@ -57,6 +57,7 @@ affiliation:
   The University of Melbourne: 1
   Trinity College Dublin: 1
   "Trnavsk\xE1 univerzita": 1
+  U.S. Department of Agriculture: 1
   University Medical Center Utrecht: 1
   University of Adelaide: 2
   University of Arizona: 1
@@ -117,7 +118,7 @@ countries:
   "Saudsk\xE1 Ar\xE1bia": 2
   Slovensko: 101
   "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
-  USA: 31
+  USA: 32
   "Ve\u013Ek\xE1 Brit\xE1nia": 7
   "\xCDrsko": 1
   "\u010Cesko": 18
@@ -231,6 +232,7 @@ hindex:
 - 41
 - 42
 - 61
+- 30
 - 32
 - 79
 - 43
@@ -341,5 +343,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 185
+man: 186
 woman: 31

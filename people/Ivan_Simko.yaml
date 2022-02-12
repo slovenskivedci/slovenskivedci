@@ -1,0 +1,26 @@
+name: "Ivan Šimko"
+last: "Šimko"
+
+year: 
+sex: "muž"
+
+position: "vedec"
+field: "genetika"
+affiliation: "U.S. Department of Agriculture"
+city: "Salinas"
+country: "USA"
+
+hindex: 30
+scholar: https://scholar.google.com/citations?user=Ghikz7sAAAAJ&oi=ao
+
+last_update: '2022-02-12'
+
+links:
+  web: https://www.ars.usda.gov/people-locations/person/?person-id=39590
+  orcid: https://orcid.org/0000-0002-8769-8477
+  ResearchGate: https://www.researchgate.net/profile/Ivan-Simko-4
+  lab: https://www.researchgate.net/lab/Ivan-Simko-Lab
+  loop: https://loop.frontiersin.org/people/391173/overview
+  publons: https://publons.com/researcher/2692635/ivan-simko/
+
+img: Ivan_Simko.jpg

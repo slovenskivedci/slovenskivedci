@@ -7409,6 +7409,38 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: U.S. Department of Agriculture
+  affiliationurl: U.S._Department_of_Agriculture
+  city: Salinas
+  cityurl: Salinas
+  country: USA
+  countryurl: USA
+  field: genetika
+  fieldurl: genetika
+  hindex: 30
+  img: Ivan_Simko.jpg
+  last: Simko
+  last_update: '2022-02-12'
+  links:
+  - - lab
+    - https://www.researchgate.net/lab/Ivan-Simko-Lab
+  - - loop
+    - https://loop.frontiersin.org/people/391173/overview
+  - - orcid
+    - https://orcid.org/0000-0002-8769-8477
+  - - publons
+    - https://publons.com/researcher/2692635/ivan-simko/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Ivan-Simko-4
+  - - web
+    - https://www.ars.usda.gov/people-locations/person/?person-id=39590
+  name: "Ivan \u0160imko"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=Ghikz7sAAAAJ&oi=ao
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
