@@ -6,10 +6,10 @@
   countryurl: Slovensko
   field: "subjadrov\xE1 fyzika"
   fieldurl: subjadrova_fyzika
-  hindex: 170
+  hindex: 171
   img: Pavol_Bartos.jpg
   last: Bartos
-  last_update: '2022-02-04'
+  last_update: '2022-02-13'
   links:
   - - CERN
     - https://cds.cern.ch/search?f=author&p=Bartos%2C%20Pavol&ln=en
@@ -21,6 +21,32 @@
   position: "odborn\xFD asistent"
   positionurl: odborny_asistent
   scholar: https://scholar.google.com/citations?hl=en&user=pCW77HEAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
+- affiliation: Technical University Dortmund
+  affiliationurl: Technical_University_Dortmund
+  city: Dortmund
+  cityurl: Dortmund
+  country: Nemecko
+  countryurl: Nemecko
+  field: "subjadrov\xE1 fyzika"
+  fieldurl: subjadrova_fyzika
+  hindex: 127
+  img: Tomas_Dado.jpg
+  last: Dado
+  last_update: '2022-02-13'
+  links:
+  - - inspireHEP
+    - https://inspirehep.net/authors/1346585
+  - - LinkedIn
+    - https://www.linkedin.com/in/tomas-dado-298a75191/?originalSubdomain=sk
+  - - web
+    - https://www.e4.physik.tu-dortmund.de/cms/de/AG-Kroeninger/Mitarbeiter/WiMis/Tomas-Dado.html
+  name: "Tom\xE1\u0161 Dado"
+  position: postdoc
+  positionurl: postdoc
+  scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
   sex: "mu\u017E"
   sexurl: muz
   year: null
@@ -53,32 +79,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1946
-- affiliation: Technical University Dortmund
-  affiliationurl: Technical_University_Dortmund
-  city: Dortmund
-  cityurl: Dortmund
-  country: Nemecko
-  countryurl: Nemecko
-  field: "subjadrov\xE1 fyzika"
-  fieldurl: subjadrova_fyzika
-  hindex: 124
-  img: Tomas_Dado.jpg
-  last: Dado
-  last_update: '2022-02-04'
-  links:
-  - - inspireHEP
-    - https://inspirehep.net/authors/1346585
-  - - LinkedIn
-    - https://www.linkedin.com/in/tomas-dado-298a75191/?originalSubdomain=sk
-  - - web
-    - https://www.e4.physik.tu-dortmund.de/cms/de/AG-Kroeninger/Mitarbeiter/WiMis/Tomas-Dado.html
-  name: "Tom\xE1\u0161 Dado"
-  position: postdoc
-  positionurl: postdoc
-  scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: null
 - affiliation: New York University
   affiliationurl: New_York_University
   city: New York
@@ -87,10 +87,10 @@
   countryurl: USA
   field: "mikrobiol\xF3gia"
   fieldurl: mikrobiologia
-  hindex: 104
+  hindex: 98
   img: Jan_Vilcek.jpg
   last: Vilcek
-  last_update: '2020-12-31'
+  last_update: '2022-02-13'
   links:
   - - web
     - http://www.janvilcek.com
@@ -103,6 +103,42 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1933
+- affiliation: University of Illinois
+  affiliationurl: University_of_Illinois
+  cited_by:
+  - citations:
+      all: 32106
+      since_2016: 6487
+  - h_index:
+      all: 88
+      since_2016: 39
+  - i10_index:
+      all: 359
+      since_2016: 145
+  city: Urbana-Champaign
+  cityurl: Urbana-Champaign
+  country: USA
+  countryurl: USA
+  field: informatika
+  fieldurl: informatika
+  hindex: 89
+  img: Klara_Nahrstedt.jpg
+  last: Nahrstedt
+  last_update: '2022-02-13'
+  links:
+  - - dblp
+    - https://dblp.org/pid/45/3224.html
+  - - web
+    - https://cs.illinois.edu/about/people/faculty/klara
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Klara_Nahrstedt
+  name: "Kl\xE1ra Nahrstedt"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: 1957
 - affiliation: University of Ottawa
   affiliationurl: University_of_Ottawa
   city: Ottawa
@@ -111,10 +147,10 @@
   countryurl: Kanada
   field: "geoch\xE9mia"
   fieldurl: geochemia
-  hindex: 90
+  hindex: 89
   img: Jan_Veizer_2.jpg
   last: Veizer
-  last_update: '2021-11-06'
+  last_update: '2022-02-13'
   links:
   - - AMiner
     - https://www.aminer.org/profile/jan-veizer/53f4ca6bdabfaee57b77fdf2
@@ -135,42 +171,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1941
-- affiliation: University of Illinois
-  affiliationurl: University_of_Illinois
-  cited_by:
-  - citations:
-      all: 32106
-      since_2016: 6487
-  - h_index:
-      all: 88
-      since_2016: 39
-  - i10_index:
-      all: 359
-      since_2016: 145
-  city: Urbana-Champaign
-  cityurl: Urbana-Champaign
-  country: USA
-  countryurl: USA
-  field: informatika
-  fieldurl: informatika
-  hindex: 88
-  img: Klara_Nahrstedt.jpg
-  last: Nahrstedt
-  last_update: '2021-12-25'
-  links:
-  - - dblp
-    - https://dblp.org/pid/45/3224.html
-  - - web
-    - https://cs.illinois.edu/about/people/faculty/klara
-  - - "wikip\xE9dia"
-    - https://en.wikipedia.org/wiki/Klara_Nahrstedt
-  name: "Kl\xE1ra Nahrstedt"
-  position: profesorka
-  positionurl: profesorka
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
-  sex: "\u017Eena"
-  sexurl: zena
-  year: 1957
 - affiliation: University of Adelaide
   affiliationurl: University_of_Adelaide
   city: Adelaide
@@ -179,10 +179,10 @@
   countryurl: Australia
   field: neurogenetika
   fieldurl: neurogenetika
-  hindex: 87
+  hindex: 88
   img: Jozef_Gecz.jpg
   last: Gecz
-  last_update: '2020-12-31'
+  last_update: '2022-02-13'
   links:
   - - Australian Academy of Science
     - https://www.science.org.au/profile/jozef-g%C3%A9cz
@@ -207,6 +207,54 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1962
+- affiliation: Krembil Research Institute
+  affiliationurl: Krembil_Research_Institute
+  cited_by:
+  - citations:
+      all: 29175
+      since_2016: 15519
+  - h_index:
+      all: 79
+      since_2016: 55
+  - i10_index:
+      all: 208
+      since_2016: 161
+  city: Toronto
+  cityurl: Toronto
+  country: Kanada
+  countryurl: Kanada
+  field: bioinformatika
+  fieldurl: bioinformatika
+  hindex: 80
+  img: Igor_Jurisica.png
+  last: Jurisica
+  last_update: '2022-02-13'
+  links:
+  - - dblp
+    - https://dblp.org/pid/27/4777.html
+  - - openreview
+    - https://openreview.net/profile?id=~Igor_Jurisica1
+  - - orcid
+    - https://orcid.org/0000-0002-2507-946X
+  - - pubmed
+    - https://pubmed.ncbi.nlm.nih.gov/?cmd=PureSearch&term=jurisica+i%5Bau%5D
+  - - ResearchGate
+    - https://www.researchgate.net/lab/Igor-Jurisica-Lab-2
+  - - web 1
+    - https://www.cs.toronto.edu/~juris/home.html
+  - - web 2
+    - https://medbio.utoronto.ca/faculty/jurisica
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Igor_Jurisica
+  - - "\u017Eivotopis"
+    - https://www.fmb.unesp.br/Home/ensino/Pos-Graduacao/mestradoacademicoedoutorado/pgbasesgeraisdacirurgia/igor-jurisica_curriculum-vitae-july-2015-1.pdf
+  name: "Igor Juri\u0161ica"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1967
 - affiliation: University of Bonn
   affiliationurl: University_of_Bonn
   cited_by:
@@ -247,54 +295,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1957
-- affiliation: Krembil Research Institute
-  affiliationurl: Krembil_Research_Institute
-  cited_by:
-  - citations:
-      all: 29175
-      since_2016: 15519
-  - h_index:
-      all: 79
-      since_2016: 55
-  - i10_index:
-      all: 208
-      since_2016: 161
-  city: Toronto
-  cityurl: Toronto
-  country: Kanada
-  countryurl: Kanada
-  field: bioinformatika
-  fieldurl: bioinformatika
-  hindex: 79
-  img: Igor_Jurisica.png
-  last: Jurisica
-  last_update: '2021-09-16'
-  links:
-  - - dblp
-    - https://dblp.org/pid/27/4777.html
-  - - openreview
-    - https://openreview.net/profile?id=~Igor_Jurisica1
-  - - orcid
-    - https://orcid.org/0000-0002-2507-946X
-  - - pubmed
-    - https://pubmed.ncbi.nlm.nih.gov/?cmd=PureSearch&term=jurisica+i%5Bau%5D
-  - - ResearchGate
-    - https://www.researchgate.net/lab/Igor-Jurisica-Lab-2
-  - - web 1
-    - https://www.cs.toronto.edu/~juris/home.html
-  - - web 2
-    - https://medbio.utoronto.ca/faculty/jurisica
-  - - "wikip\xE9dia"
-    - https://en.wikipedia.org/wiki/Igor_Jurisica
-  - - "\u017Eivotopis"
-    - https://www.fmb.unesp.br/Home/ensino/Pos-Graduacao/mestradoacademicoedoutorado/pgbasesgeraisdacirurgia/igor-jurisica_curriculum-vitae-july-2015-1.pdf
-  name: "Igor Juri\u0161ica"
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1967
 - affiliation: University of California
   affiliationurl: University_of_California
   cited_by:
@@ -1415,6 +1415,39 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1959
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "farmakol\xF3gia"
+  fieldurl: farmakologia
+  hindex: 50
+  img: Daniela_Jezova.jpg
+  last: Jezova
+  last_update: '2022-02-15'
+  links:
+  - - facebook
+    - "https://www.facebook.com/detskauniverzitakomenskeho/photos/profpharmdr-daniela-je\u017E\
+      ov\xE1-drsc-sav/986146801416058/"
+  - - learned.sk
+    - https://www.learned.sk/prof-pharmdr-daniela-jezova-drsc/
+  - - osobnosti
+    - https://www.osobnosti.sk/osobnost/daniela-jezova-636
+  - - veda na dosah
+    - https://vedanadosah.cvtisr.sk/zdravie/daniela-jezova-vyskum-odkryva-nove-moznosti-v-liecbe-depresii-a-uzkosti/
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1154
+  - - "\u017Eivotopis"
+    - http://www.sss421.sk/wp-content/uploads/2019/10/Jezova.pdf
+  name: "Daniela Je\u017Eov\xE1"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.com/citations?user=FP0fIkEAAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: 1949
 - affiliation: "J\xFClich Research Centre"
   affiliationurl: Julich_Research_Centre
   city: "J\xFClich"
@@ -3727,42 +3760,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1963
-- affiliation: "Univerzita Kon\u0161tant\xEDna Filozofa"
-  affiliationurl: Univerzita_Konstantina_Filozofa
-  cited_by:
-  - citations:
-      all: 5206
-      since_2016: 2347
-  - h_index:
-      all: 38
-      since_2016: 21
-  - i10_index:
-      all: 131
-      since_2016: 73
-  city: Nitra
-  cityurl: Nitra
-  country: Slovensko
-  countryurl: Slovensko
-  field: "biol\xF3gia reprodukcie"
-  fieldurl: biologia_reprodukcie
-  hindex: 38
-  img: Alexander_Sirotkin.jpg
-  last: Sirotkin
-  last_update: '2021-12-25'
-  links:
-  - - publons
-    - https://publons.com/researcher/2009031/alexander-v-sirotkin/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Alexander_Sirotkin
-  - - "\u017Eivotopis"
-    - https://portal.ukf.sk/kvalita/upload/inauguracie/5/1428071166_1440_551ea2fe525e0_zivotopis_asirotkin.pdf
-  name: Alexander V. Sirotkin
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.sk/citations?hl=en&amp;user=hVqCXAcAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1954
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -4013,6 +4010,42 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1961
+- affiliation: "Univerzita Kon\u0161tant\xEDna Filozofa"
+  affiliationurl: Univerzita_Konstantina_Filozofa
+  cited_by:
+  - citations:
+      all: 5206
+      since_2016: 2347
+  - h_index:
+      all: 38
+      since_2016: 21
+  - i10_index:
+      all: 131
+      since_2016: 73
+  city: Nitra
+  cityurl: Nitra
+  country: Slovensko
+  countryurl: Slovensko
+  field: "biol\xF3gia reprodukcie"
+  fieldurl: biologia_reprodukcie
+  hindex: 37
+  img: Alexander_Sirotkin.jpg
+  last: Sirotkin
+  last_update: '2022-02-04'
+  links:
+  - - publons
+    - https://publons.com/researcher/2009031/alexander-v-sirotkin/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Alexander_Sirotkin
+  - - "\u017Eivotopis"
+    - https://portal.ukf.sk/kvalita/upload/inauguracie/5/1428071166_1440_551ea2fe525e0_zivotopis_asirotkin.pdf
+  name: Alexander V. Sirotkin
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.sk/citations?hl=en&amp;user=hVqCXAcAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1954
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
   affiliationurl: Slovenska_polnohospodarska_univerzita
   cited_by:
@@ -5990,6 +6023,38 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1943
+- affiliation: "Technick\xE1 univerzita vo Zvolene"
+  affiliationurl: Technicka_univerzita_vo_Zvolene
+  cited_by:
+  - citations:
+      all: 4054
+      since_2016: 1655
+  - h_index:
+      all: 30
+      since_2016: 20
+  - i10_index:
+      all: 72
+      since_2016: 42
+  city: Zvolen
+  cityurl: Zvolen
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fytol\xF3gia"
+  fieldurl: fytologia
+  hindex: 32
+  img: Ladislav_Paule.jpg
+  last: Paule
+  last_update: '2022-02-13'
+  links:
+  - - web
+    - http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
+  name: Ladislav Paule
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -6647,38 +6712,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1967
-- affiliation: "Technick\xE1 univerzita vo Zvolene"
-  affiliationurl: Technicka_univerzita_vo_Zvolene
-  cited_by:
-  - citations:
-      all: 4054
-      since_2016: 1655
-  - h_index:
-      all: 30
-      since_2016: 20
-  - i10_index:
-      all: 72
-      since_2016: 42
-  city: Zvolen
-  cityurl: Zvolen
-  country: Slovensko
-  countryurl: Slovensko
-  field: "fytol\xF3gia"
-  fieldurl: fytologia
-  hindex: 31
-  img: Ladislav_Paule.jpg
-  last: Paule
-  last_update: '2021-09-16'
-  links:
-  - - web
-    - http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
-  name: Ladislav Paule
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
