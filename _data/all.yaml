@@ -1729,6 +1729,42 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
+- affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
+  affiliationurl: Ceska_akademia_vied
+  city: Praha
+  cityurl: Praha
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "mikrobiol\xF3gia"
+  fieldurl: mikrobiologia
+  hindex: 48
+  img: Peter_Sebo.jpeg
+  last: Sebo
+  last_update: '2022-02-23'
+  links:
+  - - fems
+    - https://fems-microbiology.org/network/leading_opinion_in_science/eam-members/fems-expert-dr-peter-sebo/
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-sebo-30584819/?originalSubdomain=cz
+  - - loop
+    - https://loop.frontiersin.org/people/16300/overview
+  - - orcid
+    - https://orcid.org/0000-0002-9755-7715
+  - - publons
+    - https://publons.com/researcher/1400445/peter-sebo/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Sebo
+  - - web
+    - https://mbucas.cz/en/research/microbiology/laboratory-of-molecular-biology-of-bacterial-pathogens/
+  - - "\u017Eivotopis"
+    - https://independent.academia.edu/PeterSebo/CurriculumVitae
+  name: "Peter \u0160ebo"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1960
 - affiliation: University of Louisville
   affiliationurl: University_of_Louisville
   city: Louisville
@@ -1781,42 +1817,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1978
-- affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
-  affiliationurl: Ceska_akademia_vied
-  city: Praha
-  cityurl: Praha
-  country: "\u010Cesko"
-  countryurl: Cesko
-  field: "mikrobiol\xF3gia"
-  fieldurl: mikrobiologia
-  hindex: 47
-  img: Peter_Sebo.jpeg
-  last: Sebo
-  last_update: '2020-12-31'
-  links:
-  - - fems
-    - https://fems-microbiology.org/network/leading_opinion_in_science/eam-members/fems-expert-dr-peter-sebo/
-  - - LinkedIn
-    - https://www.linkedin.com/in/peter-sebo-30584819/?originalSubdomain=cz
-  - - loop
-    - https://loop.frontiersin.org/people/16300/overview
-  - - orcid
-    - https://orcid.org/0000-0002-9755-7715
-  - - publons
-    - https://publons.com/researcher/1400445/peter-sebo/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Peter-Sebo
-  - - web
-    - https://mbucas.cz/en/research/microbiology/laboratory-of-molecular-biology-of-bacterial-pathogens/
-  - - "\u017Eivotopis"
-    - https://independent.academia.edu/PeterSebo/CurriculumVitae
-  name: "Peter \u0160ebo"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1960
 - affiliation: "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave"
   affiliationurl: Univerzita_svateho_Cyrila_a_Metoda_v_Trnave
   cited_by:
