@@ -732,6 +732,32 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1964
+- affiliation: "Trnavsk\xE1 univerzita"
+  affiliationurl: Trnavska_univerzita
+  city: Trnava
+  cityurl: Trnava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "epidemiol\xF3gia"
+  fieldurl: epidemiologia
+  hindex: 58
+  img: Marek_Majdan.jpg
+  last: Majdan
+  last_update: '2022-03-04'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/marek-majdan-b7a9907
+  - - orcid
+    - https://orcid.org/0000-0001-8037-742X
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marek-Majdan-3
+  name: Marek Majdan
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.sk/citations?user=xwG1s8YAAAAJ&amp;hl=sk&amp;oi=sra
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: University of Missouri
   affiliationurl: University_of_Missouri
   city: Columbia
@@ -784,6 +810,34 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1969
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "bioch\xE9mia"
+  fieldurl: biochemia
+  hindex: 57
+  img: Peter_Biely.jpg
+  last: Biely
+  last_update: '2022-03-04'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-9915-7707
+  - - publons
+    - https://publons.com/researcher/4030831/peter-biely/
+  - - web
+    - http://www.chem.sk/people/bielypeter/
+  - - "\u017Eivotopis"
+    - "https://www.learned.sk/wp-content/uploads/2020/03/\u017Divotopis-Peter-Biely.pdf"
+  name: Peter Biely
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1941
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -870,66 +924,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1942
-- affiliation: Monash University
-  affiliationurl: Monash_University
-  city: Melbourne
-  cityurl: Melbourne
-  country: "Austr\xE1lia"
-  countryurl: Australia
-  field: "epidemiol\xF3gia"
-  fieldurl: epidemiologia
-  hindex: 57
-  img: Barbora_Courten.jpg
-  last: de Courten
-  last_update: '2021-12-25'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/371235/overview
-  - - orcid
-    - https://orcid.org/0000-0001-8760-2511
-  - - publons
-    - https://publons.com/researcher/1662815/barbora-de-courten/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Barbora_De_Courten2
-  - - web 1
-    - https://www.monash.edu/medicine/scs/researchers/barbora-de-courten
-  - - web 2
-    - https://research.monash.edu/en/persons/barbora-de-courten
-  name: "Barbora (Voz\xE1rov\xE1) de Courten"
-  position: profesorka
-  positionurl: profesorka
-  scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
-  sex: "\u017Eena"
-  sexurl: zena
-  year: ''
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "bioch\xE9mia"
-  fieldurl: biochemia
-  hindex: 56
-  img: Peter_Biely.jpg
-  last: Biely
-  last_update: '2022-02-04'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0002-9915-7707
-  - - publons
-    - https://publons.com/researcher/4030831/peter-biely/
-  - - web
-    - http://www.chem.sk/people/bielypeter/
-  - - "\u017Eivotopis"
-    - "https://www.learned.sk/wp-content/uploads/2020/03/\u017Divotopis-Peter-Biely.pdf"
-  name: Peter Biely
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1941
 - affiliation: Medical University of Vienna
   affiliationurl: Medical_University_of_Vienna
   city: "Viede\u0148"
@@ -958,80 +952,38 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1970
-- affiliation: "Trnavsk\xE1 univerzita"
-  affiliationurl: Trnavska_univerzita
-  cited_by:
-  - citations:
-      all: 55906
-      since_2016: 54131
-  - h_index:
-      all: 55
-      since_2016: 49
-  - i10_index:
-      all: 93
-      since_2016: 91
-  city: Trnava
-  cityurl: Trnava
-  country: Slovensko
-  countryurl: Slovensko
+- affiliation: Monash University
+  affiliationurl: Monash_University
+  city: Melbourne
+  cityurl: Melbourne
+  country: "Austr\xE1lia"
+  countryurl: Australia
   field: "epidemiol\xF3gia"
   fieldurl: epidemiologia
   hindex: 56
-  img: Marek_Majdan.jpg
-  last: Majdan
-  last_update: '2021-09-16'
+  img: Barbora_Courten.jpg
+  last: de Courten
+  last_update: '2022-03-04'
   links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/marek-majdan-b7a9907
-  - - orcid
-    - https://orcid.org/0000-0001-8037-742X
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Marek-Majdan-3
-  name: Marek Majdan
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.sk/citations?user=xwG1s8YAAAAJ&amp;hl=sk&amp;oi=sra
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
-- affiliation: Murdoch University
-  affiliationurl: Murdoch_University
-  city: Perth
-  cityurl: Perth
-  country: "Austr\xE1lia"
-  countryurl: Australia
-  field: biogeografia
-  fieldurl: biogeografia
-  hindex: 56
-  img: Ladislav_Mucina.png
-  last: Mucina
-  last_update: '2022-02-02'
-  links:
-  - - IAVS
-    - https://www.sci.muni.cz/botany/chytry/Laco-Mucina-Honorary-Membership.pdf
-  - - LinkedIn
-    - https://www.linkedin.com/in/ladislav-mucina-ab671092/?originalSubdomain=au
   - - loop
-    - https://loop.frontiersin.org/people/1091669/overview
+    - https://loop.frontiersin.org/people/371235/overview
   - - orcid
-    - https://orcid.org/0000-0003-0317-8886
-  - - prabook
-    - https://prabook.com/web/ladislav.mucina/2145663
+    - https://orcid.org/0000-0001-8760-2511
   - - publons
-    - https://publons.com/researcher/2752198/ladislav-mucina/
+    - https://publons.com/researcher/1662815/barbora-de-courten/
   - - ResearchGate
-    - https://www.researchgate.net/profile/Ladislav-Mucina
-  - - web
-    - http://profiles.murdoch.edu.au/myprofile/ladislav-mucina/
-  - - "wikip\xE9dia"
-    - https://en.wikipedia.org/wiki/Ladislav_Mucina
-  name: Ladislav Mucina
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=BPId440AAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1956
+    - https://www.researchgate.net/profile/Barbora_De_Courten2
+  - - web 1
+    - https://www.monash.edu/medicine/scs/researchers/barbora-de-courten
+  - - web 2
+    - https://research.monash.edu/en/persons/barbora-de-courten
+  name: "Barbora (Voz\xE1rov\xE1) de Courten"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: ''
 - affiliation: RWTH Aachen
   affiliationurl: RWTH_Aachen
   cited_by:
@@ -1098,28 +1050,56 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: Murdoch University
+  affiliationurl: Murdoch_University
+  city: Perth
+  cityurl: Perth
+  country: "Austr\xE1lia"
+  countryurl: Australia
+  field: biogeografia
+  fieldurl: biogeografia
+  hindex: 55
+  img: Ladislav_Mucina.png
+  last: Mucina
+  last_update: '2022-03-04'
+  links:
+  - - IAVS
+    - https://www.sci.muni.cz/botany/chytry/Laco-Mucina-Honorary-Membership.pdf
+  - - LinkedIn
+    - https://www.linkedin.com/in/ladislav-mucina-ab671092/?originalSubdomain=au
+  - - loop
+    - https://loop.frontiersin.org/people/1091669/overview
+  - - orcid
+    - https://orcid.org/0000-0003-0317-8886
+  - - prabook
+    - https://prabook.com/web/ladislav.mucina/2145663
+  - - publons
+    - https://publons.com/researcher/2752198/ladislav-mucina/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Ladislav-Mucina
+  - - web
+    - http://profiles.murdoch.edu.au/myprofile/ladislav-mucina/
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Ladislav_Mucina
+  name: Ladislav Mucina
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=BPId440AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1956
 - affiliation: University of Regensburg
   affiliationurl: University_of_Regensburg
-  cited_by:
-  - citations:
-      all: 24076
-      since_2016: 11450
-  - h_index:
-      all: 53
-      since_2016: 41
-  - i10_index:
-      all: 141
-      since_2016: 113
   city: Regensburg
   cityurl: Regensburg
   country: Nemecko
   countryurl: Nemecko
   field: "kvantov\xE1 fyzika"
   fieldurl: kvantova_fyzika
-  hindex: 53
+  hindex: 54
   img: Jaroslav_Fabian.jpg
   last: Fabian
-  last_update: '2021-09-16'
+  last_update: '2022-03-04'
   links:
   - - web
     - http://www.physik.uni-regensburg.de/forschung/fabian/
@@ -1132,6 +1112,32 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1967
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "epidemiol\xF3gia"
+  fieldurl: epidemiologia
+  hindex: 53
+  img: Alexandra_Brazinova.jpg
+  last: Brazinova
+  last_update: '2022-03-04'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-0625-256X
+  - - publons
+    - https://publons.com/researcher/2304958/alexandra-brazinova
+  - - "\u017Eivotopis"
+    - https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
+  name: "Alexandra Bra\u017Einov\xE1"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.com/citations?view_op=list_works&amp;hl=sk&amp;user=_tpva74AAAAJ&amp;gmla=AJsN-F4enZVXEbSLey5sIxs2iYX1b7cqmKalMsteEbPCoYJYJxTGQ_Zt-LvTIN2kkDL4gvas8IzPL_-d-a2pm35LzuGeTzsZ-_QtrpIO0EjpojuHFcUXAHqhiyBxqm1VoP8CFAzsgdRpPW7w8bg5bGlASKOHjuCzhA&amp;fbclid=IwAR3a7AhdjAeyLhXviBDKjED2xYkm112lWx5VvKswNvukEuxNdsJdW37SfLg
+  sex: "\u017Eena"
+  sexurl: zena
+  year: 1971
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -1156,42 +1162,34 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1952
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 45683
-      since_2016: 44550
-  - h_index:
-      all: 50
-      since_2016: 45
-  - i10_index:
-      all: 74
-      since_2016: 71
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "epidemiol\xF3gia"
-  fieldurl: epidemiologia
+- affiliation: "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe"
+  affiliationurl: Ceske_vysoke_uceni_technicke_v_Prahe
+  city: Praha
+  cityurl: Praha
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "subjadrov\xE1 fyzika"
+  fieldurl: subjadrova_fyzika
   hindex: 52
-  img: Alexandra_Brazinova.jpg
-  last: Brazinova
-  last_update: '2022-02-04'
+  img: Katarina_Krizkova_Gajdosova.jpg
+  last: Gajdosova
+  last_update: '2022-03-04'
   links:
+  - - facebook
+    - https://www.facebook.com/katarina.gajdosova.3
   - - orcid
-    - https://orcid.org/0000-0003-0625-256X
-  - - publons
-    - https://publons.com/researcher/2304958/alexandra-brazinova
-  - - "\u017Eivotopis"
-    - https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
-  name: "Alexandra Bra\u017Einov\xE1"
-  position: profesorka
-  positionurl: profesorka
-  scholar: https://scholar.google.com/citations?view_op=list_works&amp;hl=sk&amp;user=_tpva74AAAAJ&amp;gmla=AJsN-F4enZVXEbSLey5sIxs2iYX1b7cqmKalMsteEbPCoYJYJxTGQ_Zt-LvTIN2kkDL4gvas8IzPL_-d-a2pm35LzuGeTzsZ-_QtrpIO0EjpojuHFcUXAHqhiyBxqm1VoP8CFAzsgdRpPW7w8bg5bGlASKOHjuCzhA&amp;fbclid=IwAR3a7AhdjAeyLhXviBDKjED2xYkm112lWx5VvKswNvukEuxNdsJdW37SfLg
+    - https://orcid.org/0000-0002-5569-1254
+  - - web 1
+    - https://physics.fjfi.cvut.cz/en/cb-profile/gajdokat
+  - - web 2
+    - https://www.meltingpotforum.com/cs/archiv/recnici-2019/katarina-krizkova-gajdosova-svk-cze
+  name: "Katar\xEDna K\u0159\xED\u017Ekov\xE1 Gajdo\u0161ov\xE1"
+  position: "vedky\u0148a"
+  positionurl: vedkyna
+  scholar: https://scholar.google.com/citations?user=n1zAfusAAAAJ&amp;hl=en
   sex: "\u017Eena"
   sexurl: zena
-  year: 1971
+  year: ''
 - affiliation: Masarykova univerzita
   affiliationurl: Masarykova_univerzita
   city: Brno
@@ -1230,34 +1228,30 @@
   sex: "mu\u017E"
   sexurl: muz
   year: null
-- affiliation: "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe"
-  affiliationurl: Ceske_vysoke_uceni_technicke_v_Prahe
-  city: Praha
-  cityurl: Praha
-  country: "\u010Cesko"
-  countryurl: Cesko
-  field: "subjadrov\xE1 fyzika"
-  fieldurl: subjadrova_fyzika
-  hindex: 51
-  img: Katarina_Krizkova_Gajdosova.jpg
-  last: Gajdosova
-  last_update: '2021-01-07'
+- affiliation: Delft University of Technology
+  affiliationurl: Delft_University_of_Technology
+  city: Delft
+  cityurl: Delft
+  country: Holandsko
+  countryurl: Holandsko
+  field: fotovoltika
+  fieldurl: fotovoltika
+  hindex: 52
+  img: Miro_Zeman.jpg
+  last: Zeman
+  last_update: '2022-03-04'
   links:
-  - - facebook
-    - https://www.facebook.com/katarina.gajdosova.3
-  - - orcid
-    - https://orcid.org/0000-0002-5569-1254
-  - - web 1
-    - https://physics.fjfi.cvut.cz/en/cb-profile/gajdokat
-  - - web 2
-    - https://www.meltingpotforum.com/cs/archiv/recnici-2019/katarina-krizkova-gajdosova-svk-cze
-  name: "Katar\xEDna K\u0159\xED\u017Ekov\xE1 Gajdo\u0161ov\xE1"
-  position: "vedky\u0148a"
-  positionurl: vedkyna
-  scholar: https://scholar.google.com/citations?user=n1zAfusAAAAJ&amp;hl=en
-  sex: "\u017Eena"
-  sexurl: zena
-  year: ''
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Miro_Zeman
+  - - web
+    - https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/photovoltaic-materials-and-devices/staff/miro-zeman/
+  name: Miro Zeman
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=YP4gwRsAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1957
 - affiliation: University of Toronto
   affiliationurl: University_of_Toronto
   city: Toronto
@@ -1360,40 +1354,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1954
-- affiliation: Delft University of Technology
-  affiliationurl: Delft_University_of_Technology
-  cited_by:
-  - citations:
-      all: 11293
-      since_2016: 6621
-  - h_index:
-      all: 51
-      since_2016: 37
-  - i10_index:
-      all: 198
-      since_2016: 158
-  city: Delft
-  cityurl: Delft
-  country: Holandsko
-  countryurl: Holandsko
-  field: fotovoltika
-  fieldurl: fotovoltika
-  hindex: 51
-  img: Miro_Zeman.jpg
-  last: Zeman
-  last_update: '2021-12-25'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Miro_Zeman
-  - - web
-    - https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/photovoltaic-materials-and-devices/staff/miro-zeman/
-  name: Miro Zeman
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=YP4gwRsAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1957
 - affiliation: Delft University of Technology
   affiliationurl: Delft_University_of_Technology
   cited_by:

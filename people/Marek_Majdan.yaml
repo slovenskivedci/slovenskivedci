@@ -6,22 +6,13 @@ year: ''
 sex: "muž"
 
 affiliation: "Trnavská univerzita"
-cited_by:
-- citations:
-    all: 55906
-    since_2016: 54131
-- h_index:
-    all: 55
-    since_2016: 49
-- i10_index:
-    all: 93
-    since_2016: 91
+
 city: "Trnava"
 country: "Slovensko"
 field: "epidemiológia"
-hindex: 56
+hindex: 58
 img: Marek_Majdan.jpg
-last_update: '2021-09-16'
+last_update: '2022-03-04'
 links:
   LinkedIn: https://www.linkedin.com/in/marek-majdan-b7a9907
   ResearchGate: https://www.researchgate.net/profile/Marek-Majdan-3
