@@ -7465,6 +7465,34 @@
   sex: "mu\u017E"
   sexurl: muz
   year: null
+- affiliation: Cardiff University
+  affiliationurl: Cardiff_University
+  city: Cardiff
+  cityurl: Cardiff
+  country: "Ve\u013Ek\xE1 Brit\xE1nia"
+  countryurl: Velka_Britania
+  field: "biol\xF3gia"
+  fieldurl: biologia
+  hindex: 30
+  img: Peter_Tomasec.jpg
+  last: Tomasec
+  last_update: '2022-03-04'
+  links:
+  - - news
+    - https://www.dailymail.co.uk/news/article-4584480/Scientist-killed-lethal-dose-chemicals.html
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Peter-Tomasec-38208495
+  - - UKRI
+    - https://gtr.ukri.org/person/4F8CB53C-C173-40A5-8831-B19670EA9A6C
+  - - "\u017Eivotopis"
+    - files/cv_Peter_Tomasec.pdf
+  name: "Peter Toma\u0161ec"
+  position: "odborn\xFD asistent"
+  positionurl: odborny_asistent
+  scholar: https://scholar.google.com/citations?hl=en&user=hOuiMR8AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1970
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:

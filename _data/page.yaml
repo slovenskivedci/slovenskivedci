@@ -4,6 +4,7 @@ affiliation:
   Apple: 1
   Brookhaven National Laboratory: 1
   CSIRO: 1
+  Cardiff University: 1
   Carleton University: 1
   Central European University: 1
   Curtin University: 1
@@ -119,7 +120,7 @@ countries:
   Slovensko: 102
   "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
   USA: 32
-  "Ve\u013Ek\xE1 Brit\xE1nia": 7
+  "Ve\u013Ek\xE1 Brit\xE1nia": 8
   "\xCDrsko": 1
   "\u010Cesko": 18
   "\u0160panielsko": 1
@@ -141,6 +142,7 @@ hindex:
 - 39
 - 53
 - 32
+- 30
 - 34
 - 44
 - 40
@@ -344,5 +346,5 @@ hindex:
 - 33
 - 42
 - 35
-man: 186
+man: 187
 woman: 32
