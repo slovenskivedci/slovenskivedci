@@ -9,21 +9,11 @@ affiliation: "Slovenská akadémia vied"
 city: "Bratislava"
 country: "Slovensko"
 
-hindex: 67
+hindex: 66
 scholar: https://scholar.google.com/citations?user=r7j9ZoYAAAAJ&hl=en&oi=sra
 
-cited_by:
-- citations:
-    all: 18004
-    since_2016: 5517
-- h_index:
-    all: 67
-    since_2016: 41
-- i10_index:
-    all: 159
-    since_2016: 102
 
-last_update: '2021-11-23'
+last_update: '2022-03-04'
 
 links:
   wikipédia: https://sk.wikipedia.org/wiki/Jarom%C3%ADr_Pastorek
