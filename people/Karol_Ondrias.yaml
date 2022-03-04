@@ -7,7 +7,8 @@ field: "biomedicína"
 
 
 scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
-hindex: 30
+hindex: 31
+last_update: '2022-03-04'
 
 position: "vedec"
 affiliation: "Slovenská akadémia vied"
@@ -19,16 +20,3 @@ links:
   wikipédia: "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"
 
 img: Karol_Ondrias.png
-
-cited_by:
-- citations:
-    all: 5131
-    since_2016: 1280
-- h_index:
-    all: 30
-    since_2016: 18
-- i10_index:
-    all: 74
-    since_2016: 34
-
-last_update: '2021-12-25'

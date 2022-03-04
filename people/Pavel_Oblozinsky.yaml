@@ -10,21 +10,12 @@ affiliation: "Brookhaven National Laboratory"
 city: "Upton"
 country: "USA"
 
-hindex: 32
+hindex: 33
 scholar: https://scholar.google.com/citations?user=lrz3brYAAAAJ&hl=en
 
-cited_by:
-- citations:
-    all: 10621
-    since_2016: 4746
-- h_index:
-    all: 32
-    since_2016: 16
-- i10_index:
-    all: 62
-    since_2016: 20
 
-last_update: '2021-12-14'
+
+last_update: '2022-03-04'
 
 links:
   LinkedIn: https://www.linkedin.com/in/pavel-oblozinsky-335308ba/?originalSubdomain=sk

@@ -9,21 +9,11 @@ affiliation: "Slovenská technická univerzita"
 city: "Bratislava"
 country: "Slovensko"
 
-hindex: 31
+hindex: 30
 scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp
 
-cited_by:
-- citations:
-    all: 3116
-    since_2016: 1463
-- h_index:
-    all: 31
-    since_2016: 18
-- i10_index:
-    all: 75
-    since_2016: 43
 
-last_update: '2021-09-16'
+last_update: '2022-03-04'
 
 links:
   LinkedIn: https://www.linkedin.com/in/milan-certik-65a0834b/?originalSubdomain=sk

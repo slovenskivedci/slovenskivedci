@@ -1,7 +1,7 @@
 name: "Ivan Šimko"
 last: "Šimko"
 
-year: 
+year:
 sex: "muž"
 
 position: "vedec"
@@ -10,10 +10,10 @@ affiliation: "U.S. Department of Agriculture"
 city: "Salinas"
 country: "USA"
 
-hindex: 30
+hindex: 31
 scholar: https://scholar.google.com/citations?user=Ghikz7sAAAAJ&oi=ao
 
-last_update: '2022-02-12'
+last_update: '2022-03-04'
 
 links:
   web: https://www.ars.usda.gov/people-locations/person/?person-id=39590

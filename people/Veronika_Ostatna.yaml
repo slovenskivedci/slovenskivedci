@@ -12,18 +12,8 @@ country: "Česko"
 hindex: 30
 scholar: https://scholar.google.com/citations?hl=en&user=ZezlLfEAAAAJ
 
-cited_by:
-- citations:
-    all: 2693
-    since_2016: 1652
-- h_index:
-    all: 30
-    since_2016: 21
-- i10_index:
-    all: 48
-    since_2016: 29
 
-last_update: '2021-12-14'
+last_update: '2022-03-04'
 
 links:
   web: https://www.ibp.cz/cs/vyzkum/oddeleni/biofyzikalni-chemie-a-molekularni-onkologie/zamestnanci/129

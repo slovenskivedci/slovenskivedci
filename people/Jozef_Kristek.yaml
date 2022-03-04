@@ -1,20 +1,11 @@
 affiliation: "Univerzita Komenského"
-cited_by:
-- citations:
-    all: 4550
-    since_2016: 2335
-- h_index:
-    all: 31
-    since_2016: 24
-- i10_index:
-    all: 47
-    since_2016: 37
+
 city: "Bratislava"
 country: "Slovensko"
 field: "geofyzika"
-hindex: 31
+hindex: 32
 img: Jozef_Kristek.jpg
-last_update: '2021-09-16'
+last_update: '2022-03-04'
 links:
   web 1: http://www.nuquake.eu
   orcid: https://orcid.org/0000-0002-2332-541X

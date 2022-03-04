@@ -5102,6 +5102,38 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "patofyziol\xF3gia"
+  fieldurl: patofyziologia
+  hindex: 34
+  img: Jozef_Ukropec.jpg
+  last: Ukropec
+  last_update: '2022-03-04'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/506233/overview
+  - - orcid
+    - https://orcid.org/0000-0001-8401-6621
+  - - publons
+    - https://publons.com/researcher/3489206/jozef-ukropec/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jozef_Ukropec
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273
+  - - "\u017Eivotopis"
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273&action=cv
+  name: Jozef Ukropec
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=geK1ms0AAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1974
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
       all: 3975
@@ -5386,6 +5418,30 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: Amazon
+  affiliationurl: Amazon
+  city: Berkeley
+  cityurl: Berkeley
+  country: USA
+  countryurl: USA
+  field: "strojov\xE9 u\u010Denie"
+  fieldurl: strojove_ucenie
+  hindex: 33
+  img: Branislav_Kveton.jpg
+  last: Kveton
+  last_update: '2022-03-04'
+  links:
+  - - dblp
+    - https://dblp.org/pid/92/5526.html
+  - - web
+    - http://www.bkveton.com
+  name: "Branislav Kveto\u0148"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -5474,31 +5530,51 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: Google
-  affiliationurl: Google
-  city: "Z\xFCrich"
-  cityurl: Zurich
-  country: "\u0160vaj\u010Diarsko"
-  countryurl: Svajciarsko
-  field: informatika
-  fieldurl: informatika
+- affiliation: Brookhaven National Laboratory
+  affiliationurl: Brookhaven_National_Laboratory
+  city: Upton
+  cityurl: Upton
+  country: USA
+  countryurl: USA
+  field: "jadrov\xE1 fyzika"
+  fieldurl: jadrova_fyzika
   hindex: 33
-  img: Martin_Pal.jpg
-  last: Pal
-  last_update: '2021-12-25'
+  img: Pavel_Oblozinsky.png
+  last: Oblozinsky
+  last_update: '2022-03-04'
   links:
-  - - dblp
-    - https://dblp.org/pid/p/MartinPal.html
-  - - IMO
-    - https://www.imo-official.org/participant_r.aspx?id=3826
-  - - web
-    - https://research.google/people/author20/
+  - - LinkedIn
+    - https://www.linkedin.com/in/pavel-oblozinsky-335308ba/?originalSubdomain=sk
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/P-Oblozinsky-81811255
   - - "\u017Eivotopis"
-    - http://martin.palenica.com/cv2.pdf
-  name: "Martin P\xE1l"
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?&user=NDhlLv0AAAAJ
+    - https://indico.cern.ch/event/675816/page/12195-pavel-oblozinsky
+  name: "Pavel Oblo\u017Einsk\xFD"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=lrz3brYAAAAJ&hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1943
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "patofyziol\xF3gia"
+  fieldurl: patofyziologia
+  hindex: 33
+  img: Ludovit_Paulis.jpg
+  last: Paulis
+  last_update: '2022-03-04'
+  links:
+  - - web
+    - https://eccr.org/dr-ludovit-paulis/
+  name: "\u013Dudov\xEDt Paulis"
+  position: "odborn\xFD asistent"
+  positionurl: odborny_asistent
+  scholar: https://scholar.google.sk/citations?user=eBoisLQAAAAJ&amp;hl=sk&amp;oi=ao
   sex: "mu\u017E"
   sexurl: muz
   year: ''
@@ -5614,38 +5690,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1971
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "patofyziol\xF3gia"
-  fieldurl: patofyziologia
-  hindex: 33
-  img: Jozef_Ukropec.jpg
-  last: Ukropec
-  last_update: '2021-12-25'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/506233/overview
-  - - orcid
-    - https://orcid.org/0000-0001-8401-6621
-  - - publons
-    - https://publons.com/researcher/3489206/jozef-ukropec/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Jozef_Ukropec
-  - - web
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273
-  - - "\u017Eivotopis"
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273&action=cv
-  name: Jozef Ukropec
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=geK1ms0AAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1974
 - affiliation: Florida State University
   affiliationurl: Florida_State_University
   cited_by:
@@ -5686,45 +5730,43 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: Curtin University
-  affiliationurl: Curtin_University
-  cited_by:
-  - citations:
-      all: 2925
-      since_2016: 2242
-  - h_index:
-      all: 32
-      since_2016: 26
-  - i10_index:
-      all: 79
-      since_2016: 73
-  city: Perth
-  cityurl: Perth
-  country: "Austr\xE1lia"
-  countryurl: Australia
-  field: "geochronol\xF3gia"
-  fieldurl: geochronologia
+- affiliation: Stanford University
+  affiliationurl: Stanford_University
+  city: Menlo Park
+  cityurl: Menlo_Park
+  country: USA
+  countryurl: USA
+  field: "v\xFDpo\u010Dtov\xE1 katal\xFDza"
+  fieldurl: vypoctova_katalyza
   hindex: 32
-  img: Martin_Danisik.jpg
-  last: Danisik
-  last_update: '2021-11-21'
+  img: Michal_Bajdich.jpg
+  last: Bajdich
+  last_update: '2022-03-04'
   links:
-  - - dennikn.sk
-    - http://science.dennikn.sk/clanky-a-rozhovory/neziva-priroda/vesmir-a-zem/6569-slovensky-geolog-skuma-dosledky-erupcie-super-vulkanu
+  - - facebook
+    - https://www.facebook.com/michal.bajdich.37
+  - - LinkedIn
+    - https://www.linkedin.com/in/michal-bajdich-1a1b3426
+  - - loop
+    - https://loop.frontiersin.org/people/1122602/overview
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/2776854392/publication/search?q=Michal%20Bajdich&qe=Composite(AA.AuId%253D2776854392)&f=&orderBy=0&paperId=2984061692
   - - orcid
-    - https://orcid.org/0000-0002-0885-4938
-  - - publons
-    - https://publons.com/researcher/2645083/martin-danisik/
-  - - scopus
-    - https://www.scopus.com/authid/detail.uri?authorId=12239479000
-  - - sme.sk
-    - https://tech.sme.sk/c/20489874/geolog-napiseme-do-nasa-aby-nam-zaslali-vzorky-z-meteoritov-alebo-z-mesiaca.html
-  - - web
-    - https://staffportal.curtin.edu.au/staff/profile/view/martin-danisik-b20e9bfb/
-  name: "Martin Dani\u0161\xEDk"
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.com.au/citations?user=bLoHCS8AAAAJ&hl=en
+    - https://orcid.org/0000-0003-1168-8616
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Michal-Bajdich
+  - - web 1
+    - https://suncat.stanford.edu/people/michal-bajdich
+  - - web 2
+    - https://www.catalysis-hub.org
+  - - web 3
+    - https://profiles.stanford.edu/michal-bajdich
+  - - "\u017Eivotopis"
+    - https://suncat.stanford.edu/sites/default/files/MBajdich_CV_late_2020_0.pdf
+  name: Michal Bajdich
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?hl=en&user=x9sZ1Q4AAAAJ
   sex: "mu\u017E"
   sexurl: muz
   year: ''
@@ -5850,6 +5892,36 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: geofyzika
+  fieldurl: geofyzika
+  hindex: 32
+  img: Jozef_Kristek.jpg
+  last: Kristek
+  last_update: '2022-03-04'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-2332-541X
+  - - publons
+    - https://publons.com/researcher/1444523/jozef-kristek/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jozef-Kristek
+  - - web 1
+    - http://www.nuquake.eu
+  - - web 2
+    - http://www.geo.sav.sk/en/staff/jozef-kristek-en/
+  name: Jozef Kristek
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.com/citations?user=CgbiV4EAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: CSIRO
   affiliationurl: CSIRO
   cited_by:
@@ -5889,30 +5961,6 @@
   position: vedec
   positionurl: vedec
   scholar: https://scholar.google.com/citations?hl=en&amp;user=G9w7WT4AAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
-- affiliation: Amazon
-  affiliationurl: Amazon
-  city: Berkeley
-  cityurl: Berkeley
-  country: USA
-  countryurl: USA
-  field: "strojov\xE9 u\u010Denie"
-  fieldurl: strojove_ucenie
-  hindex: 32
-  img: Branislav_Kveton.jpg
-  last: Kveton
-  last_update: '2020-12-31'
-  links:
-  - - dblp
-    - https://dblp.org/pid/92/5526.html
-  - - web
-    - http://www.bkveton.com
-  name: "Branislav Kveto\u0148"
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
   sex: "mu\u017E"
   sexurl: muz
   year: ''
@@ -5976,42 +6024,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1963
-- affiliation: Brookhaven National Laboratory
-  affiliationurl: Brookhaven_National_Laboratory
-  cited_by:
-  - citations:
-      all: 10621
-      since_2016: 4746
-  - h_index:
-      all: 32
-      since_2016: 16
-  - i10_index:
-      all: 62
-      since_2016: 20
-  city: Upton
-  cityurl: Upton
-  country: USA
-  countryurl: USA
-  field: "jadrov\xE1 fyzika"
-  fieldurl: jadrova_fyzika
-  hindex: 32
-  img: Pavel_Oblozinsky.png
-  last: Oblozinsky
-  last_update: '2021-12-14'
-  links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/pavel-oblozinsky-335308ba/?originalSubdomain=sk
-  - - ResearchGate
-    - https://www.researchgate.net/scientific-contributions/P-Oblozinsky-81811255
-  - - "\u017Eivotopis"
-    - https://indico.cern.ch/event/675816/page/12195-pavel-oblozinsky
-  name: "Pavel Oblo\u017Einsk\xFD"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=lrz3brYAAAAJ&hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1943
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
   affiliationurl: Technicka_univerzita_vo_Zvolene
   cited_by:
@@ -6044,38 +6056,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 2935
-      since_2016: 1535
-  - h_index:
-      all: 32
-      since_2016: 25
-  - i10_index:
-      all: 52
-      since_2016: 41
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "patofyziol\xF3gia"
-  fieldurl: patofyziologia
-  hindex: 32
-  img: Ludovit_Paulis.jpg
-  last: Paulis
-  last_update: '2021-09-16'
-  links:
-  - - web
-    - https://eccr.org/dr-ludovit-paulis/
-  name: "\u013Dudov\xEDt Paulis"
-  position: "odborn\xFD asistent"
-  positionurl: odborny_asistent
-  scholar: https://scholar.google.sk/citations?user=eBoisLQAAAAJ&amp;hl=sk&amp;oi=ao
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -6100,133 +6080,51 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1951
-- affiliation: "Vysok\xE1 \u0161kola chemicko-technologick\xE1"
-  affiliationurl: Vysoka_skola_chemicko-technologicka
-  cited_by:
-  - citations:
-      all: 2873
-      since_2016: 1813
-  - h_index:
-      all: 32
-      since_2016: 26
-  - i10_index:
-      all: 67
-      since_2016: 56
-  city: Praha
-  cityurl: Praha
-  country: "\u010Cesko"
-  countryurl: Cesko
-  field: "chemick\xE9 in\u017Einierstvo"
-  fieldurl: chemicke_inzinierstvo
+- affiliation: MBZUAI
+  affiliationurl: MBZUAI
+  city: Abu Dhabi
+  cityurl: Abu_Dhabi
+  country: "Spojen\xE9 arabsk\xE9 emir\xE1ty"
+  countryurl: Spojene_arabske_emiraty
+  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
+  fieldurl: optimalizacia_a_strojove_ucenie
   hindex: 32
-  img: Miroslav_Soos.jpeg
-  last: Soos
-  last_update: '2021-12-25'
+  img: Martin_Takac.jpg
+  last: Takac
+  last_update: '2022-03-04'
   links:
+  - - dblp
+    - https://dblp.org/pid/42/3759.html
+  - - IEEE Xplore
+    - https://ieeexplore.ieee.org/author/37085360273
+  - - KInIT
+    - https://kinit.sk/meet-martin-takac-kinit-external-mentor/
   - - LinkedIn
-    - https://www.linkedin.com/in/miroslav-soos-184a7b8/?originalSubdomain=cz
+    - https://www.linkedin.com/in/martintakac/
+  - - loop
+    - https://loop.frontiersin.org/people/199374/overview
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182721
+  - - openreview
+    - https://openreview.net/profile?id=~Martin_Takac3
   - - orcid
-    - https://orcid.org/0000-0002-9742-7160
+    - https://orcid.org/0000-0001-7455-2025
   - - publons
-    - https://publons.com/researcher/2491751/miroslav-soos/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Miroslav_Soos
-  - - web
-    - http://labsoos.vscht.cz
+    - https://publons.com/researcher/484601/martin-takac/
+  - - SlidesLive
+    - https://slideslive.com/s/martin-takac-23271
+  - - twitter
+    - https://twitter.com/takacmartin
+  - - web 1
+    - http://mtakac.com
+  - - web 2
+    - https://engineering.lehigh.edu/faculty/martin-takac
   - - "\u017Eivotopis"
-    - http://www.biotech2017.cz/domains/biotech2017.cz/data/uploads/CV_MSoos.pdf
-  name: "Miroslav \u0160o\xF3\u0161"
+    - https://mtakac.com/CV
+  name: "Martin Tak\xE1\u010D"
   position: docent
   positionurl: docent
-  scholar: https://scholar.google.com/citations?user=5sAJJkgAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 4059
-      since_2016: 2029
-  - h_index:
-      all: 32
-      since_2016: 23
-  - i10_index:
-      all: 108
-      since_2016: 60
-  city: "Ko\u0161ice"
-  cityurl: Kosice
-  country: Slovensko
-  countryurl: Slovensko
-  field: fyzika magnetizmu
-  fieldurl: fyzika_magnetizmu
-  hindex: 32
-  img: Milan_Timko.jpg
-  last: Timko
-  last_update: '2021-09-16'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0002-2914-496X
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Milan_Timko
-  - - web
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=2393
-  - - "\u017Eivotopis"
-    - https://www.osobnosti.sk/osobnost/milan-timko-846
-  name: Milan Timko
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.sk/citations?user=ckojWlAAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1954
-- affiliation: Stanford University
-  affiliationurl: Stanford_University
-  cited_by:
-  - citations:
-      all: 6560
-      since_2016: 5878
-  - h_index:
-      all: 30
-      since_2016: 29
-  - i10_index:
-      all: 48
-      since_2016: 45
-  city: Menlo Park
-  cityurl: Menlo_Park
-  country: USA
-  countryurl: USA
-  field: "v\xFDpo\u010Dtov\xE1 katal\xFDza"
-  fieldurl: vypoctova_katalyza
-  hindex: 31
-  img: Michal_Bajdich.jpg
-  last: Bajdich
-  last_update: '2021-12-25'
-  links:
-  - - facebook
-    - https://www.facebook.com/michal.bajdich.37
-  - - LinkedIn
-    - https://www.linkedin.com/in/michal-bajdich-1a1b3426
-  - - loop
-    - https://loop.frontiersin.org/people/1122602/overview
-  - - Microsoft Academic
-    - https://academic.microsoft.com/author/2776854392/publication/search?q=Michal%20Bajdich&qe=Composite(AA.AuId%253D2776854392)&f=&orderBy=0&paperId=2984061692
-  - - orcid
-    - https://orcid.org/0000-0003-1168-8616
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Michal-Bajdich
-  - - web 1
-    - https://suncat.stanford.edu/people/michal-bajdich
-  - - web 2
-    - https://www.catalysis-hub.org
-  - - web 3
-    - https://profiles.stanford.edu/michal-bajdich
-  - - "\u017Eivotopis"
-    - https://suncat.stanford.edu/sites/default/files/MBajdich_CV_late_2020_0.pdf
-  name: Michal Bajdich
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?hl=en&user=x9sZ1Q4AAAAJ
+  scholar: https://scholar.google.com/citations?hl=en&user=qKQD-2cAAAAJ
   sex: "mu\u017E"
   sexurl: muz
   year: ''
@@ -6310,46 +6208,38 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
-- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
-  affiliationurl: Slovenska_technicka_univerzita
-  cited_by:
-  - citations:
-      all: 3116
-      since_2016: 1463
-  - h_index:
-      all: 31
-      since_2016: 18
-  - i10_index:
-      all: 75
-      since_2016: 43
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "biotechnol\xF3gia"
-  fieldurl: biotechnologia
+- affiliation: Curtin University
+  affiliationurl: Curtin_University
+  city: Perth
+  cityurl: Perth
+  country: "Austr\xE1lia"
+  countryurl: Australia
+  field: "geochronol\xF3gia"
+  fieldurl: geochronologia
   hindex: 31
-  img: Milan_Certik.jpg
-  last: Certik
-  last_update: '2021-09-16'
+  img: Martin_Danisik.jpg
+  last: Danisik
+  last_update: '2022-03-04'
   links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/milan-certik-65a0834b/?originalSubdomain=sk
-  - - loop
-    - https://loop.frontiersin.org/people/691353/bio
+  - - dennikn.sk
+    - http://science.dennikn.sk/clanky-a-rozhovory/neziva-priroda/vesmir-a-zem/6569-slovensky-geolog-skuma-dosledky-erupcie-super-vulkanu
   - - orcid
-    - https://orcid.org/0000-0003-2171-8153
-  - - prabook
-    - https://prabook.com/web/milan.certik/335639
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Milan-Certik
-  name: "Milan \u010Cert\xEDk"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp
+    - https://orcid.org/0000-0002-0885-4938
+  - - publons
+    - https://publons.com/researcher/2645083/martin-danisik/
+  - - scopus
+    - https://www.scopus.com/authid/detail.uri?authorId=12239479000
+  - - sme.sk
+    - https://tech.sme.sk/c/20489874/geolog-napiseme-do-nasa-aby-nam-zaslali-vzorky-z-meteoritov-alebo-z-mesiaca.html
+  - - web
+    - https://staffportal.curtin.edu.au/staff/profile/view/martin-danisik-b20e9bfb/
+  name: "Martin Dani\u0161\xEDk"
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.com.au/citations?user=bLoHCS8AAAAJ&hl=en
   sex: "mu\u017E"
   sexurl: muz
-  year: 1962
+  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -6447,6 +6337,50 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1966
+- affiliation: Central European University
+  affiliationurl: Central_European_University
+  city: "Viede\u0148"
+  cityurl: Vieden
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "ekon\xF3mia"
+  fieldurl: ekonomia
+  hindex: 31
+  img: Martin_Kahanec.jpg
+  last: Kahanec
+  last_update: '2022-03-04'
+  links:
+  - - Academia Europaea
+    - https://www.ae-info.org/ae/Member/Kahanec_Martin
+  - - CELSI
+    - https://www.celsi.sk/sk/ludia/detail/64/martin-kahanec/
+  - - LinkedIn
+    - https://www.linkedin.com/in/martin-kahanec-6aaba32/?originalSubdomain=sk
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/137717598/publication?paperId=3145585907
+  - - orcid
+    - https://orcid.org/0000-0003-4397-3083
+  - - RePEc
+    - https://ideas.repec.org/f/pka206.html
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin-Kahanec
+  - - twitter
+    - https://twitter.com/martinkahanec
+  - - web 1
+    - https://www.celsi.sk/sk/ludia/detail/64/martin-kahanec/
+  - - web 2
+    - https://wol.iza.org/authors/martin-kahanec
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Martin_Kahanec
+  - - "\u017Eivotopis"
+    - https://www.celsi.sk/media/people/cv/Kahanec_CV_20190917_ONLINE.pdf
+  name: Martin Kahanec
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=2lo3e7sAAAAJ&hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1977
 - affiliation: "\u017Dilinsk\xE1 univerzita"
   affiliationurl: Zilinska_univerzita
   cited_by:
@@ -6557,46 +6491,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 4550
-      since_2016: 2335
-  - h_index:
-      all: 31
-      since_2016: 24
-  - i10_index:
-      all: 47
-      since_2016: 37
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: geofyzika
-  fieldurl: geofyzika
-  hindex: 31
-  img: Jozef_Kristek.jpg
-  last: Kristek
-  last_update: '2021-09-16'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0002-2332-541X
-  - - publons
-    - https://publons.com/researcher/1444523/jozef-kristek/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Jozef-Kristek
-  - - web 1
-    - http://www.nuquake.eu
-  - - web 2
-    - http://www.geo.sav.sk/en/staff/jozef-kristek-en/
-  name: Jozef Kristek
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.com/citations?user=CgbiV4EAAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: Uppsala University
   affiliationurl: Uppsala_University
   city: Uppsala
@@ -6671,6 +6565,30 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1974
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "biomedic\xEDna"
+  fieldurl: biomedicina
+  hindex: 31
+  img: Karol_Ondrias.png
+  last: Ondrias
+  last_update: '2022-03-04'
+  links:
+  - - web
+    - http://www.ondrias.sk
+  - - "wikip\xE9dia"
+    - "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"
+  name: "Karol Ondria\u0161"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1952
 - affiliation: "Univerzita Palack\xE9ho v Olomouci"
   affiliationurl: Univerzita_Palackeho_v_Olomouci
   city: Olomouc
@@ -6701,6 +6619,60 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1967
+- affiliation: Google
+  affiliationurl: Google
+  city: "Z\xFCrich"
+  cityurl: Zurich
+  country: "\u0160vaj\u010Diarsko"
+  countryurl: Svajciarsko
+  field: informatika
+  fieldurl: informatika
+  hindex: 31
+  img: Martin_Pal.jpg
+  last: Pal
+  last_update: '2022-03-04'
+  links:
+  - - dblp
+    - https://dblp.org/pid/p/MartinPal.html
+  - - IMO
+    - https://www.imo-official.org/participant_r.aspx?id=3826
+  - - web
+    - https://research.google/people/author20/
+  - - "\u017Eivotopis"
+    - http://martin.palenica.com/cv2.pdf
+  name: "Martin P\xE1l"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?&user=NDhlLv0AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
+- affiliation: University of Chicago
+  affiliationurl: University_of_Chicago
+  city: Chicago
+  cityurl: Chicago
+  country: USA
+  countryurl: USA
+  field: "ekon\xF3mia"
+  fieldurl: ekonomia
+  hindex: 31
+  img: Lubos_Pastor.png
+  last: Pastor
+  last_update: '2022-03-04'
+  links:
+  - - NBS
+    - https://www.nbs.sk/en/about-the-bank/bank-board-of-the-nbs/the-bank-board-member-lubos-pastor
+  - - osobnosti
+    - https://www.osobnosti.sk/osobnost/lubos-pastor-1801
+  - - web
+    - https://faculty.chicagobooth.edu/lubos-pastor
+  name: "\u013Dubo\u0161 P\xE1stor"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1974
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -6745,6 +6717,104 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1958
+- affiliation: International Institute for Applied Systems Analysis
+  affiliationurl: International_Institute_for_Applied_Systems_Analysis
+  city: Laxenburg
+  cityurl: Laxenburg
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "klimatick\xE1 zmena"
+  fieldurl: klimaticka_zmena
+  hindex: 31
+  img: Peter_Rafaj.jpg
+  last: Rafaj
+  last_update: '2022-03-04'
+  links:
+  - - dblp
+    - https://dblp.org/pid/134/4516.html
+  - - "denn\xEDkN"
+    - https://e.dennikn.sk/2304346/v-pekingu-dychate-taky-znecisteny-vzduch-ako-keby-ste-vyfajcili-krabicku-denne-hovori-slovensky-vedec-ktory-publikoval-v-lancete/
+  - - iiasa
+    - https://iiasa.ac.at
+  - - publons
+    - https://publons.com/researcher/2462168/peter-rafaj/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Rafaj-2
+  - - web
+    - https://iiasa.ac.at/staff/staff.php?type=auto&visibility=visible&search=true&login=rafaj
+  - - "\u017Eivotopis"
+    - https://biography.omicsonline.org/austria/international-institute-for-applied-systems-analysis/peter-rafaj-77808
+  name: Peter Rafaj
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?hl=en&user=ooffTIwAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
+- affiliation: U.S. Department of Agriculture
+  affiliationurl: U.S._Department_of_Agriculture
+  city: Salinas
+  cityurl: Salinas
+  country: USA
+  countryurl: USA
+  field: genetika
+  fieldurl: genetika
+  hindex: 31
+  img: Ivan_Simko.jpg
+  last: Simko
+  last_update: '2022-03-04'
+  links:
+  - - lab
+    - https://www.researchgate.net/lab/Ivan-Simko-Lab
+  - - loop
+    - https://loop.frontiersin.org/people/391173/overview
+  - - orcid
+    - https://orcid.org/0000-0002-8769-8477
+  - - publons
+    - https://publons.com/researcher/2692635/ivan-simko/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Ivan-Simko-4
+  - - web
+    - https://www.ars.usda.gov/people-locations/person/?person-id=39590
+  name: "Ivan \u0160imko"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=Ghikz7sAAAAJ&oi=ao
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
+- affiliation: "Vysok\xE1 \u0161kola chemicko-technologick\xE1"
+  affiliationurl: Vysoka_skola_chemicko-technologicka
+  city: Praha
+  cityurl: Praha
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "chemick\xE9 in\u017Einierstvo"
+  fieldurl: chemicke_inzinierstvo
+  hindex: 31
+  img: Miroslav_Soos.jpeg
+  last: Soos
+  last_update: '2022-03-04'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/miroslav-soos-184a7b8/?originalSubdomain=cz
+  - - orcid
+    - https://orcid.org/0000-0002-9742-7160
+  - - publons
+    - https://publons.com/researcher/2491751/miroslav-soos/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Miroslav_Soos
+  - - web
+    - http://labsoos.vscht.cz
+  - - "\u017Eivotopis"
+    - http://www.biotech2017.cz/domains/biotech2017.cz/data/uploads/CV_MSoos.pdf
+  name: "Miroslav \u0160o\xF3\u0161"
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.com/citations?user=5sAJJkgAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: NGM Biopharmaceuticals
   affiliationurl: NGM_Biopharmaceuticals
   cited_by:
@@ -6783,64 +6853,34 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: MBZUAI
-  affiliationurl: MBZUAI
-  cited_by:
-  - citations:
-      all: 5114
-      since_2016: 4330
-  - h_index:
-      all: 30
-      since_2016: 28
-  - i10_index:
-      all: 51
-      since_2016: 50
-  city: Abu Dhabi
-  cityurl: Abu_Dhabi
-  country: "Spojen\xE9 arabsk\xE9 emir\xE1ty"
-  countryurl: Spojene_arabske_emiraty
-  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
-  fieldurl: optimalizacia_a_strojove_ucenie
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: "Ko\u0161ice"
+  cityurl: Kosice
+  country: Slovensko
+  countryurl: Slovensko
+  field: fyzika magnetizmu
+  fieldurl: fyzika_magnetizmu
   hindex: 31
-  img: Martin_Takac.jpg
-  last: Takac
-  last_update: '2022-02-04'
+  img: Milan_Timko.jpg
+  last: Timko
+  last_update: '2022-03-04'
   links:
-  - - dblp
-    - https://dblp.org/pid/42/3759.html
-  - - IEEE Xplore
-    - https://ieeexplore.ieee.org/author/37085360273
-  - - KInIT
-    - https://kinit.sk/meet-martin-takac-kinit-external-mentor/
-  - - LinkedIn
-    - https://www.linkedin.com/in/martintakac/
-  - - loop
-    - https://loop.frontiersin.org/people/199374/overview
-  - - Mathematics Genealogy
-    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182721
-  - - openreview
-    - https://openreview.net/profile?id=~Martin_Takac3
   - - orcid
-    - https://orcid.org/0000-0001-7455-2025
-  - - publons
-    - https://publons.com/researcher/484601/martin-takac/
-  - - SlidesLive
-    - https://slideslive.com/s/martin-takac-23271
-  - - twitter
-    - https://twitter.com/takacmartin
-  - - web 1
-    - http://mtakac.com
-  - - web 2
-    - https://engineering.lehigh.edu/faculty/martin-takac
+    - https://orcid.org/0000-0002-2914-496X
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Milan_Timko
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=2393
   - - "\u017Eivotopis"
-    - https://mtakac.com/CV
-  name: "Martin Tak\xE1\u010D"
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.com/citations?hl=en&user=qKQD-2cAAAAJ
+    - https://www.osobnosti.sk/osobnost/milan-timko-846
+  name: Milan Timko
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.sk/citations?user=ckojWlAAAAAJ
   sex: "mu\u017E"
   sexurl: muz
-  year: ''
+  year: 1954
 - affiliation: University of Natural Resources and Life Sciences
   affiliationurl: University_of_Natural_Resources_and_Life_Sciences
   city: "Viede\u0148"
@@ -6911,6 +6951,36 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "biotechnol\xF3gia"
+  fieldurl: biotechnologia
+  hindex: 30
+  img: Milan_Certik.jpg
+  last: Certik
+  last_update: '2022-03-04'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/milan-certik-65a0834b/?originalSubdomain=sk
+  - - loop
+    - https://loop.frontiersin.org/people/691353/bio
+  - - orcid
+    - https://orcid.org/0000-0003-2171-8153
+  - - prabook
+    - https://prabook.com/web/milan.certik/335639
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Milan-Certik
+  name: "Milan \u010Cert\xEDk"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=UKDrvpQAAAAJ&amp
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1962
 - affiliation: "Pre\u0161ovsk\xE1 univerzita"
   affiliationurl: Presovska_univerzita
   city: "Pre\u0161ov"
@@ -6945,7 +7015,7 @@
   name: "Marek Chmel\xEDk"
   position: vedec
   positionurl: vedec
-  scholar: https://scholar.google.at/citations?user=uTmDnEsAAAAJ
+  scholar: https://scholar.google.com/citations?user=uTmDnEsAAAAJ
   sex: "mu\u017E"
   sexurl: muz
   year: 1980
@@ -6989,60 +7059,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: Central European University
-  affiliationurl: Central_European_University
-  cited_by:
-  - citations:
-      all: 2768
-      since_2016: 1564
-  - h_index:
-      all: 30
-      since_2016: 21
-  - i10_index:
-      all: 46
-      since_2016: 39
-  city: "Viede\u0148"
-  cityurl: Vieden
-  country: "Rak\xFAsko"
-  countryurl: Rakusko
-  field: "ekon\xF3mia"
-  fieldurl: ekonomia
-  hindex: 30
-  img: Martin_Kahanec.jpg
-  last: Kahanec
-  last_update: '2021-11-21'
-  links:
-  - - Academia Europaea
-    - https://www.ae-info.org/ae/Member/Kahanec_Martin
-  - - CELSI
-    - https://www.celsi.sk/sk/ludia/detail/64/martin-kahanec/
-  - - LinkedIn
-    - https://www.linkedin.com/in/martin-kahanec-6aaba32/?originalSubdomain=sk
-  - - Microsoft Academic
-    - https://academic.microsoft.com/author/137717598/publication?paperId=3145585907
-  - - orcid
-    - https://orcid.org/0000-0003-4397-3083
-  - - RePEc
-    - https://ideas.repec.org/f/pka206.html
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Martin-Kahanec
-  - - twitter
-    - https://twitter.com/martinkahanec
-  - - web 1
-    - https://www.celsi.sk/sk/ludia/detail/64/martin-kahanec/
-  - - web 2
-    - https://wol.iza.org/authors/martin-kahanec
-  - - "wikip\xE9dia"
-    - https://sk.wikipedia.org/wiki/Martin_Kahanec
-  - - "\u017Eivotopis"
-    - https://www.celsi.sk/media/people/cv/Kahanec_CV_20190917_ONLINE.pdf
-  name: Martin Kahanec
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=2lo3e7sAAAAJ&hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1977
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -7147,52 +7163,8 @@
   sex: "mu\u017E"
   sexurl: muz
   year: null
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 5131
-      since_2016: 1280
-  - h_index:
-      all: 30
-      since_2016: 18
-  - i10_index:
-      all: 74
-      since_2016: 34
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "biomedic\xEDna"
-  fieldurl: biomedicina
-  hindex: 30
-  img: Karol_Ondrias.png
-  last: Ondrias
-  last_update: '2021-12-25'
-  links:
-  - - web
-    - http://www.ondrias.sk
-  - - "wikip\xE9dia"
-    - "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"
-  name: "Karol Ondria\u0161"
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1952
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
-  cited_by:
-  - citations:
-      all: 2693
-      since_2016: 1652
-  - h_index:
-      all: 30
-      since_2016: 21
-  - i10_index:
-      all: 48
-      since_2016: 29
   city: Brno
   cityurl: Brno
   country: "\u010Cesko"
@@ -7202,7 +7174,7 @@
   hindex: 30
   img: Veronika_Ostatna.jpeg
   last: Ostatna
-  last_update: '2021-12-14'
+  last_update: '2022-03-04'
   links:
   - - academia.edu
     - https://independent.academia.edu/VeronikaOstatna
@@ -7221,42 +7193,6 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
-- affiliation: University of Chicago
-  affiliationurl: University_of_Chicago
-  cited_by:
-  - citations:
-      all: 18191
-      since_2016: 9524
-  - h_index:
-      all: 30
-      since_2016: 30
-  - i10_index:
-      all: 34
-      since_2016: 34
-  city: Chicago
-  cityurl: Chicago
-  country: USA
-  countryurl: USA
-  field: "ekon\xF3mia"
-  fieldurl: ekonomia
-  hindex: 30
-  img: Lubos_Pastor.png
-  last: Pastor
-  last_update: '2021-09-16'
-  links:
-  - - NBS
-    - https://www.nbs.sk/en/about-the-bank/bank-board-of-the-nbs/the-bank-board-member-lubos-pastor
-  - - osobnosti
-    - https://www.osobnosti.sk/osobnost/lubos-pastor-1801
-  - - web
-    - https://faculty.chicagobooth.edu/lubos-pastor
-  name: "\u013Dubo\u0161 P\xE1stor"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1974
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -7331,40 +7267,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: International Institute for Applied Systems Analysis
-  affiliationurl: International_Institute_for_Applied_Systems_Analysis
-  city: Laxenburg
-  cityurl: Laxenburg
-  country: "Rak\xFAsko"
-  countryurl: Rakusko
-  field: "klimatick\xE1 zmena"
-  fieldurl: klimaticka_zmena
-  hindex: 30
-  img: Peter_Rafaj.jpg
-  last: Rafaj
-  last_update: '2022-01-16'
-  links:
-  - - dblp
-    - https://dblp.org/pid/134/4516.html
-  - - "denn\xEDkN"
-    - https://e.dennikn.sk/2304346/v-pekingu-dychate-taky-znecisteny-vzduch-ako-keby-ste-vyfajcili-krabicku-denne-hovori-slovensky-vedec-ktory-publikoval-v-lancete/
-  - - iiasa
-    - https://iiasa.ac.at
-  - - publons
-    - https://publons.com/researcher/2462168/peter-rafaj/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Peter-Rafaj-2
-  - - web
-    - https://iiasa.ac.at/staff/staff.php?type=auto&visibility=visible&search=true&login=rafaj
-  - - "\u017Eivotopis"
-    - https://biography.omicsonline.org/austria/international-institute-for-applied-systems-analysis/peter-rafaj-77808
-  name: Peter Rafaj
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?hl=en&user=ooffTIwAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: null
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -7433,38 +7335,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: U.S. Department of Agriculture
-  affiliationurl: U.S._Department_of_Agriculture
-  city: Salinas
-  cityurl: Salinas
-  country: USA
-  countryurl: USA
-  field: genetika
-  fieldurl: genetika
-  hindex: 30
-  img: Ivan_Simko.jpg
-  last: Simko
-  last_update: '2022-02-12'
-  links:
-  - - lab
-    - https://www.researchgate.net/lab/Ivan-Simko-Lab
-  - - loop
-    - https://loop.frontiersin.org/people/391173/overview
-  - - orcid
-    - https://orcid.org/0000-0002-8769-8477
-  - - publons
-    - https://publons.com/researcher/2692635/ivan-simko/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Ivan-Simko-4
-  - - web
-    - https://www.ars.usda.gov/people-locations/person/?person-id=39590
-  name: "Ivan \u0160imko"
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=Ghikz7sAAAAJ&oi=ao
-  sex: "mu\u017E"
-  sexurl: muz
-  year: null
 - affiliation: Cardiff University
   affiliationurl: Cardiff_University
   city: Cardiff
