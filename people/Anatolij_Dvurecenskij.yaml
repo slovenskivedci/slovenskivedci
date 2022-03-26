@@ -1,25 +1,32 @@
-name: "Anatolij Dvurečenskij"
-last: "Dvurečenskij"
-year: 1949
-sex: "muž"
-
-field: "matematika"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
+cited_by:
+- citations:
+    all: 5132
+    since_2017: 1167
+- h_index:
+    all: 31
+    since_2017: 15
+- i10_index:
+    all: 109
+    since_2017: 32
+city: Bratislava
+country: Slovensko
+field: matematika
 hindex: 31
-position: profesor
-affiliation: "Slovenská akadémia vied"
-city: "Bratislava"
-country: "Slovensko"
-
-scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC
-
 img: Anatolij_Dvurecenskij.jpeg
-last_update: '2020-12-31'
-
+last: "Dvure\u010Denskij"
+last_update: '2022-03-26'
 links:
+  Mathematics Genealogy: https://www.mathgenealogy.org/id.php?id=128765
   ResearchGate: https://www.researchgate.net/scientific-contributions/Anatolij-Dvurecenskij-77457283
   dblp: https://dblp.org/pid/15/2733.html
   osobnosti: https://www.osobnosti.sk/osobnost/anatolij-dvurecenskij-559
   publons: https://publons.com/researcher/4012335/anatolij-dvurecenskij/
   web: http://www.mat.savba.sk/~dvurecenskij/
-  životopis: https://www.ku.sk/images/dokumenty/pf/dokumenty/veda_a_vyskum/projekty_a_granty/kega/1._životopis_prof._dvurečenskij14421.pdf
-  Mathematics Genealogy: https://www.mathgenealogy.org/id.php?id=128765
+  "\u017Eivotopis": "https://www.ku.sk/images/dokumenty/pf/dokumenty/veda_a_vyskum/projekty_a_granty/kega/1._\u017E\
+    ivotopis_prof._dvure\u010Denskij14421.pdf"
+name: "Anatolij Dvure\u010Denskij"
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC
+sex: "mu\u017E"
+year: 1949

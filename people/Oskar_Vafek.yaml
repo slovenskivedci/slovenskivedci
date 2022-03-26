@@ -1,37 +1,29 @@
-name: "Oskar Vafek"
-last: "Vafek"
-
-position: profesor
-
-affiliation: "Florida State University"
-city: "Tallahassee"
-country: "USA"
-sex: "muž"
-
+affiliation: Florida State University
 cited_by:
 - citations:
-    all: 4844
-    since_2016: 2547
+    all: 4941
+    since_2017: 2335
 - h_index:
     all: 33
-    since_2016: 28
+    since_2017: 26
 - i10_index:
-    all: 55
-    since_2016: 45
-
-field: "fyzika tuhých látok"
+    all: 53
+    since_2017: 42
+city: Tallahassee
+country: USA
+field: "fyzika tuh\xFDch l\xE1tok"
 hindex: 33
-
 img: Oskar_Vafek.jpg
-
-last_update: '2021-09-16'
-
+last: Vafek
+last_update: '2022-03-26'
 links:
+  LinkedIn: https://www.linkedin.com/in/oskar-vafek-14a39b8/
   orcid: https://orcid.org/0000-0001-7561-9287
   web 1: https://physics.fsu.edu/person/oskar-vafek
   web 2: https://fs.magnet.fsu.edu/~vafek/
-  životopis: https://fs.magnet.fsu.edu/~vafek/cv2015 Apr.pdf
-  LinkedIn: https://www.linkedin.com/in/oskar-vafek-14a39b8/
-
+  "\u017Eivotopis": https://fs.magnet.fsu.edu/~vafek/cv2015 Apr.pdf
+name: Oskar Vafek
+position: profesor
 scholar: https://scholar.google.com/citations?user=-toxVLsAAAAJ&amp;hl=en
+sex: "mu\u017E"
 year: ''

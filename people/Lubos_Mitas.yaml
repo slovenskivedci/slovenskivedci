@@ -1,21 +1,26 @@
-name: "Luboš Mitáš"
-last: "Mitáš"
-
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
-year: ''
-sex: "muž"
-
-affiliation: "North Carolina State University"
-city: "Raleigh"
-country: "USA"
-field: "fyzika"
+affiliation: North Carolina State University
+cited_by:
+- citations:
+    all: 11258
+    since_2017: 3559
+- h_index:
+    all: 49
+    since_2017: 29
+- i10_index:
+    all: 88
+    since_2017: 59
+city: Raleigh
+country: USA
+field: fyzika
 hindex: 49
-
-last_update: '2020-12-31'
+img: Lubos_Mitas.jpg
+last: "Mit\xE1\u0161"
+last_update: '2022-03-26'
 links:
   web: https://physics.sciences.ncsu.edu/people/lmitas/
-  životopis: http://altair.physics.ncsu.edu/cv.html
-
-
-img: Lubos_Mitas.jpg
+  "\u017Eivotopis": http://altair.physics.ncsu.edu/cv.html
+name: "Lubo\u0161 Mit\xE1\u0161"
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
+sex: "mu\u017E"
+year: ''

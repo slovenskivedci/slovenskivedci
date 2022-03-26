@@ -1,17 +1,26 @@
-affiliation: "Slovenská akadémia vied"
-city: "Bratislava"
-country: "Slovensko"
-field: "botanika"
-hindex: 44
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
+cited_by:
+- citations:
+    all: 15563
+    since_2017: 7256
+- h_index:
+    all: 45
+    since_2017: 29
+- i10_index:
+    all: 140
+    since_2017: 84
+city: Bratislava
+country: Slovensko
+field: botanika
+hindex: 45
 img: Karol_Marhold.jpg
-last_update: '2020-12-31'
+last: Marhold
+last_update: '2022-03-26'
 links:
   publons: https://publons.com/researcher/1220455/karol-marhold/
   web: https://ibot.sav.sk/usr/Karol/
-
-name: "Karol Marhold"
-last: "Marhold"
+name: Karol Marhold
 position: profesor
 scholar: https://scholar.google.com/citations?user=uA0tObYAAAAJ&amp;hl=en
+sex: "mu\u017E"
 year: ''
-sex: "muž"

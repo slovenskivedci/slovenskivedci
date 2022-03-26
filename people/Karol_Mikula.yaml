@@ -1,16 +1,25 @@
-affiliation: "Slovenská technická univerzita"
-city: "Bratislava"
-country: "Slovensko"
-field: "aplikovaná matematika"
+affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+cited_by:
+- citations:
+    all: 3261
+    since_2017: 966
+- h_index:
+    all: 32
+    since_2017: 15
+- i10_index:
+    all: 78
+    since_2017: 23
+city: Bratislava
+country: Slovensko
+field: "aplikovan\xE1 matematika"
 hindex: 32
 img: Karol_Mikula.jpg
-last_update: '2020-12-31'
+last: Mikula
+last_update: '2022-03-26'
 links:
   web: http://www.math.sk/mikula/
-
-name: "Karol Mikula"
-last: "Mikula"
-position: "profesor"
+name: Karol Mikula
+position: profesor
 scholar: https://scholar.google.sk/citations?user=nM3oZ78AAAAJ&amp;hl=en&amp;oi=ao
+sex: "mu\u017E"
 year: 1963
-sex: "muž"

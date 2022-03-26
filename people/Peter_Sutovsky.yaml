@@ -1,22 +1,28 @@
-name: "Peter Šutovský"
-last: "Šutovský"
-
+affiliation: University of Missouri
+cited_by:
+- citations:
+    all: 21956
+    since_2017: 9846
+- h_index:
+    all: 59
+    since_2017: 32
+- i10_index:
+    all: 158
+    since_2017: 117
+city: Columbia
+country: USA
+field: "reproduk\u010Dn\xE1 biol\xF3gia"
+hindex: 59
+img: Peter_Sutovsky.jpeg
+last: "\u0160utovsk\xFD"
+last_update: '2022-03-26'
+links:
+  "na\u0161i a svetov\xED": https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
+  web: https://cafnrfaculty.missouri.edu/sutovskylab/
+  "\u017Eivotopis 1": https://cafnrfaculty.missouri.edu/sutovskylab/cv-peter-sutovsky/
+  "\u017Eivotopis 2": https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf
+name: "Peter \u0160utovsk\xFD"
 position: profesor
 scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp
+sex: "mu\u017E"
 year: 1967
-sex: "muž"
-
-
-
-affiliation: "University of Missouri"
-city: "Columbia"
-country: "USA"
-field: "reprodukčná biológia"
-hindex: 58
-img: Peter_Sutovsky.jpeg
-last_update: '2020-12-31'
-links:
-  naši a svetoví: https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
-  web: https://cafnrfaculty.missouri.edu/sutovskylab/
-  životopis 1: https://cafnrfaculty.missouri.edu/sutovskylab/cv-peter-sutovsky/
-  životopis 2: https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf

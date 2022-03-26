@@ -740,6 +740,47 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1965
+<<<<<<< HEAD
+=======
+- affiliation: University of Missouri
+  affiliationurl: University_of_Missouri
+  cited_by:
+  - citations:
+      all: 21956
+      since_2017: 9846
+  - h_index:
+      all: 59
+      since_2017: 32
+  - i10_index:
+      all: 158
+      since_2017: 117
+  city: Columbia
+  cityurl: Columbia
+  country: USA
+  countryurl: USA
+  field: "reproduk\u010Dn\xE1 biol\xF3gia"
+  fieldurl: reprodukcna_biologia
+  hindex: 59
+  img: Peter_Sutovsky.jpeg
+  last: Sutovsky
+  last_update: '2022-03-26'
+  links:
+  - - "na\u0161i a svetov\xED"
+    - https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
+  - - web
+    - https://cafnrfaculty.missouri.edu/sutovskylab/
+  - - "\u017Eivotopis 1"
+    - https://cafnrfaculty.missouri.edu/sutovskylab/cv-peter-sutovsky/
+  - - "\u017Eivotopis 2"
+    - https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf
+  name: "Peter \u0160utovsk\xFD"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1967
+>>>>>>> 6b53821ff151aeb3e7a7aae341db561fc901bf41
 - affiliation: "Trnavsk\xE1 univerzita"
   affiliationurl: Trnavska_univerzita
   city: Trnava
@@ -766,34 +807,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: University of Missouri
-  affiliationurl: University_of_Missouri
-  city: Columbia
-  cityurl: Columbia
-  country: USA
-  countryurl: USA
-  field: "reproduk\u010Dn\xE1 biol\xF3gia"
-  fieldurl: reprodukcna_biologia
-  hindex: 58
-  img: Peter_Sutovsky.jpeg
-  last: Sutovsky
-  last_update: '2020-12-31'
-  links:
-  - - "na\u0161i a svetov\xED"
-    - https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
-  - - web
-    - https://cafnrfaculty.missouri.edu/sutovskylab/
-  - - "\u017Eivotopis 1"
-    - https://cafnrfaculty.missouri.edu/sutovskylab/cv-peter-sutovsky/
-  - - "\u017Eivotopis 2"
-    - https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf
-  name: "Peter \u0160utovsk\xFD"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1967
 - affiliation: IST Austria
   affiliationurl: IST_Austria
   city: Klosterneuburg
@@ -848,6 +861,16 @@
   year: 1941
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 23790
+      since_2017: 6582
+  - h_index:
+      all: 57
+      since_2017: 29
+  - i10_index:
+      all: 78
+      since_2017: 51
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -857,7 +880,7 @@
   hindex: 57
   img: Vladimir_Cerny.jpg
   last: Cerny
-  last_update: '2020-12-31'
+  last_update: '2022-03-26'
   links:
   - - web
     - http://davinci.fmph.uniba.sk/~cerny1/
@@ -902,6 +925,16 @@
   year: null
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 13654
+      since_2017: 5170
+  - h_index:
+      all: 57
+      since_2017: 32
+  - i10_index:
+      all: 248
+      since_2017: 134
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -911,7 +944,7 @@
   hindex: 57
   img: Pavel_Povinec.jpg
   last: Povinec
-  last_update: '2020-12-31'
+  last_update: '2022-03-26'
   links:
   - - academia.edu
     - https://comeniusuniversity.academia.edu/PavelPovinec
@@ -1447,6 +1480,45 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1954
+<<<<<<< HEAD
+=======
+- affiliation: University of California
+  affiliationurl: University_of_California
+  cited_by:
+  - citations:
+      all: 10772
+      since_2017: 4386
+  - h_index:
+      all: 50
+      since_2017: 29
+  - i10_index:
+      all: 117
+      since_2017: 62
+  city: San Diego
+  cityurl: San_Diego
+  country: USA
+  countryurl: USA
+  field: neuroveda
+  fieldurl: neuroveda
+  hindex: 50
+  img: Martin_Marsala.jpg
+  last: Marsala
+  last_update: '2022-03-26'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0001-5048-6422
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin_Marsala
+  - - web
+    - http://www.marsala-lab.com/team/
+  name: "Martin Mar\u0161ala"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
+>>>>>>> 6b53821ff151aeb3e7a7aae341db561fc901bf41
 - affiliation: KAUST
   affiliationurl: KAUST
   cited_by:
@@ -1537,34 +1609,18 @@
   sex: "mu\u017E"
   sexurl: muz
   year: null
-- affiliation: University of California
-  affiliationurl: University_of_California
-  city: San Diego
-  cityurl: San_Diego
-  country: USA
-  countryurl: USA
-  field: neuroveda
-  fieldurl: neuroveda
-  hindex: 49
-  img: Martin_Marsala.jpg
-  last: Marsala
-  last_update: '2020-12-31'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0001-5048-6422
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Martin_Marsala
-  - - web
-    - http://www.marsala-lab.com/team/
-  name: "Martin Mar\u0161ala"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: North Carolina State University
   affiliationurl: North_Carolina_State_University
+  cited_by:
+  - citations:
+      all: 11258
+      since_2017: 3559
+  - h_index:
+      all: 49
+      since_2017: 29
+  - i10_index:
+      all: 88
+      since_2017: 59
   city: Raleigh
   cityurl: Raleigh
   country: USA
@@ -1574,7 +1630,7 @@
   hindex: 49
   img: Lubos_Mitas.jpg
   last: Mitas
-  last_update: '2020-12-31'
+  last_update: '2022-03-26'
   links:
   - - web
     - https://physics.sciences.ncsu.edu/people/lmitas/
@@ -1725,6 +1781,16 @@
   year: 1960
 - affiliation: University of Louisville
   affiliationurl: University_of_Louisville
+  cited_by:
+  - citations:
+      all: 8141
+      since_2017: 2475
+  - h_index:
+      all: 47
+      since_2017: 27
+  - i10_index:
+      all: 123
+      since_2017: 70
   city: Louisville
   cityurl: Louisville
   country: USA
@@ -1734,7 +1800,7 @@
   hindex: 47
   img: Peter_Hedera.jpg
   last: Hedera
-  last_update: '2020-12-31'
+  last_update: '2022-03-26'
   links:
   - - loop
     - https://loop.frontiersin.org/people/118500/overview
@@ -1865,6 +1931,43 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: University of Minnesota
+  affiliationurl: University_of_Minnesota
+  cited_by:
+  - citations:
+      all: 9015
+      since_2017: 3442
+  - h_index:
+      all: 46
+      since_2017: 30
+  - i10_index:
+      all: 79
+      since_2017: 61
+  city: Twin Cities
+  cityurl: Twin_Cities
+  country: USA
+  countryurl: USA
+  field: "r\xE1diol\xF3gia"
+  fieldurl: radiologia
+  hindex: 46
+  img: Ivan_Tkac.jpeg
+  last: Tkac
+  last_update: '2022-03-26'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0001-5054-0150
+  - - web
+    - https://www.cmrr.umn.edu/facultystaff/ivan/
+  - - "\u017Eivotopis"
+    - https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda v Centre
+      2011/Tkac- curriculum vitae 2011-02-14.pdf
+  name: "Ivan Tk\xE1\u010D"
+  position: "odborn\xFD asistent"
+  positionurl: odborny_asistent
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=DNCCZHYAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1954
 - affiliation: University of Washington
   affiliationurl: University_of_Washington
   cited_by:
@@ -1987,6 +2090,40 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
+      all: 15563
+      since_2017: 7256
+  - h_index:
+      all: 45
+      since_2017: 29
+  - i10_index:
+      all: 140
+      since_2017: 84
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: botanika
+  fieldurl: botanika
+  hindex: 45
+  img: Karol_Marhold.jpg
+  last: Marhold
+  last_update: '2022-03-26'
+  links:
+  - - publons
+    - https://publons.com/researcher/1220455/karol-marhold/
+  - - web
+    - https://ibot.sav.sk/usr/Karol/
+  name: Karol Marhold
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=uA0tObYAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -2038,33 +2175,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1972
-- affiliation: University of Minnesota
-  affiliationurl: University_of_Minnesota
-  city: Twin Cities
-  cityurl: Twin_Cities
-  country: USA
-  countryurl: USA
-  field: "r\xE1diol\xF3gia"
-  fieldurl: radiologia
-  hindex: 45
-  img: Ivan_Tkac.jpeg
-  last: Tkac
-  last_update: '2020-12-31'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0001-5054-0150
-  - - web
-    - https://www.cmrr.umn.edu/facultystaff/ivan/
-  - - "\u017Eivotopis"
-    - https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda v Centre
-      2011/Tkac- curriculum vitae 2011-02-14.pdf
-  name: "Ivan Tk\xE1\u010D"
-  position: "odborn\xFD asistent"
-  positionurl: odborny_asistent
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=DNCCZHYAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1954
 - affiliation: University of Zurich
   affiliationurl: University_of_Zurich
   cited_by:
@@ -2126,30 +2236,6 @@
   position: vedec
   positionurl: vedec
   scholar: https://scholar.google.com/citations?hl=en&user=ElcuTkwAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: botanika
-  fieldurl: botanika
-  hindex: 44
-  img: Karol_Marhold.jpg
-  last: Marhold
-  last_update: '2020-12-31'
-  links:
-  - - publons
-    - https://publons.com/researcher/1220455/karol-marhold/
-  - - web
-    - https://ibot.sav.sk/usr/Karol/
-  name: Karol Marhold
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=uA0tObYAAAAJ&amp;hl=en
   sex: "mu\u017E"
   sexurl: muz
   year: ''
@@ -2225,6 +2311,40 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: University of Edinburgh
+  affiliationurl: University_of_Edinburgh
+  cited_by:
+  - citations:
+      all: 6681
+      since_2017: 1747
+  - h_index:
+      all: 44
+      since_2017: 21
+  - i10_index:
+      all: 121
+      since_2017: 49
+  city: Edinburg
+  cityurl: Edinburg
+  country: "Ve\u013Ek\xE1 Brit\xE1nia"
+  countryurl: Velka_Britania
+  field: "nukle\xE1rna magnetick\xE1 rezonancia"
+  fieldurl: nuklearna_magneticka_rezonancia
+  hindex: 44
+  img: Dusan_Uhrin.jpg
+  last: Uhrin
+  last_update: '2022-03-26'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Dusan-Uhrin
+  - - web
+    - https://uhringroup.wixsite.com/nmrgroup
+  name: "Du\u0161an Uhr\xEDn"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=BSx7_CEAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   cited_by:
@@ -2261,6 +2381,44 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1972
+- affiliation: Qatar University
+  affiliationurl: Qatar_University
+  cited_by:
+  - citations:
+      all: 5420
+      since_2017: 2762
+  - h_index:
+      all: 43
+      since_2017: 28
+  - i10_index:
+      all: 110
+      since_2017: 90
+  city: Doha
+  cityurl: Doha
+  country: Katar
+  countryurl: Katar
+  field: "materi\xE1lov\xE1 veda"
+  fieldurl: materialova_veda
+  hindex: 43
+  img: Igor_Krupa.jpg
+  last: Krupa
+  last_update: '2022-03-26'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-3058-8717
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Igor_Krupa2
+  - - web
+    - http://qufaculty.qu.edu.qa/igor-krupa/home/
+  - - "\u017Eivotopis"
+    - https://cam.qu.edu.qa/static_file/qu/Faculty and Staff/images/Prof. Igor Krupa.pdf
+  name: Igor Krupa
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=Pz7_cpAAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1968
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -2459,30 +2617,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1932
-- affiliation: University of Edinburgh
-  affiliationurl: University_of_Edinburgh
-  city: Edinburg
-  cityurl: Edinburg
-  country: "Ve\u013Ek\xE1 Brit\xE1nia"
-  countryurl: Velka_Britania
-  field: "nukle\xE1rna magnetick\xE1 rezonancia"
-  fieldurl: nuklearna_magneticka_rezonancia
-  hindex: 43
-  img: Dusan_Uhrin.jpg
-  last: Uhrin
-  last_update: '2020-12-31'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Dusan-Uhrin
-  - - web
-    - https://uhringroup.wixsite.com/nmrgroup
-  name: "Du\u0161an Uhr\xEDn"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=BSx7_CEAAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   city: Bratislava
@@ -2639,44 +2773,42 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: Qatar University
-  affiliationurl: Qatar_University
+- affiliation: North Carolina State University
+  affiliationurl: North_Carolina_State_University
   cited_by:
   - citations:
-      all: 5078
-      since_2016: 2863
+      all: 9157
+      since_2016: 3290
   - h_index:
-      all: 42
-      since_2016: 29
+      all: 41
+      since_2016: 26
   - i10_index:
-      all: 104
-      since_2016: 86
-  city: Doha
-  cityurl: Doha
-  country: Katar
-  countryurl: Katar
-  field: "materi\xE1lov\xE1 veda"
-  fieldurl: materialova_veda
+      all: 98
+      since_2016: 68
+  city: Raleigh
+  cityurl: Raleigh
+  country: USA
+  countryurl: USA
+  field: "geovizualiz\xE1cia"
+  fieldurl: geovizualizacia
   hindex: 42
-  img: Igor_Krupa.jpg
-  last: Krupa
-  last_update: '2021-09-16'
+  img: Helena_Mitasova.jpg
+  last: Mitasova
+  last_update: '2022-03-25'
   links:
-  - - orcid
-    - https://orcid.org/0000-0003-3058-8717
   - - ResearchGate
-    - https://www.researchgate.net/profile/Igor_Krupa2
+    - https://www.researchgate.net/profile/Helena_Mitasova
   - - web
-    - http://qufaculty.qu.edu.qa/igor-krupa/home/
+    - https://meas.sciences.ncsu.edu/people/hmitaso/
   - - "\u017Eivotopis"
-    - https://cam.qu.edu.qa/static_file/qu/Faculty and Staff/images/Prof. Igor Krupa.pdf
-  name: Igor Krupa
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=Pz7_cpAAAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1968
+    - https://meas.sciences.ncsu.edu/wp-content/uploads/sites/3/2015/08/Mitasova_CV2p_Dec2020.pdf
+  name: "Helena Mit\xE1\u0161ov\xE1"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.com/citations?user=TIVMwT4AAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: ''
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   affiliationurl: Technicka_univerzita_v_Kosiciach
   city: "Ko\u0161ice"
@@ -2749,14 +2881,14 @@
   affiliationurl: University_of_Strathclyde
   cited_by:
   - citations:
-      all: 5647
-      since_2016: 1342
+      all: 6297
+      since_2017: 1460
   - h_index:
       all: 41
-      since_2016: 17
+      since_2017: 17
   - i10_index:
-      all: 101
-      since_2016: 27
+      all: 107
+      since_2017: 33
   city: Glasgow
   cityurl: Glasgow
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
@@ -2766,7 +2898,7 @@
   hindex: 41
   img: Ivan_Glesk.jpeg
   last: Glesk
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - orcid
     - https://orcid.org/0000-0002-3176-8069
@@ -2925,44 +3057,18 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1969
-- affiliation: North Carolina State University
-  affiliationurl: North_Carolina_State_University
-  cited_by:
-  - citations:
-      all: 9157
-      since_2016: 3290
-  - h_index:
-      all: 41
-      since_2016: 26
-  - i10_index:
-      all: 98
-      since_2016: 68
-  city: Raleigh
-  cityurl: Raleigh
-  country: USA
-  countryurl: USA
-  field: "geovizualiz\xE1cia"
-  fieldurl: geovizualizacia
-  hindex: 41
-  img: Helena_Mitasova.jpg
-  last: Mitasova
-  last_update: '2021-09-16'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Helena_Mitasova
-  - - web
-    - https://meas.sciences.ncsu.edu/people/hmitaso/
-  - - "\u017Eivotopis"
-    - https://meas.sciences.ncsu.edu/wp-content/uploads/sites/3/2015/08/Mitasova_CV2p_Dec2020.pdf
-  name: "Helena Mit\xE1\u0161ov\xE1"
-  position: profesorka
-  positionurl: profesorka
-  scholar: https://scholar.google.com/citations?user=TIVMwT4AAAAJ
-  sex: "\u017Eena"
-  sexurl: zena
-  year: ''
 - affiliation: Oregon State University
   affiliationurl: Oregon_State_University
+  cited_by:
+  - citations:
+      all: 7740
+      since_2017: 1902
+  - h_index:
+      all: 41
+      since_2017: 21
+  - i10_index:
+      all: 66
+      since_2017: 32
   city: Corvallis
   cityurl: Corvallis
   country: USA
@@ -2972,7 +3078,7 @@
   hindex: 41
   img: John_Nabelek.jpeg
   last: Nabelek
-  last_update: '2020-12-31'
+  last_update: '2022-03-26'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/John_Nabelek
@@ -3669,6 +3775,44 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1982
+- affiliation: University of Missouri
+  affiliationurl: University_of_Missouri
+  cited_by:
+  - citations:
+      all: 3901
+      since_2017: 1260
+  - h_index:
+      all: 38
+      since_2017: 17
+  - i10_index:
+      all: 70
+      since_2017: 34
+  city: Columbia
+  cityurl: Columbia
+  country: USA
+  countryurl: USA
+  field: "geol\xF3gia"
+  fieldurl: geologia
+  hindex: 38
+  img: Peter_Nabelek.jpeg
+  last: Nabelek
+  last_update: '2022-03-26'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter_Nabelek
+  - - web 1
+    - https://geology.missouri.edu/people/nabelek
+  - - web 2
+    - http://faculty.missouri.edu/nabelekp/Welcome.html
+  - - "\u017Eivotopis"
+    - https://geology.missouri.edu/sites/default/files/people-files/2019-09/nabelek_cv.pdf
+  name: Peter I. Nabelek
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=qWOmZxQAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1955
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
   cited_by:
@@ -3891,34 +4035,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1956
-- affiliation: University of Missouri
-  affiliationurl: University_of_Missouri
-  city: Columbia
-  cityurl: Columbia
-  country: USA
-  countryurl: USA
-  field: "geol\xF3gia"
-  fieldurl: geologia
-  hindex: 37
-  img: Peter_Nabelek.jpeg
-  last: Nabelek
-  last_update: '2020-12-31'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Peter_Nabelek
-  - - web 1
-    - https://geology.missouri.edu/people/nabelek
-  - - web 2
-    - http://faculty.missouri.edu/nabelekp/Welcome.html
-  - - "\u017Eivotopis"
-    - https://geology.missouri.edu/sites/default/files/people-files/2019-09/nabelek_cv.pdf
-  name: Peter I. Nabelek
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=bIXqQ6oAAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1955
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   affiliationurl: Technicka_univerzita_v_Kosiciach
   cited_by:
@@ -3993,6 +4109,44 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1954
+- affiliation: University of Natural Resources and Life Sciences
+  affiliationurl: University_of_Natural_Resources_and_Life_Sciences
+  cited_by:
+  - citations:
+      all: 3943
+      since_2017: 1679
+  - h_index:
+      all: 37
+      since_2017: 22
+  - i10_index:
+      all: 87
+      since_2017: 55
+  city: "Viede\u0148"
+  cityurl: Vieden
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
+  hindex: 37
+  img: Daniel_Tunega.jpg
+  last: Tunega
+  last_update: '2022-03-26'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-0822-1580
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Daniel_Tunega
+  - - web
+    - https://forschung.boku.ac.at/fis/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=5610
+  - - "\u017Eivotopis"
+    - http://202.113.8.3/oneschool/Upload/activity/201605/627386.pdf
+  name: Daniel Tunega
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.sk/citations?user=6XPvlE8AAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1961
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
   affiliationurl: Slovenska_polnohospodarska_univerzita
   cited_by:
@@ -4297,34 +4451,6 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
-- affiliation: University of Natural Resources and Life Sciences
-  affiliationurl: University_of_Natural_Resources_and_Life_Sciences
-  city: "Viede\u0148"
-  cityurl: Vieden
-  country: "Rak\xFAsko"
-  countryurl: Rakusko
-  field: "fyzik\xE1lna ch\xE9mia"
-  fieldurl: fyzikalna_chemia
-  hindex: 36
-  img: Daniel_Tunega.jpg
-  last: Tunega
-  last_update: '2020-12-31'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0003-0822-1580
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Daniel_Tunega
-  - - web
-    - https://forschung.boku.ac.at/fis/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=5610
-  - - "\u017Eivotopis"
-    - http://202.113.8.3/oneschool/Upload/activity/201605/627386.pdf
-  name: Daniel Tunega
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.sk/citations?user=6XPvlE8AAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1961
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -4778,6 +4904,16 @@
   year: ''
 - affiliation: Zeppelin University
   affiliationurl: Zeppelin_University
+  cited_by:
+  - citations:
+      all: 5320
+      since_2017: 1554
+  - h_index:
+      all: 34
+      since_2017: 21
+  - i10_index:
+      all: 75
+      since_2017: 33
   city: Friedrichshafen
   cityurl: Friedrichshafen
   country: Nemecko
@@ -4787,7 +4923,7 @@
   hindex: 34
   img: Jarko_Fidrmuc.jpg
   last: Fidrmuc
-  last_update: '2020-12-31'
+  last_update: '2022-03-26'
   links:
   - - orcid
     - https://orcid.org/0000-0003-2662-1991
@@ -5652,14 +5788,14 @@
   affiliationurl: Florida_State_University
   cited_by:
   - citations:
-      all: 4844
-      since_2016: 2547
+      all: 4941
+      since_2017: 2335
   - h_index:
       all: 33
-      since_2016: 28
+      since_2017: 26
   - i10_index:
-      all: 55
-      since_2016: 45
+      all: 53
+      since_2017: 42
   city: Tallahassee
   cityurl: Tallahassee
   country: USA
@@ -5669,7 +5805,7 @@
   hindex: 33
   img: Oskar_Vafek.jpg
   last: Vafek
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/oskar-vafek-14a39b8/
@@ -5850,6 +5986,40 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
+      all: 2804
+      since_2017: 600
+  - h_index:
+      all: 32
+      since_2017: 13
+  - i10_index:
+      all: 72
+      since_2017: 17
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: fyzika
+  fieldurl: fyzika
+  hindex: 32
+  img: Marian_Krajci.jpg
+  last: Krajci
+  last_update: '2022-03-26'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marian_Krajci
+  - - "\u017Eivotopis"
+    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2056-marian-krajci
+  name: "Mari\xE1n Kraj\u010D\xED"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=WawpXZIAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -5962,6 +6132,16 @@
   year: 1964
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
+  cited_by:
+  - citations:
+      all: 3261
+      since_2017: 966
+  - h_index:
+      all: 32
+      since_2017: 15
+  - i10_index:
+      all: 78
+      since_2017: 23
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -5971,7 +6151,7 @@
   hindex: 32
   img: Karol_Mikula.jpg
   last: Mikula
-  last_update: '2020-12-31'
+  last_update: '2022-03-26'
   links:
   - - web
     - http://www.math.sk/mikula/
@@ -6228,6 +6408,16 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
+  cited_by:
+  - citations:
+      all: 5132
+      since_2017: 1167
+  - h_index:
+      all: 31
+      since_2017: 15
+  - i10_index:
+      all: 109
+      since_2017: 32
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -6237,7 +6427,7 @@
   hindex: 31
   img: Anatolij_Dvurecenskij.jpeg
   last: Dvurecenskij
-  last_update: '2020-12-31'
+  last_update: '2022-03-26'
   links:
   - - dblp
     - https://dblp.org/pid/15/2733.html
@@ -6443,40 +6633,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1961
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 2688
-      since_2016: 645
-  - h_index:
-      all: 31
-      since_2016: 13
-  - i10_index:
-      all: 69
-      since_2016: 17
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: fyzika
-  fieldurl: fyzika
-  hindex: 31
-  img: Marian_Krajci.jpg
-  last: Krajci
-  last_update: '2021-09-16'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Marian_Krajci
-  - - "\u017Eivotopis"
-    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2056-marian-krajci
-  name: "Mari\xE1n Kraj\u010D\xED"
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=WawpXZIAAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: Uppsala University
   affiliationurl: Uppsala_University
   city: Uppsala
@@ -6680,7 +6836,7 @@
   hindex: 31
   img: Pavol_Quittner.jpg
   last: Quittner
-  last_update: '2021-09-16'
+  last_update: '2022-03-25'
   links:
   - - dblp
     - https://dblp.org/pid/122/6263.html
@@ -6699,7 +6855,7 @@
   name: Pavol Quittner
   position: profesor
   positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=QhrxwOcAAAAJ
+  scholar: https://scholar.google.com/citations?user=QhrxwOcAAAAJ
   sex: "mu\u017E"
   sexurl: muz
   year: 1958

@@ -1,29 +1,26 @@
-name: "Marián Krajčí"
-last: "Krajčí"
-
-position: "vedec"
-scholar: https://scholar.google.com/citations?user=WawpXZIAAAAJ&amp;hl=en
-year: ''
-sex: "muž"
-
-
-affiliation: "Slovenská akadémia vied"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
-    all: 2688
-    since_2016: 645
+    all: 2804
+    since_2017: 600
 - h_index:
-    all: 31
-    since_2016: 13
+    all: 32
+    since_2017: 13
 - i10_index:
-    all: 69
-    since_2016: 17
-city: "Bratislava"
-country: "Slovensko"
-field: "fyzika"
-hindex: 31
+    all: 72
+    since_2017: 17
+city: Bratislava
+country: Slovensko
+field: fyzika
+hindex: 32
 img: Marian_Krajci.jpg
-last_update: '2021-09-16'
+last: "Kraj\u010D\xED"
+last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Marian_Krajci
-  životopis: http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2056-marian-krajci
+  "\u017Eivotopis": http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2056-marian-krajci
+name: "Mari\xE1n Kraj\u010D\xED"
+position: vedec
+scholar: https://scholar.google.com/citations?user=WawpXZIAAAAJ&amp;hl=en
+sex: "mu\u017E"
+year: ''

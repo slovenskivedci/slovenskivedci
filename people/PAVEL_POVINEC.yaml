@@ -1,24 +1,30 @@
-name: "Pavel Povinec"
-last: "Povinec"
-
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
-year: 1942
-sex: "muž"
-
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-field: "jadrová fyzika"
+affiliation: "Univerzita Komensk\xE9ho"
+cited_by:
+- citations:
+    all: 13654
+    since_2017: 5170
+- h_index:
+    all: 57
+    since_2017: 32
+- i10_index:
+    all: 248
+    since_2017: 134
+city: Bratislava
+country: Slovensko
+field: "jadrov\xE1 fyzika"
 hindex: 57
-
-last_update: '2020-12-31'
+img: Pavel_Povinec.jpg
+last: Povinec
+last_update: '2022-03-26'
 links:
-  ResearchGate: https://www.researchgate.net/profile/Pavel_Povinec
-  životopis: https://uniba.sk/fileadmin/ruk/ovv/2014/141112_Profesorska_prednaska_o_Fukusime-CV_Povinec.pdf
   LinkedIn: https://www.linkedin.com/in/pavel-povinec-81809227/?originalSubdomain=sk
+  ResearchGate: https://www.researchgate.net/profile/Pavel_Povinec
+  academia.edu: https://comeniusuniversity.academia.edu/PavelPovinec
   orcid: https://orcid.org/0000-0003-0275-794X
   prabook: https://prabook.com/web/pavel_peter.povinec/184236
-  academia.edu: https://comeniusuniversity.academia.edu/PavelPovinec
-
-img: Pavel_Povinec.jpg
+  "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/ovv/2014/141112_Profesorska_prednaska_o_Fukusime-CV_Povinec.pdf
+name: Pavel Povinec
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
+sex: "mu\u017E"
+year: 1942

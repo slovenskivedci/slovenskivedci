@@ -1,20 +1,28 @@
-name: "Daniel Tunega"
-last: "Tunega"
-sex: "muž"
-
-affiliation: "University of Natural Resources and Life Sciences"
-city: "Viedeň"
-country: "Rakúsko"
-field: "fyzikálna chémia"
-hindex: 36
+affiliation: University of Natural Resources and Life Sciences
+cited_by:
+- citations:
+    all: 3943
+    since_2017: 1679
+- h_index:
+    all: 37
+    since_2017: 22
+- i10_index:
+    all: 87
+    since_2017: 55
+city: "Viede\u0148"
+country: "Rak\xFAsko"
+field: "fyzik\xE1lna ch\xE9mia"
+hindex: 37
 img: Daniel_Tunega.jpg
-last_update: '2020-12-31'
+last: Tunega
+last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Daniel_Tunega
   orcid: https://orcid.org/0000-0003-0822-1580
   web: https://forschung.boku.ac.at/fis/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=5610
-  životopis: http://202.113.8.3/oneschool/Upload/activity/201605/627386.pdf
-
+  "\u017Eivotopis": http://202.113.8.3/oneschool/Upload/activity/201605/627386.pdf
+name: Daniel Tunega
 position: docent
 scholar: https://scholar.google.sk/citations?user=6XPvlE8AAAAJ&amp;hl=en
+sex: "mu\u017E"
 year: 1961

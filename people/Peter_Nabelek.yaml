@@ -1,22 +1,28 @@
-name: "Peter I. Nabelek"
-last: "Nabelek"
-
-position: profesor
-scholar: https://scholar.google.com/citations?user=bIXqQ6oAAAAJ&amp;hl=en
-year: 1955
-sex: "muž"
-
-affiliation: "University of Missouri"
-city: "Columbia"
-country: "USA"
-field: "geológia"
-hindex: 37
-
-last_update: '2020-12-31'
+affiliation: University of Missouri
+cited_by:
+- citations:
+    all: 3901
+    since_2017: 1260
+- h_index:
+    all: 38
+    since_2017: 17
+- i10_index:
+    all: 70
+    since_2017: 34
+city: Columbia
+country: USA
+field: "geol\xF3gia"
+hindex: 38
+img: Peter_Nabelek.jpeg
+last: Nabelek
+last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Peter_Nabelek
   web 1: https://geology.missouri.edu/people/nabelek
   web 2: http://faculty.missouri.edu/nabelekp/Welcome.html
-  životopis: https://geology.missouri.edu/sites/default/files/people-files/2019-09/nabelek_cv.pdf
-
-img: Peter_Nabelek.jpeg
+  "\u017Eivotopis": https://geology.missouri.edu/sites/default/files/people-files/2019-09/nabelek_cv.pdf
+name: Peter I. Nabelek
+position: profesor
+scholar: https://scholar.google.com/citations?user=qWOmZxQAAAAJ
+sex: "mu\u017E"
+year: 1955

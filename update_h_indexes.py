@@ -27,9 +27,9 @@ for kv in people: # we start updating the last updated person
 	y, dic = kv
 	url = dic["scholar"]
 	id = url.split("user=")[1][:12]
-	 
-
-
+	print("--------------------------")
+	print(y)
+	print(dic)
 	params = {
 	  "engine": "google_scholar_author",
 	  "author_id": id,
@@ -39,7 +39,7 @@ for kv in people: # we start updating the last updated person
 	search = GoogleSearch(params)
 	results = search.get_dict()
 	
- 
+	print(results)
 	
 	author = results['author']
 	
