@@ -34,10 +34,10 @@
   countryurl: Slovensko
   field: "subjadrov\xE1 fyzika"
   fieldurl: subjadrova_fyzika
-  hindex: 172
+  hindex: 174
   img: Pavol_Bartos.jpg
   last: Bartos
-  last_update: '2022-03-04'
+  last_update: '2022-03-26'
   links:
   - - CERN
     - https://cds.cern.ch/search?f=author&p=Bartos%2C%20Pavol&ln=en
@@ -52,6 +52,32 @@
   sex: "mu\u017E"
   sexurl: muz
   year: null
+- affiliation: Technical University Dortmund
+  affiliationurl: Technical_University_Dortmund
+  city: Dortmund
+  cityurl: Dortmund
+  country: Nemecko
+  countryurl: Nemecko
+  field: "subjadrov\xE1 fyzika"
+  fieldurl: subjadrova_fyzika
+  hindex: 130
+  img: Tomas_Dado.jpg
+  last: Dado
+  last_update: '2022-03-26'
+  links:
+  - - inspireHEP
+    - https://inspirehep.net/authors/1346585
+  - - LinkedIn
+    - https://www.linkedin.com/in/tomas-dado-298a75191/?originalSubdomain=sk
+  - - web
+    - https://www.e4.physik.tu-dortmund.de/cms/de/AG-Kroeninger/Mitarbeiter/WiMis/Tomas-Dado.html
+  name: "Tom\xE1\u0161 Dado"
+  position: postdoc
+  positionurl: postdoc
+  scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -60,10 +86,10 @@
   countryurl: Slovensko
   field: "subjadrov\xE1 fyzika"
   fieldurl: subjadrova_fyzika
-  hindex: 128
+  hindex: 130
   img: Branislav_Sitar.jpg
   last: Sitar
-  last_update: '2022-03-04'
+  last_update: '2022-03-26'
   links:
   - - publons
     - https://publons.com/researcher/3258206/brano-sitar/
@@ -80,32 +106,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1946
-- affiliation: Technical University Dortmund
-  affiliationurl: Technical_University_Dortmund
-  city: Dortmund
-  cityurl: Dortmund
-  country: Nemecko
-  countryurl: Nemecko
-  field: "subjadrov\xE1 fyzika"
-  fieldurl: subjadrova_fyzika
-  hindex: 127
-  img: Tomas_Dado.jpg
-  last: Dado
-  last_update: '2022-02-13'
-  links:
-  - - inspireHEP
-    - https://inspirehep.net/authors/1346585
-  - - LinkedIn
-    - https://www.linkedin.com/in/tomas-dado-298a75191/?originalSubdomain=sk
-  - - web
-    - https://www.e4.physik.tu-dortmund.de/cms/de/AG-Kroeninger/Mitarbeiter/WiMis/Tomas-Dado.html
-  name: "Tom\xE1\u0161 Dado"
-  position: postdoc
-  positionurl: postdoc
-  scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: null
 - affiliation: New York University
   affiliationurl: New_York_University
   city: New York
@@ -740,8 +740,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1965
-<<<<<<< HEAD
-=======
 - affiliation: University of Missouri
   affiliationurl: University_of_Missouri
   cited_by:
@@ -780,7 +778,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1967
->>>>>>> 6b53821ff151aeb3e7a7aae341db561fc901bf41
 - affiliation: "Trnavsk\xE1 univerzita"
   affiliationurl: Trnavska_univerzita
   city: Trnava
@@ -1480,8 +1477,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1954
-<<<<<<< HEAD
-=======
 - affiliation: University of California
   affiliationurl: University_of_California
   cited_by:
@@ -1518,7 +1513,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
->>>>>>> 6b53821ff151aeb3e7a7aae341db561fc901bf41
 - affiliation: KAUST
   affiliationurl: KAUST
   cited_by:
