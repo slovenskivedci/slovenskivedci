@@ -51,6 +51,7 @@ affiliation:
   "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita": 3
   "Slovensk\xE1 technick\xE1 univerzita": 9
   "Slovensk\xE1 zdravotn\xEDcka univerzita": 1
+  Solargis: 1
   Stanford University: 1
   Technical University Dortmund: 1
   "Technick\xE1 univerzita v Ko\u0161iciach": 4
@@ -90,7 +91,7 @@ affiliation:
   University of Zurich: 1
   "Universit\xE9 Aix-Marseille": 1
   Univerzita Karlova: 2
-  "Univerzita Komensk\xE9ho": 36
+  "Univerzita Komensk\xE9ho": 37
   "Univerzita Kon\u0161tant\xEDna Filozofa": 1
   "Univerzita Palack\xE9ho v Olomouci": 5
   "Univerzita Pavla Jozefa \u0160af\xE1rika": 5
@@ -101,7 +102,7 @@ affiliation:
   "Vysok\xE1 \u0161kola chemicko-technologick\xE1": 1
   Zeppelin University: 1
   "Z\xE1pado\u010Desk\xE1 univerzita v Plzni": 1
-  "\u010Cesk\xE1 akad\xE9mia vied": 5
+  "\u010Cesk\xE1 akad\xE9mia vied": 6
   "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe": 1
   "\u017Dilinsk\xE1 univerzita": 1
 countries:
@@ -117,12 +118,12 @@ countries:
   "Rak\xFAsko": 10
   "Rusk\xE1 feder\xE1cia": 1
   "Saudsk\xE1 Ar\xE1bia": 2
-  Slovensko: 102
+  Slovensko: 104
   "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
   USA: 32
   "Ve\u013Ek\xE1 Brit\xE1nia": 8
   "\xCDrsko": 1
-  "\u010Cesko": 18
+  "\u010Cesko": 19
   "\u0160panielsko": 1
   "\u0160vaj\u010Diarsko": 4
   "\u0160v\xE9dsko": 1
@@ -169,15 +170,15 @@ hindex:
 - 79
 - 31
 - 51
-- 68
+- 66
 - 45
 - 45
 - 33
 - 35
 - 37
 - 69
-- 171
-- 127
+- 172
+- 128
 - 47
 - 50
 - 33
@@ -194,7 +195,7 @@ hindex:
 - 98
 - 32
 - 42
-- 67
+- 66
 - 31
 - 41
 - 39
@@ -219,7 +220,7 @@ hindex:
 - 40
 - 47
 - 57
-- 50
+- 51
 - 53
 - 31
 - 30
@@ -240,6 +241,7 @@ hindex:
 - 43
 - 41
 - 37
+- 30
 - 42
 - 37
 - 43
@@ -298,21 +300,22 @@ hindex:
 - 48
 - 33
 - 55
-- 50
+- 51
 - 31
 - 36
 - 32
 - 38
-- 50
+- 51
 - 44
 - 55
 - 37
-- 59
+- 60
 - 31
 - 34
 - 62
 - 36
 - 51
+- 190
 - 30
 - 31
 - 57
@@ -325,6 +328,7 @@ hindex:
 - 34
 - 32
 - 41
+- 32
 - 35
 - 34
 - 31
@@ -346,5 +350,5 @@ hindex:
 - 34
 - 42
 - 35
-man: 187
+man: 190
 woman: 32

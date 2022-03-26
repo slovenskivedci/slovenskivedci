@@ -1,3 +1,31 @@
+- affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
+  affiliationurl: Ceska_akademia_vied
+  city: Praha
+  cityurl: Praha
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "subjadrov\xE1 fyzika"
+  fieldurl: subjadrova_fyzika
+  hindex: 190
+  img: Roman_Lysak.jpg
+  last: Lysak
+  last_update: '2022-03-04'
+  links:
+  - - orcid
+    - https://www.fzu.cz/en/people/rndr-roman-lysak-phd
+  - - publons
+    - https://publons.com/researcher/2517294/roman-lysak/
+  - - web
+    - https://www.fzu.cz/en/people/rndr-roman-lysak-phd
+  - - "\u017Eivotopis"
+    - https://www.yumpu.com/xx/document/read/33279054/a-1-2-ivotopis
+  name: "Roman Lys\xE1k"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=jkguv3UAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1979
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -6,10 +34,10 @@
   countryurl: Slovensko
   field: "subjadrov\xE1 fyzika"
   fieldurl: subjadrova_fyzika
-  hindex: 171
+  hindex: 172
   img: Pavol_Bartos.jpg
   last: Bartos
-  last_update: '2022-02-13'
+  last_update: '2022-03-04'
   links:
   - - CERN
     - https://cds.cern.ch/search?f=author&p=Bartos%2C%20Pavol&ln=en
@@ -24,6 +52,34 @@
   sex: "mu\u017E"
   sexurl: muz
   year: null
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "subjadrov\xE1 fyzika"
+  fieldurl: subjadrova_fyzika
+  hindex: 128
+  img: Branislav_Sitar.jpg
+  last: Sitar
+  last_update: '2022-03-04'
+  links:
+  - - publons
+    - https://publons.com/researcher/3258206/brano-sitar/
+  - - web
+    - https://fmph.uniba.sk/kontakt/zamestnanci/sitar1/
+  - - "wikip\xE9dia"
+    - "https://sk.wikipedia.org/wiki/Branislav_Sit\xE1r"
+  - - "\u017Eivotopis"
+    - files/cv_Branislav_Sitar_2022.pdf
+  name: "Branislav Sit\xE1r"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=4ymEP0sAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1946
 - affiliation: Technical University Dortmund
   affiliationurl: Technical_University_Dortmund
   city: Dortmund
@@ -50,34 +106,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: null
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "subjadrov\xE1 fyzika"
-  fieldurl: subjadrova_fyzika
-  hindex: 127
-  img: Branislav_Sitar.jpg
-  last: Sitar
-  last_update: '2022-02-04'
-  links:
-  - - publons
-    - https://publons.com/researcher/3258206/brano-sitar/
-  - - web
-    - https://fmph.uniba.sk/kontakt/zamestnanci/sitar1/
-  - - "wikip\xE9dia"
-    - "https://sk.wikipedia.org/wiki/Branislav_Sit\xE1r"
-  - - "\u017Eivotopis"
-    - files/cv_Branislav_Sitar_2022.pdf
-  name: "Branislav Sit\xE1r"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=4ymEP0sAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1946
 - affiliation: New York University
   affiliationurl: New_York_University
   city: New York
@@ -424,38 +452,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
-  affiliationurl: Slovenska_technicka_univerzita
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "aplikovan\xE1 matematika"
-  fieldurl: aplikovana_matematika
-  hindex: 68
-  img: Radko_Mesiar.jpeg
-  last: Mesiar
-  last_update: '2020-12-31'
-  links:
-  - - dblp
-    - https://dblp.org/pid/62/2253.html
-  - - Mathematics Genealogy
-    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=123952
-  - - orcid
-    - https://orcid.org/0000-0001-6503-949X
-  - - research.com
-    - https://research.com/u/radko-mesiar
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Radko-Mesiar
-  - - web
-    - https://www.math.sk/mesiar/
-  name: Radko Mesiar
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=_kXpl5YAAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1951
 - affiliation: "Region\xE1lny \xFArad verejn\xE9ho zdravotn\xEDctva"
   affiliationurl: Regionalny_urad_verejneho_zdravotnictva
   cited_by:
@@ -492,28 +488,50 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1953
+- affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  affiliationurl: Slovenska_technicka_univerzita
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "aplikovan\xE1 matematika"
+  fieldurl: aplikovana_matematika
+  hindex: 66
+  img: Radko_Mesiar.jpeg
+  last: Mesiar
+  last_update: '2022-03-04'
+  links:
+  - - dblp
+    - https://dblp.org/pid/62/2253.html
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=123952
+  - - orcid
+    - https://orcid.org/0000-0001-6503-949X
+  - - research.com
+    - https://research.com/u/radko-mesiar
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Radko-Mesiar
+  - - web
+    - https://www.math.sk/mesiar/
+  name: Radko Mesiar
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=_kXpl5YAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1951
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 18004
-      since_2016: 5517
-  - h_index:
-      all: 67
-      since_2016: 41
-  - i10_index:
-      all: 159
-      since_2016: 102
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
   field: "virol\xF3gia"
   fieldurl: virologia
-  hindex: 67
+  hindex: 66
   img: Jaromir_Pastorek.jpg
   last: Pastorek
-  last_update: '2021-11-23'
+  last_update: '2022-03-04'
   links:
   - - Microsoft Academic
     - https://academic.microsoft.com/author/2074528035/publication?paperId=2048177691
@@ -638,6 +656,40 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1959
+- affiliation: "Univerzita Palack\xE9ho v Olomouci"
+  affiliationurl: Univerzita_Palackeho_v_Olomouci
+  city: Olomouc
+  cityurl: Olomouc
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: botanika
+  fieldurl: botanika
+  hindex: 60
+  img: Jozef_Samaj.jpg
+  last: Samaj
+  last_update: '2022-03-04'
+  links:
+  - - learned.sk
+    - https://www.learned.sk/clenovia/riadni-clenovia/
+  - - loop
+    - https://loop.frontiersin.org/people/26551/overview
+  - - orcid
+    - https://orcid.org/0000-0003-4750-2123
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jozef-Samaj
+  - - twitter
+    - https://twitter.com/Samaj_lab
+  - - web
+    - https://kbt.upol.cz/en/
+  - - "\u017Eivotopis"
+    - "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160amaj.pdf"
+  name: "Jozef \u0160amaj"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1964
 - affiliation: University of Oxford
   affiliationurl: University_of_Oxford
   cited_by:
@@ -688,50 +740,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1965
-- affiliation: "Univerzita Palack\xE9ho v Olomouci"
-  affiliationurl: Univerzita_Palackeho_v_Olomouci
-  cited_by:
-  - citations:
-      all: 10511
-      since_2016: 3949
-  - h_index:
-      all: 57
-      since_2016: 36
-  - i10_index:
-      all: 154
-      since_2016: 108
-  city: Olomouc
-  cityurl: Olomouc
-  country: "\u010Cesko"
-  countryurl: Cesko
-  field: botanika
-  fieldurl: botanika
-  hindex: 59
-  img: Jozef_Samaj.jpg
-  last: Samaj
-  last_update: '2022-02-12'
-  links:
-  - - learned.sk
-    - https://www.learned.sk/clenovia/riadni-clenovia/
-  - - loop
-    - https://loop.frontiersin.org/people/26551/overview
-  - - orcid
-    - https://orcid.org/0000-0003-4750-2123
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Jozef-Samaj
-  - - twitter
-    - https://twitter.com/Samaj_lab
-  - - web
-    - https://kbt.upol.cz/en/
-  - - "\u017Eivotopis"
-    - "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160amaj.pdf"
-  name: "Jozef \u0160amaj"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1964
 - affiliation: "Trnavsk\xE1 univerzita"
   affiliationurl: Trnavska_univerzita
   city: Trnava
@@ -1252,6 +1260,91 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1957
+- affiliation: Delft University of Technology
+  affiliationurl: Delft_University_of_Technology
+  city: Delft
+  cityurl: Delft
+  country: Holandsko
+  countryurl: Holandsko
+  field: elektronika
+  fieldurl: elektronika
+  hindex: 51
+  img: Pavol_Bauer.jpg
+  last: Bauer
+  last_update: '2022-03-04'
+  links:
+  - - twitter
+    - https://twitter.com/bauer_p
+  - - web
+    - https://www.tudelft.nl/staff/p.bauer/?cHash=96dc8f6d55c5ea75995f7e9d5b68a50d
+  - - "\u017Eivotopis"
+    - https://www.tudelft.nl/en/staff/p.bauer/
+  name: Pavol Bauer
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
+- affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
+  affiliationurl: Slovenska_polnohospodarska_univerzita
+  city: Nitra
+  cityurl: Nitra
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyziol\xF3gia rastl\xEDn"
+  fieldurl: fyziologia_rastlin
+  hindex: 51
+  img: Marian_Brestic.jpg
+  last: Brestic
+  last_update: '2022-03-04'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/marian-brestic
+  - - web
+    - https://is.uniag.sk/lide/clovek.pl?id=1426
+  - - "\u017Eivotopis"
+    - https://uniag.academia.edu/MarianBrestic/CurriculumVitae
+  name: "Mari\xE1n Bresti\u010D"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=9LXjvp8AAAAJ&amp;hl=en&amp;oi=sra
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1959
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "farmakol\xF3gia"
+  fieldurl: farmakologia
+  hindex: 51
+  img: Daniela_Jezova.jpg
+  last: Jezova
+  last_update: '2022-03-04'
+  links:
+  - - facebook
+    - "https://www.facebook.com/detskauniverzitakomenskeho/photos/profpharmdr-daniela-je\u017E\
+      ov\xE1-drsc-sav/986146801416058/"
+  - - learned.sk
+    - https://www.learned.sk/prof-pharmdr-daniela-jezova-drsc/
+  - - osobnosti
+    - https://www.osobnosti.sk/osobnost/daniela-jezova-636
+  - - veda na dosah
+    - https://vedanadosah.cvtisr.sk/zdravie/daniela-jezova-vyskum-odkryva-nove-moznosti-v-liecbe-depresii-a-uzkosti/
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1154
+  - - "\u017Eivotopis"
+    - http://www.sss421.sk/wp-content/uploads/2019/10/Jezova.pdf
+  name: "Daniela Je\u017Eov\xE1"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.com/citations?user=FP0fIkEAAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: 1949
 - affiliation: University of Toronto
   affiliationurl: University_of_Toronto
   city: Toronto
@@ -1354,101 +1447,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1954
-- affiliation: Delft University of Technology
-  affiliationurl: Delft_University_of_Technology
-  cited_by:
-  - citations:
-      all: 8984
-      since_2016: 5513
-  - h_index:
-      all: 50
-      since_2016: 39
-  - i10_index:
-      all: 200
-      since_2016: 124
-  city: Delft
-  cityurl: Delft
-  country: Holandsko
-  countryurl: Holandsko
-  field: elektronika
-  fieldurl: elektronika
-  hindex: 50
-  img: Pavol_Bauer.jpg
-  last: Bauer
-  last_update: '2021-12-25'
-  links:
-  - - twitter
-    - https://twitter.com/bauer_p
-  - - web
-    - https://www.tudelft.nl/staff/p.bauer/?cHash=96dc8f6d55c5ea75995f7e9d5b68a50d
-  - - "\u017Eivotopis"
-    - https://www.tudelft.nl/en/staff/p.bauer/
-  name: Pavol Bauer
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=hH3CJhcAAAAJ&amp
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
-- affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
-  affiliationurl: Slovenska_polnohospodarska_univerzita
-  city: Nitra
-  cityurl: Nitra
-  country: Slovensko
-  countryurl: Slovensko
-  field: "fyziol\xF3gia rastl\xEDn"
-  fieldurl: fyziologia_rastlin
-  hindex: 50
-  img: Marian_Brestic.jpg
-  last: Brestic
-  last_update: '2022-01-31'
-  links:
-  - - ESET Science Award
-    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/marian-brestic
-  - - web
-    - https://is.uniag.sk/lide/clovek.pl?id=1426
-  - - "\u017Eivotopis"
-    - https://uniag.academia.edu/MarianBrestic/CurriculumVitae
-  name: "Mari\xE1n Bresti\u010D"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=9LXjvp8AAAAJ&amp;hl=en&amp;oi=sra
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1959
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "farmakol\xF3gia"
-  fieldurl: farmakologia
-  hindex: 50
-  img: Daniela_Jezova.jpg
-  last: Jezova
-  last_update: '2022-02-15'
-  links:
-  - - facebook
-    - "https://www.facebook.com/detskauniverzitakomenskeho/photos/profpharmdr-daniela-je\u017E\
-      ov\xE1-drsc-sav/986146801416058/"
-  - - learned.sk
-    - https://www.learned.sk/prof-pharmdr-daniela-jezova-drsc/
-  - - osobnosti
-    - https://www.osobnosti.sk/osobnost/daniela-jezova-636
-  - - veda na dosah
-    - https://vedanadosah.cvtisr.sk/zdravie/daniela-jezova-vyskum-odkryva-nove-moznosti-v-liecbe-depresii-a-uzkosti/
-  - - web
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1154
-  - - "\u017Eivotopis"
-    - http://www.sss421.sk/wp-content/uploads/2019/10/Jezova.pdf
-  name: "Daniela Je\u017Eov\xE1"
-  position: profesorka
-  positionurl: profesorka
-  scholar: https://scholar.google.com/citations?user=FP0fIkEAAAAJ
-  sex: "\u017Eena"
-  sexurl: zena
-  year: 1949
 - affiliation: KAUST
   affiliationurl: KAUST
   cited_by:
@@ -6040,6 +6038,34 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1951
+- affiliation: Solargis
+  affiliationurl: Solargis
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: fotovoltaika
+  fieldurl: fotovoltaika
+  hindex: 32
+  img: Marcel_Suri.jpg
+  last: Suri
+  last_update: '2022-03-26'
+  links:
+  - - company
+    - https://solargis.com
+  - - IEEE Xplore
+    - https://ieeexplore.ieee.org/author/38289986900
+  - - LinkedIn
+    - https://www.linkedin.com/in/marcel-suri-15608621?originalSubdomain=sk
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marcel-Suri
+  name: "Marcel \u0160\xFAri"
+  position: CEO
+  positionurl: CEO
+  scholar: https://scholar.google.com/citations?user=T8D7EJ8AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
 - affiliation: MBZUAI
   affiliationurl: MBZUAI
   city: Abu Dhabi
@@ -6911,6 +6937,36 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: biofyzika
+  fieldurl: biofyzika
+  hindex: 30
+  img: Pavol_Balgavy-1000.jpg
+  last: Balgavy
+  last_update: '2022-03-26'
+  links:
+  - - pametnaroda.cz
+    - https://www.pametnaroda.cz/en/balgavy-pavol-1944
+  - - prabook
+    - https://prabook.com/web/pavol.balgavy/336078
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Pavol-Balgavy
+  - - Semantic Scholar
+    - "https://www.semanticscholar.org/author/P.-Balgav\xFD/5140484"
+  - - "wikip\xE9dia"
+    - https://www.wikidata.org/wiki/Q12044403
+  name: "Pavol Balgav\xFD"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=3knjVQkAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1944
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   city: Bratislava
