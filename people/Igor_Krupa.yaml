@@ -1,30 +1,29 @@
-name: "Igor Krupa"
-last: "Krupa"
-position: "profesor"
-scholar: https://scholar.google.com/citations?user=Pz7_cpAAAAAJ&amp;hl=en
-year: 1968
-sex: "muž"
-
-affiliation: "Qatar University"
+affiliation: Qatar University
 cited_by:
 - citations:
-    all: 5078
-    since_2016: 2863
+    all: 5420
+    since_2017: 2762
 - h_index:
-    all: 42
-    since_2016: 29
+    all: 43
+    since_2017: 28
 - i10_index:
-    all: 104
-    since_2016: 86
-city: "Doha"
-country: "Katar"
-field: "materiálová veda"
-hindex: 42
+    all: 110
+    since_2017: 90
+city: Doha
+country: Katar
+field: "materi\xE1lov\xE1 veda"
+hindex: 43
 img: Igor_Krupa.jpg
-last_update: '2021-09-16'
+last: Krupa
+last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Igor_Krupa2
-  web: http://qufaculty.qu.edu.qa/igor-krupa/home/
-  životopis: https://cam.qu.edu.qa/static_file/qu/Faculty and Staff/images/Prof.
-    Igor Krupa.pdf
   orcid: https://orcid.org/0000-0003-3058-8717
+  web: http://qufaculty.qu.edu.qa/igor-krupa/home/
+  "\u017Eivotopis": https://cam.qu.edu.qa/static_file/qu/Faculty and Staff/images/Prof.
+    Igor Krupa.pdf
+name: Igor Krupa
+position: profesor
+scholar: https://scholar.google.com/citations?user=Pz7_cpAAAAAJ&amp;hl=en
+sex: "mu\u017E"
+year: 1968

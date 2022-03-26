@@ -1,18 +1,25 @@
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-field: "subjadrová fyzika"
+affiliation: "Univerzita Komensk\xE9ho"
+cited_by:
+- citations:
+    all: 23790
+    since_2017: 6582
+- h_index:
+    all: 57
+    since_2017: 29
+- i10_index:
+    all: 78
+    since_2017: 51
+city: Bratislava
+country: Slovensko
+field: "subjadrov\xE1 fyzika"
 hindex: 57
-
-last_update: '2020-12-31'
+img: Vladimir_Cerny.jpg
+last: "\u010Cern\xFD"
+last_update: '2022-03-26'
 links:
   web: http://davinci.fmph.uniba.sk/~cerny1/
-
-name: "Vladimír Černý"
-last: "Černý"
+name: "Vladim\xEDr \u010Cern\xFD"
 position: docent
 scholar: https://scholar.google.com/citations?hl=en&amp;user=m-twF5IAAAAJ
+sex: "mu\u017E"
 year: 1952
-sex: "muž"
-
-img: Vladimir_Cerny.jpg

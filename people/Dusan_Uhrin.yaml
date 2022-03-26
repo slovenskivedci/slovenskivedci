@@ -1,18 +1,26 @@
-name: "Dušan Uhrín"
-last: "Uhrín"
-sex: "muž"
-
-position: profesor
-scholar: https://scholar.google.com/citations?user=BSx7_CEAAAAJ&amp;hl=en
-year: ''
-
-affiliation: "University of Edinburgh"
-city: "Edinburg"
-country: "Veľká Británia"
-field: "nukleárna magnetická rezonancia"
-hindex: 43
+affiliation: University of Edinburgh
+cited_by:
+- citations:
+    all: 6681
+    since_2017: 1747
+- h_index:
+    all: 44
+    since_2017: 21
+- i10_index:
+    all: 121
+    since_2017: 49
+city: Edinburg
+country: "Ve\u013Ek\xE1 Brit\xE1nia"
+field: "nukle\xE1rna magnetick\xE1 rezonancia"
+hindex: 44
 img: Dusan_Uhrin.jpg
-last_update: '2020-12-31'
+last: "Uhr\xEDn"
+last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Dusan-Uhrin
   web: https://uhringroup.wixsite.com/nmrgroup
+name: "Du\u0161an Uhr\xEDn"
+position: profesor
+scholar: https://scholar.google.com/citations?user=BSx7_CEAAAAJ&amp;hl=en
+sex: "mu\u017E"
+year: ''

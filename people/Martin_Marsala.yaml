@@ -1,20 +1,27 @@
-name: "Martin Maršala"
-last: "Maršala"
-
-position: "profesor"
-scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
-year: ''
-sex: "muž"
-
-affiliation: "University of California"
-city: "San Diego"
-country: "USA"
-field: "neuroveda"
-hindex: 49
+affiliation: University of California
+cited_by:
+- citations:
+    all: 10772
+    since_2017: 4386
+- h_index:
+    all: 50
+    since_2017: 29
+- i10_index:
+    all: 117
+    since_2017: 62
+city: San Diego
+country: USA
+field: neuroveda
+hindex: 50
 img: Martin_Marsala.jpg
-last_update: '2020-12-31'
+last: "Mar\u0161ala"
+last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Martin_Marsala
-  web: http://www.marsala-lab.com/team/
   orcid: https://orcid.org/0000-0001-5048-6422
-  
+  web: http://www.marsala-lab.com/team/
+name: "Martin Mar\u0161ala"
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
+sex: "mu\u017E"
+year: ''

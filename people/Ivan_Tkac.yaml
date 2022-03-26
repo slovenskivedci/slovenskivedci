@@ -1,19 +1,28 @@
-name: "Ivan Tkáč"
-last: "Tkáč"
-position: "odborný asistent"
-scholar: https://scholar.google.com/citations?hl=en&amp;user=DNCCZHYAAAAJ
-year: 1954
-sex: "muž"
-
-affiliation: "University of Minnesota"
-city: "Twin Cities"
-country: "USA"
-field: "rádiológia"
-hindex: 45
+affiliation: University of Minnesota
+cited_by:
+- citations:
+    all: 9015
+    since_2017: 3442
+- h_index:
+    all: 46
+    since_2017: 30
+- i10_index:
+    all: 79
+    since_2017: 61
+city: Twin Cities
+country: USA
+field: "r\xE1diol\xF3gia"
+hindex: 46
 img: Ivan_Tkac.jpeg
-last_update: '2020-12-31'
+last: "Tk\xE1\u010D"
+last_update: '2022-03-26'
 links:
   orcid: https://orcid.org/0000-0001-5054-0150
   web: https://www.cmrr.umn.edu/facultystaff/ivan/
-  životopis: https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda
+  "\u017Eivotopis": https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda
     v Centre 2011/Tkac- curriculum vitae 2011-02-14.pdf
+name: "Ivan Tk\xE1\u010D"
+position: "odborn\xFD asistent"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=DNCCZHYAAAAJ
+sex: "mu\u017E"
+year: 1954

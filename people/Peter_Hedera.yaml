@@ -1,19 +1,27 @@
-name: "Peter Hedera"
-last: "Hedera"
-
-position: docent
-scholar: https://scholar.google.com/citations?user=QB0X-6sAAAAJ
-year: ''
-sex: "muž"
-
-affiliation: "University of Louisville"
-city: "Louisville"
-country: "USA"
-field: "neurológia"
+affiliation: University of Louisville
+cited_by:
+- citations:
+    all: 8141
+    since_2017: 2475
+- h_index:
+    all: 47
+    since_2017: 27
+- i10_index:
+    all: 123
+    since_2017: 70
+city: Louisville
+country: USA
+field: "neurol\xF3gia"
 hindex: 47
 img: Peter_Hedera.jpg
-last_update: '2020-12-31'
+last: Hedera
+last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Peter_Hedera
   loop: https://loop.frontiersin.org/people/118500/overview
   web: https://uoflphysicians.com/provider/peter-hedera/
+name: Peter Hedera
+position: docent
+scholar: https://scholar.google.com/citations?user=QB0X-6sAAAAJ
+sex: "mu\u017E"
+year: ''
