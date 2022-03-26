@@ -236,26 +236,16 @@
   year: 1962
 - affiliation: Krembil Research Institute
   affiliationurl: Krembil_Research_Institute
-  cited_by:
-  - citations:
-      all: 29175
-      since_2016: 15519
-  - h_index:
-      all: 79
-      since_2016: 55
-  - i10_index:
-      all: 208
-      since_2016: 161
   city: Toronto
   cityurl: Toronto
   country: Kanada
   countryurl: Kanada
   field: bioinformatika
   fieldurl: bioinformatika
-  hindex: 80
+  hindex: 81
   img: Igor_Jurisica.png
   last: Jurisica
-  last_update: '2022-02-13'
+  last_update: '2022-03-26'
   links:
   - - dblp
     - https://dblp.org/pid/27/4777.html
@@ -1228,6 +1218,48 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
+- affiliation: "J\xFClich Research Centre"
+  affiliationurl: Julich_Research_Centre
+  city: "J\xFClich"
+  cityurl: Julich
+  country: Nemecko
+  countryurl: Nemecko
+  field: "fyzika neutr\xEDn"
+  fieldurl: fyzika_neutrin
+  hindex: 52
+  img: Livia_Ludhova.jpg
+  last: Ludhova
+  last_update: '2022-03-26'
+  links:
+  - - AcademiaNet
+    - https://www.academia-net.org/profil/prof-dr-dr-livia-ludhova/1877446
+  - - inspirehep
+    - https://inspirehep.net/authors/1059189
+  - - lab
+    - http://collaborations.fz-juelich.de/ikp/neutrino/index.html
+  - - LinkedIn
+    - https://www.linkedin.com/in/livia-ludhova-73985a6b/?originalSubdomain=de
+  - - orcid
+    - https://orcid.org/0000-0002-3875-0590
+  - - prabook
+    - https://prabook.com/web/livia.ludhova/13385
+  - - publons
+    - https://publons.com/researcher/3394986/livia-ludhova/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Livia-Ludhova
+  - - science.sk
+    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/3519-livia-ludhova
+  - - travel
+    - https://www.livialudhova.com/about
+  - - web
+    - http://collaborations.fz-juelich.de/ikp/neutrino/group_mem/group_mem_livia.html
+  name: "L\xEDvia Ludhov\xE1"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.com/citations?hl=en&user=qZt_50MAAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: 1973
 - affiliation: Masarykova univerzita
   affiliationurl: Masarykova_univerzita
   city: Brno
@@ -1403,48 +1435,6 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
-- affiliation: "J\xFClich Research Centre"
-  affiliationurl: Julich_Research_Centre
-  city: "J\xFClich"
-  cityurl: Julich
-  country: Nemecko
-  countryurl: Nemecko
-  field: "fyzika neutr\xEDn"
-  fieldurl: fyzika_neutrin
-  hindex: 51
-  img: Livia_Ludhova.jpg
-  last: Ludhova
-  last_update: '2022-02-15'
-  links:
-  - - AcademiaNet
-    - https://www.academia-net.org/profil/prof-dr-dr-livia-ludhova/1877446
-  - - inspirehep
-    - https://inspirehep.net/authors/1059189
-  - - lab
-    - http://collaborations.fz-juelich.de/ikp/neutrino/index.html
-  - - LinkedIn
-    - https://www.linkedin.com/in/livia-ludhova-73985a6b/?originalSubdomain=de
-  - - orcid
-    - https://orcid.org/0000-0002-3875-0590
-  - - prabook
-    - https://prabook.com/web/livia.ludhova/13385
-  - - publons
-    - https://publons.com/researcher/3394986/livia-ludhova/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Livia-Ludhova
-  - - science.sk
-    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/3519-livia-ludhova
-  - - travel
-    - https://www.livialudhova.com/about
-  - - web
-    - http://collaborations.fz-juelich.de/ikp/neutrino/group_mem/group_mem_livia.html
-  name: "L\xEDvia Ludhov\xE1"
-  position: profesorka
-  positionurl: profesorka
-  scholar: https://scholar.google.com/citations?hl=en&user=qZt_50MAAAAJ
-  sex: "\u017Eena"
-  sexurl: zena
-  year: 1973
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -2981,6 +2971,38 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "virol\xF3gia"
+  fieldurl: virologia
+  hindex: 41
+  img: Boris_Klempa.jpg
+  last: Klempa
+  last_update: '2022-03-26'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/en/finalists/boris-klempa
+  - - orcid
+    - https://orcid.org/0000-0002-6931-1224
+  - - publons
+    - https://publons.com/researcher/2906836/boris-klempa/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Boris-Klempa
+  - - science.sk
+    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2523-boris-klempa
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=3476
+  name: Boris Klempa
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=FSHRkJgAAAAJ&hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: University of Arizona
   affiliationurl: University_of_Arizona
   cited_by:
@@ -3127,48 +3149,6 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1969
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 4821
-      since_2016: 2524
-  - h_index:
-      all: 40
-      since_2016: 27
-  - i10_index:
-      all: 77
-      since_2016: 66
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "virol\xF3gia"
-  fieldurl: virologia
-  hindex: 40
-  img: Boris_Klempa.jpg
-  last: Klempa
-  last_update: '2021-11-16'
-  links:
-  - - ESET Science Award
-    - https://www.esetscienceaward.sk/en/finalists/boris-klempa
-  - - orcid
-    - https://orcid.org/0000-0002-6931-1224
-  - - publons
-    - https://publons.com/researcher/2906836/boris-klempa/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Boris-Klempa
-  - - science.sk
-    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2523-boris-klempa
-  - - web
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=3476
-  name: Boris Klempa
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=FSHRkJgAAAAJ&hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:

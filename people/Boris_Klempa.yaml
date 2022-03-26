@@ -9,23 +9,12 @@ affiliation: "Slovenská akadémia vied"
 city: "Bratislava"
 country: "Slovensko"
 
-hindex: 40
+hindex: 41
 scholar: https://scholar.google.com/citations?user=FSHRkJgAAAAJ&hl=en
-
-cited_by:
-- citations:
-    all: 4821
-    since_2016: 2524
-- h_index:
-    all: 40
-    since_2016: 27
-- i10_index:
-    all: 77
-    since_2016: 66
 
 img: Boris_Klempa.jpg
 
-last_update: '2021-11-16'
+last_update: '2022-03-26'
 
 links:
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=3476
