@@ -1,26 +1,15 @@
-name: "Tibor Hianik"
-last: "Hianik"
-position: profesor
-scholar: https://scholar.google.com/citations?user=FNfPewQAAAAJ&amp;hl=en
-year: ''
-sex: "muž"
-
-affiliation: "Univerzita Komenského"
-cited_by:
-- citations:
-    all: 5715
-    since_2016: 2138
-- h_index:
-    all: 38
-    since_2016: 22
-- i10_index:
-    all: 138
-    since_2016: 67
-city: "Bratislava"
-country: "Slovensko"
-field: "biofyzika"
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: biofyzika
 hindex: 38
 img: Tibor_Hianik.jpg
+last: Hianik
 last_update: '2021-12-25'
 links:
   web: https://uniba.sk/ludia/hianik1/
+name: Tibor Hianik
+position: profesor
+scholar: https://scholar.google.com/citations?user=FNfPewQAAAAJ&amp;hl=en
+sex: "mu\u017E"
+year: ''

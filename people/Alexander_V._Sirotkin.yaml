@@ -1,30 +1,17 @@
-name: "Alexander V. Sirotkin"
-last: "Sirotkin"
-
-affiliation: "Univerzita Konštantína Filozofa"
-cited_by:
-- citations:
-    all: 5206
-    since_2016: 2347
-- h_index:
-    all: 38
-    since_2016: 21
-- i10_index:
-    all: 131
-    since_2016: 73
-city: "Nitra"
-country: "Slovensko"
-field: "biológia reprodukcie"
+affiliation: "Univerzita Kon\u0161tant\xEDna Filozofa"
+city: Nitra
+country: Slovensko
+field: "biol\xF3gia reprodukcie"
 hindex: 37
 img: Alexander_Sirotkin.jpg
+last: Sirotkin
 last_update: '2022-02-04'
 links:
   ResearchGate: https://www.researchgate.net/profile/Alexander_Sirotkin
   publons: https://publons.com/researcher/2009031/alexander-v-sirotkin/
-  životopis: https://portal.ukf.sk/kvalita/upload/inauguracie/5/1428071166_1440_551ea2fe525e0_zivotopis_asirotkin.pdf
-
+  "\u017Eivotopis": https://portal.ukf.sk/kvalita/upload/inauguracie/5/1428071166_1440_551ea2fe525e0_zivotopis_asirotkin.pdf
+name: Alexander V. Sirotkin
 position: profesor
 scholar: https://scholar.google.sk/citations?hl=en&amp;user=hVqCXAcAAAAJ
+sex: "mu\u017E"
 year: 1954
-
-sex: "muž"

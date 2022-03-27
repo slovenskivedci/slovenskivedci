@@ -1,33 +1,20 @@
-name: "Branislav Kusý"
-last: "Kusý"
-year: ''
-sex: "muž"
-
-affiliation: "CSIRO"
-
-cited_by:
-- citations:
-    all: 7105
-    since_2016: 2201
-- h_index:
-    all: 32
-    since_2016: 23
-- i10_index:
-    all: 64
-    since_2016: 45
-city: "Brisbane"
-country: "Austrália"
-field: "bezdrôtové siete a systémy"
+affiliation: CSIRO
+city: Brisbane
+country: "Austr\xE1lia"
+field: "bezdr\xF4tov\xE9 siete a syst\xE9my"
 hindex: 32
 img: Branislav_Kusy.jpg
+last: "Kus\xFD"
 last_update: '2021-12-25'
 links:
+  IEEE Xplore: https://ieeexplore.ieee.org/author/37272332400
   Semantic Scholar: https://www.semanticscholar.org/author/Branislav-Kusy/1752891
   dblp: https://dblp.org/pid/19/3001.html
-  IEEE Xplore: https://ieeexplore.ieee.org/author/37272332400
   publons: https://publons.com/researcher/2806804/branislav-kusy/
   web: https://sites.google.com/site/branislavkusy/
-  životopis: https://sites.google.com/site/branislavkusy/cv
-
-position: "vedec"
+  "\u017Eivotopis": https://sites.google.com/site/branislavkusy/cv
+name: "Branislav Kus\xFD"
+position: vedec
 scholar: https://scholar.google.com/citations?hl=en&amp;user=G9w7WT4AAAAJ
+sex: "mu\u017E"
+year: ''

@@ -1,36 +1,19 @@
-name: "Ľubomír Švorc"
-last: "Švorc"
-year: 1983
-sex: "muž"
-
-position: "profesor"
-field: "analytická chémia"
-affiliation: "Slovenská technická univerzita"
-city: "Bratislava"
-country: "Slovensko"
-
+affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+city: Bratislava
+country: Slovensko
+field: "analytick\xE1 ch\xE9mia"
 hindex: 33
-scholar: https://scholar.google.com/citations?hl=en&user=AudOPSIAAAAJ
-
-cited_by:
-- citations:
-    all: 2847
-    since_2016: 2284
-- h_index:
-    all: 33
-    since_2016: 30
-- i10_index:
-    all: 74
-    since_2016: 62
-
-last_update: '2022-01-19'
-
-links:
-  Veda na dosah: https://vedanadosah.cvtisr.sk/priroda/chemia/lubomir-svorc-patri-medzi-svetovu-spicku-mladych-chemikov/
-  ResearchGate: https://www.researchgate.net/scientific-contributions/Lubomir-Svorc-2052109038/publications/2
-  Vedec roka: https://sk.wikipedia.org/wiki/Vedec_roka_SR
-  web: https://is.stuba.sk/lide/clovek.pl?id=19350;lang=sk
-  orcid: https://orcid.org/0000-0002-9588-8609
-
-
 img: Lubomir_Svorc.jpg
+last: "\u0160vorc"
+last_update: '2022-01-19'
+links:
+  ResearchGate: https://www.researchgate.net/scientific-contributions/Lubomir-Svorc-2052109038/publications/2
+  Veda na dosah: https://vedanadosah.cvtisr.sk/priroda/chemia/lubomir-svorc-patri-medzi-svetovu-spicku-mladych-chemikov/
+  Vedec roka: https://sk.wikipedia.org/wiki/Vedec_roka_SR
+  orcid: https://orcid.org/0000-0002-9588-8609
+  web: https://is.stuba.sk/lide/clovek.pl?id=19350;lang=sk
+name: "\u013Dubom\xEDr \u0160vorc"
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&user=AudOPSIAAAAJ
+sex: "mu\u017E"
+year: 1983

@@ -1,35 +1,19 @@
-name: "Lenka Beňová"
-last: "Beňová"
-year: ''
-sex: "žena"
-
-position: "vedkyňa"
-field: "reprodukčné zdravie"
-affiliation: "Institute of Tropical Medicine Antwerp"
-city: "Antwerpy"
-country: "Belgicko"
-
+affiliation: Institute of Tropical Medicine Antwerp
+city: Antwerpy
+country: Belgicko
+field: "reproduk\u010Dn\xE9 zdravie"
 hindex: 31
-scholar: https://scholar.google.com/citations?user=BZTPCTIAAAAJ&hl=en
-
-cited_by:
-- citations:
-    all: 2735
-    since_2016: 2552
-- h_index:
-    all: 30
-    since_2016: 29
-- i10_index:
-    all: 56
-    since_2016: 56
-
+img: Lenka_Benova.jpg
+last: "Be\u0148ov\xE1"
 last_update: '2021-12-25'
-
 links:
+  ResearchGate: https://www.researchgate.net/profile/Lenka-Benova/3
+  orcid: https://orcid.org/0000-0001-8595-365X
+  twitter: https://twitter.com/lenkabenova
   web 1: https://research.itg.be/en/persons/lenka-benova
   web 2: https://www.lshtm.ac.uk/aboutus/people/benova.lenka
-  orcid: https://orcid.org/0000-0001-8595-365X
-  ResearchGate: https://www.researchgate.net/profile/Lenka-Benova/3
-  twitter: https://twitter.com/lenkabenova
-
-img: Lenka_Benova.jpg
+name: "Lenka Be\u0148ov\xE1"
+position: "vedky\u0148a"
+scholar: https://scholar.google.com/citations?user=BZTPCTIAAAAJ&hl=en
+sex: "\u017Eena"
+year: ''

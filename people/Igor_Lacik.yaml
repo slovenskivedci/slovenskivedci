@@ -1,29 +1,18 @@
-name: "Igor Lacík"
-last: "Lacík"
-position: "vedec"
-scholar: https://scholar.google.com/citations?user=SB6Z-ScAAAAJ&amp;hl=en
-year: 1962
-sex: "muž"
-
-affiliation: "Slovenská akadémia vied"
-cited_by:
-- citations:
-    all: 6354
-    since_2016: 3061
-- h_index:
-    all: 42
-    since_2016: 30
-- i10_index:
-    all: 99
-    since_2016: 74
-city: "Bratislava"
-country: "Slovensko"
-field: "makromolekulárna chémia"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
+city: Bratislava
+country: Slovensko
+field: "makromolekul\xE1rna ch\xE9mia"
 hindex: 43
 img: Igor_Lacik.jpeg
+last: "Lac\xEDk"
 last_update: '2022-02-04'
 links:
   ESET Science Award: https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/igor-lacik
   web: http://www.polymer.sav.sk/OVB-Staff
-  životopis 1: http://www.polymer.sav.sk/CVcka/cvlacik.pdf
-  životopis 2: https://www.learned.sk/wp-content/uploads/2020/01/ZIVOTOPIS_Lacik_Europass-Jan-2020_pre-UcSS.pdf
+  "\u017Eivotopis 1": http://www.polymer.sav.sk/CVcka/cvlacik.pdf
+  "\u017Eivotopis 2": https://www.learned.sk/wp-content/uploads/2020/01/ZIVOTOPIS_Lacik_Europass-Jan-2020_pre-UcSS.pdf
+name: "Igor Lac\xEDk"
+position: vedec
+scholar: https://scholar.google.com/citations?user=SB6Z-ScAAAAJ&amp;hl=en
+sex: "mu\u017E"
+year: 1962

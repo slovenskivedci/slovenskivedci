@@ -1,33 +1,17 @@
-name: "Klára Nahrstedt"
-last: "Nahrstedt"
-year: 1957
-sex: "žena"
-
+affiliation: University of Illinois
+city: Urbana-Champaign
+country: USA
+field: informatika
 hindex: 89
-scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
-
-position: "profesorka"
-field: "informatika"
-affiliation: "University of Illinois"
-city: "Urbana-Champaign"
-country: "USA"
-
-
-cited_by:
-- citations:
-    all: 32106
-    since_2016: 6487
-- h_index:
-    all: 88
-    since_2016: 39
-- i10_index:
-    all: 359
-    since_2016: 145
-
-
 img: Klara_Nahrstedt.jpg
+last: Nahrstedt
 last_update: '2022-02-13'
 links:
   dblp: https://dblp.org/pid/45/3224.html
   web: https://cs.illinois.edu/about/people/faculty/klara
-  wikipédia: https://en.wikipedia.org/wiki/Klara_Nahrstedt
+  "wikip\xE9dia": https://en.wikipedia.org/wiki/Klara_Nahrstedt
+name: "Kl\xE1ra Nahrstedt"
+position: profesorka
+scholar: https://scholar.google.com/citations?hl=en&amp;user=TW0t25AAAAAJ
+sex: "\u017Eena"
+year: 1957

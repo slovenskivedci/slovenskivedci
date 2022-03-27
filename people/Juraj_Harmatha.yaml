@@ -1,28 +1,16 @@
-affiliation: "Česká akadémia vied"
-cited_by:
-- citations:
-    all: 3530
-    since_2016: 1020
-- h_index:
-    all: 33
-    since_2016: 16
-- i10_index:
-    all: 82
-    since_2016: 34
-city: "Praha"
-country: "Česko"
-field: "biochémia"
+affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
+city: Praha
+country: "\u010Cesko"
+field: "bioch\xE9mia"
 hindex: 33
 img: Juraj_Harmatha.jpg
+last: Harmatha
 last_update: '2021-12-25'
 links:
   ResearchGate: https://www.researchgate.net/profile/Juraj-Harmatha/10
   orcid: https://orcid.org/0000-0003-4385-0841
-
-
-name: "Juraj Harmatha"
-last: "Harmatha"
-position: "vedec"
+name: Juraj Harmatha
+position: vedec
 scholar: https://scholar.google.com/citations?user=AZDDb3gAAAAJ&amp;hl=en
+sex: "mu\u017E"
 year: ''
-sex: "muž"

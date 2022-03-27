@@ -1,34 +1,17 @@
-name: "Vladimír Kellö"
-last: "Kellö"
-
-year: 1947
-sex: "muž"
-
-position: "profesor"
-field: "fyzikálna chémia"
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: "fyzik\xE1lna ch\xE9mia"
 hindex: 34
-scholar: https://scholar.google.com/citations?hl=en&user=f8595C4AAAAJ
-
-cited_by:
-- citations:
-    all: 3602
-    since_2016: 423
-- h_index:
-    all: 34
-    since_2016: 11
-- i10_index:
-    all: 71
-    since_2016: 12
-
-last_update: '2021-11-30'
-
-links:
-  web: https://fns.uniba.sk/vladimir-kelloe/
-  životopis: https://fns.uniba.sk/fileadmin/prif/chem/kfz/profiles/CV_Kello_2020.pdf
-  publons: https://publons.com/researcher/2894187/vladimir-kello/
-
 img: Vladimir_Kello.jpg
+last: "Kell\xF6"
+last_update: '2021-11-30'
+links:
+  publons: https://publons.com/researcher/2894187/vladimir-kello/
+  web: https://fns.uniba.sk/vladimir-kelloe/
+  "\u017Eivotopis": https://fns.uniba.sk/fileadmin/prif/chem/kfz/profiles/CV_Kello_2020.pdf
+name: "Vladim\xEDr Kell\xF6"
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&user=f8595C4AAAAJ
+sex: "mu\u017E"
+year: 1947

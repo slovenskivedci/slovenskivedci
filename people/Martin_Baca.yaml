@@ -1,14 +1,4 @@
 affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
-cited_by:
-- citations:
-    all: 3759
-    since_2017: 1954
-- h_index:
-    all: 30
-    since_2017: 21
-- i10_index:
-    all: 89
-    since_2017: 51
 city: "Ko\u0161ice"
 country: Slovensko
 field: "te\xF3ria grafov"

@@ -1,38 +1,20 @@
-name: "Štefan Schlosser"
-last: "Schlosser"
-year: ''
-sex: "muž"
-
-position: "vedec"
-field: "membrány"
-affiliation: "Slovenská technická univerzita"
-city: "Bratislava"
-country: "Slovensko"
-
+affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+city: Bratislava
+country: Slovensko
+field: "membr\xE1ny"
 hindex: 30
-scholar: https://scholar.google.com/citations?user=J2qs3RMAAAAJ&hl=en
-
-cited_by:
-- citations:
-    all: 2722
-    since_2016: 923
-- h_index:
-    all: 30
-    since_2016: 16
-- i10_index:
-    all: 57
-    since_2016: 27
-
+img: Stefan_Schlosser.jpg
+last: Schlosser
 last_update: '2021-11-21'
-
 links:
   LinkedIn: https://www.linkedin.com/in/stefan-schlosser-7220424a/
   ResearchGate: https://www.researchgate.net/profile/Stefan-Schlosser
-  publons: https://publons.com/researcher/1513959/stefan-schlosser/
   loop: https://loop.frontiersin.org/people/646398/overview
-  web 2: http://kchbi.chtf.stuba.sk/clenovia/detail.aspx?ID=26
+  publons: https://publons.com/researcher/1513959/stefan-schlosser/
   web 1: http://sschi.chtf.stuba.sk/MembraneLab/Contact.htm
-
-
-
-img: Stefan_Schlosser.jpg
+  web 2: http://kchbi.chtf.stuba.sk/clenovia/detail.aspx?ID=26
+name: "\u0160tefan Schlosser"
+position: vedec
+scholar: https://scholar.google.com/citations?user=J2qs3RMAAAAJ&hl=en
+sex: "mu\u017E"
+year: ''

@@ -1,33 +1,18 @@
-name: "Viera Skákalová"
-last: "Skákalová"
-
-position: "vedkyňa"
-scholar: https://scholar.google.com/citations?user=3PIAo10AAAAJ&amp;hl=en
-year: ''
-sex: "žena"
-
-affiliation: "University of Vienna"
-cited_by:
-- citations:
-    all: 5708
-    since_2016: 2592
-- h_index:
-    all: 36
-    since_2016: 25
-- i10_index:
-    all: 67
-    since_2016: 45
-city: "Viedeň"
-country: "Rakúsko"
-field: "nanomateriály"
+affiliation: University of Vienna
+city: "Viede\u0148"
+country: "Rak\xFAsko"
+field: "nanomateri\xE1ly"
 hindex: 36
-
+img: Viera_Skakalova.jpeg
+last: "Sk\xE1kalov\xE1"
 last_update: '2021-12-25'
 links:
   ResearchGate: https://www.researchgate.net/profile/Viera_Skakalova
   orcid: https://orcid.org/0000-0002-7016-8584
   web: https://ufind.univie.ac.at/en/person.html?id=46790
-  životopis: https://iea.u-cergy.fr/en/invited-researchers-cv/fellows-in-residence-2019-2020/viera-skakalova.html
-
-
-img: Viera_Skakalova.jpeg
+  "\u017Eivotopis": https://iea.u-cergy.fr/en/invited-researchers-cv/fellows-in-residence-2019-2020/viera-skakalova.html
+name: "Viera Sk\xE1kalov\xE1"
+position: "vedky\u0148a"
+scholar: https://scholar.google.com/citations?user=3PIAo10AAAAJ&amp;hl=en
+sex: "\u017Eena"
+year: ''

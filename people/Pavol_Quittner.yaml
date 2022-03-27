@@ -1,32 +1,21 @@
-affiliation: "Univerzita Komenského"
-cited_by:
-- citations:
-    all: 3606
-    since_2016: 1412
-- h_index:
-    all: 31
-    since_2016: 14
-- i10_index:
-    all: 55
-    since_2016: 27
-city: "Bratislava"
-country: "Slovensko"
-field: "matematika"
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: matematika
 hindex: 31
 img: Pavol_Quittner.jpg
+last: Quittner
 last_update: '2022-03-25'
 links:
-  web: http://www.iam.fmph.uniba.sk/institute/quittner/
-  wikipédia: https://sk.wikipedia.org/wiki/Pavol_Quittner
-  Mathematics Genealogy: https://www.mathgenealogy.org/id.php?id=122049
-  publons: https://publons.com/researcher/1846321/pavol-quittner/
-  dblp: https://dblp.org/pid/122/6263.html
   IMO: https://www.imo-official.org/participant_r.aspx?id=29
+  Mathematics Genealogy: https://www.mathgenealogy.org/id.php?id=122049
+  dblp: https://dblp.org/pid/122/6263.html
   mathscinet: https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=193401
-
-name: "Pavol Quittner"
-last: "Quittner"
+  publons: https://publons.com/researcher/1846321/pavol-quittner/
+  web: http://www.iam.fmph.uniba.sk/institute/quittner/
+  "wikip\xE9dia": https://sk.wikipedia.org/wiki/Pavol_Quittner
+name: Pavol Quittner
 position: profesor
 scholar: https://scholar.google.com/citations?user=QhrxwOcAAAAJ
+sex: "mu\u017E"
 year: 1958
-sex: "muž"

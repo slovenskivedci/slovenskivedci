@@ -1,29 +1,15 @@
-name: "Ladislav Paule"
-last: "Paule"
-position: "profesor"
-scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
-year: ''
-sex: "muž"
-
-affiliation: "Technická univerzita vo Zvolene"
-cited_by:
-- citations:
-    all: 4054
-    since_2016: 1655
-- h_index:
-    all: 30
-    since_2016: 20
-- i10_index:
-    all: 72
-    since_2016: 42
-city: "Zvolen"
+affiliation: "Technick\xE1 univerzita vo Zvolene"
+city: Zvolen
 country: Slovensko
-field: "fytológia"
+field: "fytol\xF3gia"
 hindex: 32
-
+img: Ladislav_Paule.jpg
+last: Paule
 last_update: '2022-02-13'
 links:
   web: http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
-
-
-img: Ladislav_Paule.jpg
+name: Ladislav Paule
+position: profesor
+scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
+sex: "mu\u017E"
+year: ''

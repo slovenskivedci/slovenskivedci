@@ -1,41 +1,22 @@
-name: "Michal Fečkan"
-last: "Fečkan"
-year: 1960
-sex: "muž"
-
-position: "profesor"
-field: "matematika"
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: matematika
 hindex: 33
-scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
-
-
-cited_by:
-- citations:
-    all: 5133
-    since_2016: 2969
-- h_index:
-    all: 32
-    since_2016: 28
-- i10_index:
-    all: 121
-    since_2016: 76
-
+img: Michal_Feckan.jpg
+last: "Fe\u010Dkan"
 last_update: '2021-12-25'
-
-
-
 links:
   ESET Science Award: https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
-  web: https://www.mat.savba.sk/~feckan/
-  životopis: https://www.mat.savba.sk/~feckan/#_toc16
-  ResearchGate: https://www.researchgate.net/profile/Michal-Feckan
   LinkedIn: https://www.linkedin.com/in/michal-feckan-177b153b/?originalSubdomain=sk
+  Mathematics Genealogy: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=129264
+  ResearchGate: https://www.researchgate.net/profile/Michal-Feckan
   orcid: https://orcid.org/0000-0002-7385-6737
   publons: https://publons.com/researcher/1846317/michal-feckan/
-  Mathematics Genealogy: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=129264
-
-img: Michal_Feckan.jpg
+  web: https://www.mat.savba.sk/~feckan/
+  "\u017Eivotopis": https://www.mat.savba.sk/~feckan/#_toc16
+name: "Michal Fe\u010Dkan"
+position: profesor
+scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
+sex: "mu\u017E"
+year: 1960

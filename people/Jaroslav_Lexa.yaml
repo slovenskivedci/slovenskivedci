@@ -1,36 +1,19 @@
-name: "Jaroslav Lexa"
-last: "Lexa"
-year: 1944
-sex: "muž"
-
-position: "vedec"
-field: "vulkanológia"
-affiliation: "Slovenská akadémia vied"
-city: "Bratislava"
-country: "Slovensko"
-
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
+city: Bratislava
+country: Slovensko
+field: "vulkanol\xF3gia"
 hindex: 30
-scholar: https://scholar.google.com/citations?user=rHgfxxwAAAAJ&hl=en
-
-cited_by:
-- citations:
-    all: 2978
-    since_2016: 1104
-- h_index:
-    all: 30
-    since_2016: 18
-- i10_index:
-    all: 54
-    since_2016: 30
-
+img: Jaroslav_Lexa.jpg
+last: Lexa
 last_update: '2021-12-01'
-
 links:
-
-  web 2: http://www.geo.sav.sk/en/staff/jaroslav-lexa-en/
+  ResearchGate: https://www.researchgate.net/profile/Jaroslav-Lexa
   science.sk: http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2086-jaroslav-lexa
   web 1: https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443
-  ResearchGate: https://www.researchgate.net/profile/Jaroslav-Lexa
-  životopis: https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443&action=cv
-
-img: Jaroslav_Lexa.jpg
+  web 2: http://www.geo.sav.sk/en/staff/jaroslav-lexa-en/
+  "\u017Eivotopis": https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443&action=cv
+name: Jaroslav Lexa
+position: vedec
+scholar: https://scholar.google.com/citations?user=rHgfxxwAAAAJ&hl=en
+sex: "mu\u017E"
+year: 1944

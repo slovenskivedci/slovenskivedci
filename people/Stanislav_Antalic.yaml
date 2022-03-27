@@ -1,39 +1,17 @@
-name: "Stanislav Antalic"
-last: "Antalic"
-
-year: ''
-sex: "muž"
-
-
-position: docent
-field: "jadrová fyzika"
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-
-
-hindex: 34
-scholar: https://scholar.google.com/citations?user=h08MR_wAAAAJ&amp;hl=en
 ResearchGate: https://www.researchgate.net/profile/Stanislav-Antalic
-
-
-cited_by:
-- citations:
-    all: 4247
-    since_2016: 2058
-- h_index:
-    all: 34
-    since_2016: 24
-- i10_index:
-    all: 74
-    since_2016: 61
-
-
-
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: "jadrov\xE1 fyzika"
+hindex: 34
+img: Stanislav_Antalic.jpg
+last: Antalic
 last_update: '2021-12-25'
-
 links:
   web: http://antalic.dnp.fmph.uniba.sk/index.php
-  životopis: http://antalic.dnp.fmph.uniba.sk/cv.php
-
-img: Stanislav_Antalic.jpg
+  "\u017Eivotopis": http://antalic.dnp.fmph.uniba.sk/cv.php
+name: Stanislav Antalic
+position: docent
+scholar: https://scholar.google.com/citations?user=h08MR_wAAAAJ&amp;hl=en
+sex: "mu\u017E"
+year: ''

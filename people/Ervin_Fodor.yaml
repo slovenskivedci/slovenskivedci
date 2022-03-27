@@ -1,40 +1,24 @@
-name: "Ervin Fodor"
-last: "Fodor"
-year: 1965
-sex: "muž"
-
-position: profesor
-field: "virológia"
-affiliation: "University of Oxford"
-city: "Oxford"
-country: "Veľká Británia"
-
+affiliation: University of Oxford
+city: Oxford
+country: "Ve\u013Ek\xE1 Brit\xE1nia"
+field: "virol\xF3gia"
 hindex: 59
-scholar: https://scholar.google.com/citations?hl=en&user=vcIizE8AAAAJ
-
-cited_by:
-- citations:
-    all: 11387
-    since_2016: 5375
-- h_index:
-    all: 58
-    since_2016: 40
-- i10_index:
-    all: 92
-    since_2016: 85
-
+img: Ervin_Fodor.jpg
+last: Fodor
 last_update: '2022-02-04'
-
 links:
-  prabook: https://prabook.com/web/ervin.fodor/482871
-  web 2: https://www.path.ox.ac.uk/content/ervin-fodor
-  web 1: http://fodor.path.ox.ac.uk
-  wikipédia: https://en.wikipedia.org/wiki/Ervin_Fodor
-  orcid: https://orcid.org/0000-0003-3249-196X
   ResearchGate: https://www.researchgate.net/scientific-contributions/Ervin-Fodor-39288116
   UKRI: https://gtr.ukri.org/person/2739E4AE-CD02-41E7-B50E-7B683E3D666D
+  acmedsci: https://acmedsci.ac.uk/fellows/fellows-directory/ordinary-fellows/fellow/Professor-Ervin-Fodor-0017930
+  orcid: https://orcid.org/0000-0003-3249-196X
+  prabook: https://prabook.com/web/ervin.fodor/482871
   publons: https://publons.com/researcher/335920/ervin-fodor/
   twitter: https://twitter.com/fodorlab
-  acmedsci: https://acmedsci.ac.uk/fellows/fellows-directory/ordinary-fellows/fellow/Professor-Ervin-Fodor-0017930
-
-img: Ervin_Fodor.jpg
+  web 1: http://fodor.path.ox.ac.uk
+  web 2: https://www.path.ox.ac.uk/content/ervin-fodor
+  "wikip\xE9dia": https://en.wikipedia.org/wiki/Ervin_Fodor
+name: Ervin Fodor
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&user=vcIizE8AAAAJ
+sex: "mu\u017E"
+year: 1965

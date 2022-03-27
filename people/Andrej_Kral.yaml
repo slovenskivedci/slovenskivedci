@@ -1,38 +1,18 @@
-name: "Andrej Kráľ"
-last: "Kráľ"
-year: 1969
-sex: "muž"
-
-position: "profesor"
-field: "neuroveda"
-
+affiliation: Hannover Medical School
+city: Hannover
+country: Nemecko
+field: neuroveda
 hindex: 41
-scholar: https://scholar.google.com/citations?user=y0Fdk30AAAAJ&amp
-
-affiliation: "Hannover Medical School"
-city: "Hannover"
-country: "Nemecko"
-
-cited_by:
-- citations:
-    all: 7271
-    since_2016: 3950
-- h_index:
-    all: 40
-    since_2016: 33
-- i10_index:
-    all: 85
-    since_2016: 71
-
-
 img: Andrej_Kral.jpg
-
-
+last: "Kr\xE1\u013E"
+last_update: '2022-02-04'
 links:
   ResearchGate: https://www.researchgate.net/profile/Andrej-Kral
   loop: https://loop.frontiersin.org/people/84073/overview
   orcid: https://orcid.org/0000-0002-7762-4642
   web: https://www.neuroprostheses.com/AK/Main.html
-
-
-last_update: '2022-02-04'
+name: "Andrej Kr\xE1\u013E"
+position: profesor
+scholar: https://scholar.google.com/citations?user=y0Fdk30AAAAJ&amp
+sex: "mu\u017E"
+year: 1969

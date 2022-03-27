@@ -1,34 +1,18 @@
-name: "Juraj Švitel"
-last: "Švitel"
-year: ''
-sex: "muž"
-
-position: "riaditeľ"
-field: "biochémia"
-affiliation: "NGM Biopharmaceuticals"
-city: "San Francisco"
-country: "USA"
-
+affiliation: NGM Biopharmaceuticals
+city: San Francisco
+country: USA
+field: "bioch\xE9mia"
 hindex: 31
-scholar: https://scholar.google.com/citations?hl=en&user=X5-SX04AAAAJ
-
-cited_by:
-- citations:
-    all: 3086
-    since_2016: 1163
-- h_index:
-    all: 31
-    since_2016: 18
-- i10_index:
-    all: 44
-    since_2016: 23
-
-last_update: '2021-11-21'
-
-links:
-  ResearchGate: https://www.researchgate.net/profile/George-Svitel
-  životopis: https://www.signalhire.com/profiles/juraj-george-svitel%27s-email/133523625
-  Semantic Scholar: https://www.semanticscholar.org/author/J.-Švitel/5101737
-  LinkedIn: https://www.linkedin.com/in/juraj-george-svitel-1211203/
-  
 img: Juraj_Svitel.jpg
+last: "\u0160vitel"
+last_update: '2021-11-21'
+links:
+  LinkedIn: https://www.linkedin.com/in/juraj-george-svitel-1211203/
+  ResearchGate: https://www.researchgate.net/profile/George-Svitel
+  Semantic Scholar: "https://www.semanticscholar.org/author/J.-\u0160vitel/5101737"
+  "\u017Eivotopis": https://www.signalhire.com/profiles/juraj-george-svitel%27s-email/133523625
+name: "Juraj \u0160vitel"
+position: "riadite\u013E"
+scholar: https://scholar.google.com/citations?hl=en&user=X5-SX04AAAAJ
+sex: "mu\u017E"
+year: ''

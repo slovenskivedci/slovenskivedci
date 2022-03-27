@@ -1,26 +1,15 @@
-name: "Miroslav Kolesík"
-last: "Kolesík"
-position: docent
-scholar: https://scholar.google.com/citations?hl=en&amp;user=1tCBM2kAAAAJ
-year: ''
-sex: "muž"
-
-affiliation: "University of Arizona"
-cited_by:
-- citations:
-    all: 6999
-    since_2016: 2917
-- h_index:
-    all: 41
-    since_2016: 25
-- i10_index:
-    all: 105
-    since_2016: 58
-city: "Tucson"
-country: "USA"
-field: "optika"
+affiliation: University of Arizona
+city: Tucson
+country: USA
+field: optika
 hindex: 41
 img: Miroslav_Kolesik.jpg
+last: "Koles\xEDk"
 last_update: '2021-12-25'
 links:
   web: http://acms.arizona.edu/FemtoTheory/MK_personal/index.html
+name: "Miroslav Koles\xEDk"
+position: docent
+scholar: https://scholar.google.com/citations?hl=en&amp;user=1tCBM2kAAAAJ
+sex: "mu\u017E"
+year: ''

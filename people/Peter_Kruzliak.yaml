@@ -1,33 +1,17 @@
-name: "Peter Kružliak"
-last: "Kružliak"
-year: ''
-sex: "muž"
-
-position: "CEO"
-field: "biológia"
-affiliation: "Research and Development Services"
-city: "Brno"
-country: "Česko"
-
+affiliation: Research and Development Services
+city: Brno
+country: "\u010Cesko"
+field: "biol\xF3gia"
 hindex: 39
-scholar: https://scholar.google.com/citations?user=ICo_N5sAAAAJ&hl=sk
-
-cited_by:
-- citations:
-    all: 4748
-    since_2016: 4446
-- h_index:
-    all: 38
-    since_2016: 35
-- i10_index:
-    all: 131
-    since_2016: 130
-
 img: Peter_Kruzliak.jpg
-
+last: "Kru\u017Eliak"
 last_update: '2022-02-04'
-
 links:
   LinkedIn: https://www.linkedin.com/in/peter-kruzliak-b61a8a47/?originalSubdomain=cz
-  orcid: https://orcid.org/0000-0002-7069-3784
   omicsonline: https://www.omicsonline.org/author-profile/peter-kruzliak-243383/
+  orcid: https://orcid.org/0000-0002-7069-3784
+name: "Peter Kru\u017Eliak"
+position: CEO
+scholar: https://scholar.google.com/citations?user=ICo_N5sAAAAJ&hl=sk
+sex: "mu\u017E"
+year: ''

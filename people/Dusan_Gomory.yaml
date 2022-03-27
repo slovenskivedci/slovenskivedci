@@ -1,30 +1,18 @@
-name: "Dušan Gömöry"
-last: "Gömöry"
-sex: "muž"
-
-affiliation: "Technická univerzita vo Zvolene"
-cited_by:
-- citations:
-    all: 4298
-    since_2016: 1947
-- h_index:
-    all: 30
-    since_2016: 20
-- i10_index:
-    all: 86
-    since_2016: 57
-city: "Zvolen"
-country: "Slovensko"
-field: "genetika drevín"
+affiliation: "Technick\xE1 univerzita vo Zvolene"
+city: Zvolen
+country: Slovensko
+field: "genetika drev\xEDn"
 hindex: 31
 img: Dusan_Gomory.png
+last: "G\xF6m\xF6ry"
 last_update: '2022-02-04'
 links:
   ResearchGate: https://www.researchgate.net/profile/Dusan-Goemoery
   loop: https://loop.frontiersin.org/people/299224/overview
   orcid: https://orcid.org/0000-0002-9426-4247
   web: https://www.tuzvo.sk/en/ludia-na-tuzvo/792
-
+name: "Du\u0161an G\xF6m\xF6ry"
 position: profesor
 scholar: https://scholar.google.com/citations?hl=en&amp;user=RllC3asAAAAJ
+sex: "mu\u017E"
 year: ''

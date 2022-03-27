@@ -1,29 +1,16 @@
-name: "Peter Celec"
-last: "Celec"
-
-position: docent
-scholar: https://scholar.google.sk/citations?user=iPch8vQAAAAJ&amp;hl=en
-year: 1979
-sex: "muž"
-
-
-affiliation: "Univerzita Komenského"
-cited_by:
-- citations:
-    all: 5949
-    since_2016: 3519
-- h_index:
-    all: 41
-    since_2016: 32
-- i10_index:
-    all: 139
-    since_2016: 105
-city: "Bratislava"
-country: "Slovensko"
-field: "molekulárna biomedicína"
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: "molekul\xE1rna biomedic\xEDna"
 hindex: 42
 img: Peter_Celec.jpg
+last: Celec
 last_update: '2022-02-04'
 links:
   web: https://www.imbm.sk/sk/members/peter-celec-sk/
-  životopis: http://www.imbm.sk/wp-content/uploads/2017/03/cv_peter-celec-short-en.pdf
+  "\u017Eivotopis": http://www.imbm.sk/wp-content/uploads/2017/03/cv_peter-celec-short-en.pdf
+name: Peter Celec
+position: docent
+scholar: https://scholar.google.sk/citations?user=iPch8vQAAAAJ&amp;hl=en
+sex: "mu\u017E"
+year: 1979

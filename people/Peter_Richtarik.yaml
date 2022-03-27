@@ -1,43 +1,27 @@
-name: "Peter Richtárik"
-last: "Richtárik"
-year: ''
-sex: "muž"
-
-position: "profesor"
-field: "optimalizácia a strojové učenie"
-affiliation: "KAUST"
-city: "Thuwal"
-country: "Saudská Arábia"
-
+affiliation: KAUST
+city: Thuwal
+country: "Saudsk\xE1 Ar\xE1bia"
+field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
 hindex: 50
-scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
-
-cited_by:
-- citations:
-    all: 10800
-    since_2016: 9603
-- h_index:
-    all: 48
-    since_2016: 45
-- i10_index:
-    all: 117
-    since_2016: 112
-
+img: Peter_Richtarik.jpg
+last: "Richt\xE1rik"
 last_update: '2022-02-03'
-
 links:
+  KInIT: https://kinit.sk/meet-peter-richtarik-kinit-external-mentor/
+  LinkedIn: https://sa.linkedin.com/in/richtarik
+  Mathematics Genealogy: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=111470
+  ResearchGate: https://www.researchgate.net/profile/Peter-Richtarik-2
   dblp: https://dblp.org/pid/62/8001.html
+  openreview: "https://openreview.net/profile?id=~Peter_Richt\xE1rik1"
+  orcid: https://orcid.org/0000-0003-4380-5848
+  research.com: https://research.com/u/peter-richtarik
+  twitter: https://twitter.com/peter_richtarik?lang=en
   web 1: https://richtarik.org
   web 2: https://cemse.kaust.edu.sa/vcc/people/person/peter-richtarik
-  životopis: https://richtarik.org/docs/richtarik-cv-2021-03.pdf
-  orcid: https://orcid.org/0000-0003-4380-5848
-  LinkedIn: https://sa.linkedin.com/in/richtarik
-  twitter: https://twitter.com/peter_richtarik?lang=en
-  KInIT: https://kinit.sk/meet-peter-richtarik-kinit-external-mentor/
-  Mathematics Genealogy: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=111470
-  research.com: https://research.com/u/peter-richtarik
-  openreview: https://openreview.net/profile?id=~Peter_Richtárik1
-  wikipédia: https://en.wikipedia.org/wiki/Peter_Richtarik
-  ResearchGate: https://www.researchgate.net/profile/Peter-Richtarik-2
-
-img: Peter_Richtarik.jpg
+  "wikip\xE9dia": https://en.wikipedia.org/wiki/Peter_Richtarik
+  "\u017Eivotopis": https://richtarik.org/docs/richtarik-cv-2021-03.pdf
+name: "Peter Richt\xE1rik"
+position: profesor
+scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
+sex: "mu\u017E"
+year: ''

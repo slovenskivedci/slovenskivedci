@@ -1,36 +1,19 @@
-name: "Miroslav Urban"
-last: "Urban"
-
-year: 1942
-sex: "muž"
-
-position: "profesor"
-field: "chémia"
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: "ch\xE9mia"
 hindex: 38
-scholar: https://scholar.google.com/citations?hl=en&user=9Ff2ZsoAAAAJ
-
-cited_by:
-- citations:
-    all: 7757
-    since_2016: 1615
-- h_index:
-    all: 38
-    since_2016: 14
-- i10_index:
-    all: 92
-    since_2016: 27
-
+img: Miroslav_Urban.jpg
+last: Urban
 last_update: '2021-11-30'
-
 links:
-  životopis 1: https://www.learned.sk/wp-content/uploads/2020/03/Zivotopis_Miroslav_Urban.pdf
-  životopis 2: http://www.qch.fns.uniba.sk/GroupPage/members/urban/cv-urban.pdf
-  Rad Ľ Štúra II triedy: https://uniba.sk/detail-aktuality/browse/72/back_to_page/aktuality-1/article/prof-miroslav-urban-ziskal-rad-ludovita-stura-ii-triedy/
+  "Rad \u013D \u0160t\xFAra II triedy": https://uniba.sk/detail-aktuality/browse/72/back_to_page/aktuality-1/article/prof-miroslav-urban-ziskal-rad-ludovita-stura-ii-triedy/
   orcid: https://orcid.org/0000-0003-0379-6414
   publons: https://publons.com/researcher/2385736/miroslav-urban/
-
-img: Miroslav_Urban.jpg
+  "\u017Eivotopis 1": https://www.learned.sk/wp-content/uploads/2020/03/Zivotopis_Miroslav_Urban.pdf
+  "\u017Eivotopis 2": http://www.qch.fns.uniba.sk/GroupPage/members/urban/cv-urban.pdf
+name: Miroslav Urban
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&user=9Ff2ZsoAAAAJ
+sex: "mu\u017E"
+year: 1942

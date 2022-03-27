@@ -1,28 +1,17 @@
-affiliation: "Západočeská univerzita v Plzni"
-cited_by:
-- citations:
-    all: 6632
-    since_2016: 4243
-- h_index:
-    all: 43
-    since_2016: 31
-- i10_index:
-    all: 133
-    since_2016: 106
-city: "Plzeň"
-country: "Česko"
-field: "aplikovaná fyzika"
-
+affiliation: "Z\xE1pado\u010Desk\xE1 univerzita v Plzni"
+city: "Plze\u0148"
+country: "\u010Cesko"
+field: "aplikovan\xE1 fyzika"
 hindex: 44
 img: Jan_Minar.jpeg
+last: "Min\xE1r"
 last_update: '2022-02-02'
 links:
   ResearchGate: https://www.researchgate.net/profile/Jan-Minar
   web: https://cedam.ntc.zcu.cz/cz/kontakt.html
-  životopis: files/cv_Jan_Minar_2022.pdf
-name: "Ján Minár"
-last: "Minár"
+  "\u017Eivotopis": files/cv_Jan_Minar_2022.pdf
+name: "J\xE1n Min\xE1r"
 position: profesor
 scholar: https://scholar.google.com/citations?user=EZ8YetQAAAAJ&amp;hl=en
+sex: "mu\u017E"
 year: 1975
-sex: "muž"

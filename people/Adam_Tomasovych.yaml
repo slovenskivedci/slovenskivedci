@@ -1,45 +1,26 @@
-name: "Adam Tomašových"
-last: "Tomašových"
-year: 1978
-sex: "muž"
-
-position: "vedec"
-field: "paleobiológia"
-affiliation: "Slovenská akadémia vied"
-city: "Bratislava"
-country: "Slovensko"
-
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
+city: Bratislava
+country: Slovensko
+field: "paleobiol\xF3gia"
 hindex: 30
-scholar: https://scholar.google.com/citations?user=7Zkz-9MAAAAJ
-
-cited_by:
-- citations:
-    all: 3130
-    since_2016: 1818
-- h_index:
-    all: 30
-    since_2016: 23
-- i10_index:
-    all: 59
-    since_2016: 49
-
+img: Adam_Tomasovych.jpg
+last: "Toma\u0161ov\xFDch"
 last_update: '2021-12-25'
-
 links:
-  web: http://www.geol.sav.sk/tomasovych/
+  LinkedIn: https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
+  Microsoft Academic: https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
+  "Na\u0161i a svetov\xED": https://slovensko.rtvs.sk/rubriky/nasi-a-svetovi/182332/nasi-a-svetovi-adam-tomasovych
   ResearchGate: http://www.researchgate.net/profile/Adam_Tomasovych
-  životopis: http://www.geol.sav.sk/tomasovych/curriculum%20vitae.pdf
+  facebook: https://m.facebook.com/peter.kubatka
+  loop: https://loop.frontiersin.org/people/1386452/overview
   orcid: https://orcid.org/0000-0002-0471-9480
   twitter: https://twitter.com/atomasovych
-  Naši a svetoví: https://slovensko.rtvs.sk/rubriky/nasi-a-svetovi/182332/nasi-a-svetovi-adam-tomasovych
-
-  LinkedIn: https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
-  loop: https://loop.frontiersin.org/people/1386452/overview
-  facebook: https://m.facebook.com/peter.kubatka
-  Microsoft Academic: https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
-
-  web 2: http://www.geo.sav.sk/en/staff/adam-tomasovych-en/
+  web: http://www.geol.sav.sk/tomasovych/
   web 1: http://www.geol.sav.sk/tomasovych/
-
-
-img: Adam_Tomasovych.jpg
+  web 2: http://www.geo.sav.sk/en/staff/adam-tomasovych-en/
+  "\u017Eivotopis": http://www.geol.sav.sk/tomasovych/curriculum%20vitae.pdf
+name: "Adam Toma\u0161ov\xFDch"
+position: vedec
+scholar: https://scholar.google.com/citations?user=7Zkz-9MAAAAJ
+sex: "mu\u017E"
+year: 1978

@@ -1,38 +1,21 @@
-name: "Jozef Nosek"
-last: "Nosek"
-year: 1967
-sex: "muž"
-
-position: "profesor"
-field: "biochémia"
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: "bioch\xE9mia"
 hindex: 29
-scholar: https://scholar.google.com/citations?hl=en&user=VzDSjLcAAAAJ
-
-cited_by:
-- citations:
-    all: 2729
-    since_2016: 1137
-- h_index:
-    all: 29
-    since_2016: 17
-- i10_index:
-    all: 62
-    since_2016: 41
-
+img: Jozef_Nosek.jpg
+last: Nosek
 last_update: '2021-11-24'
-
 links:
-  web: http://www.biocenter.sk/jn.html
-  životopis: http://www.biocenter.sk/jncv.html
-  orcid: https://orcid.org/0000-0002-1020-5451
-  publons: https://publons.com/researcher/1707285/jozef-nosek/
+  AMiner: https://www.aminer.cn/profile/jozef-nosek/53f36745dabfae4b3499e846
   ResearchGate: https://www.researchgate.net/scientific-contributions/Jozef-Nosek-39123357
   loop: https://loop.frontiersin.org/people/21307/overview
-  AMiner: https://www.aminer.cn/profile/jozef-nosek/53f36745dabfae4b3499e846
-
-
-img: Jozef_Nosek.jpg
+  orcid: https://orcid.org/0000-0002-1020-5451
+  publons: https://publons.com/researcher/1707285/jozef-nosek/
+  web: http://www.biocenter.sk/jn.html
+  "\u017Eivotopis": http://www.biocenter.sk/jncv.html
+name: Jozef Nosek
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&user=VzDSjLcAAAAJ
+sex: "mu\u017E"
+year: 1967
