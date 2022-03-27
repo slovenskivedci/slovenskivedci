@@ -1,21 +1,21 @@
-affiliation: "Slovensk\xE1 akad\xE9mia vied"
-cited_by:
-- citations:
-    all: 5142
-    since_2017: 2464
-- h_index:
-    all: 41
-    since_2017: 26
-- i10_index:
-    all: 80
-    since_2017: 65
-city: Bratislava
-country: Slovensko
-field: "virol\xF3gia"
+name: "Boris Klempa"
+last: "Klempa"
+year: ''
+sex: "muž"
+
+position: "vedec"
+field: "virológia"
+affiliation: "Slovenská akadémia vied"
+city: "Bratislava"
+country: "Slovensko"
+
 hindex: 41
+scholar: https://scholar.google.com/citations?user=FSHRkJgAAAAJ&hl=en
+
 img: Boris_Klempa.jpg
-last: Klempa
-last_update: '2022-03-27'
+
+last_update: '2022-03-26'
+
 links:
   ESET Science Award: https://www.esetscienceaward.sk/en/finalists/boris-klempa
   ResearchGate: https://www.researchgate.net/profile/Boris-Klempa

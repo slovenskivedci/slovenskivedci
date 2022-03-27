@@ -1,3 +1,31 @@
+- affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
+  affiliationurl: Ceska_akademia_vied
+  city: Praha
+  cityurl: Praha
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "subjadrov\xE1 fyzika"
+  fieldurl: subjadrova_fyzika
+  hindex: 190
+  img: Roman_Lysak.jpg
+  last: Lysak
+  last_update: '2022-03-04'
+  links:
+  - - orcid
+    - https://www.fzu.cz/en/people/rndr-roman-lysak-phd
+  - - publons
+    - https://publons.com/researcher/2517294/roman-lysak/
+  - - web
+    - https://www.fzu.cz/en/people/rndr-roman-lysak-phd
+  - - "\u017Eivotopis"
+    - https://www.yumpu.com/xx/document/read/33279054/a-1-2-ivotopis
+  name: "Roman Lys\xE1k"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=jkguv3UAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1979
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -6,10 +34,10 @@
   countryurl: Slovensko
   field: "subjadrov\xE1 fyzika"
   fieldurl: subjadrova_fyzika
-  hindex: 172
+  hindex: 174
   img: Pavol_Bartos.jpg
   last: Bartos
-  last_update: '2022-03-04'
+  last_update: '2022-03-26'
   links:
   - - CERN
     - https://cds.cern.ch/search?f=author&p=Bartos%2C%20Pavol&ln=en
@@ -24,6 +52,32 @@
   sex: "mu\u017E"
   sexurl: muz
   year: null
+- affiliation: Technical University Dortmund
+  affiliationurl: Technical_University_Dortmund
+  city: Dortmund
+  cityurl: Dortmund
+  country: Nemecko
+  countryurl: Nemecko
+  field: "subjadrov\xE1 fyzika"
+  fieldurl: subjadrova_fyzika
+  hindex: 130
+  img: Tomas_Dado.jpg
+  last: Dado
+  last_update: '2022-03-26'
+  links:
+  - - inspireHEP
+    - https://inspirehep.net/authors/1346585
+  - - LinkedIn
+    - https://www.linkedin.com/in/tomas-dado-298a75191/?originalSubdomain=sk
+  - - web
+    - https://www.e4.physik.tu-dortmund.de/cms/de/AG-Kroeninger/Mitarbeiter/WiMis/Tomas-Dado.html
+  name: "Tom\xE1\u0161 Dado"
+  position: postdoc
+  positionurl: postdoc
+  scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -32,10 +86,10 @@
   countryurl: Slovensko
   field: "subjadrov\xE1 fyzika"
   fieldurl: subjadrova_fyzika
-  hindex: 128
+  hindex: 130
   img: Branislav_Sitar.jpg
   last: Sitar
-  last_update: '2022-03-04'
+  last_update: '2022-03-26'
   links:
   - - publons
     - https://publons.com/researcher/3258206/brano-sitar/
@@ -52,32 +106,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1946
-- affiliation: Technical University Dortmund
-  affiliationurl: Technical_University_Dortmund
-  city: Dortmund
-  cityurl: Dortmund
-  country: Nemecko
-  countryurl: Nemecko
-  field: "subjadrov\xE1 fyzika"
-  fieldurl: subjadrova_fyzika
-  hindex: 127
-  img: Tomas_Dado.jpg
-  last: Dado
-  last_update: '2022-02-13'
-  links:
-  - - inspireHEP
-    - https://inspirehep.net/authors/1346585
-  - - LinkedIn
-    - https://www.linkedin.com/in/tomas-dado-298a75191/?originalSubdomain=sk
-  - - web
-    - https://www.e4.physik.tu-dortmund.de/cms/de/AG-Kroeninger/Mitarbeiter/WiMis/Tomas-Dado.html
-  name: "Tom\xE1\u0161 Dado"
-  position: postdoc
-  positionurl: postdoc
-  scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: null
 - affiliation: New York University
   affiliationurl: New_York_University
   city: New York
@@ -208,26 +236,16 @@
   year: 1962
 - affiliation: Krembil Research Institute
   affiliationurl: Krembil_Research_Institute
-  cited_by:
-  - citations:
-      all: 29175
-      since_2016: 15519
-  - h_index:
-      all: 79
-      since_2016: 55
-  - i10_index:
-      all: 208
-      since_2016: 161
   city: Toronto
   cityurl: Toronto
   country: Kanada
   countryurl: Kanada
   field: bioinformatika
   fieldurl: bioinformatika
-  hindex: 80
+  hindex: 81
   img: Igor_Jurisica.png
   last: Jurisica
-  last_update: '2022-02-13'
+  last_update: '2022-03-26'
   links:
   - - dblp
     - https://dblp.org/pid/27/4777.html
@@ -1200,6 +1218,48 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
+- affiliation: "J\xFClich Research Centre"
+  affiliationurl: Julich_Research_Centre
+  city: "J\xFClich"
+  cityurl: Julich
+  country: Nemecko
+  countryurl: Nemecko
+  field: "fyzika neutr\xEDn"
+  fieldurl: fyzika_neutrin
+  hindex: 52
+  img: Livia_Ludhova.jpg
+  last: Ludhova
+  last_update: '2022-03-26'
+  links:
+  - - AcademiaNet
+    - https://www.academia-net.org/profil/prof-dr-dr-livia-ludhova/1877446
+  - - inspirehep
+    - https://inspirehep.net/authors/1059189
+  - - lab
+    - http://collaborations.fz-juelich.de/ikp/neutrino/index.html
+  - - LinkedIn
+    - https://www.linkedin.com/in/livia-ludhova-73985a6b/?originalSubdomain=de
+  - - orcid
+    - https://orcid.org/0000-0002-3875-0590
+  - - prabook
+    - https://prabook.com/web/livia.ludhova/13385
+  - - publons
+    - https://publons.com/researcher/3394986/livia-ludhova/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Livia-Ludhova
+  - - science.sk
+    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/3519-livia-ludhova
+  - - travel
+    - https://www.livialudhova.com/about
+  - - web
+    - http://collaborations.fz-juelich.de/ikp/neutrino/group_mem/group_mem_livia.html
+  name: "L\xEDvia Ludhov\xE1"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.com/citations?hl=en&user=qZt_50MAAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: 1973
 - affiliation: Masarykova univerzita
   affiliationurl: Masarykova_univerzita
   city: Brno
@@ -1375,48 +1435,6 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
-- affiliation: "J\xFClich Research Centre"
-  affiliationurl: Julich_Research_Centre
-  city: "J\xFClich"
-  cityurl: Julich
-  country: Nemecko
-  countryurl: Nemecko
-  field: "fyzika neutr\xEDn"
-  fieldurl: fyzika_neutrin
-  hindex: 51
-  img: Livia_Ludhova.jpg
-  last: Ludhova
-  last_update: '2022-02-15'
-  links:
-  - - AcademiaNet
-    - https://www.academia-net.org/profil/prof-dr-dr-livia-ludhova/1877446
-  - - inspirehep
-    - https://inspirehep.net/authors/1059189
-  - - lab
-    - http://collaborations.fz-juelich.de/ikp/neutrino/index.html
-  - - LinkedIn
-    - https://www.linkedin.com/in/livia-ludhova-73985a6b/?originalSubdomain=de
-  - - orcid
-    - https://orcid.org/0000-0002-3875-0590
-  - - prabook
-    - https://prabook.com/web/livia.ludhova/13385
-  - - publons
-    - https://publons.com/researcher/3394986/livia-ludhova/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Livia-Ludhova
-  - - science.sk
-    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/3519-livia-ludhova
-  - - travel
-    - https://www.livialudhova.com/about
-  - - web
-    - http://collaborations.fz-juelich.de/ikp/neutrino/group_mem/group_mem_livia.html
-  name: "L\xEDvia Ludhov\xE1"
-  position: profesorka
-  positionurl: profesorka
-  scholar: https://scholar.google.com/citations?hl=en&user=qZt_50MAAAAJ
-  sex: "\u017Eena"
-  sexurl: zena
-  year: 1973
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -1843,6 +1861,42 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1950
+- affiliation: University of Adelaide
+  affiliationurl: University_of_Adelaide
+  cited_by:
+  - citations:
+      all: 6615
+      since_2017: 2309
+  - h_index:
+      all: 46
+      since_2017: 26
+  - i10_index:
+      all: 102
+      since_2017: 70
+  city: Adelaide
+  cityurl: Adelaide
+  country: "Austr\xE1lia"
+  countryurl: Australia
+  field: "bioch\xE9mia"
+  fieldurl: biochemia
+  hindex: 46
+  img: Maria_Hrmova.jpg
+  last: Hrmova
+  last_update: '2022-03-27'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-3545-0605
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Maria_Hrmova
+  - - web
+    - https://www.adelaide.edu.au/directory/maria.hrmova
+  name: "M\xE1ria Hrmov\xE1"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.sk/citations?user=Hvt2QdYAAAAJ&amp;hl=en
+  sex: "\u017Eena"
+  sexurl: zena
+  year: ''
 - affiliation: Vienna University of Technology
   affiliationurl: Vienna_University_of_Technology
   city: "Viede\u0148"
@@ -2022,54 +2076,18 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: University of Adelaide
-  affiliationurl: University_of_Adelaide
-  cited_by:
-  - citations:
-      all: 6541
-      since_2016: 2555
-  - h_index:
-      all: 45
-      since_2016: 26
-  - i10_index:
-      all: 101
-      since_2016: 71
-  city: Adelaide
-  cityurl: Adelaide
-  country: "Austr\xE1lia"
-  countryurl: Australia
-  field: "bioch\xE9mia"
-  fieldurl: biochemia
-  hindex: 45
-  img: Maria_Hrmova.jpg
-  last: Hrmova
-  last_update: '2021-09-16'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0002-3545-0605
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Maria_Hrmova
-  - - web
-    - https://www.adelaide.edu.au/directory/maria.hrmova
-  name: "M\xE1ria Hrmov\xE1"
-  position: profesorka
-  positionurl: profesorka
-  scholar: https://scholar.google.sk/citations?user=Hvt2QdYAAAAJ&amp;hl=en
-  sex: "\u017Eena"
-  sexurl: zena
-  year: ''
 - affiliation: Medical University of Vienna
   affiliationurl: Medical_University_of_Vienna
   cited_by:
   - citations:
-      all: 12241
-      since_2016: 5035
+      all: 12817
+      since_2017: 4669
   - h_index:
       all: 45
-      since_2016: 30
+      since_2017: 28
   - i10_index:
-      all: 109
-      since_2016: 95
+      all: 112
+      since_2017: 92
   city: "Viede\u0148"
   cityurl: Vieden
   country: "Rak\xFAsko"
@@ -2079,7 +2097,7 @@
   hindex: 45
   img: Martin_Krssak.jpg
   last: Krssak
-  last_update: '2021-09-16'
+  last_update: '2022-03-27'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Martin_Krssak2
@@ -2285,14 +2303,14 @@
   affiliationurl: Apple
   cited_by:
   - citations:
-      all: 9848
-      since_2016: 2185
+      all: 10008
+      since_2017: 1951
   - h_index:
       all: 44
-      since_2016: 20
+      since_2017: 18
   - i10_index:
       all: 99
-      since_2016: 39
+      since_2017: 37
   city: Seattle
   cityurl: Seattle
   country: USA
@@ -2302,7 +2320,7 @@
   hindex: 44
   img: Martin_Pelikan.jpg
   last: Pelikan
-  last_update: '2021-09-16'
+  last_update: '2022-03-27'
   links:
   - - dblp
     - https://dblp.org/pid/18/963.html
@@ -2551,14 +2569,14 @@
   affiliationurl: Karlsruhe_Institute_of_Technology
   cited_by:
   - citations:
-      all: 5835
-      since_2016: 2503
+      all: 5973
+      since_2017: 2209
   - h_index:
       all: 43
-      since_2016: 23
+      since_2017: 21
   - i10_index:
-      all: 108
-      since_2016: 69
+      all: 110
+      since_2017: 61
   city: Karlsruhe
   cityurl: Karlsruhe
   country: Nemecko
@@ -2568,7 +2586,7 @@
   hindex: 43
   img: Vladimir_Sepelak.png
   last: Sepelak
-  last_update: '2021-11-16'
+  last_update: '2022-03-27'
   links:
   - - loop
     - https://loop.frontiersin.org/people/975150/overview
@@ -2923,14 +2941,14 @@
   affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
-      all: 5804
-      since_2016: 2112
+      all: 6066
+      since_2017: 1945
   - h_index:
       all: 41
-      since_2016: 25
+      since_2017: 24
   - i10_index:
-      all: 79
-      since_2016: 58
+      all: 81
+      since_2017: 54
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -2940,7 +2958,7 @@
   hindex: 41
   img: Stefan_Janecek.jpg
   last: Janecek
-  last_update: '2021-09-16'
+  last_update: '2022-03-27'
   links:
   - - web
     - http://imb.savba.sk/~janecek/
@@ -2950,6 +2968,38 @@
   position: docent
   positionurl: docent
   scholar: https://scholar.google.sk/citations?user=_l2tp6kAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "virol\xF3gia"
+  fieldurl: virologia
+  hindex: 41
+  img: Boris_Klempa.jpg
+  last: Klempa
+  last_update: '2022-03-26'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/en/finalists/boris-klempa
+  - - orcid
+    - https://orcid.org/0000-0002-6931-1224
+  - - publons
+    - https://publons.com/researcher/2906836/boris-klempa/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Boris-Klempa
+  - - science.sk
+    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2523-boris-klempa
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=3476
+  name: Boris Klempa
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=FSHRkJgAAAAJ&hl=en
   sex: "mu\u017E"
   sexurl: muz
   year: ''
@@ -3057,6 +3107,54 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1952
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 10795
+      since_2017: 2132
+  - h_index:
+      all: 41
+      since_2017: 17
+  - i10_index:
+      all: 84
+      since_2017: 21
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "teoretick\xE1 ch\xE9mia"
+  fieldurl: teoreticka_chemia
+  hindex: 41
+  img: Jozef_Noga.jpg
+  last: Noga
+  last_update: '2022-03-27'
+  links:
+  - - dblp
+    - https://dblp.org/pid/16/796.html
+  - - learned.sk
+    - https://www.learned.sk/prof-rndr-jozef-noga-drsc/
+  - - orcid
+    - https://orcid.org/0000-0003-3960-498X
+  - - publons
+    - https://publons.com/researcher/2382782/jozef-noga/
+  - - science.sk
+    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2136-jozef-noga
+  - - sme.sk
+    - https://tech.sme.sk/c/6161645/jozef-noga-potrebujeme-zvazit-lod-s-kapitanom-a-bez-kapitana.html
+  - - web 1
+    - https://fns.uniba.sk/pracoviska/chemicka-sekcia/kag/zamestnanci-a-doktorandi/prof-jozef-noga/
+  - - web 2
+    - https://uniba.sk/ludia/noga2
+  - - "\u017Eivotopis"
+    - https://fns.uniba.sk/fileadmin/prif/chem/kag/Zam-Noga/jozef_noga_2014.pdf
+  name: Jozef Noga
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=lZvsE4EAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1955
 - affiliation: National Institute of Allergy and Infectious Diseases
   affiliationurl: National_Institute_of_Allergy_and_Infectious_Diseases
   cited_by:
@@ -3099,48 +3197,6 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1969
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 4821
-      since_2016: 2524
-  - h_index:
-      all: 40
-      since_2016: 27
-  - i10_index:
-      all: 77
-      since_2016: 66
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "virol\xF3gia"
-  fieldurl: virologia
-  hindex: 40
-  img: Boris_Klempa.jpg
-  last: Klempa
-  last_update: '2021-11-16'
-  links:
-  - - ESET Science Award
-    - https://www.esetscienceaward.sk/en/finalists/boris-klempa
-  - - orcid
-    - https://orcid.org/0000-0002-6931-1224
-  - - publons
-    - https://publons.com/researcher/2906836/boris-klempa/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Boris-Klempa
-  - - science.sk
-    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2523-boris-klempa
-  - - web
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=3476
-  name: Boris Klempa
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=FSHRkJgAAAAJ&hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -3203,54 +3259,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1967
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 10549
-      since_2016: 2343
-  - h_index:
-      all: 40
-      since_2016: 18
-  - i10_index:
-      all: 83
-      since_2016: 24
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "teoretick\xE1 ch\xE9mia"
-  fieldurl: teoreticka_chemia
-  hindex: 40
-  img: Jozef_Noga.jpg
-  last: Noga
-  last_update: '2021-11-18'
-  links:
-  - - dblp
-    - https://dblp.org/pid/16/796.html
-  - - learned.sk
-    - https://www.learned.sk/prof-rndr-jozef-noga-drsc/
-  - - orcid
-    - https://orcid.org/0000-0003-3960-498X
-  - - publons
-    - https://publons.com/researcher/2382782/jozef-noga/
-  - - science.sk
-    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2136-jozef-noga
-  - - sme.sk
-    - https://tech.sme.sk/c/6161645/jozef-noga-potrebujeme-zvazit-lod-s-kapitanom-a-bez-kapitana.html
-  - - web 1
-    - https://fns.uniba.sk/pracoviska/chemicka-sekcia/kag/zamestnanci-a-doktorandi/prof-jozef-noga/
-  - - web 2
-    - https://uniba.sk/ludia/noga2
-  - - "\u017Eivotopis"
-    - https://fns.uniba.sk/fileadmin/prif/chem/kag/Zam-Noga/jozef_noga_2014.pdf
-  name: Jozef Noga
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=en&user=lZvsE4EAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1955
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -3545,14 +3553,14 @@
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   cited_by:
   - citations:
-      all: 4165
-      since_2016: 2084
+      all: 4317
+      since_2017: 1929
   - h_index:
       all: 38
-      since_2016: 24
+      since_2017: 22
   - i10_index:
-      all: 77
-      since_2016: 62
+      all: 79
+      since_2017: 58
   city: "Ko\u0161ice"
   cityurl: Kosice
   country: Slovensko
@@ -3562,7 +3570,7 @@
   hindex: 38
   img: Martin_Backor_1.jpg
   last: Backor
-  last_update: '2021-09-17'
+  last_update: '2022-03-27'
   links:
   - - publons
     - https://publons.com/researcher/2178958/martin-backor/
@@ -3783,14 +3791,14 @@
   affiliationurl: Ceska_akademia_vied
   cited_by:
   - citations:
-      all: 5740
-      since_2016: 2200
+      all: 5970
+      since_2017: 2039
   - h_index:
-      all: 37
-      since_2016: 25
+      all: 38
+      since_2017: 24
   - i10_index:
       all: 78
-      since_2016: 48
+      since_2017: 47
   city: Praha
   cityurl: Praha
   country: "\u010Cesko"
@@ -3800,7 +3808,7 @@
   hindex: 38
   img: Milan_Palus.jpg
   last: Palus
-  last_update: '2021-09-16'
+  last_update: '2022-03-27'
   links:
   - - dblp
     - https://dblp.org/pid/64/7857.html
@@ -4221,14 +4229,14 @@
   affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
-      all: 5157
-      since_2016: 1324
+      all: 5252
+      since_2017: 1200
   - h_index:
       all: 36
-      since_2016: 16
+      since_2017: 16
   - i10_index:
-      all: 94
-      since_2016: 36
+      all: 95
+      since_2017: 29
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -4238,7 +4246,7 @@
   hindex: 36
   img: Vladimir_Farkas.jpg
   last: Farkas
-  last_update: '2021-11-20'
+  last_update: '2022-03-27'
   links:
   - - learned.sk
     - https://www.learned.sk/doc-ing-vladimir-farkas-drsc/
@@ -4417,6 +4425,46 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1977
+- affiliation: University of Strathclyde
+  affiliationurl: University_of_Strathclyde
+  cited_by:
+  - citations:
+      all: 4101
+      since_2017: 1931
+  - h_index:
+      all: 36
+      since_2017: 24
+  - i10_index:
+      all: 89
+      since_2017: 55
+  city: Glasgow
+  cityurl: Glasgow
+  country: "Ve\u013Ek\xE1 Brit\xE1nia"
+  countryurl: Velka_Britania
+  field: "chemick\xE9 in\u017Einierstvo"
+  fieldurl: chemicke_inzinierstvo
+  hindex: 36
+  img: Jan_Sefcik.jpeg
+  last: Sefcik
+  last_update: '2022-03-27'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-7181-5122
+  - - publons
+    - https://publons.com/researcher/2864717/jan-sefcik/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jan_Sefcik
+  - - web 1
+    - https://www.strath.ac.uk/staff/sefcikjanprof/
+  - - web 2
+    - https://pureportal.strath.ac.uk/en/persons/jan-sefcik
+  name: "J\xE1n \u0160ef\u010D\xEDk"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=5akXP_8AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: University of Vienna
   affiliationurl: University_of_Vienna
   cited_by:
@@ -4675,43 +4723,35 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1955
-- affiliation: University of Strathclyde
-  affiliationurl: University_of_Strathclyde
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
-      all: 3799
-      since_2016: 1943
+      all: 4908
+      since_2017: 1519
   - h_index:
       all: 35
-      since_2016: 25
+      since_2017: 18
   - i10_index:
-      all: 84
-      since_2016: 53
-  city: Glasgow
-  cityurl: Glasgow
-  country: "Ve\u013Ek\xE1 Brit\xE1nia"
-  countryurl: Velka_Britania
-  field: "chemick\xE9 in\u017Einierstvo"
-  fieldurl: chemicke_inzinierstvo
+      all: 52
+      since_2017: 29
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "materi\xE1lov\xE1 veda"
+  fieldurl: materialova_veda
   hindex: 35
-  img: Jan_Sefcik.jpeg
-  last: Sefcik
-  last_update: '2021-11-06'
+  img: Milan_Sykora.png
+  last: Sykora
+  last_update: '2022-03-27'
   links:
-  - - orcid
-    - https://orcid.org/0000-0002-7181-5122
-  - - publons
-    - https://publons.com/researcher/2864717/jan-sefcik/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Jan_Sefcik
-  - - web 1
-    - https://www.strath.ac.uk/staff/sefcikjanprof/
-  - - web 2
-    - https://pureportal.strath.ac.uk/en/persons/jan-sefcik
-  name: "J\xE1n \u0160ef\u010D\xEDk"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=5akXP_8AAAAJ
+  - - "\u017Eivotopis"
+    - https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
+  name: "Milan S\xFDkora"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=9TGPGbYAAAAJ&hl=en
   sex: "mu\u017E"
   sexurl: muz
   year: ''
@@ -5168,38 +5208,6 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 4717
-      since_2016: 1620
-  - h_index:
-      all: 34
-      since_2016: 19
-  - i10_index:
-      all: 51
-      since_2016: 30
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "materi\xE1lov\xE1 veda"
-  fieldurl: materialova_veda
-  hindex: 34
-  img: Milan_Sykora.png
-  last: Sykora
-  last_update: '2021-09-16'
-  links:
-  - - "\u017Eivotopis"
-    - https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
-  name: "Milan S\xFDkora"
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=fxBzWQcAAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -5236,14 +5244,14 @@
   affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
-      all: 3975
-      since_2016: 1566
+      all: 4083
+      since_2017: 1445
   - h_index:
       all: 33
-      since_2016: 21
+      since_2017: 20
   - i10_index:
-      all: 94
-      since_2016: 49
+      all: 99
+      since_2017: 46
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -5253,7 +5261,7 @@
   hindex: 33
   img: Ivan_Chodak.jpg
   last: Chodak
-  last_update: '2021-11-16'
+  last_update: '2022-03-27'
   links:
   - - learned.sk
     - https://www.learned.sk/prof-ing-ivan-chodak-drsc/
@@ -5280,14 +5288,14 @@
   affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
-      all: 4573
-      since_2016: 2126
+      all: 4739
+      since_2017: 1961
   - h_index:
       all: 33
-      since_2016: 24
+      since_2017: 23
   - i10_index:
-      all: 56
-      since_2016: 402
+      all: 58
+      since_2017: 41
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -5297,7 +5305,7 @@
   hindex: 33
   img: Zdenka_Durackova.jpg
   last: Durackova
-  last_update: '2021-11-20'
+  last_update: '2022-03-27'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/zdenka-durackova-074416117/?originalSubdomain=sk
@@ -5922,14 +5930,14 @@
   affiliationurl: Qatar_University
   cited_by:
   - citations:
-      all: 3253
-      since_2016: 2496
+      all: 3696
+      since_2017: 2743
   - h_index:
       all: 32
-      since_2016: 26
+      since_2017: 25
   - i10_index:
-      all: 76
-      since_2016: 63
+      all: 89
+      since_2017: 73
   city: Doha
   cityurl: Doha
   country: Katar
@@ -5939,7 +5947,7 @@
   hindex: 32
   img: Peter_Kasak.jpeg
   last: Kasak
-  last_update: '2021-09-16'
+  last_update: '2022-03-27'
   links:
   - - web
     - http://www.qu.edu.qa/research/CAM/about-us/staff
@@ -6184,6 +6192,34 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1951
+- affiliation: Solargis
+  affiliationurl: Solargis
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: fotovoltaika
+  fieldurl: fotovoltaika
+  hindex: 32
+  img: Marcel_Suri.jpg
+  last: Suri
+  last_update: '2022-03-26'
+  links:
+  - - company
+    - https://solargis.com
+  - - IEEE Xplore
+    - https://ieeexplore.ieee.org/author/38289986900
+  - - LinkedIn
+    - https://www.linkedin.com/in/marcel-suri-15608621?originalSubdomain=sk
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marcel-Suri
+  name: "Marcel \u0160\xFAri"
+  position: CEO
+  positionurl: CEO
+  scholar: https://scholar.google.com/citations?user=T8D7EJ8AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
 - affiliation: MBZUAI
   affiliationurl: MBZUAI
   city: Abu Dhabi
@@ -6236,14 +6272,14 @@
   affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
-      all: 3046
-      since_2016: 1096
+      all: 3197
+      since_2017: 1054
   - h_index:
       all: 31
-      since_2016: 18
+      since_2017: 18
   - i10_index:
-      all: 60
-      since_2016: 33
+      all: 65
+      since_2017: 32
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -6253,7 +6289,7 @@
   hindex: 31
   img: Imrich_Barak.jpg
   last: Barak
-  last_update: '2021-09-16'
+  last_update: '2022-03-27'
   links:
   - - loop
     - https://loop.frontiersin.org/people/104180/overview
@@ -6995,14 +7031,14 @@
   affiliationurl: Technicka_univerzita_v_Kosiciach
   cited_by:
   - citations:
-      all: 3723
-      since_2016: 2167
+      all: 3759
+      since_2017: 1954
   - h_index:
-      all: 31
-      since_2016: 23
+      all: 30
+      since_2017: 21
   - i10_index:
-      all: 93
-      since_2016: 55
+      all: 89
+      since_2017: 51
   city: "Ko\u0161ice"
   cityurl: Kosice
   country: Slovensko
@@ -7012,7 +7048,7 @@
   hindex: 30
   img: Martin_Baca.jpeg
   last: Baca
-  last_update: '2021-09-16'
+  last_update: '2022-03-27'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/martin-baca-88421358/?originalSubdomain=sk
@@ -7031,6 +7067,36 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: biofyzika
+  fieldurl: biofyzika
+  hindex: 30
+  img: Pavol_Balgavy-1000.jpg
+  last: Balgavy
+  last_update: '2022-03-26'
+  links:
+  - - pametnaroda.cz
+    - https://www.pametnaroda.cz/en/balgavy-pavol-1944
+  - - prabook
+    - https://prabook.com/web/pavol.balgavy/336078
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Pavol-Balgavy
+  - - Semantic Scholar
+    - "https://www.semanticscholar.org/author/P.-Balgav\xFD/5140484"
+  - - "wikip\xE9dia"
+    - https://www.wikidata.org/wiki/Q12044403
+  name: "Pavol Balgav\xFD"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=3knjVQkAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1944
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
   city: Bratislava
@@ -7143,14 +7209,14 @@
   affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
-      all: 4480
-      since_2016: 1112
+      all: 4653
+      since_2017: 1032
   - h_index:
-      all: 29
-      since_2016: 16
+      all: 30
+      since_2017: 16
   - i10_index:
-      all: 55
-      since_2016: 28
+      all: 56
+      since_2017: 26
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -7160,7 +7226,7 @@
   hindex: 30
   img: Lubica_Lacinova.png
   last: Lacinova
-  last_update: '2021-11-06'
+  last_update: '2022-03-27'
   links:
   - - news
     - https://dennikn.sk/2718126/lubica-lacinova-velkym-problemom-na-slovensku-je-neschopnost-spolupracovat-s-niekym-s-kym-nemame-90-percentny-nazorovy-prienik/?fbclid=IwAR2wXDkyYWP1hLWdF5u87hBKjfjEpt4yxy_ykO0FzVi6oAECWez8e0Qhxtk

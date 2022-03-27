@@ -6,22 +6,13 @@ year: 1967
 sex: "muž"
 
 affiliation: "Krembil Research Institute"
-cited_by:
-- citations:
-    all: 29175
-    since_2016: 15519
-- h_index:
-    all: 79
-    since_2016: 55
-- i10_index:
-    all: 208
-    since_2016: 161
+
 city: "Toronto"
 country: "Kanada"
 field: "bioinformatika"
-hindex: 80
+hindex: 81
 img: Igor_Jurisica.png
-last_update: '2022-02-13'
+last_update: '2022-03-26'
 links:
   dblp: https://dblp.org/pid/27/4777.html
   web 1: https://www.cs.toronto.edu/~juris/home.html
