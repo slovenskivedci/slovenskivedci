@@ -132,16 +132,6 @@
   year: 1933
 - affiliation: University of Illinois
   affiliationurl: University_of_Illinois
-  cited_by:
-  - citations:
-      all: 32106
-      since_2016: 6487
-  - h_index:
-      all: 88
-      since_2016: 39
-  - i10_index:
-      all: 359
-      since_2016: 145
   city: Urbana-Champaign
   cityurl: Urbana-Champaign
   country: USA
@@ -274,16 +264,6 @@
   year: 1967
 - affiliation: University of Bonn
   affiliationurl: University_of_Bonn
-  cited_by:
-  - citations:
-      all: 20948
-      since_2017: 7687
-  - h_index:
-      all: 79
-      since_2017: 46
-  - i10_index:
-      all: 276
-      since_2017: 197
   city: Bonn
   cityurl: Bonn
   country: Nemecko
@@ -314,16 +294,6 @@
   year: 1957
 - affiliation: University of California
   affiliationurl: University_of_California
-  cited_by:
-  - citations:
-      all: 24095
-      since_2016: 7100
-  - h_index:
-      all: 72
-      since_2016: 39
-  - i10_index:
-      all: 295
-      since_2016: 129
   city: Berkeley
   cityurl: Berkeley
   country: USA
@@ -352,16 +322,6 @@
   year: 1933
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 16145
-      since_2016: 6031
-  - h_index:
-      all: 69
-      since_2016: 43
-  - i10_index:
-      all: 196
-      since_2016: 143
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -371,7 +331,7 @@
   hindex: 69
   img: Silvia_Pastorekova.jpg
   last: Pastorekova
-  last_update: '2021-11-30'
+  last_update: '2022-03-27'
   links:
   - - learned.sk
     - https://www.learned.sk/prof-rndr-silvia-pastorekova-drsc/
@@ -402,16 +362,6 @@
   year: 1961
 - affiliation: University of Toronto
   affiliationurl: University_of_Toronto
-  cited_by:
-  - citations:
-      all: 23114
-      since_2016: 8110
-  - h_index:
-      all: 68
-      since_2016: 40
-  - i10_index:
-      all: 169
-      since_2016: 108
   city: Toronto
   cityurl: Toronto
   country: Kanada
@@ -444,16 +394,6 @@
   year: ''
 - affiliation: "Region\xE1lny \xFArad verejn\xE9ho zdravotn\xEDctva"
   affiliationurl: Regionalny_urad_verejneho_zdravotnictva
-  cited_by:
-  - citations:
-      all: 17260
-      since_2016: 8588
-  - h_index:
-      all: 66
-      since_2016: 50
-  - i10_index:
-      all: 126
-      since_2016: 117
   city: "Bansk\xE1 Bystrica"
   cityurl: Banska_Bystrica
   country: Slovensko
@@ -574,16 +514,6 @@
   year: 1967
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 17332
-      since_2017: 3877
-  - h_index:
-      all: 61
-      since_2017: 25
-  - i10_index:
-      all: 152
-      since_2017: 69
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -608,16 +538,6 @@
   year: 1957
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 12079
-      since_2016: 4907
-  - h_index:
-      all: 60
-      since_2016: 37
-  - i10_index:
-      all: 160
-      since_2016: 104
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -682,16 +602,6 @@
   year: 1964
 - affiliation: University of Oxford
   affiliationurl: University_of_Oxford
-  cited_by:
-  - citations:
-      all: 11387
-      since_2016: 5375
-  - h_index:
-      all: 58
-      since_2016: 40
-  - i10_index:
-      all: 92
-      since_2016: 85
   city: Oxford
   cityurl: Oxford
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
@@ -732,16 +642,6 @@
   year: 1965
 - affiliation: University of Missouri
   affiliationurl: University_of_Missouri
-  cited_by:
-  - citations:
-      all: 21956
-      since_2017: 9846
-  - h_index:
-      all: 59
-      since_2017: 32
-  - i10_index:
-      all: 158
-      since_2017: 117
   city: Columbia
   cityurl: Columbia
   country: USA
@@ -848,16 +748,6 @@
   year: 1941
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 23790
-      since_2017: 6582
-  - h_index:
-      all: 57
-      since_2017: 29
-  - i10_index:
-      all: 78
-      since_2017: 51
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -912,16 +802,6 @@
   year: null
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 13654
-      since_2017: 5170
-  - h_index:
-      all: 57
-      since_2017: 32
-  - i10_index:
-      all: 248
-      since_2017: 134
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -1014,16 +894,6 @@
   year: ''
 - affiliation: RWTH Aachen
   affiliationurl: RWTH_Aachen
-  cited_by:
-  - citations:
-      all: 8563
-      since_2016: 6147
-  - h_index:
-      all: 54
-      since_2016: 46
-  - i10_index:
-      all: 140
-      since_2016: 128
   city: Aachen
   cityurl: Aachen
   country: Nemecko
@@ -1048,16 +918,6 @@
   year: 1979
 - affiliation: University of British Columbia
   affiliationurl: University_of_British_Columbia
-  cited_by:
-  - citations:
-      all: 10616
-      since_2017: 4606
-  - h_index:
-      all: 55
-      since_2017: 33
-  - i10_index:
-      all: 108
-      since_2017: 76
   city: "Britsk\xE1 Kolumbia"
   cityurl: Britska_Kolumbia
   country: Kanada
@@ -1177,7 +1037,7 @@
   hindex: 53
   img: Jan_Sladek.jpg
   last: Sladek
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - osobnosti
     - https://www.osobnosti.sk/osobnost/jan-sladek-590
@@ -1437,16 +1297,6 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 9489
-      since_2016: 3225
-  - h_index:
-      all: 52
-      since_2016: 27
-  - i10_index:
-      all: 219
-      since_2016: 111
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -1469,16 +1319,6 @@
   year: 1954
 - affiliation: University of California
   affiliationurl: University_of_California
-  cited_by:
-  - citations:
-      all: 10772
-      since_2017: 4386
-  - h_index:
-      all: 50
-      since_2017: 29
-  - i10_index:
-      all: 117
-      since_2017: 62
   city: San Diego
   cityurl: San_Diego
   country: USA
@@ -1505,16 +1345,6 @@
   year: ''
 - affiliation: KAUST
   affiliationurl: KAUST
-  cited_by:
-  - citations:
-      all: 10800
-      since_2016: 9603
-  - h_index:
-      all: 48
-      since_2016: 45
-  - i10_index:
-      all: 117
-      since_2016: 112
   city: Thuwal
   cityurl: Thuwal
   country: "Saudsk\xE1 Ar\xE1bia"
@@ -1595,16 +1425,6 @@
   year: null
 - affiliation: North Carolina State University
   affiliationurl: North_Carolina_State_University
-  cited_by:
-  - citations:
-      all: 11258
-      since_2017: 3559
-  - h_index:
-      all: 49
-      since_2017: 29
-  - i10_index:
-      all: 88
-      since_2017: 59
   city: Raleigh
   cityurl: Raleigh
   country: USA
@@ -1672,7 +1492,7 @@
   hindex: 48
   img: Pavol_Hell.jpg
   last: Hell
-  last_update: '2021-12-24'
+  last_update: '2022-03-27'
   links:
   - - Mathematics Genealogy
     - https://www.mathgenealogy.org/id.php?id=17952
@@ -1689,16 +1509,6 @@
   year: 1946
 - affiliation: Georga Mason University
   affiliationurl: Georga_Mason_University
-  cited_by:
-  - citations:
-      all: 10900
-      since_2017: 4228
-  - h_index:
-      all: 48
-      since_2017: 31
-  - i10_index:
-      all: 99
-      since_2017: 57
   city: Fairfax
   cityurl: Fairfax
   country: USA
@@ -1765,16 +1575,6 @@
   year: 1960
 - affiliation: University of Louisville
   affiliationurl: University_of_Louisville
-  cited_by:
-  - citations:
-      all: 8141
-      since_2017: 2475
-  - h_index:
-      all: 47
-      since_2017: 27
-  - i10_index:
-      all: 123
-      since_2017: 70
   city: Louisville
   cityurl: Louisville
   country: USA
@@ -1827,16 +1627,6 @@
   year: 1978
 - affiliation: "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave"
   affiliationurl: Univerzita_svateho_Cyrila_a_Metoda_v_Trnave
-  cited_by:
-  - citations:
-      all: 8085
-      since_2016: 3821
-  - h_index:
-      all: 44
-      since_2016: 30
-  - i10_index:
-      all: 181
-      since_2016: 105
   city: Trnava
   cityurl: Trnava
   country: Slovensko
@@ -1863,16 +1653,6 @@
   year: 1950
 - affiliation: University of Adelaide
   affiliationurl: University_of_Adelaide
-  cited_by:
-  - citations:
-      all: 6615
-      since_2017: 2309
-  - h_index:
-      all: 46
-      since_2017: 26
-  - i10_index:
-      all: 102
-      since_2017: 70
   city: Adelaide
   cityurl: Adelaide
   country: "Austr\xE1lia"
@@ -1951,18 +1731,35 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "biotechnol\xF3gia"
+  fieldurl: biotechnologia
+  hindex: 46
+  img: Jan_Tkac.jpeg
+  last: Tkac
+  last_update: '2022-03-27'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/jan-tkac
+  - - web
+    - http://elena.sav.sk
+  - - "\u017Eivotopis"
+    - "https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda v Centre\
+      \ Ba 2013/CV_Ing_J\xE1n Tk\xE1\u010D_DrSc.pdf"
+  name: "J\xE1n Tk\xE1\u010D"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=jfkqa18AAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1972
 - affiliation: University of Minnesota
   affiliationurl: University_of_Minnesota
-  cited_by:
-  - citations:
-      all: 9015
-      since_2017: 3442
-  - h_index:
-      all: 46
-      since_2017: 30
-  - i10_index:
-      all: 79
-      since_2017: 61
   city: Twin Cities
   cityurl: Twin_Cities
   country: USA
@@ -1990,16 +1787,6 @@
   year: 1954
 - affiliation: University of Washington
   affiliationurl: University_of_Washington
-  cited_by:
-  - citations:
-      all: 14264
-      since_2017: 5093
-  - h_index:
-      all: 45
-      since_2017: 30
-  - i10_index:
-      all: 82
-      since_2017: 65
   city: Seattle
   cityurl: Seattle
   country: USA
@@ -2040,16 +1827,6 @@
   year: 1968
 - affiliation: University of Zurich
   affiliationurl: University_of_Zurich
-  cited_by:
-  - citations:
-      all: 8881
-      since_2017: 3730
-  - h_index:
-      all: 45
-      since_2017: 33
-  - i10_index:
-      all: 79
-      since_2017: 64
   city: "Z\xFCrich"
   cityurl: Zurich
   country: "\u0160vaj\u010Diarsko"
@@ -2078,16 +1855,6 @@
   year: ''
 - affiliation: Medical University of Vienna
   affiliationurl: Medical_University_of_Vienna
-  cited_by:
-  - citations:
-      all: 12817
-      since_2017: 4669
-  - h_index:
-      all: 45
-      since_2017: 28
-  - i10_index:
-      all: 112
-      since_2017: 92
   city: "Viede\u0148"
   cityurl: Vieden
   country: "Rak\xFAsko"
@@ -2112,16 +1879,6 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 15563
-      since_2017: 7256
-  - h_index:
-      all: 45
-      since_2017: 29
-  - i10_index:
-      all: 140
-      since_2017: 84
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -2170,33 +1927,6 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1962
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "biotechnol\xF3gia"
-  fieldurl: biotechnologia
-  hindex: 45
-  img: Jan_Tkac.jpeg
-  last: Tkac
-  last_update: '2021-12-25'
-  links:
-  - - ESET Science Award
-    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/jan-tkac
-  - - web
-    - http://elena.sav.sk
-  - - "\u017Eivotopis"
-    - "https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda v Centre\
-      \ Ba 2013/CV_Ing_J\xE1n Tk\xE1\u010D_DrSc.pdf"
-  name: "J\xE1n Tk\xE1\u010D"
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=jfkqa18AAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1972
 - affiliation: Lawrence Berkeley National Laboratory
   affiliationurl: Lawrence_Berkeley_National_Laboratory
   city: Berkeley
@@ -2225,16 +1955,6 @@
   year: ''
 - affiliation: Simon Fraser University
   affiliationurl: Simon_Fraser_University
-  cited_by:
-  - citations:
-      all: 5934
-      since_2017: 2776
-  - h_index:
-      all: 44
-      since_2017: 28
-  - i10_index:
-      all: 104
-      since_2017: 50
   city: Surrey
   cityurl: Surrey
   country: Kanada
@@ -2265,16 +1985,6 @@
   year: ''
 - affiliation: "Z\xE1pado\u010Desk\xE1 univerzita v Plzni"
   affiliationurl: Zapadoceska_univerzita_v_Plzni
-  cited_by:
-  - citations:
-      all: 6632
-      since_2016: 4243
-  - h_index:
-      all: 43
-      since_2016: 31
-  - i10_index:
-      all: 133
-      since_2016: 106
   city: "Plze\u0148"
   cityurl: Plzen
   country: "\u010Cesko"
@@ -2299,18 +2009,38 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1975
+- affiliation: Medical University of Vienna
+  affiliationurl: Medical_University_of_Vienna
+  city: "Viede\u0148"
+  cityurl: Vieden
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
+  hindex: 44
+  img: Vladimir_Mlynarik.png
+  last: Mlynarik
+  last_update: '2022-03-27'
+  links:
+  - - prabook
+    - https://prabook.com/web/vladimir.mlynarik/338489
+  - - publons
+    - https://publons.com/researcher/2791541/vladimir-mlynarik/
+  - - scopus
+    - https://www.scopus.com/results/results.uri?sort=plf-f&src=s&sid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a1070&sot=a&sdt=a&sl=77&s=AUTHOR-NAME%28Mlynarik%2c+V%29+OR+AUTHOR-NAME%28Mlynrik%2cV%29+OR+AUTHOR-NAME%28Mlinarik%2cV%29&origin=savedSearchNewOnly&txGid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a107
+  - - web
+    - https://hfmr.meduniwien.ac.at/general-information/staff/mlynarik/?L=1
+  - - "\u017Eivotopis"
+    - https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/Mlynarik_CV_webpage-1.pdf
+  name: "Vladim\xEDr Mlyn\xE1rik"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=OYXbmu0AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1951
 - affiliation: Apple
   affiliationurl: Apple
-  cited_by:
-  - citations:
-      all: 10008
-      since_2017: 1951
-  - h_index:
-      all: 44
-      since_2017: 18
-  - i10_index:
-      all: 99
-      since_2017: 37
   city: Seattle
   cityurl: Seattle
   country: USA
@@ -2337,16 +2067,6 @@
   year: ''
 - affiliation: University of Edinburgh
   affiliationurl: University_of_Edinburgh
-  cited_by:
-  - citations:
-      all: 6681
-      since_2017: 1747
-  - h_index:
-      all: 44
-      since_2017: 21
-  - i10_index:
-      all: 121
-      since_2017: 49
   city: Edinburg
   cityurl: Edinburg
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
@@ -2371,16 +2091,6 @@
   year: ''
 - affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
-  cited_by:
-  - citations:
-      all: 8945
-      since_2016: 5102
-  - h_index:
-      all: 42
-      since_2016: 30
-  - i10_index:
-      all: 132
-      since_2016: 106
   city: "Ko\u0161ice"
   cityurl: Kosice
   country: Slovensko
@@ -2405,18 +2115,38 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1972
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "medicin\xE1lna ch\xE9mia"
+  fieldurl: medicinalna_chemia
+  hindex: 43
+  img: Josef_Jampilek.jpg
+  last: Jampilek
+  last_update: '2022-03-27'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-2003-9052
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Josef-Jampilek-2
+  - - "r\xE1dio"
+    - https://www.rtvs.sk/radio/archiv/11436/1648379
+  - - web
+    - https://analytika.sk/o-nas/pracovnici/josef-jampilek/
+  - - "\u017Eivotopis"
+    - http://www.gnnconf.org/Speaker/Details?id=431
+  name: "Josef Jamp\xEDlek"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.sk/citations?user=co9rdhQAAAAJ&hl=sk&oi=sra
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: Qatar University
   affiliationurl: Qatar_University
-  cited_by:
-  - citations:
-      all: 5420
-      since_2017: 2762
-  - h_index:
-      all: 43
-      since_2017: 28
-  - i10_index:
-      all: 110
-      since_2017: 90
   city: Doha
   cityurl: Doha
   country: Katar
@@ -2445,16 +2175,6 @@
   year: 1968
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 6354
-      since_2016: 3061
-  - h_index:
-      all: 42
-      since_2016: 30
-  - i10_index:
-      all: 99
-      since_2016: 74
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -2481,36 +2201,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1962
-- affiliation: Medical University of Vienna
-  affiliationurl: Medical_University_of_Vienna
-  city: "Viede\u0148"
-  cityurl: Vieden
-  country: "Rak\xFAsko"
-  countryurl: Rakusko
-  field: "fyzik\xE1lna ch\xE9mia"
-  fieldurl: fyzikalna_chemia
-  hindex: 43
-  img: Vladimir_Mlynarik.png
-  last: Mlynarik
-  last_update: '2021-12-25'
-  links:
-  - - prabook
-    - https://prabook.com/web/vladimir.mlynarik/338489
-  - - publons
-    - https://publons.com/researcher/2791541/vladimir-mlynarik/
-  - - scopus
-    - https://www.scopus.com/results/results.uri?sort=plf-f&src=s&sid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a1070&sot=a&sdt=a&sl=77&s=AUTHOR-NAME%28Mlynarik%2c+V%29+OR+AUTHOR-NAME%28Mlynrik%2cV%29+OR+AUTHOR-NAME%28Mlinarik%2cV%29&origin=savedSearchNewOnly&txGid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a107
-  - - web
-    - https://hfmr.meduniwien.ac.at/general-information/staff/mlynarik/?L=1
-  - - "\u017Eivotopis"
-    - https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/Mlynarik_CV_webpage-1.pdf
-  name: "Vladim\xEDr Mlyn\xE1rik"
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=OYXbmu0AAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1951
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -2522,7 +2212,7 @@
   hindex: 43
   img: Olga_Pechanova.jpg
   last: Pechanova
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - osobnosti
     - https://www.osobnosti.sk/osobnost/olga-pechanova-654
@@ -2567,16 +2257,6 @@
   year: 1937
 - affiliation: Karlsruhe Institute of Technology
   affiliationurl: Karlsruhe_Institute_of_Technology
-  cited_by:
-  - citations:
-      all: 5973
-      since_2017: 2209
-  - h_index:
-      all: 43
-      since_2017: 21
-  - i10_index:
-      all: 110
-      since_2017: 61
   city: Karlsruhe
   cityurl: Karlsruhe
   country: Nemecko
@@ -2607,16 +2287,6 @@
   year: ''
 - affiliation: "Slovensk\xE1 zdravotn\xEDcka univerzita"
   affiliationurl: Slovenska_zdravotnicka_univerzita
-  cited_by:
-  - citations:
-      all: 5346
-      since_2016: 2605
-  - h_index:
-      all: 42
-      since_2016: 26
-  - i10_index:
-      all: 93
-      since_2016: 68
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -2677,16 +2347,6 @@
   year: 1958
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 5949
-      since_2016: 3519
-  - h_index:
-      all: 41
-      since_2016: 32
-  - i10_index:
-      all: 139
-      since_2016: 105
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -2711,16 +2371,6 @@
   year: 1979
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 6764
-      since_2016: 2196
-  - h_index:
-      all: 41
-      since_2016: 19
-  - i10_index:
-      all: 151
-      since_2016: 53
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -2767,48 +2417,8 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "medicin\xE1lna ch\xE9mia"
-  fieldurl: medicinalna_chemia
-  hindex: 42
-  img: Josef_Jampilek.jpg
-  last: Jampilek
-  last_update: '2021-12-25'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0003-2003-9052
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Josef-Jampilek-2
-  - - "r\xE1dio"
-    - https://www.rtvs.sk/radio/archiv/11436/1648379
-  - - web
-    - https://analytika.sk/o-nas/pracovnici/josef-jampilek/
-  - - "\u017Eivotopis"
-    - http://www.gnnconf.org/Speaker/Details?id=431
-  name: "Josef Jamp\xEDlek"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.sk/citations?user=co9rdhQAAAAJ&hl=sk&oi=sra
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: North Carolina State University
   affiliationurl: North_Carolina_State_University
-  cited_by:
-  - citations:
-      all: 9157
-      since_2016: 3290
-  - h_index:
-      all: 41
-      since_2016: 26
-  - i10_index:
-      all: 98
-      since_2016: 68
   city: Raleigh
   cityurl: Raleigh
   country: USA
@@ -2867,16 +2477,6 @@
   year: 1973
 - affiliation: Masarykova univerzita
   affiliationurl: Masarykova_univerzita
-  cited_by:
-  - citations:
-      all: 6506
-      since_2016: 3519
-  - h_index:
-      all: 41
-      since_2016: 27
-  - i10_index:
-      all: 86
-      since_2016: 68
   city: Brno
   cityurl: Brno
   country: "\u010Cesko"
@@ -2903,16 +2503,6 @@
   year: ''
 - affiliation: University of Strathclyde
   affiliationurl: University_of_Strathclyde
-  cited_by:
-  - citations:
-      all: 6297
-      since_2017: 1460
-  - h_index:
-      all: 41
-      since_2017: 17
-  - i10_index:
-      all: 107
-      since_2017: 33
   city: Glasgow
   cityurl: Glasgow
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
@@ -2939,16 +2529,6 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 6066
-      since_2017: 1945
-  - h_index:
-      all: 41
-      since_2017: 24
-  - i10_index:
-      all: 81
-      since_2017: 54
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -3005,16 +2585,6 @@
   year: ''
 - affiliation: University of Arizona
   affiliationurl: University_of_Arizona
-  cited_by:
-  - citations:
-      all: 6999
-      since_2016: 2917
-  - h_index:
-      all: 41
-      since_2016: 25
-  - i10_index:
-      all: 105
-      since_2016: 58
   city: Tucson
   cityurl: Tucson
   country: USA
@@ -3024,7 +2594,7 @@
   hindex: 41
   img: Miroslav_Kolesik.jpg
   last: Kolesik
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - web
     - http://acms.arizona.edu/FemtoTheory/MK_personal/index.html
@@ -3037,16 +2607,6 @@
   year: ''
 - affiliation: Hannover Medical School
   affiliationurl: Hannover_Medical_School
-  cited_by:
-  - citations:
-      all: 7271
-      since_2016: 3950
-  - h_index:
-      all: 40
-      since_2016: 33
-  - i10_index:
-      all: 85
-      since_2016: 71
   city: Hannover
   cityurl: Hannover
   country: Nemecko
@@ -3073,18 +2633,38 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1969
+- affiliation: "ETH Z\xFCrich"
+  affiliationurl: ETH_Zurich
+  city: "Z\xFCrich"
+  cityurl: Zurich
+  country: "\u0160vaj\u010Diarsko"
+  countryurl: Svajciarsko
+  field: "hydrol\xF3gia"
+  fieldurl: hydrologia
+  hindex: 41
+  img: Peter_Molnar.png
+  last: Molnar
+  last_update: '2022-03-27'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-molnar-eth/
+  - - orcid
+    - https://orcid.org/0000-0001-6437-4931
+  - - publons
+    - https://publons.com/researcher/2642895/peter-molnar/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter_Molnar11
+  - - web
+    - https://hyd.ifu.ethz.ch/the-group/people/person-detail.html?persid=100330
+  name: "Peter Moln\xE1r"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1967
 - affiliation: Oregon State University
   affiliationurl: Oregon_State_University
-  cited_by:
-  - citations:
-      all: 7740
-      since_2017: 1902
-  - h_index:
-      all: 41
-      since_2017: 21
-  - i10_index:
-      all: 66
-      since_2017: 32
   city: Corvallis
   cityurl: Corvallis
   country: USA
@@ -3109,16 +2689,6 @@
   year: 1952
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 10795
-      since_2017: 2132
-  - h_index:
-      all: 41
-      since_2017: 17
-  - i10_index:
-      all: 84
-      since_2017: 21
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -3157,16 +2727,6 @@
   year: 1955
 - affiliation: National Institute of Allergy and Infectious Diseases
   affiliationurl: National_Institute_of_Allergy_and_Infectious_Diseases
-  cited_by:
-  - citations:
-      all: 8371
-      since_2016: 3488
-  - h_index:
-      all: 40
-      since_2016: 28
-  - i10_index:
-      all: 75
-      since_2016: 62
   city: Bethesda
   cityurl: Bethesda
   country: USA
@@ -3176,7 +2736,7 @@
   hindex: 40
   img: Bibiana_Bielekova.jpg
   last: Bielekova
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - loop
     - https://loop.frontiersin.org/people/147850/overview
@@ -3199,16 +2759,6 @@
   year: 1969
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 5239
-      since_2017: 2090
-  - h_index:
-      all: 40
-      since_2017: 22
-  - i10_index:
-      all: 124
-      since_2017: 58
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -3229,48 +2779,8 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: "ETH Z\xFCrich"
-  affiliationurl: ETH_Zurich
-  city: "Z\xFCrich"
-  cityurl: Zurich
-  country: "\u0160vaj\u010Diarsko"
-  countryurl: Svajciarsko
-  field: "hydrol\xF3gia"
-  fieldurl: hydrologia
-  hindex: 40
-  img: Peter_Molnar.png
-  last: Molnar
-  last_update: '2021-12-25'
-  links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/peter-molnar-eth/
-  - - orcid
-    - https://orcid.org/0000-0001-6437-4931
-  - - publons
-    - https://publons.com/researcher/2642895/peter-molnar/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Peter_Molnar11
-  - - web
-    - https://hyd.ifu.ethz.ch/the-group/people/person-detail.html?persid=100330
-  name: "Peter Moln\xE1r"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1967
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 4228
-      since_2017: 2348
-  - h_index:
-      all: 39
-      since_2017: 23
-  - i10_index:
-      all: 57
-      since_2017: 48
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -3295,16 +2805,6 @@
   year: ''
 - affiliation: "Univerzita Palack\xE9ho v Olomouci"
   affiliationurl: Univerzita_Palackeho_v_Olomouci
-  cited_by:
-  - citations:
-      all: 3805
-      since_2016: 2226
-  - h_index:
-      all: 39
-      since_2016: 29
-  - i10_index:
-      all: 88
-      since_2016: 77
   city: Olomouc
   cityurl: Olomouc
   country: "\u010Cesko"
@@ -3367,16 +2867,6 @@
   year: null
 - affiliation: Moorfields Eye Hospital
   affiliationurl: Moorfields_Eye_Hospital
-  cited_by:
-  - citations:
-      all: 5829
-      since_2016: 3373
-  - h_index:
-      all: 39
-      since_2016: 30
-  - i10_index:
-      all: 111
-      since_2016: 88
   city: Abu Dhabi
   cityurl: Abu_Dhabi
   country: "Spojen\xE9 arabsk\xE9 emir\xE1ty"
@@ -3401,16 +2891,6 @@
   year: ''
 - affiliation: Research and Development Services
   affiliationurl: Research_and_Development_Services
-  cited_by:
-  - citations:
-      all: 4748
-      since_2016: 4446
-  - h_index:
-      all: 38
-      since_2016: 35
-  - i10_index:
-      all: 131
-      since_2016: 130
   city: Brno
   cityurl: Brno
   country: "\u010Cesko"
@@ -3437,16 +2917,6 @@
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 6431
-      since_2016: 1407
-  - h_index:
-      all: 39
-      since_2016: 21
-  - i10_index:
-      all: 76
-      since_2016: 43
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -3456,7 +2926,7 @@
   hindex: 39
   img: Jozef_Masarik.jpg
   last: Masarik
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - web
     - https://uniba.sk/o-univerzite/organy-uk/vedenie/prorektor-pre-vedu-doktorandske-studium-a-projektovu-cinnost/
@@ -3473,16 +2943,6 @@
   year: 1959
 - affiliation: University of Birmingham
   affiliationurl: University_of_Birmingham
-  cited_by:
-  - citations:
-      all: 6412
-      since_2016: 3233
-  - h_index:
-      all: 38
-      since_2016: 24
-  - i10_index:
-      all: 99
-      since_2016: 66
   city: Birmingham
   cityurl: Birmingham
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
@@ -3509,16 +2969,6 @@
   year: ''
 - affiliation: University of Technology Sydney
   affiliationurl: University_of_Technology_Sydney
-  cited_by:
-  - citations:
-      all: 6834
-      since_2016: 5340
-  - h_index:
-      all: 38
-      since_2016: 30
-  - i10_index:
-      all: 99
-      since_2016: 73
   city: Sydney
   cityurl: Sydney
   country: "Austr\xE1lia"
@@ -3551,16 +3001,6 @@
   year: ''
 - affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
-  cited_by:
-  - citations:
-      all: 4317
-      since_2017: 1929
-  - h_index:
-      all: 38
-      since_2017: 22
-  - i10_index:
-      all: 79
-      since_2017: 58
   city: "Ko\u0161ice"
   cityurl: Kosice
   country: Slovensko
@@ -3621,18 +3061,40 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1965
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: "Ko\u0161ice"
+  cityurl: Kosice
+  country: Slovensko
+  countryurl: Slovensko
+  field: "nanomateri\xE1ly"
+  fieldurl: nanomaterialy
+  hindex: 38
+  img: Jan_Dusza.jpg
+  last: Dusza
+  last_update: '2022-03-27'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/en/finalists/jan-dusza
+  - - learned.sk
+    - https://www.learned.sk/prof-rndr-jan-dusza-drsc/
+  - - orcid
+    - https://orcid.org/0000-0002-3359-9326
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jan-Dusza
+  - - scientific.net
+    - "https://www.scientific.net/author-papers/j\xE1n-dusza"
+  - - web
+    - https://promatech.sk
+  name: "J\xE1n Dusza"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=FMHHfNAAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1952
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 5715
-      since_2016: 2138
-  - h_index:
-      all: 38
-      since_2016: 22
-  - i10_index:
-      all: 138
-      since_2016: 67
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -3642,7 +3104,7 @@
   hindex: 38
   img: Tibor_Hianik.jpg
   last: Hianik
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - web
     - https://uniba.sk/ludia/hianik1/
@@ -3655,16 +3117,6 @@
   year: ''
 - affiliation: Joint Institute for Nuclear Research
   affiliationurl: Joint_Institute_for_Nuclear_Research
-  cited_by:
-  - citations:
-      all: 7596
-      since_2017: 3410
-  - h_index:
-      all: 38
-      since_2017: 32
-  - i10_index:
-      all: 67
-      since_2017: 53
   city: Dubna
   cityurl: Dubna
   country: "Rusk\xE1 feder\xE1cia"
@@ -3704,7 +3156,7 @@
   hindex: 38
   img: Stanislav_Miertus.jpg
   last: Miertus
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - orcid
     - https://orcid.org/0000-0001-6766-4571
@@ -3751,16 +3203,6 @@
   year: 1982
 - affiliation: University of Missouri
   affiliationurl: University_of_Missouri
-  cited_by:
-  - citations:
-      all: 3901
-      since_2017: 1260
-  - h_index:
-      all: 38
-      since_2017: 17
-  - i10_index:
-      all: 70
-      since_2017: 34
   city: Columbia
   cityurl: Columbia
   country: USA
@@ -3789,16 +3231,6 @@
   year: 1955
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
-  cited_by:
-  - citations:
-      all: 5970
-      since_2017: 2039
-  - h_index:
-      all: 38
-      since_2017: 24
-  - i10_index:
-      all: 78
-      since_2017: 47
   city: Praha
   cityurl: Praha
   country: "\u010Cesko"
@@ -3827,16 +3259,6 @@
   year: 1963
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 7757
-      since_2016: 1615
-  - h_index:
-      all: 38
-      since_2016: 14
-  - i10_index:
-      all: 92
-      since_2016: 27
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -3846,7 +3268,7 @@
   hindex: 38
   img: Miroslav_Urban.jpg
   last: Urban
-  last_update: '2021-11-30'
+  last_update: '2022-03-27'
   links:
   - - orcid
     - https://orcid.org/0000-0003-0379-6414
@@ -3867,16 +3289,6 @@
   year: 1942
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
   affiliationurl: Slovenska_polnohospodarska_univerzita
-  cited_by:
-  - citations:
-      all: 6752
-      since_2017: 5944
-  - h_index:
-      all: 38
-      since_2017: 38
-  - i10_index:
-      all: 76
-      since_2017: 71
   city: Nitra
   cityurl: Nitra
   country: Slovensko
@@ -3899,38 +3311,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: "Ko\u0161ice"
-  cityurl: Kosice
-  country: Slovensko
-  countryurl: Slovensko
-  field: "nanomateri\xE1ly"
-  fieldurl: nanomaterialy
-  hindex: 37
-  img: Jan_Dusza.jpg
-  last: Dusza
-  last_update: '2021-12-25'
-  links:
-  - - ESET Science Award
-    - https://www.esetscienceaward.sk/en/finalists/jan-dusza
-  - - learned.sk
-    - https://www.learned.sk/prof-rndr-jan-dusza-drsc/
-  - - orcid
-    - https://orcid.org/0000-0002-3359-9326
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Jan-Dusza
-  - - scientific.net
-    - "https://www.scientific.net/author-papers/j\xE1n-dusza"
-  - - web
-    - https://promatech.sk
-  name: "J\xE1n Dusza"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=FMHHfNAAAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1952
 - affiliation: Univerzita Karlova
   affiliationurl: Univerzita_Karlova
   city: Praha
@@ -3969,16 +3349,6 @@
   year: 1972
 - affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
   affiliationurl: Slovenska_polnohospodarska_univerzita
-  cited_by:
-  - citations:
-      all: 4733
-      since_2016: 2618
-  - h_index:
-      all: 37
-      since_2016: 26
-  - i10_index:
-      all: 132
-      since_2016: 81
   city: Nitra
   cityurl: Nitra
   country: Slovensko
@@ -3988,7 +3358,7 @@
   hindex: 37
   img: Peter_Massanyi.jpg
   last: Massanyi
-  last_update: '2021-12-01'
+  last_update: '2022-03-27'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/peter-massanyi-99869523/?originalSubdomain=sk
@@ -4045,16 +3415,6 @@
   year: 1956
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   affiliationurl: Technicka_univerzita_v_Kosiciach
-  cited_by:
-  - citations:
-      all: 47120
-      since_2017: 23424
-  - h_index:
-      all: 37
-      since_2017: 28
-  - i10_index:
-      all: 71
-      since_2017: 45
   city: "Ko\u0161ice"
   cityurl: Kosice
   country: Slovensko
@@ -4083,16 +3443,6 @@
   year: 1961
 - affiliation: "Univerzita Kon\u0161tant\xEDna Filozofa"
   affiliationurl: Univerzita_Konstantina_Filozofa
-  cited_by:
-  - citations:
-      all: 5206
-      since_2016: 2347
-  - h_index:
-      all: 38
-      since_2016: 21
-  - i10_index:
-      all: 131
-      since_2016: 73
   city: Nitra
   cityurl: Nitra
   country: Slovensko
@@ -4119,16 +3469,6 @@
   year: 1954
 - affiliation: University of Natural Resources and Life Sciences
   affiliationurl: University_of_Natural_Resources_and_Life_Sciences
-  cited_by:
-  - citations:
-      all: 3943
-      since_2017: 1679
-  - h_index:
-      all: 37
-      since_2017: 22
-  - i10_index:
-      all: 87
-      since_2017: 55
   city: "Viede\u0148"
   cityurl: Vieden
   country: "Rak\xFAsko"
@@ -4155,50 +3495,8 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1961
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 3420
-      since_2016: 1389
-  - h_index:
-      all: 36
-      since_2016: 17
-  - i10_index:
-      all: 75
-      since_2016: 40
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "fyziol\xF3gia"
-  fieldurl: fyziologia
-  hindex: 36
-  img: Iveta_Bernatova.jpg
-  last: Bernatova
-  last_update: '2021-12-25'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Iveta_Bernatova/2
-  name: "Iveta Bern\xE1tov\xE1"
-  position: "vedky\u0148a"
-  positionurl: vedkyna
-  scholar: https://scholar.google.sk/citations?user=S9nvaAkAAAAJ&amp;hl=sk
-  sex: "\u017Eena"
-  sexurl: zena
-  year: ''
 - affiliation: "Eur\xF3pska komisia"
   affiliationurl: Europska_komisia
-  cited_by:
-  - citations:
-      all: 6183
-      since_2017: 3968
-  - h_index:
-      all: 36
-      since_2017: 29
-  - i10_index:
-      all: 84
-      since_2017: 62
   city: Sevilla
   cityurl: Sevilla
   country: "\u0160panielsko"
@@ -4227,16 +3525,6 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 5252
-      since_2017: 1200
-  - h_index:
-      all: 36
-      since_2017: 16
-  - i10_index:
-      all: 95
-      since_2017: 29
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -4282,7 +3570,7 @@
   hindex: 36
   img: Juraj_Hromkovic.jpg
   last: Hromkovic
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - dblp
     - https://dblp.org/pid/h/JurajHromkovic.html
@@ -4305,16 +3593,6 @@
   year: 1958
 - affiliation: The University of Melbourne
   affiliationurl: The_University_of_Melbourne
-  cited_by:
-  - citations:
-      all: 3786
-      since_2016: 3342
-  - h_index:
-      all: 35
-      since_2016: 32
-  - i10_index:
-      all: 64
-      since_2016: 62
   city: Melbourne
   cityurl: Melbourne
   country: "Austr\xE1lia"
@@ -4371,16 +3649,6 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 6204
-      since_2017: 1451
-  - h_index:
-      all: 36
-      since_2017: 20
-  - i10_index:
-      all: 54
-      since_2017: 29
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -4425,18 +3693,32 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1977
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "intern\xE1 medic\xEDna"
+  fieldurl: interna_medicina
+  hindex: 36
+  img: Katarina_Sebekova.jpg
+  last: Sebekova
+  last_update: '2022-03-27'
+  links:
+  - - web
+    - https://www.imbm.sk/members/katarina-sebekova/
+  - - "\u017Eivotopis"
+    - http://www.imbm.sk/wp-content/uploads/2017/03/cv-ks-3.pdf
+  name: "Katar\xEDna \u0160ebekov\xE1"
+  position: docentka
+  positionurl: docentka
+  scholar: https://scholar.google.sk/citations?hl=sk&amp;user=jsJC9WgAAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: 1955
 - affiliation: University of Strathclyde
   affiliationurl: University_of_Strathclyde
-  cited_by:
-  - citations:
-      all: 4101
-      since_2017: 1931
-  - h_index:
-      all: 36
-      since_2017: 24
-  - i10_index:
-      all: 89
-      since_2017: 55
   city: Glasgow
   cityurl: Glasgow
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
@@ -4467,16 +3749,6 @@
   year: ''
 - affiliation: University of Vienna
   affiliationurl: University_of_Vienna
-  cited_by:
-  - citations:
-      all: 5708
-      since_2016: 2592
-  - h_index:
-      all: 36
-      since_2016: 25
-  - i10_index:
-      all: 67
-      since_2016: 45
   city: "Viede\u0148"
   cityurl: Vieden
   country: "Rak\xFAsko"
@@ -4486,7 +3758,7 @@
   hindex: 36
   img: Viera_Skakalova.jpeg
   last: Skakalova
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - orcid
     - https://orcid.org/0000-0002-7016-8584
@@ -4529,6 +3801,28 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyziol\xF3gia"
+  fieldurl: fyziologia
+  hindex: 35
+  img: Iveta_Bernatova.jpg
+  last: Bernatova
+  last_update: '2022-03-27'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Iveta_Bernatova/2
+  name: "Iveta Bern\xE1tov\xE1"
+  position: "vedky\u0148a"
+  positionurl: vedkyna
+  scholar: https://scholar.google.sk/citations?user=S9nvaAkAAAAJ&amp;hl=sk
+  sex: "\u017Eena"
+  sexurl: zena
+  year: ''
 - affiliation: Vanderbilt university
   affiliationurl: Vanderbilt_university
   city: Nashville
@@ -4563,16 +3857,6 @@
   year: null
 - affiliation: Indiana University Bloomington
   affiliationurl: Indiana_University_Bloomington
-  cited_by:
-  - citations:
-      all: 4373
-      since_2016: 1127
-  - h_index:
-      all: 35
-      since_2016: 19
-  - i10_index:
-      all: 55
-      since_2016: 33
   city: Bloomington
   cityurl: Bloomington
   country: USA
@@ -4582,7 +3866,7 @@
   hindex: 35
   img: Radovan_Dermisek.jpg
   last: Dermisek
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - web
     - https://physics.indiana.edu/about/directory/all-faculty-scientists/dermisek-radovan.html
@@ -4623,16 +3907,6 @@
   year: 1978
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 3597
-      since_2016: 3166
-  - h_index:
-      all: 33
-      since_2016: 31
-  - i10_index:
-      all: 106
-      since_2016: 90
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -4669,16 +3943,6 @@
   year: 1973
 - affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
-  cited_by:
-  - citations:
-      all: 2921
-      since_2016: 1601
-  - h_index:
-      all: 34
-      since_2016: 23
-  - i10_index:
-      all: 61
-      since_2016: 52
   city: "Ko\u0161ice"
   cityurl: Kosice
   country: Slovensko
@@ -4705,40 +3969,6 @@
   cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
-  field: "intern\xE1 medic\xEDna"
-  fieldurl: interna_medicina
-  hindex: 35
-  img: Katarina_Sebekova.jpg
-  last: Sebekova
-  last_update: '2021-12-25'
-  links:
-  - - web
-    - https://www.imbm.sk/members/katarina-sebekova/
-  - - "\u017Eivotopis"
-    - http://www.imbm.sk/wp-content/uploads/2017/03/cv-ks-3.pdf
-  name: "Katar\xEDna \u0160ebekov\xE1"
-  position: docentka
-  positionurl: docentka
-  scholar: https://scholar.google.sk/citations?hl=sk&amp;user=jsJC9WgAAAAJ
-  sex: "\u017Eena"
-  sexurl: zena
-  year: 1955
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 4908
-      since_2017: 1519
-  - h_index:
-      all: 35
-      since_2017: 18
-  - i10_index:
-      all: 52
-      since_2017: 29
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
   field: "materi\xE1lov\xE1 veda"
   fieldurl: materialova_veda
   hindex: 35
@@ -4757,16 +3987,6 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 4945
-      since_2017: 822
-  - h_index:
-      all: 35
-      since_2017: 14
-  - i10_index:
-      all: 112
-      since_2017: 28
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -4801,16 +4021,6 @@
   year: 1944
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
-  cited_by:
-  - citations:
-      all: 39905
-      since_2016: 19218
-  - h_index:
-      all: 34
-      since_2016: 27
-  - i10_index:
-      all: 93
-      since_2016: 49
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -4820,7 +4030,7 @@
   hindex: 35
   img: Marian_Valko.jpeg
   last: Valko
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - loop
     - https://loop.frontiersin.org/people/127211/overview
@@ -4876,16 +4086,6 @@
 - ResearchGate: https://www.researchgate.net/profile/Stanislav-Antalic
   affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 4247
-      since_2016: 2058
-  - h_index:
-      all: 34
-      since_2016: 24
-  - i10_index:
-      all: 74
-      since_2016: 61
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -4895,7 +4095,7 @@
   hindex: 34
   img: Stanislav_Antalic.jpg
   last: Antalic
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - web
     - http://antalic.dnp.fmph.uniba.sk/index.php
@@ -4910,16 +4110,6 @@
   year: ''
 - affiliation: Microsoft Research
   affiliationurl: Microsoft_Research
-  cited_by:
-  - citations:
-      all: 31027
-      since_2017: 17259
-  - h_index:
-      all: 34
-      since_2017: 33
-  - i10_index:
-      all: 50
-      since_2017: 41
   city: New York
   cityurl: New_York
   country: USA
@@ -4950,16 +4140,6 @@
   year: ''
 - affiliation: Zeppelin University
   affiliationurl: Zeppelin_University
-  cited_by:
-  - citations:
-      all: 5320
-      since_2017: 1554
-  - h_index:
-      all: 34
-      since_2017: 21
-  - i10_index:
-      all: 75
-      since_2017: 33
   city: Friedrichshafen
   cityurl: Friedrichshafen
   country: Nemecko
@@ -5042,16 +4222,6 @@
   year: ''
 - affiliation: University of New South Wales
   affiliationurl: University_of_New_South_Wales
-  cited_by:
-  - citations:
-      all: 3866
-      since_2016: 3354
-  - h_index:
-      all: 33
-      since_2016: 30
-  - i10_index:
-      all: 67
-      since_2016: 55
   city: Sydney
   cityurl: Sydney
   country: "Austr\xE1lia"
@@ -5061,7 +4231,7 @@
   hindex: 34
   img: Branislav_Hredzak.jpg
   last: Hredzak
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - orcid
     - https://orcid.org/0000-0002-4863-3419
@@ -5076,16 +4246,6 @@
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 3602
-      since_2016: 423
-  - h_index:
-      all: 34
-      since_2016: 11
-  - i10_index:
-      all: 71
-      since_2016: 12
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -5095,7 +4255,7 @@
   hindex: 34
   img: Vladimir_Kello.jpg
   last: Kello
-  last_update: '2021-11-30'
+  last_update: '2022-03-27'
   links:
   - - publons
     - https://publons.com/researcher/2894187/vladimir-kello/
@@ -5112,16 +4272,6 @@
   year: 1947
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 4386
-      since_2016: 2492
-  - h_index:
-      all: 32
-      since_2016: 23
-  - i10_index:
-      all: 121
-      since_2016: 77
   city: "Ko\u0161ice"
   cityurl: Kosice
   country: Slovensko
@@ -5172,42 +4322,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: University of Pennsylvania
-  affiliationurl: University_of_Pennsylvania
-  cited_by:
-  - citations:
-      all: 3717
-      since_2016: 1845
-  - h_index:
-      all: 33
-      since_2016: 25
-  - i10_index:
-      all: 51
-      since_2016: 44
-  city: Filadelfia
-  cityurl: Filadelfia
-  country: USA
-  countryurl: USA
-  field: pediatria
-  fieldurl: pediatria
-  hindex: 34
-  img: Lubica_Rauova.jpg
-  last: Rauova
-  last_update: '2021-12-25'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0003-1990-3077
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Lubica_Rauova
-  - - web
-    - https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
-  name: "\u013Dubica Rauov\xE1"
-  position: docentka
-  positionurl: docentka
-  scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
-  sex: "\u017Eena"
-  sexurl: zena
-  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -5242,16 +4356,6 @@
   year: 1974
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 4083
-      since_2017: 1445
-  - h_index:
-      all: 33
-      since_2017: 20
-  - i10_index:
-      all: 99
-      since_2017: 46
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -5284,18 +4388,34 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1943
+- affiliation: University of Hawaii
+  affiliationurl: University_of_Hawaii
+  city: Manoa
+  cityurl: Manoa
+  country: USA
+  countryurl: USA
+  field: "oce\xE1nografia"
+  fieldurl: oceanografia
+  hindex: 33
+  img: Henrietta_Dulai.jpg
+  last: Dulai
+  last_update: '2022-03-27'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0001-5970-1483
+  - - web
+    - http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/
+  - - "\u017Eivotopis"
+    - http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/files/CV_henrietta.pdf
+  name: Henrietta Dulai
+  position: docentka
+  positionurl: docentka
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 4739
-      since_2017: 1961
-  - h_index:
-      all: 33
-      since_2017: 23
-  - i10_index:
-      all: 58
-      since_2017: 41
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -5328,16 +4448,6 @@
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 5133
-      since_2016: 2969
-  - h_index:
-      all: 32
-      since_2016: 28
-  - i10_index:
-      all: 121
-      since_2016: 76
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -5374,16 +4484,6 @@
   year: 1960
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 3013
-      since_2017: 610
-  - h_index:
-      all: 33
-      since_2017: 13
-  - i10_index:
-      all: 67
-      since_2017: 25
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -5414,16 +4514,6 @@
   year: 1959
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
-  cited_by:
-  - citations:
-      all: 3530
-      since_2016: 1020
-  - h_index:
-      all: 33
-      since_2016: 16
-  - i10_index:
-      all: 82
-      since_2016: 34
   city: Praha
   cityurl: Praha
   country: "\u010Cesko"
@@ -5433,7 +4523,7 @@
   hindex: 33
   img: Juraj_Harmatha.jpg
   last: Harmatha
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - orcid
     - https://orcid.org/0000-0003-4385-0841
@@ -5448,16 +4538,6 @@
   year: ''
 - affiliation: "Univerzita Palack\xE9ho v Olomouci"
   affiliationurl: Univerzita_Palackeho_v_Olomouci
-  cited_by:
-  - citations:
-      all: 2865
-      since_2016: 1872
-  - h_index:
-      all: 31
-      since_2016: 24
-  - i10_index:
-      all: 84
-      since_2016: 61
   city: Olomouc
   cityurl: Olomouc
   country: "\u010Cesko"
@@ -5521,7 +4601,7 @@
   hindex: 33
   img: Jan_Lehotsky.jpg
   last: Lehotsky
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - loop
     - https://loop.frontiersin.org/people/362858/overview
@@ -5540,16 +4620,6 @@
   year: 1954
 - affiliation: University of Reading
   affiliationurl: University_of_Reading
-  cited_by:
-  - citations:
-      all: 4246
-      since_2016: 2110
-  - h_index:
-      all: 32
-      since_2016: 26
-  - i10_index:
-      all: 53
-      since_2016: 48
   city: Reading
   cityurl: Reading
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
@@ -5559,7 +4629,7 @@
   hindex: 33
   img: Martin_Lukac.png
   last: Lukac
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Martin-Lukac-4
@@ -5646,18 +4716,34 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: University of Pennsylvania
+  affiliationurl: University_of_Pennsylvania
+  city: Filadelfia
+  cityurl: Filadelfia
+  country: USA
+  countryurl: USA
+  field: pediatria
+  fieldurl: pediatria
+  hindex: 33
+  img: Lubica_Rauova.jpg
+  last: Rauova
+  last_update: '2022-03-27'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-1990-3077
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Lubica_Rauova
+  - - web
+    - https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
+  name: "\u013Dubica Rauov\xE1"
+  position: docentka
+  positionurl: docentka
+  scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
+  sex: "\u017Eena"
+  sexurl: zena
+  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 3630
-      since_2016: 1614
-  - h_index:
-      all: 33
-      since_2016: 23
-  - i10_index:
-      all: 97
-      since_2016: 48
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -5667,7 +4753,7 @@
   hindex: 33
   img: Pavol_Sajgalik.jpeg
   last: Sajgalik
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - web
     - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=9228
@@ -5682,16 +4768,6 @@
   year: 1955
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
-  cited_by:
-  - citations:
-      all: 2847
-      since_2016: 2284
-  - h_index:
-      all: 33
-      since_2016: 30
-  - i10_index:
-      all: 74
-      since_2016: 62
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -5722,16 +4798,6 @@
   year: 1983
 - affiliation: Trinity College Dublin
   affiliationurl: Trinity_College_Dublin
-  cited_by:
-  - citations:
-      all: 4019
-      since_2016: 3092
-  - h_index:
-      all: 33
-      since_2016: 29
-  - i10_index:
-      all: 58
-      since_2016: 54
   city: Dublin
   cityurl: Dublin
   country: "\xCDrsko"
@@ -5760,16 +4826,6 @@
   year: 1971
 - affiliation: Florida State University
   affiliationurl: Florida_State_University
-  cited_by:
-  - citations:
-      all: 4941
-      since_2017: 2335
-  - h_index:
-      all: 33
-      since_2017: 26
-  - i10_index:
-      all: 53
-      since_2017: 42
   city: Tallahassee
   cityurl: Tallahassee
   country: USA
@@ -5868,42 +4924,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: University of Hawaii
-  affiliationurl: University_of_Hawaii
-  cited_by:
-  - citations:
-      all: 3792
-      since_2016: 2105
-  - h_index:
-      all: 32
-      since_2016: 27
-  - i10_index:
-      all: 54
-      since_2016: 49
-  city: Manoa
-  cityurl: Manoa
-  country: USA
-  countryurl: USA
-  field: "oce\xE1nografia"
-  fieldurl: oceanografia
-  hindex: 32
-  img: Henrietta_Dulai.jpg
-  last: Dulai
-  last_update: '2021-12-25'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0001-5970-1483
-  - - web
-    - http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/
-  - - "\u017Eivotopis"
-    - http://www.soest.hawaii.edu/GG/FACULTY/hdulaiov/files/CV_henrietta.pdf
-  name: Henrietta Dulai
-  position: docentka
-  positionurl: docentka
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=WRNOtkMAAAAJ
-  sex: "\u017Eena"
-  sexurl: zena
-  year: ''
 - affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   city: "Ko\u0161ice"
@@ -5928,16 +4948,6 @@
   year: ''
 - affiliation: Qatar University
   affiliationurl: Qatar_University
-  cited_by:
-  - citations:
-      all: 3696
-      since_2017: 2743
-  - h_index:
-      all: 32
-      since_2017: 25
-  - i10_index:
-      all: 89
-      since_2017: 73
   city: Doha
   cityurl: Doha
   country: Katar
@@ -5962,16 +4972,6 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 2804
-      since_2017: 600
-  - h_index:
-      all: 32
-      since_2017: 13
-  - i10_index:
-      all: 72
-      since_2017: 17
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -6026,16 +5026,6 @@
   year: ''
 - affiliation: CSIRO
   affiliationurl: CSIRO
-  cited_by:
-  - citations:
-      all: 7105
-      since_2016: 2201
-  - h_index:
-      all: 32
-      since_2016: 23
-  - i10_index:
-      all: 64
-      since_2016: 45
   city: Brisbane
   cityurl: Brisbane
   country: "Austr\xE1lia"
@@ -6045,7 +5035,7 @@
   hindex: 32
   img: Branislav_Kusy.jpg
   last: Kusy
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - dblp
     - https://dblp.org/pid/19/3001.html
@@ -6068,16 +5058,6 @@
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 4751
-      since_2017: 1771
-  - h_index:
-      all: 32
-      since_2017: 21
-  - i10_index:
-      all: 64
-      since_2017: 34
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -6106,16 +5086,6 @@
   year: 1964
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
-  cited_by:
-  - citations:
-      all: 3261
-      since_2017: 966
-  - h_index:
-      all: 32
-      since_2017: 15
-  - i10_index:
-      all: 78
-      since_2017: 23
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -6138,16 +5108,6 @@
   year: 1963
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
   affiliationurl: Technicka_univerzita_vo_Zvolene
-  cited_by:
-  - citations:
-      all: 4054
-      since_2016: 1655
-  - h_index:
-      all: 30
-      since_2016: 20
-  - i10_index:
-      all: 72
-      since_2016: 42
   city: Zvolen
   cityurl: Zvolen
   country: Slovensko
@@ -6267,19 +5227,9 @@
   scholar: https://scholar.google.com/citations?hl=en&user=qKQD-2cAAAAJ
   sex: "mu\u017E"
   sexurl: muz
-  year: ''
+  year: '1986'
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 3197
-      since_2017: 1054
-  - h_index:
-      all: 31
-      since_2017: 18
-  - i10_index:
-      all: 65
-      since_2017: 32
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -6310,16 +5260,6 @@
   year: 1961
 - affiliation: Institute of Tropical Medicine Antwerp
   affiliationurl: Institute_of_Tropical_Medicine_Antwerp
-  cited_by:
-  - citations:
-      all: 2735
-      since_2016: 2552
-  - h_index:
-      all: 30
-      since_2016: 29
-  - i10_index:
-      all: 56
-      since_2016: 56
   city: Antwerpy
   cityurl: Antwerpy
   country: Belgicko
@@ -6382,16 +5322,6 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 5132
-      since_2017: 1167
-  - h_index:
-      all: 31
-      since_2017: 15
-  - i10_index:
-      all: 109
-      since_2017: 32
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -6427,16 +5357,6 @@
   year: 1949
 - affiliation: "Technick\xE1 univerzita vo Zvolene"
   affiliationurl: Technicka_univerzita_vo_Zvolene
-  cited_by:
-  - citations:
-      all: 4298
-      since_2016: 1947
-  - h_index:
-      all: 30
-      since_2016: 20
-  - i10_index:
-      all: 86
-      since_2016: 57
   city: Zvolen
   cityurl: Zvolen
   country: Slovensko
@@ -6474,7 +5394,7 @@
   hindex: 31
   img: Miroslav_Grajcar.jpg
   last: Grajcar
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - web
     - http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=grajcar
@@ -6533,16 +5453,6 @@
   year: 1977
 - affiliation: "\u017Dilinsk\xE1 univerzita"
   affiliationurl: Zilinska_univerzita
-  cited_by:
-  - citations:
-      all: 2974
-      since_2016: 2661
-  - h_index:
-      all: 31
-      since_2016: 27
-  - i10_index:
-      all: 64
-      since_2016: 57
   city: "\u017Dilina"
   cityurl: Zilina
   country: Slovensko
@@ -6575,16 +5485,6 @@
   year: 1972
 - affiliation: "Universit\xE9 Aix-Marseille"
   affiliationurl: Universite_Aix-Marseille
-  cited_by:
-  - citations:
-      all: 4164
-      since_2016: 1652
-  - h_index:
-      all: 30
-      since_2016: 21
-  - i10_index:
-      all: 44
-      since_2016: 29
   city: Marseille
   cityurl: Marseille
   country: "Franc\xFAzsko"
@@ -6594,7 +5494,7 @@
   hindex: 31
   img: Ctirad_Klimcik.png
   last: Klimcik
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Ctirad-Klimcik
@@ -6639,16 +5539,6 @@
   year: null
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 3956
-      since_2016: 2901
-  - h_index:
-      all: 30
-      since_2016: 26
-  - i10_index:
-      all: 47
-      since_2016: 40
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -6658,7 +5548,7 @@
   hindex: 31
   img: Zdenko_Machala.jpg
   last: Machala
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - ESET Science Award
     - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/zdenko-machala
@@ -6791,16 +5681,6 @@
   year: 1974
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 3606
-      since_2016: 1412
-  - h_index:
-      all: 31
-      since_2016: 14
-  - i10_index:
-      all: 55
-      since_2016: 27
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -6933,16 +5813,6 @@
   year: ''
 - affiliation: NGM Biopharmaceuticals
   affiliationurl: NGM_Biopharmaceuticals
-  cited_by:
-  - citations:
-      all: 3086
-      since_2016: 1163
-  - h_index:
-      all: 31
-      since_2016: 18
-  - i10_index:
-      all: 44
-      since_2016: 23
   city: San Francisco
   cityurl: San_Francisco
   country: USA
@@ -6952,7 +5822,7 @@
   hindex: 31
   img: Juraj_Svitel.jpg
   last: Svitel
-  last_update: '2021-11-21'
+  last_update: '2022-03-27'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/juraj-george-svitel-1211203/
@@ -7029,16 +5899,6 @@
   year: ''
 - affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   affiliationurl: Technicka_univerzita_v_Kosiciach
-  cited_by:
-  - citations:
-      all: 3759
-      since_2017: 1954
-  - h_index:
-      all: 30
-      since_2017: 21
-  - i10_index:
-      all: 89
-      since_2017: 51
   city: "Ko\u0161ice"
   cityurl: Kosice
   country: Slovensko
@@ -7167,16 +6027,6 @@
   year: 1980
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
-  cited_by:
-  - citations:
-      all: 3493
-      since_2016: 1513
-  - h_index:
-      all: 30
-      since_2016: 17
-  - i10_index:
-      all: 76
-      since_2016: 27
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -7207,16 +6057,6 @@
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 4653
-      since_2017: 1032
-  - h_index:
-      all: 30
-      since_2017: 16
-  - i10_index:
-      all: 56
-      since_2017: 26
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -7245,46 +6085,6 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1959
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 2978
-      since_2016: 1104
-  - h_index:
-      all: 30
-      since_2016: 18
-  - i10_index:
-      all: 54
-      since_2016: 30
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "vulkanol\xF3gia"
-  fieldurl: vulkanologia
-  hindex: 30
-  img: Jaroslav_Lexa.jpg
-  last: Lexa
-  last_update: '2021-12-01'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Jaroslav-Lexa
-  - - science.sk
-    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2086-jaroslav-lexa
-  - - web 1
-    - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443
-  - - web 2
-    - http://www.geo.sav.sk/en/staff/jaroslav-lexa-en/
-  - - "\u017Eivotopis"
-    - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443&action=cv
-  name: Jaroslav Lexa
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=rHgfxxwAAAAJ&hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1944
 - affiliation: Fraunhofer Institute
   affiliationurl: Fraunhofer_Institute
   city: Darmstadt
@@ -7341,16 +6141,6 @@
   year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 3242
-      since_2017: 1267
-  - h_index:
-      all: 30
-      since_2017: 18
-  - i10_index:
-      all: 77
-      since_2017: 36
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -7377,16 +6167,6 @@
   year: 1953
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
-  cited_by:
-  - citations:
-      all: 10800
-      since_2016: 9603
-  - h_index:
-      all: 48
-      since_2016: 45
-  - i10_index:
-      all: 117
-      since_2016: 112
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -7396,7 +6176,7 @@
   hindex: 30
   img: Milan_Polakovic.jpg
   last: Polakovic
-  last_update: '2021-11-21'
+  last_update: '2022-03-27'
   links:
   - - LinkedIn
     - "https://www.linkedin.com/in/milan-polakovi\u010D-278578b2/?originalSubdomain=sk"
@@ -7441,16 +6221,6 @@
   year: null
 - affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   affiliationurl: Slovenska_technicka_univerzita
-  cited_by:
-  - citations:
-      all: 2722
-      since_2016: 923
-  - h_index:
-      all: 30
-      since_2016: 16
-  - i10_index:
-      all: 57
-      since_2016: 27
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -7460,7 +6230,7 @@
   hindex: 30
   img: Stefan_Schlosser.jpg
   last: Schlosser
-  last_update: '2021-11-21'
+  last_update: '2022-03-27'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/stefan-schlosser-7220424a/
@@ -7511,16 +6281,6 @@
   year: 1970
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
-  cited_by:
-  - citations:
-      all: 3130
-      since_2016: 1818
-  - h_index:
-      all: 30
-      since_2016: 23
-  - i10_index:
-      all: 59
-      since_2016: 49
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -7565,16 +6325,6 @@
   year: 1978
 - affiliation: KAUST
   affiliationurl: KAUST
-  cited_by:
-  - citations:
-      all: 3689
-      since_2017: 1586
-  - h_index:
-      all: 30
-      since_2017: 22
-  - i10_index:
-      all: 83
-      since_2017: 57
   city: Thuwal
   cityurl: Thuwal
   country: "Saudsk\xE1 Ar\xE1bia"

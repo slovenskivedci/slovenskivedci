@@ -47,7 +47,7 @@ affiliation:
   "Region\xE1lny \xFArad verejn\xE9ho zdravotn\xEDctva": 1
   Research and Development Services: 1
   Simon Fraser University: 2
-  "Slovensk\xE1 akad\xE9mia vied": 35
+  "Slovensk\xE1 akad\xE9mia vied": 34
   "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita": 3
   "Slovensk\xE1 technick\xE1 univerzita": 9
   "Slovensk\xE1 zdravotn\xEDcka univerzita": 1
@@ -118,7 +118,7 @@ countries:
   "Rak\xFAsko": 10
   "Rusk\xE1 feder\xE1cia": 1
   "Saudsk\xE1 Ar\xE1bia": 2
-  Slovensko: 104
+  Slovensko: 103
   "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
   USA: 32
   "Ve\u013Ek\xE1 Brit\xE1nia": 8
@@ -143,19 +143,19 @@ hindex:
 - 38
 - 50
 - 30
-- 45
+- 46
 - 33
 - 43
 - 33
 - 42
 - 31
-- 35
+- 36
 - 31
 - 32
 - 30
 - 30
 - 35
-- 43
+- 44
 - 36
 - 39
 - 37
@@ -167,13 +167,13 @@ hindex:
 - 54
 - 56
 - 45
-- 32
+- 33
 - 37
 - 45
 - 130
 - 35
 - 57
-- 34
+- 33
 - 46
 - 31
 - 42
@@ -191,7 +191,7 @@ hindex:
 - 68
 - 34
 - 38
-- 37
+- 38
 - 35
 - 42
 - 37
@@ -228,14 +228,13 @@ hindex:
 - 35
 - 67
 - 51
-- 42
+- 43
 - 48
 - 41
 - 44
-- 36
+- 35
 - 39
 - 66
-- 30
 - 57
 - 57
 - 174
@@ -251,7 +250,7 @@ hindex:
 - 36
 - 30
 - 36
-- 40
+- 41
 - 33
 - 33
 - 31
@@ -350,5 +349,5 @@ hindex:
 - 32
 - 45
 - 130
-man: 190
+man: 189
 woman: 32
