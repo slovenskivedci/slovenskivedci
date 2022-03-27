@@ -497,7 +497,7 @@
   hindex: 62
   img: Pavel_Cheben.jpg
   last: Cheben
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - ESET Envoy
     - https://www.esetscienceaward.sk/en/envoys/pavel-cheben
@@ -668,6 +668,38 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1967
+- affiliation: Norwegian Institute for Air Research
+  affiliationurl: Norwegian_Institute_for_Air_Research
+  city: Kjeller
+  cityurl: Kjeller
+  country: "N\xF3rsko"
+  countryurl: Norsko
+  field: "toxikol\xF3gia"
+  fieldurl: toxikologia
+  hindex: 58
+  img: Maria_Dusinska.jpg
+  last: Dusinska
+  last_update: '2022-03-27'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/110414/overview
+  - - marfan
+    - http://marfan.sk
+  - - orcid
+    - https://orcid.org/0000-0003-1358-1652
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Maria-Dusinska
+  - - web
+    - https://www.nilu.com/employee/maria-dusinska/
+  - - "\u017Eivotopis"
+    - https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/cv_sccs_dusinska_en.pdf
+  name: "M\xE1ria Du\u0161insk\xE1"
+  position: "vedky\u0148a"
+  positionurl: vedkyna
+  scholar: https://scholar.google.com/citations?user=tF7f4yEAAAAJ&hl=en
+  sex: "\u017Eena"
+  sexurl: zena
+  year: null
 - affiliation: "Trnavsk\xE1 univerzita"
   affiliationurl: Trnavska_univerzita
   city: Trnava
@@ -705,7 +737,7 @@
   hindex: 57
   img: Eva_Benkova.jpg
   last: Benkova
-  last_update: '2022-02-02'
+  last_update: '2022-03-27'
   links:
   - - web
     - https://ist.ac.at/en/research/benkova-group/#career
@@ -768,38 +800,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1952
-- affiliation: Norwegian Institute for Air Research
-  affiliationurl: Norwegian_Institute_for_Air_Research
-  city: Kjeller
-  cityurl: Kjeller
-  country: "N\xF3rsko"
-  countryurl: Norsko
-  field: "toxikol\xF3gia"
-  fieldurl: toxikologia
-  hindex: 57
-  img: Maria_Dusinska.jpg
-  last: Dusinska
-  last_update: '2022-01-09'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/110414/overview
-  - - marfan
-    - http://marfan.sk
-  - - orcid
-    - https://orcid.org/0000-0003-1358-1652
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Maria-Dusinska
-  - - web
-    - https://www.nilu.com/employee/maria-dusinska/
-  - - "\u017Eivotopis"
-    - https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/cv_sccs_dusinska_en.pdf
-  name: "M\xE1ria Du\u0161insk\xE1"
-  position: "vedky\u0148a"
-  positionurl: vedkyna
-  scholar: https://scholar.google.com/citations?user=tF7f4yEAAAAJ&hl=en
-  sex: "\u017Eena"
-  sexurl: zena
-  year: null
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -1131,7 +1131,7 @@
   hindex: 52
   img: Norbert_Werner.jpg
   last: Werner
-  last_update: '2022-01-31'
+  last_update: '2022-03-27'
   links:
   - - news 1
     - https://dennikn.sk/2032127/astrofyzik-nasa-civilizacia-je-sice-specialna-ale-pochybujem-ze-je-vo-vesmire-jedina/
@@ -1278,7 +1278,7 @@
   hindex: 51
   img: Andrea_Jurisicova.png
   last: Jurisicova
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/andrea-jurisicova-205a2975/?originalSubdomain=ca
@@ -1317,6 +1317,40 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1954
+- affiliation: Carleton University
+  affiliationurl: Carleton_University
+  city: Ottawa
+  cityurl: Ottawa
+  country: Kanada
+  countryurl: Kanada
+  field: "synt\xE9za prote\xEDnov"
+  fieldurl: synteza_proteinov
+  hindex: 50
+  img: Martin_Holcik.jpg
+  last: Holcik
+  last_update: '2022-03-27'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/martin-holcik-69896210/?originalSubdomain=ca
+  - - loop
+    - https://loop.frontiersin.org/people/33499/bio
+  - - publons
+    - https://publons.com/researcher/2891037/martin-holcik/
+  - - PubMed
+    - https://pubmed.ncbi.nlm.nih.gov/?term=holcik+m
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Martin-Holcik
+  - - twitter
+    - https://twitter.com/mholcik
+  - - web
+    - https://carleton.ca/healthsciences/people/martin-holcik/
+  name: "Martin Hol\u010D\xEDk"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=nluwC9EAAAAJ&hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: null
 - affiliation: University of California
   affiliationurl: University_of_California
   city: San Diego
@@ -1389,40 +1423,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: Carleton University
-  affiliationurl: Carleton_University
-  city: Ottawa
-  cityurl: Ottawa
-  country: Kanada
-  countryurl: Kanada
-  field: "synt\xE9za prote\xEDnov"
-  fieldurl: synteza_proteinov
-  hindex: 49
-  img: Martin_Holcik.jpg
-  last: Holcik
-  last_update: '2022-01-09'
-  links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/martin-holcik-69896210/?originalSubdomain=ca
-  - - loop
-    - https://loop.frontiersin.org/people/33499/bio
-  - - publons
-    - https://publons.com/researcher/2891037/martin-holcik/
-  - - PubMed
-    - https://pubmed.ncbi.nlm.nih.gov/?term=holcik+m
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Martin-Holcik
-  - - twitter
-    - https://twitter.com/mholcik
-  - - web
-    - https://carleton.ca/healthsciences/people/martin-holcik/
-  name: "Martin Hol\u010D\xEDk"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=nluwC9EAAAAJ&hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: null
 - affiliation: North Carolina State University
   affiliationurl: North_Carolina_State_University
   city: Raleigh
@@ -1458,7 +1458,7 @@
   hindex: 48
   img: Marian_Hajduch.jpg
   last: Hajduch
-  last_update: '2022-01-16'
+  last_update: '2022-03-27'
   links:
   - - iDNES
     - https://www.idnes.cz/onadnes/zdravi/marian-hajduch.K467490
@@ -1537,6 +1537,32 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
+- affiliation: University of Oxford
+  affiliationurl: University_of_Oxford
+  city: Oxford
+  cityurl: Oxford
+  country: "Ve\u013Ek\xE1 Brit\xE1nia"
+  countryurl: Velka_Britania
+  field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
+  hindex: 48
+  img: Philipp_Kukura.jpeg
+  last: Kukura
+  last_update: '2022-03-27'
+  links:
+  - - web
+    - http://kukura.chem.ox.ac.uk/
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Philipp_Kukura
+  - - "\u017Eivotopis"
+    - https://www.phys.uniroma1.it/fisica/sites/default/files/bandi/CV/CurrentCVKukura.pdf
+  name: Philipp Kukura
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=NgHGnt0AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1978
 - affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   affiliationurl: Ceska_akademia_vied
   city: Praha
@@ -1599,32 +1625,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: University of Oxford
-  affiliationurl: University_of_Oxford
-  city: Oxford
-  cityurl: Oxford
-  country: "Ve\u013Ek\xE1 Brit\xE1nia"
-  countryurl: Velka_Britania
-  field: "fyzik\xE1lna ch\xE9mia"
-  fieldurl: fyzikalna_chemia
-  hindex: 47
-  img: Philipp_Kukura.jpeg
-  last: Kukura
-  last_update: '2021-12-25'
-  links:
-  - - web
-    - http://kukura.chem.ox.ac.uk/
-  - - "wikip\xE9dia"
-    - https://sk.wikipedia.org/wiki/Philipp_Kukura
-  - - "\u017Eivotopis"
-    - https://www.phys.uniroma1.it/fisica/sites/default/files/bandi/CV/CurrentCVKukura.pdf
-  name: Philipp Kukura
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=NgHGnt0AAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1978
 - affiliation: "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave"
   affiliationurl: Univerzita_svateho_Cyrila_a_Metoda_v_Trnave
   city: Trnava
@@ -1688,7 +1688,7 @@
   hindex: 46
   img: Juraj_Parajka.jpg
   last: Parajka
-  last_update: '2022-02-02'
+  last_update: '2022-03-27'
   links:
   - - orcid
     - https://orcid.org/0000-0002-1177-5181
@@ -1912,7 +1912,7 @@
   hindex: 45
   img: Maria_Omastova.jpg
   last: Omastova
-  last_update: '2022-02-02'
+  last_update: '2022-03-27'
   links:
   - - ESET Science Award
     - https://www.esetscienceaward.sk/sk/finalisti/maria-omastova
@@ -1938,7 +1938,7 @@
   hindex: 44
   img: Michal_Hammel.jpg
   last: Hammel
-  last_update: '2022-01-12'
+  last_update: '2022-03-27'
   links:
   - - orcid
     - https://orcid.org/0000-0002-5610-9289
@@ -2322,7 +2322,7 @@
   hindex: 42
   img: Vlasta_Brezova.jpg
   last: Brezova
-  last_update: '2022-01-20'
+  last_update: '2022-03-27'
   links:
   - - learned.sk
     - https://www.learned.sk/prof-ing-vlasta-brezova-drsc/
@@ -2454,7 +2454,7 @@
   hindex: 42
   img: Ivo_Petras.jpg
   last: Petras
-  last_update: '2022-01-12'
+  last_update: '2022-03-27'
   links:
   - - learned.sk
     - https://www.learned.sk/prof-ing-ivo-petras-drsc/
@@ -2471,7 +2471,7 @@
   name: "Ivo Petr\xE1\u0161"
   position: profesor
   positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=01msi28AAAAJ&amp;hl=en
+  scholar: https://scholar.google.com/citations?user=01msi28AAAAJ&hl=en
   sex: "mu\u017E"
   sexurl: muz
   year: 1973
@@ -2814,7 +2814,7 @@
   hindex: 39
   img: Tomas_Grim.jpg
   last: Grim
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - loop
     - https://loop.frontiersin.org/people/392854/bio
@@ -2876,7 +2876,7 @@
   hindex: 39
   img: Igor_Kozak.jpeg
   last: Kozak
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Igor-Kozak/5
@@ -2941,6 +2941,32 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1959
+- affiliation: University Medical Center Utrecht
+  affiliationurl: University_Medical_Center_Utrecht
+  city: Utrecht
+  cityurl: Utrecht
+  country: Holandsko
+  countryurl: Holandsko
+  field: "kardiovaskul\xE1rna genetika"
+  fieldurl: kardiovaskularna_genetika
+  hindex: 39
+  img: Michal_Mokry.jpg
+  last: Mokry
+  last_update: '2022-03-27'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/michalmokry/?originalSubdomain=nl
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Michal_Mokry
+  - - web
+    - https://www.umcutrecht.nl/en/research/researchers/mokry-michal-m
+  name: "Michal Mokr\xFD"
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=rX7GiUAAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1982
 - affiliation: University of Birmingham
   affiliationurl: University_of_Birmingham
   city: Birmingham
@@ -3029,38 +3055,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1970
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "fyzik\xE1lna ch\xE9mia"
-  fieldurl: fyzikalna_chemia
-  hindex: 38
-  img: Juraj_Bujdak.jpg
-  last: Bujdak
-  last_update: '2022-01-10'
-  links:
-  - - publons
-    - https://publons.com/researcher/3271361/juraj-bujdak/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Juraj-Bujdak
-  - - "r\xE1dio"
-    - https://www.rtvs.sk/radio/archiv/11436/1121234
-  - - web 1
-    - https://uniba.sk/ludia/bujdak3/
-  - - web 2
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1203
-  - - "\u017Eivotopis"
-    - https://uniba.sk/fileadmin/ruk/veda/docprof/PriF_UK/BUJDAK-prof/CV_Bujdak.pdf
-  name: "Juraj Bujd\xE1k"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.sk/citations?hl=en&user=WHTCo3IAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1965
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: "Ko\u0161ice"
@@ -3175,32 +3169,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1948
-- affiliation: University Medical Center Utrecht
-  affiliationurl: University_Medical_Center_Utrecht
-  city: Utrecht
-  cityurl: Utrecht
-  country: Holandsko
-  countryurl: Holandsko
-  field: "kardiovaskul\xE1rna genetika"
-  fieldurl: kardiovaskularna_genetika
-  hindex: 38
-  img: Michal_Mokry.jpg
-  last: Mokry
-  last_update: '2021-12-25'
-  links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/michalmokry/?originalSubdomain=nl
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Michal_Mokry
-  - - web
-    - https://www.umcutrecht.nl/en/research/researchers/mokry-michal-m
-  name: "Michal Mokr\xFD"
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=rX7GiUAAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1982
 - affiliation: University of Missouri
   affiliationurl: University_of_Missouri
   city: Columbia
@@ -3311,6 +3279,70 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: Vanderbilt university
+  affiliationurl: Vanderbilt_university
+  city: Nashville
+  cityurl: Nashville
+  country: USA
+  countryurl: USA
+  field: "fyziol\xF3gia"
+  fieldurl: fyziologia
+  hindex: 37
+  img: Marcela_Brissova.jpg
+  last: Brissova
+  last_update: '2022-03-27'
+  links:
+  - - lab
+    - https://labnodes.vanderbilt.edu/community/profile/id/2228
+  - - "na\u0161i a svetov\xED"
+    - https://slovensko.rtvs.sk/rubriky/nasi-a-svetovi/210476/nasi-a-svetovi-marcela-brissova
+  - - orcid
+    - https://orcid.org/0000-0002-4999-3280
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marcela-Brissova
+  - - web 1
+    - https://medicine.vumc.org/person/marcela-brissova-phd
+  - - web 2
+    - https://labnodes.vanderbilt.edu/member/profile/id/10427
+  name: "Marcela Brissov\xE1"
+  position: "vedky\u0148a"
+  positionurl: vedkyna
+  scholar: https://scholar.google.com.tr/citations?user=3rQF3wIAAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: null
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
+  hindex: 37
+  img: Juraj_Bujdak.jpg
+  last: Bujdak
+  last_update: '2022-03-27'
+  links:
+  - - publons
+    - https://publons.com/researcher/3271361/juraj-bujdak/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Juraj-Bujdak
+  - - "r\xE1dio"
+    - https://www.rtvs.sk/radio/archiv/11436/1121234
+  - - web 1
+    - https://uniba.sk/ludia/bujdak3/
+  - - web 2
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1203
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/veda/docprof/PriF_UK/BUJDAK-prof/CV_Bujdak.pdf
+  name: "Juraj Bujd\xE1k"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.sk/citations?hl=en&user=WHTCo3IAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1965
 - affiliation: Univerzita Karlova
   affiliationurl: Univerzita_Karlova
   city: Praha
@@ -3322,7 +3354,7 @@
   hindex: 37
   img: Ondrej_Lexa.jpg
   last: Lexa
-  last_update: '2022-01-09'
+  last_update: '2022-03-27'
   links:
   - - facebook
     - https://www.facebook.com/lexa.ondrej
@@ -3393,12 +3425,34 @@
   cityurl: Bratislava
   country: Slovensko
   countryurl: Slovensko
+  field: "onkol\xF3gia"
+  fieldurl: onkologia
+  hindex: 37
+  img: Michal_Mego.jpg
+  last: Mego
+  last_update: '2022-03-27'
+  links:
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
+  name: Michal Mego
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?user=NvHY0EcAAAAJ&amp;hl=en&amp;oi=ao
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1977
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
   field: geofyzika
   fieldurl: geofyzika
   hindex: 37
   img: Peter_Moczo.jpg
   last: Moczo
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - web
     - http://www.nuquake.eu
@@ -3630,7 +3684,7 @@
   hindex: 36
   img: Alexander_Kromka.png
   last: Kromka
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - orcid
     - https://orcid.org/0000-0002-3531-6748
@@ -3671,28 +3725,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1980
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "onkol\xF3gia"
-  fieldurl: onkologia
-  hindex: 36
-  img: Michal_Mego.jpg
-  last: Mego
-  last_update: '2021-12-25'
-  links:
-  - - "\u017Eivotopis"
-    - https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
-  name: Michal Mego
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?user=NvHY0EcAAAAJ&amp;hl=en&amp;oi=ao
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1977
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -3786,7 +3818,7 @@
   hindex: 36
   img: Michal_Zeman.jpg
   last: Zeman
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - orcid
     - https://orcid.org/0000-0002-2712-6805
@@ -3823,38 +3855,6 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
-- affiliation: Vanderbilt university
-  affiliationurl: Vanderbilt_university
-  city: Nashville
-  cityurl: Nashville
-  country: USA
-  countryurl: USA
-  field: "fyziol\xF3gia"
-  fieldurl: fyziologia
-  hindex: 35
-  img: Marcela_Brissova.jpg
-  last: Brissova
-  last_update: '2022-01-30'
-  links:
-  - - lab
-    - https://labnodes.vanderbilt.edu/community/profile/id/2228
-  - - "na\u0161i a svetov\xED"
-    - https://slovensko.rtvs.sk/rubriky/nasi-a-svetovi/210476/nasi-a-svetovi-marcela-brissova
-  - - orcid
-    - https://orcid.org/0000-0002-4999-3280
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Marcela-Brissova
-  - - web 1
-    - https://medicine.vumc.org/person/marcela-brissova-phd
-  - - web 2
-    - https://labnodes.vanderbilt.edu/member/profile/id/10427
-  name: "Marcela Brissov\xE1"
-  position: "vedky\u0148a"
-  positionurl: vedkyna
-  scholar: https://scholar.google.com.tr/citations?user=3rQF3wIAAAAJ
-  sex: "\u017Eena"
-  sexurl: zena
-  year: null
 - affiliation: Indiana University Bloomington
   affiliationurl: Indiana_University_Bloomington
   city: Bloomington
@@ -3890,7 +3890,7 @@
   hindex: 35
   img: Roman_Horvath.jpg
   last: Horvath
-  last_update: '2022-01-10'
+  last_update: '2022-03-27'
   links:
   - - publons
     - https://publons.com/researcher/2521490/roman-horvath/
@@ -3952,7 +3952,7 @@
   hindex: 35
   img: Iveta_Nagyova.jpg
   last: Nagyova
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - web
     - https://mc3.sk/autor/iveta-nagyova/
@@ -4054,7 +4054,7 @@
   hindex: 35
   img: Norbert_Zilka.jpg
   last: Zilka
-  last_update: '2022-01-09'
+  last_update: '2022-03-27'
   links:
   - - business
     - https://www.axon-neuroscience.eu
@@ -4307,7 +4307,7 @@
   hindex: 34
   img: Jan_Mojzis.jpg
   last: Mojzis
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - news 1
     - https://www.cas.sk/fotogaleria/322223/slovensky-profesor-pracuje-na-prestiznom-svetovom-vyskume-neuverite-cim-poraza-rakovinu/2/
@@ -4457,7 +4457,7 @@
   hindex: 33
   img: Michal_Feckan.jpg
   last: Feckan
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - ESET Science Award
     - https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
@@ -4653,7 +4653,7 @@
   hindex: 33
   img: Juraj_Majtan.jpg
   last: Majtan
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - orcid
     - https://orcid.org/0000-0002-7268-1584
@@ -4777,7 +4777,7 @@
   hindex: 33
   img: Lubomir_Svorc.jpg
   last: Svorc
-  last_update: '2022-01-19'
+  last_update: '2022-03-27'
   links:
   - - orcid
     - https://orcid.org/0000-0002-9588-8609
@@ -4807,7 +4807,7 @@
   hindex: 33
   img: Ladislav_Timulak.jpg
   last: Timulak
-  last_update: '2022-01-07'
+  last_update: '2022-03-27'
   links:
   - - group 1
     - https://www.ementalhealthgroup.com
@@ -4935,7 +4935,7 @@
   hindex: 32
   img: Martin_Gmitra.jpg
   last: Gmitra
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - web
     - https://ktfa.science.upjs.sk/people/martin-gmitra/
@@ -5269,7 +5269,7 @@
   hindex: 31
   img: Lenka_Benova.jpg
   last: Benova
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - orcid
     - https://orcid.org/0000-0001-8595-365X
@@ -5462,7 +5462,7 @@
   hindex: 31
   img: Tomas_Kliestik.jpg
   last: Kliestik
-  last_update: '2022-01-08'
+  last_update: '2022-03-27'
   links:
   - - econpapers
     - https://econpapers.repec.org/RAS/pkl192.htm
@@ -5518,7 +5518,7 @@
   hindex: 31
   img: Peter_Lazor.png
   last: Lazor
-  last_update: '2022-01-20'
+  last_update: '2022-03-27'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/peter-lazor-840a3967/?originalSubdomain=se
@@ -5878,7 +5878,7 @@
   hindex: 31
   img: Marcel_Zamocky.jpg
   last: Zamocky
-  last_update: '2022-01-31'
+  last_update: '2022-03-27'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/marcel-zamocky-51260810a/
@@ -5998,7 +5998,7 @@
   hindex: 30
   img: Marek_Chmelik.jpg
   last: Chmelik
-  last_update: '2022-01-30'
+  last_update: '2022-03-27'
   links:
   - - AD
     - https://www.adscientificindex.com/scientist.php?id=1237729
@@ -6036,7 +6036,7 @@
   hindex: 30
   img: Milan_Hronec.gif
   last: Hronec
-  last_update: '2022-01-12'
+  last_update: '2022-03-27'
   links:
   - - AMiner
     - https://www.aminer.cn/profile/milan-hronec/5405d945dabfae91d3014404
@@ -6204,7 +6204,7 @@
   hindex: 30
   img: Tomas_Roch.jpg
   last: Roch
-  last_update: '2022-01-22'
+  last_update: '2022-03-27'
   links:
   - - AMiner
     - https://www.aminer.org/profile/tomas-roch/5630762045cedb3399a6c7e5
@@ -6290,7 +6290,7 @@
   hindex: 30
   img: Adam_Tomasovych.jpg
   last: Tomasovych
-  last_update: '2021-12-25'
+  last_update: '2022-03-27'
   links:
   - - facebook
     - https://m.facebook.com/peter.kubatka
