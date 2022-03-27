@@ -1,20 +1,19 @@
-affiliation: "Medical University of Vienna"
-city: "Viedeň"
-country: "Rakúsko"
-field: "fyzikálna chémia"
-hindex: 43
+affiliation: Medical University of Vienna
+city: "Viede\u0148"
+country: "Rak\xFAsko"
+field: "fyzik\xE1lna ch\xE9mia"
+hindex: 44
 img: Vladimir_Mlynarik.png
-last_update: '2021-12-25'
+last: "Mlyn\xE1rik"
+last_update: '2022-03-27'
 links:
   prabook: https://prabook.com/web/vladimir.mlynarik/338489
   publons: https://publons.com/researcher/2791541/vladimir-mlynarik/
-  web: https://hfmr.meduniwien.ac.at/general-information/staff/mlynarik/?L=1
-  životopis: https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/Mlynarik_CV_webpage-1.pdf
   scopus: https://www.scopus.com/results/results.uri?sort=plf-f&src=s&sid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a1070&sot=a&sdt=a&sl=77&s=AUTHOR-NAME%28Mlynarik%2c+V%29+OR+AUTHOR-NAME%28Mlynrik%2cV%29+OR+AUTHOR-NAME%28Mlinarik%2cV%29&origin=savedSearchNewOnly&txGid=3558CE2E81E383D62A7CD592A5895D10.Vdktg6RVtMfaQJ4pNTCQ%3a107
-
-name: "Vladimír Mlynárik"
-last: "Mlynárik"
-position: "vedec"
+  web: https://hfmr.meduniwien.ac.at/general-information/staff/mlynarik/?L=1
+  "\u017Eivotopis": https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/Mlynarik_CV_webpage-1.pdf
+name: "Vladim\xEDr Mlyn\xE1rik"
+position: vedec
 scholar: https://scholar.google.com/citations?hl=en&amp;user=OYXbmu0AAAAJ
+sex: "mu\u017E"
 year: 1951
-sex: "muž"

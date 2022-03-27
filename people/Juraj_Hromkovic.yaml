@@ -1,20 +1,20 @@
-affiliation: "ETH Zürich"
-city: "Zürich"
-country: "Švajčiarsko"
-field: "informatika"
+affiliation: "ETH Z\xFCrich"
+city: "Z\xFCrich"
+country: "\u0160vaj\u010Diarsko"
+field: informatika
 hindex: 36
 img: Juraj_Hromkovic.jpg
-last_update: '2021-12-25'
+last: "Hromkovi\u010D"
+last_update: '2022-03-27'
 links:
   LinkedIn: https://www.linkedin.com/in/juraj-hromkovic-b6359034/?originalSubdomain=ch
   Mathematics Genealogy: https://www.mathgenealogy.org/id.php?id=117390
   ResearchGate: https://www.researchgate.net/profile/Juraj-Hromkovic
   dblp: https://dblp.org/pid/h/JurajHromkovic.html
   web: https://inf.ethz.ch/people/person-detail.hromkovic.html
-  wikipédia: https://en.wikipedia.org/wiki/Juraj_Hromkovi\u010D
-name: "Juraj Hromkovič"
-last: "Hromkovič"
+  "wikip\xE9dia": https://en.wikipedia.org/wiki/Juraj_Hromkovi\u010D
+name: "Juraj Hromkovi\u010D"
 position: profesor
 scholar: https://scholar.google.com/citations?user=xG2VV1UAAAAJ&amp;hl=de
+sex: "mu\u017E"
 year: 1958
-sex: "muž"

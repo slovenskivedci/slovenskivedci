@@ -1,21 +1,17 @@
-name: "Pavol Hell"
-last: "Hell"
-
+affiliation: Simon Fraser University
+city: Burnaby
+country: Kanada
+field: "grafov\xE9 algoritmy"
+hindex: 48
+img: Pavol_Hell.jpg
+last: Hell
+last_update: '2022-03-27'
+links:
+  Mathematics Genealogy: https://www.mathgenealogy.org/id.php?id=17952
+  web: https://www2.cs.sfu.ca/~pavol/
+  "wikip\xE9dia": https://en.wikipedia.org/wiki/Pavol_Hell
+name: Pavol Hell
 position: profesor
 scholar: https://scholar.google.sk/citations?hl=sk&amp;user=8KDwlbEAAAAJ
+sex: "mu\u017E"
 year: 1946
-sex: "muž"
-
-affiliation: "Simon Fraser University"
-city: "Burnaby"
-country: "Kanada"
-field: "grafové algoritmy"
-hindex: 48
-
-last_update: '2021-12-24'
-links:
-  web: https://www2.cs.sfu.ca/~pavol/
-  wikipédia: https://en.wikipedia.org/wiki/Pavol_Hell
-  Mathematics Genealogy: https://www.mathgenealogy.org/id.php?id=17952
-
-img: Pavol_Hell.jpg

@@ -1,19 +1,16 @@
-name: "Katarína Šebeková"
-last: "Šebeková"
-year: 1955
-sex: "žena"
-
-hindex: 35
-scholar: https://scholar.google.sk/citations?hl=sk&amp;user=jsJC9WgAAAAJ
-
-position: docentka
-field: "interná medicína"
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: "intern\xE1 medic\xEDna"
+hindex: 36
 img: Katarina_Sebekova.jpg
-last_update: '2021-12-25'
+last: "\u0160ebekov\xE1"
+last_update: '2022-03-27'
 links:
   web: https://www.imbm.sk/members/katarina-sebekova/
-  životopis: http://www.imbm.sk/wp-content/uploads/2017/03/cv-ks-3.pdf
+  "\u017Eivotopis": http://www.imbm.sk/wp-content/uploads/2017/03/cv-ks-3.pdf
+name: "Katar\xEDna \u0160ebekov\xE1"
+position: docentka
+scholar: https://scholar.google.sk/citations?hl=sk&amp;user=jsJC9WgAAAAJ
+sex: "\u017Eena"
+year: 1955
