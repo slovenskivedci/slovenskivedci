@@ -1,21 +1,17 @@
-name: "Philipp Kukura"
-last: "Kukura"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=NgHGnt0AAAAJ
-year: 1978
-sex: "muž"
-
-affiliation: "University of Oxford"
-city: "Oxford"
-country: "Veľká Británia"
-field: "fyzikálna chémia"
-hindex: 47
-
-last_update: '2021-12-25'
+affiliation: University of Oxford
+city: Oxford
+country: "Ve\u013Ek\xE1 Brit\xE1nia"
+field: "fyzik\xE1lna ch\xE9mia"
+hindex: 48
+img: Philipp_Kukura.jpeg
+last: Kukura
+last_update: '2022-03-27'
 links:
   web: http://kukura.chem.ox.ac.uk/
-  wikipédia: https://sk.wikipedia.org/wiki/Philipp_Kukura
-  životopis: https://www.phys.uniroma1.it/fisica/sites/default/files/bandi/CV/CurrentCVKukura.pdf
-
-
-img: Philipp_Kukura.jpeg
+  "wikip\xE9dia": https://sk.wikipedia.org/wiki/Philipp_Kukura
+  "\u017Eivotopis": https://www.phys.uniroma1.it/fisica/sites/default/files/bandi/CV/CurrentCVKukura.pdf
+name: Philipp Kukura
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=NgHGnt0AAAAJ
+sex: "mu\u017E"
+year: 1978

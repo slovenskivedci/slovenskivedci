@@ -1,21 +1,17 @@
-name: "Juraj Majtán"
-last: "Majtán"
-position: "vedec"
-scholar: https://scholar.google.sk/citations?hl=en&amp;user=Wt7wd3QAAAAJ
-year: ''
-sex: "muž"
-
-
-affiliation: "Slovenská akadémia vied"
-city: "Bratislava"
-country: "Slovensko"
-field: "molekulárna biológia"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
+city: Bratislava
+country: Slovensko
+field: "molekul\xE1rna biol\xF3gia"
 hindex: 33
-
-last_update: '2021-12-25'
+img: Juraj_Majtan.jpg
+last: "Majt\xE1n"
+last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Juraj_Majtan
   orcid: https://orcid.org/0000-0002-7268-1584
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10368
-
-img: Juraj_Majtan.jpg
+name: "Juraj Majt\xE1n"
+position: vedec
+scholar: https://scholar.google.sk/citations?hl=en&amp;user=Wt7wd3QAAAAJ
+sex: "mu\u017E"
+year: ''

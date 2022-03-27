@@ -1,24 +1,19 @@
-name: "Peter Lazor"
-last: "Lazor"
-year:
-sex: "muž"
-
-position: "profesor"
-field: "geológia"
-affiliation: "Uppsala University"
-city: "Uppsala"
-country: "Švédsko"
-
+affiliation: Uppsala University
+city: Uppsala
+country: "\u0160v\xE9dsko"
+field: "geol\xF3gia"
 hindex: 31
-scholar: https://scholar.google.se/citations?user=v61ZVcoAAAAJ&hl=sv
-
-last_update: '2022-01-20'
-
+img: Peter_Lazor.png
+last: Lazor
+last_update: '2022-03-27'
 links:
-  web 1: https://katalog.uu.se/profile/?id=N96-3988
-  web 2: https://www.geo.uu.se/research/min-pet-tek-en/about-us/
-  wikipédia: https://species.wikimedia.org/wiki/Peter_Lazor
   LinkedIn: https://www.linkedin.com/in/peter-lazor-840a3967/?originalSubdomain=se
   orcid: https://orcid.org/0000-0001-9992-8009
-
-img: Peter_Lazor.png
+  web 1: https://katalog.uu.se/profile/?id=N96-3988
+  web 2: https://www.geo.uu.se/research/min-pet-tek-en/about-us/
+  "wikip\xE9dia": https://species.wikimedia.org/wiki/Peter_Lazor
+name: Peter Lazor
+position: profesor
+scholar: https://scholar.google.se/citations?user=v61ZVcoAAAAJ&hl=sv
+sex: "mu\u017E"
+year: null

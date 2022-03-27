@@ -1,19 +1,17 @@
-name: "Peter Moczo"
-last: "Moczo"
-
-position: profesor
-scholar: https://scholar.google.sk/citations?user=OF5iXJQAAAAJ&amp;hl=sk
-year: 1956
-sex: "muž"
-
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-field: "geofyzika"
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: geofyzika
 hindex: 37
 img: Peter_Moczo.jpg
-last_update: '2021-12-25'
+last: Moczo
+last_update: '2022-03-27'
 links:
   web: http://www.nuquake.eu
-  wikipédia: https://sk.wikipedia.org/wiki/Peter_Moczo
-  životopis: https://vedanadosah.cvtisr.sk/prof-peter-moczo-sme-radi-ze-sme-sucastou-spickoveho-vyskumu
+  "wikip\xE9dia": https://sk.wikipedia.org/wiki/Peter_Moczo
+  "\u017Eivotopis": https://vedanadosah.cvtisr.sk/prof-peter-moczo-sme-radi-ze-sme-sucastou-spickoveho-vyskumu
+name: Peter Moczo
+position: profesor
+scholar: https://scholar.google.sk/citations?user=OF5iXJQAAAAJ&amp;hl=sk
+sex: "mu\u017E"
+year: 1956

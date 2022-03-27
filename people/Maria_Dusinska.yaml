@@ -1,25 +1,20 @@
-name: "Mária Dušinská"
-last: "Dušinská"
-year:
-sex: "žena"
-
-position: "vedkyňa"
-field: "toxikológia"
-affiliation: "Norwegian Institute for Air Research"
-city: "Kjeller"
-country: "Nórsko"
-
-hindex: 57
-scholar: https://scholar.google.com/citations?user=tF7f4yEAAAAJ&hl=en
-
-last_update: '2022-01-09'
-
+affiliation: Norwegian Institute for Air Research
+city: Kjeller
+country: "N\xF3rsko"
+field: "toxikol\xF3gia"
+hindex: 58
+img: Maria_Dusinska.jpg
+last: "Du\u0161insk\xE1"
+last_update: '2022-03-27'
 links:
-  web: https://www.nilu.com/employee/maria-dusinska/
   ResearchGate: https://www.researchgate.net/profile/Maria-Dusinska
-  orcid: https://orcid.org/0000-0003-1358-1652
-  životopis: https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/cv_sccs_dusinska_en.pdf
   loop: https://loop.frontiersin.org/people/110414/overview
   marfan: http://marfan.sk
-
-img: Maria_Dusinska.jpg
+  orcid: https://orcid.org/0000-0003-1358-1652
+  web: https://www.nilu.com/employee/maria-dusinska/
+  "\u017Eivotopis": https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/cv_sccs_dusinska_en.pdf
+name: "M\xE1ria Du\u0161insk\xE1"
+position: "vedky\u0148a"
+scholar: https://scholar.google.com/citations?user=tF7f4yEAAAAJ&hl=en
+sex: "\u017Eena"
+year: null

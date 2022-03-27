@@ -1,18 +1,15 @@
-name: "Martin Gmitra"
-last: "Gmitra"
-
-position: "vedec"
-scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&amp;hl=en
-year: ''
-sex: "muž"
-
-
-affiliation: "Univerzita Pavla Jozefa Šafárika"
-city: "Košice"
+affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+city: "Ko\u0161ice"
 country: Slovensko
-field: "teoretická fyzika"
+field: "teoretick\xE1 fyzika"
 hindex: 32
 img: Martin_Gmitra.jpg
-last_update: '2021-12-25'
+last: Gmitra
+last_update: '2022-03-27'
 links:
   web: https://ktfa.science.upjs.sk/people/martin-gmitra/
+name: Martin Gmitra
+position: vedec
+scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&amp;hl=en
+sex: "mu\u017E"
+year: ''

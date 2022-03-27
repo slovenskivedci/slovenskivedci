@@ -1,26 +1,21 @@
-name: "Vlasta Brezová"
-last: "Brezová"
-year: 1958
-sex: "žena"
-
-position: "profesorka"
-field: "fyzikálna chémia"
-affiliation: "Slovenská technická univerzita"
-city: "Bratislava"
-country: "Slovensko"
-
+affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+city: Bratislava
+country: Slovensko
+field: "fyzik\xE1lna ch\xE9mia"
 hindex: 42
-scholar: https://scholar.google.co.uk/citations?user=kKciUuQAAAAJ&hl=en&oi=ao
-
-last_update: '2022-01-20'
-
+img: Vlasta_Brezova.jpg
+last: "Brezov\xE1"
+last_update: '2022-03-27'
 links:
-  publons: https://publons.com/researcher/3187343/vlasta-brezova/
   ResearchGate: https://www.researchgate.net/scientific-contributions/Vlasta-Brezova-9796750/publications/2
   Semantic Scholar: https://www.semanticscholar.org/author/V.-Brezov%C3%A1/3575770
-  web 2: https://www.fchpt.stuba.sk/english/institutes-and-departments/institute-of-physical-chemistry-and-chemical-physics/department-of-physical-chemistry/staff.html?page_id=3970
-  web 1: https://ufchchf.fchpt.stuba.sk/en/people/academics/7-vlasta-brezova
-  orcid: https://orcid.org/0000-0002-5368-0498
   learned.sk: https://www.learned.sk/prof-ing-vlasta-brezova-drsc/
-
-img: Vlasta_Brezova.jpg
+  orcid: https://orcid.org/0000-0002-5368-0498
+  publons: https://publons.com/researcher/3187343/vlasta-brezova/
+  web 1: https://ufchchf.fchpt.stuba.sk/en/people/academics/7-vlasta-brezova
+  web 2: https://www.fchpt.stuba.sk/english/institutes-and-departments/institute-of-physical-chemistry-and-chemical-physics/department-of-physical-chemistry/staff.html?page_id=3970
+name: "Vlasta Brezov\xE1"
+position: profesorka
+scholar: https://scholar.google.co.uk/citations?user=kKciUuQAAAAJ&hl=en&oi=ao
+sex: "\u017Eena"
+year: 1958

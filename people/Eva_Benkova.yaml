@@ -1,18 +1,16 @@
-name: "Eva Benková"
-last: "Benková"
-position: profesorka
-scholar: https://scholar.google.com/citations?hl=en&amp;user=3knjVQkAAAAJ
-year: 1969
-sex: "žena"
-
-affiliation: "IST Austria"
-
-city: "Klosterneuburg"
-country: "Rakúsko"
-field: "biológia rastlín"
+affiliation: IST Austria
+city: Klosterneuburg
+country: "Rak\xFAsko"
+field: "biol\xF3gia rastl\xEDn"
 hindex: 57
 img: Eva_Benkova.jpg
-last_update: '2022-02-02'
+last: "Benkov\xE1"
+last_update: '2022-03-27'
 links:
   web: https://ist.ac.at/en/research/benkova-group/#career
-  životopis: https://ist.ac.at/wp-content/uploads/2019/11/CV_Benkova.pdf
+  "\u017Eivotopis": https://ist.ac.at/wp-content/uploads/2019/11/CV_Benkova.pdf
+name: "Eva Benkov\xE1"
+position: profesorka
+scholar: https://scholar.google.com/citations?hl=en&amp;user=3knjVQkAAAAJ
+sex: "\u017Eena"
+year: 1969

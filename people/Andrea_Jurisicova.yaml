@@ -1,22 +1,18 @@
-name: "Andrea Jurišicová"
-last: "Jurišicová"
-year: ''
-sex: "žena"
-
-position: "docentka"
-affiliation: "University of Toronto"
-city: "Toronto"
-country: "Kanada"
-field: "reproduktívna biológia"
+affiliation: University of Toronto
+city: Toronto
+country: Kanada
+field: "reprodukt\xEDvna biol\xF3gia"
 hindex: 51
-
-scholar: https://scholar.google.com/citations?hl=en&amp;user=JPCdl08AAAAJ
-
 img: Andrea_Jurisicova.png
-
-last_update: '2021-12-25'
+last: "Juri\u0161icov\xE1"
+last_update: '2022-03-27'
 links:
+  LinkedIn: https://www.linkedin.com/in/andrea-jurisicova-205a2975/?originalSubdomain=ca
   ResearchGate: https://www.researchgate.net/profile/Andrea-Jurisicova
   publons: https://publons.com/researcher/2649349/andrea-jurisicova/
   web: http://www.lunenfeld.ca/?page=jurisicova-andrea
-  LinkedIn: https://www.linkedin.com/in/andrea-jurisicova-205a2975/?originalSubdomain=ca
+name: "Andrea Juri\u0161icov\xE1"
+position: docentka
+scholar: https://scholar.google.com/citations?hl=en&amp;user=JPCdl08AAAAJ
+sex: "\u017Eena"
+year: ''

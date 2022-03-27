@@ -1,26 +1,20 @@
-name: "Ivo Petráš"
-last: "Petráš"
-position: profesor
-year: 1973
-sex: "muž"
-
+affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
+city: "Ko\u0161ice"
+country: Slovensko
+field: "automatiz\xE1cia"
 hindex: 42
-scholar: https://scholar.google.com/citations?user=01msi28AAAAJ&amp;hl=en
-
-
-affiliation: "Technická univerzita v Košiciach"
-city: "Košice"
-country: "Slovensko"
-field: "automatizácia"
-
-
-last_update: '2022-01-12'
+img: Ivo_Petras.jpg
+last: "Petr\xE1\u0161"
+last_update: '2022-03-27'
 links:
-  web: http://people.tuke.sk/ivo.petras/
-  životopis: http://people.tuke.sk/ivo.petras/CV_Petras.pdf
+  learned.sk: https://www.learned.sk/prof-ing-ivo-petras-drsc/
+  orcid: https://orcid.org/0000-0002-9250-6986
   publons: https://publons.com/researcher/1658399/ivo-petras/
   scopus: https://www.scopus.com/authid/detail.uri?authorId=23975184900
-  orcid: https://orcid.org/0000-0002-9250-6986
-  learned.sk: https://www.learned.sk/prof-ing-ivo-petras-drsc/
-
-img: Ivo_Petras.jpg
+  web: http://people.tuke.sk/ivo.petras/
+  "\u017Eivotopis": http://people.tuke.sk/ivo.petras/CV_Petras.pdf
+name: "Ivo Petr\xE1\u0161"
+position: profesor
+scholar: https://scholar.google.com/citations?user=01msi28AAAAJ&hl=en
+sex: "mu\u017E"
+year: 1973

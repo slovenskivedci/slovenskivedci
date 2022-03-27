@@ -1,23 +1,17 @@
-name: "Juraj Parajka"
-last: "Parajka"
-year: ''
-sex: "muž"
-
+affiliation: Vienna University of Technology
+city: "Viede\u0148"
+country: "Rak\xFAsko"
+field: "hydrol\xF3gia"
 hindex: 46
-scholar: https://scholar.google.com/citations?hl=en&amp;user=EI8VHcMAAAAJ
-
-
-position: docent
-field: "hydrológia"
-affiliation: "Vienna University of Technology"
-city: "Viedeň"
-country: "Rakúsko"
-
-last_update: '2022-02-02'
+img: Juraj_Parajka.jpg
+last: Parajka
+last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Juraj_Parajka
   orcid: https://orcid.org/0000-0002-1177-5181
   web: https://www.waterresources.at/index.php?id=113
-
-
-img: Juraj_Parajka.jpg
+name: Juraj Parajka
+position: docent
+scholar: https://scholar.google.com/citations?hl=en&amp;user=EI8VHcMAAAAJ
+sex: "mu\u017E"
+year: ''

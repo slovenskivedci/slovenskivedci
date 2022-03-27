@@ -1,22 +1,17 @@
-name: "Tomáš Roch"
-last: "Roch"
-year:
-sex: "muž"
-
-position: "docent"
-field: "fyzika tuhých látok"
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: "fyzika tuh\xFDch l\xE1tok"
 hindex: 30
-scholar: https://scholar.google.sk/citations?user=PVRQZxcAAAAJ
-
-last_update: '2022-01-22'
-
-links:
-  ResearchGate: https://www.researchgate.net/profile/Tomas-Roch
-  AMiner: https://www.aminer.org/profile/tomas-roch/5630762045cedb3399a6c7e5
-  web: https://sluzby.fmph.uniba.sk/ludia/roch1
-
 img: Tomas_Roch.jpg
+last: Roch
+last_update: '2022-03-27'
+links:
+  AMiner: https://www.aminer.org/profile/tomas-roch/5630762045cedb3399a6c7e5
+  ResearchGate: https://www.researchgate.net/profile/Tomas-Roch
+  web: https://sluzby.fmph.uniba.sk/ludia/roch1
+name: "Tom\xE1\u0161 Roch"
+position: docent
+scholar: https://scholar.google.sk/citations?user=PVRQZxcAAAAJ
+sex: "mu\u017E"
+year: null

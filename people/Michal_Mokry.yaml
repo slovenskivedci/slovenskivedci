@@ -1,21 +1,17 @@
-name: "Michal Mokrý"
-last: "Mokrý"
-
-
-position: "docent"
-scholar: https://scholar.google.com/citations?hl=en&amp;user=rX7GiUAAAAAJ
-year: 1982
-sex: "muž"
-
-
-affiliation: "University Medical Center Utrecht"
-city: "Utrecht"
-country: "Holandsko"
-field: "kardiovaskulárna genetika"
-hindex: 38
+affiliation: University Medical Center Utrecht
+city: Utrecht
+country: Holandsko
+field: "kardiovaskul\xE1rna genetika"
+hindex: 39
 img: Michal_Mokry.jpg
-last_update: '2021-12-25'
+last: "Mokr\xFD"
+last_update: '2022-03-27'
 links:
+  LinkedIn: https://www.linkedin.com/in/michalmokry/?originalSubdomain=nl
   ResearchGate: https://www.researchgate.net/profile/Michal_Mokry
   web: https://www.umcutrecht.nl/en/research/researchers/mokry-michal-m
-  LinkedIn: https://www.linkedin.com/in/michalmokry/?originalSubdomain=nl
+name: "Michal Mokr\xFD"
+position: docent
+scholar: https://scholar.google.com/citations?hl=en&amp;user=rX7GiUAAAAAJ
+sex: "mu\u017E"
+year: 1982

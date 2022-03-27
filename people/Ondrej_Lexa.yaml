@@ -1,27 +1,22 @@
-name: "Ondrej Lexa"
-last: "Lexa"
-year: 1972
-sex: "muž"
-
-position: "docent"
-field: "štrukturálna geológia a tektonika"
-affiliation: "Univerzita Karlova"
-city: "Praha"
-country: "Česko"
-
+affiliation: Univerzita Karlova
+city: Praha
+country: "\u010Cesko"
+field: "\u0161truktur\xE1lna geol\xF3gia a tektonika"
 hindex: 37
-scholar: https://scholar.google.com/citations?hl=en&user=lo8ugg0AAAAJ
-
-last_update: '2022-01-09'
-
+img: Ondrej_Lexa.jpg
+last: Lexa
+last_update: '2022-03-27'
 links:
-  web: https://petrol.natur.cuni.cz/~ondro/
-  životopis: https://petrol.natur.cuni.cz/~ondro/research/cv
+  ResearchGate: https://www.researchgate.net/profile/Ondrej-Lexa
+  facebook: https://www.facebook.com/lexa.ondrej
+  github: https://github.com/ondrolexa
   orcid: https://orcid.org/0000-0003-4616-9154
   publons: https://publons.com/researcher/1317955/ondrej-lexa/
-  ResearchGate: https://www.researchgate.net/profile/Ondrej-Lexa
-  github: https://github.com/ondrolexa
-  facebook: https://www.facebook.com/lexa.ondrej
   twitter: https://twitter.com/ondrolexa
-
-img: Ondrej_Lexa.jpg
+  web: https://petrol.natur.cuni.cz/~ondro/
+  "\u017Eivotopis": https://petrol.natur.cuni.cz/~ondro/research/cv
+name: Ondrej Lexa
+position: docent
+scholar: https://scholar.google.com/citations?hl=en&user=lo8ugg0AAAAJ
+sex: "mu\u017E"
+year: 1972

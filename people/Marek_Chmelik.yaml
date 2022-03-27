@@ -1,28 +1,23 @@
-name: "Marek Chmelík"
-last: "Chmelík"
-year: 1980
-sex: "muž"
-
-position: "vedec"
-field: "magnetická rezonancia"
-affiliation: "Prešovská univerzita"
-city: "Prešov"
-country: "Slovensko"
-
+affiliation: "Pre\u0161ovsk\xE1 univerzita"
+city: "Pre\u0161ov"
+country: Slovensko
+field: "magnetick\xE1 rezonancia"
 hindex: 30
-scholar: https://scholar.google.com/citations?user=uTmDnEsAAAAJ
-
-last_update: '2022-01-30'
-
+img: Marek_Chmelik.jpg
+last: "Chmel\xEDk"
+last_update: '2022-03-27'
 links:
+  AD: https://www.adscientificindex.com/scientist.php?id=1237729
+  Facebook: https://www.facebook.com/marek.chmelik.96
   LinkedIn: https://www.linkedin.com/in/marek-chmelik-b101b7139/?originalSubdomain=sk
   ResearchGate: https://www.researchgate.net/profile/Marek_Chmelik
-  Facebook: https://www.facebook.com/marek.chmelik.96
-  AD: https://www.adscientificindex.com/scientist.php?id=1237729
-  orcid: https://orcid.org/0000-0002-9727-9014
   loop: https://loop.frontiersin.org/people/770457/overview
-  životopis: https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/CV/CV_Chmelik_PI.pdf
+  orcid: https://orcid.org/0000-0002-9727-9014
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=(((((chmelik+M%5BAuthor%5D)+NOT+chmelik+MS))+NOT+1973+NOT+1995+NOT+1982+NOT+1979+NOT+1990+NOT+1974+NOT+1966+NOT+Lohse))
   scopus: https://www.scopus.com/authid/detail.uri?authorId=16401060100
-
-img: Marek_Chmelik.jpg
+  "\u017Eivotopis": https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/CV/CV_Chmelik_PI.pdf
+name: "Marek Chmel\xEDk"
+position: vedec
+scholar: https://scholar.google.com/citations?user=uTmDnEsAAAAJ
+sex: "mu\u017E"
+year: 1980

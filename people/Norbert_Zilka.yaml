@@ -1,31 +1,24 @@
-name: "Norbert Žilka"
-last: "Žilka"
-year: 1973
-sex: "muž"
-
-position: "docent"
-field: "neuroimunológia"
-
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
+city: Bratislava
+country: Slovensko
+field: "neuroimunol\xF3gia"
 hindex: 35
-scholar: https://scholar.google.com/citations?user=p40NFYwAAAAJ&hl=en&oi=ao
-
-affiliation: "Slovenská akadémia vied"
-city: "Bratislava"
-country: "Slovensko"
-
-last_update: '2022-01-09'
-
-links:
-  web: https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=3501
-  týždeň: https://www.tyzden.sk/spolocnost/70044/ako-funguje-preco-mame-strach-a-co-vakcina-dokaze/?ref=kat
-  LinkedIn: https://www.linkedin.com/in/norbert-zilka-24657b3b/
-  facebook: https://www.facebook.com/watch/?v=753367048862901
-  sme: https://tech.sme.sk/c/22538531/neuroimunolog-zilka-slovenska-vakcina-proti-covidu-by-mala-fungovat-aj-u-starsich-ludi.html
-  životopis: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiZorKT7aT1AhVB8LsIHbYKCo0QFnoECAMQAQ&url=https%3A%2F%2Fwww.uvlf.sk%2Fdocument%2Fdoc-mvdr-norbert-zilka-phd-drsc-zverejnenie-udajov-podla-zakona.docx&usg=AOvVaw0W8NxsgHcSMXOWYg08TyyT
-  learned.sk: https://www.learned.sk/doc-mvdr-norbert-zilka-drsc/
-  ResearchGate: https://www.researchgate.net/scientific-contributions/Norbert-Zilka-2103008291
-  loop: https://loop.frontiersin.org/people/196278/overview
-  business: https://www.axon-neuroscience.eu
-
-
 img: Norbert_Zilka.jpg
+last: "\u017Dilka"
+last_update: '2022-03-27'
+links:
+  LinkedIn: https://www.linkedin.com/in/norbert-zilka-24657b3b/
+  ResearchGate: https://www.researchgate.net/scientific-contributions/Norbert-Zilka-2103008291
+  business: https://www.axon-neuroscience.eu
+  facebook: https://www.facebook.com/watch/?v=753367048862901
+  learned.sk: https://www.learned.sk/doc-mvdr-norbert-zilka-drsc/
+  loop: https://loop.frontiersin.org/people/196278/overview
+  sme: https://tech.sme.sk/c/22538531/neuroimunolog-zilka-slovenska-vakcina-proti-covidu-by-mala-fungovat-aj-u-starsich-ludi.html
+  "t\xFD\u017Ede\u0148": https://www.tyzden.sk/spolocnost/70044/ako-funguje-preco-mame-strach-a-co-vakcina-dokaze/?ref=kat
+  web: https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=3501
+  "\u017Eivotopis": https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiZorKT7aT1AhVB8LsIHbYKCo0QFnoECAMQAQ&url=https%3A%2F%2Fwww.uvlf.sk%2Fdocument%2Fdoc-mvdr-norbert-zilka-phd-drsc-zverejnenie-udajov-podla-zakona.docx&usg=AOvVaw0W8NxsgHcSMXOWYg08TyyT
+name: "Norbert \u017Dilka"
+position: docent
+scholar: https://scholar.google.com/citations?user=p40NFYwAAAAJ&hl=en&oi=ao
+sex: "mu\u017E"
+year: 1973

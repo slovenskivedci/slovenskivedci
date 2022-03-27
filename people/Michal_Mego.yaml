@@ -1,17 +1,15 @@
-name: "Michal Mego"
-last: "Mego"
-
-position: "profesor"
-scholar: https://scholar.google.com/citations?user=NvHY0EcAAAAJ&amp;hl=en&amp;oi=ao
-year: 1977
-sex: "muž"
-
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-field: "onkológia"
-hindex: 36
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: "onkol\xF3gia"
+hindex: 37
 img: Michal_Mego.jpg
-last_update: '2021-12-25'
+last: Mego
+last_update: '2022-03-27'
 links:
-  životopis: https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
+  "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Mego/18_doc._Mego_-_zivotopis.pdf
+name: Michal Mego
+position: profesor
+scholar: https://scholar.google.com/citations?user=NvHY0EcAAAAJ&amp;hl=en&amp;oi=ao
+sex: "mu\u017E"
+year: 1977

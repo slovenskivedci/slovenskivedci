@@ -1,26 +1,21 @@
-name: "Martin Holčík"
-last: "Holčík"
-year:
-sex: "muž"
-
-position: "profesor"
-field: "syntéza proteínov"
-affiliation: "Carleton University"
-city: "Ottawa"
-country: "Kanada"
-
-hindex: 49
-scholar: https://scholar.google.com/citations?user=nluwC9EAAAAJ&hl=en
-
-last_update: '2022-01-09'
-
-links:
-  twitter: https://twitter.com/mholcik
-  PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=holcik+m
-  loop: https://loop.frontiersin.org/people/33499/bio
-  ResearchGate: https://www.researchgate.net/profile/Martin-Holcik
-  LinkedIn: https://www.linkedin.com/in/martin-holcik-69896210/?originalSubdomain=ca
-  publons: https://publons.com/researcher/2891037/martin-holcik/
-  web: https://carleton.ca/healthsciences/people/martin-holcik/
-
+affiliation: Carleton University
+city: Ottawa
+country: Kanada
+field: "synt\xE9za prote\xEDnov"
+hindex: 50
 img: Martin_Holcik.jpg
+last: "Hol\u010D\xEDk"
+last_update: '2022-03-27'
+links:
+  LinkedIn: https://www.linkedin.com/in/martin-holcik-69896210/?originalSubdomain=ca
+  PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=holcik+m
+  ResearchGate: https://www.researchgate.net/profile/Martin-Holcik
+  loop: https://loop.frontiersin.org/people/33499/bio
+  publons: https://publons.com/researcher/2891037/martin-holcik/
+  twitter: https://twitter.com/mholcik
+  web: https://carleton.ca/healthsciences/people/martin-holcik/
+name: "Martin Hol\u010D\xEDk"
+position: profesor
+scholar: https://scholar.google.com/citations?user=nluwC9EAAAAJ&hl=en
+sex: "mu\u017E"
+year: null

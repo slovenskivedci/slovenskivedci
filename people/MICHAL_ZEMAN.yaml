@@ -1,23 +1,17 @@
-name: "Michal Zeman"
-last: "Zeman"
-
-position: profesor
-scholar: https://scholar.google.com/citations?user=dWhSd2wAAAAJ&amp;hl=en&amp;oi=sra
-year: ''
-sex: "muž"
-
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-field: "biológia"
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
+field: "biol\xF3gia"
 hindex: 36
-
-last_update: '2021-12-25'
+img: Michal_Zeman.jpg
+last: Zeman
+last_update: '2022-03-27'
 links:
-  web: https://fns.uniba.sk/kontakt/zamestnanci-prif-uk/?tx_unibausers_pi1[person]=zeman1
   orcid: https://orcid.org/0000-0002-2712-6805
   publons: https://publons.com/researcher/2024259/michal-zeman/
-
-
-
-img: Michal_Zeman.jpg
+  web: https://fns.uniba.sk/kontakt/zamestnanci-prif-uk/?tx_unibausers_pi1[person]=zeman1
+name: Michal Zeman
+position: profesor
+scholar: https://scholar.google.com/citations?user=dWhSd2wAAAAJ&amp;hl=en&amp;oi=sra
+sex: "mu\u017E"
+year: ''
