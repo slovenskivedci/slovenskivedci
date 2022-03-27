@@ -1,32 +1,31 @@
-name: "Igor Tvaroška"
-last: "Tvaroška"
-position: "vedec"
-scholar: https://scholar.google.com/citations?hl=en&amp;user=v71jEjAAAAAJ
-year: 1944
-sex: "muž"
-
-affiliation: "Slovenská akadémia vied"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
-    all: 4851
-    since_2016: 865
+    all: 4945
+    since_2017: 822
 - h_index:
     all: 35
-    since_2016: 16
+    since_2017: 14
 - i10_index:
-    all: 108
-    since_2016: 26
-city: "Bratislava"
-country: "Slovensko"
-field: "výpočtová chémia"
+    all: 112
+    since_2017: 28
+city: Bratislava
+country: Slovensko
+field: "v\xFDpo\u010Dtov\xE1 ch\xE9mia"
 hindex: 35
 img: Igor_Tvaroska.jpg
-last_update: '2021-09-16'
+last: "Tvaro\u0161ka"
+last_update: '2022-03-26'
 links:
-  web: http://www.chem.sk/people/tvaroskaigor/
-  orcid: https://orcid.org/0000-0003-2740-944X
-  publons: https://publons.com/researcher/4055620/igor-tvaroska/
-  ResearchGate: https://www.researchgate.net/profile/Igor-Tvaroska/4
   LinkedIn: https://www.linkedin.com/in/igor-tvaroska-a9a82b11/?originalSubdomain=sk
-  prabook: https://prabook.com/web/igor.tvaroska/339705
+  ResearchGate: https://www.researchgate.net/profile/Igor-Tvaroska/4
+  orcid: https://orcid.org/0000-0003-2740-944X
   osobnosti: https://www.osobnosti.sk/osobnost/igor-tvaroska-617
+  prabook: https://prabook.com/web/igor.tvaroska/339705
+  publons: https://publons.com/researcher/4055620/igor-tvaroska/
+  web: http://www.chem.sk/people/tvaroskaigor/
+name: "Igor Tvaro\u0161ka"
+position: vedec
+scholar: https://scholar.google.com/citations?hl=en&amp;user=v71jEjAAAAAJ
+sex: "mu\u017E"
+year: 1944

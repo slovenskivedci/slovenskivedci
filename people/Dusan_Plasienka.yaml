@@ -1,30 +1,27 @@
-name: "Dušan Plašienka"
-last: "Plašienka"
-sex: "muž"
-
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=JCOUk6EAAAAJ
-year: 1953
-
-
-affiliation: "Univerzita Komenského"
+affiliation: "Univerzita Komensk\xE9ho"
 cited_by:
 - citations:
-    all: 3068
-    since_2016: 1391
+    all: 3242
+    since_2017: 1267
 - h_index:
     all: 30
-    since_2016: 20
+    since_2017: 18
 - i10_index:
-    all: 71
-    since_2016: 37
-city: "Bratislava"
-country: "Slovensko"
-field: "geológia"
+    all: 77
+    since_2017: 36
+city: Bratislava
+country: Slovensko
+field: "geol\xF3gia"
 hindex: 30
 img: Dusan_Plasienka.jpg
-last_update: '2021-09-16'
+last: "Pla\u0161ienka"
+last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Dusan_Plasienka
   web: https://geopaleo.sk/plasienka-dusan/
-  životopis: https://geopaleo.sk/plasienka-dusan/plasienka-dusan-cv/
+  "\u017Eivotopis": https://geopaleo.sk/plasienka-dusan/plasienka-dusan-cv/
+name: "Du\u0161an Pla\u0161ienka"
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=JCOUk6EAAAAJ
+sex: "mu\u017E"
+year: 1953

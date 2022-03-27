@@ -1,33 +1,28 @@
-name: "Lubor Borsig"
-last: "Borsig"
-
-position: "vedec"
-scholar: https://scholar.google.com/citations?hl=en&amp;user=XOPkMEAAAAAJ
-year: ''
-sex: "muž"
-
-affiliation: "University of Zurich"
+affiliation: University of Zurich
 cited_by:
 - citations:
-    all: 9550
-    since_2016: 4317
+    all: 8881
+    since_2017: 3730
 - h_index:
     all: 45
-    since_2016: 33
+    since_2017: 33
 - i10_index:
-    all: 76
-    since_2016: 63
-city: "Zürich"
-country: "Švajčiarsko"
-field: "fyziológia buniek"
-hindex: 44
-
-last_update: '2021-09-16'
+    all: 79
+    since_2017: 64
+city: "Z\xFCrich"
+country: "\u0160vaj\u010Diarsko"
+field: "fyziol\xF3gia buniek"
+hindex: 45
+img: Lubor_Borsig.jpg
+last: Borsig
+last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Lubor-Borsig
   loop: https://loop.frontiersin.org/people/108489/overview
   web: https://www.to2.uzh.ch/en/aboutus/researchgroups/groupwengerborsig/luborborsig.html
   web2: https://www.physiol.uzh.ch/en/research/institutegroups/grborsig/membersgrborsig.html
-
-
-img: Lubor_Borsig.jpg
+name: Lubor Borsig
+position: vedec
+scholar: https://scholar.google.com/citations?hl=en&amp;user=XOPkMEAAAAAJ
+sex: "mu\u017E"
+year: ''

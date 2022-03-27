@@ -1,32 +1,28 @@
-name: "Milan Paluš"
-last: "Paluš"
-
-position: "vedec"
-scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
-year: 1963
-sex: "muž"
-
-affiliation: "Česká akadémia vied"
+affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
-    all: 5740
-    since_2016: 2200
+    all: 5970
+    since_2017: 2039
 - h_index:
-    all: 37
-    since_2016: 25
+    all: 38
+    since_2017: 24
 - i10_index:
     all: 78
-    since_2016: 48
-city: "Praha"
-country: "Česko"
-field: "komplexné systémy"
+    since_2017: 47
+city: Praha
+country: "\u010Cesko"
+field: "komplexn\xE9 syst\xE9my"
 hindex: 38
-
-last_update: '2021-09-16'
+img: Milan_Palus.jpg
+last: "Palu\u0161"
+last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Milan-Palus
   dblp: https://dblp.org/pid/64/7857.html
   publons: https://publons.com/researcher/2698944/milan-palus
   web: http://www.cs.cas.cz/mp/
-
-img: Milan_Palus.jpg
+name: "Milan Palu\u0161"
+position: vedec
+scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
+sex: "mu\u017E"
+year: 1963

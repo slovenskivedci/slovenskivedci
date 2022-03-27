@@ -1,27 +1,25 @@
-name: "Milan Sýkora"
-last: "Sýkora"
-
-position: "vedec"
-scholar: https://scholar.google.com/citations?user=fxBzWQcAAAAJ&amp;hl=en
-year: ''
-sex: "muž"
-
-affiliation: "Univerzita Komenského"
+affiliation: "Univerzita Komensk\xE9ho"
 cited_by:
 - citations:
-    all: 4717
-    since_2016: 1620
+    all: 4908
+    since_2017: 1519
 - h_index:
-    all: 34
-    since_2016: 19
+    all: 35
+    since_2017: 18
 - i10_index:
-    all: 51
-    since_2016: 30
-city: "Bratislava"
-country: "Slovensko"
-field: "materiálová veda"
-hindex: 34
+    all: 52
+    since_2017: 29
+city: Bratislava
+country: Slovensko
+field: "materi\xE1lov\xE1 veda"
+hindex: 35
 img: Milan_Sykora.png
-last_update: '2021-09-16'
+last: "S\xFDkora"
+last_update: '2022-03-27'
 links:
-  životopis: https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
+  "\u017Eivotopis": https://fns.uniba.sk/fileadmin/prif/chem/lam/CV_for_webpage_ms1.pdf
+name: "Milan S\xFDkora"
+position: vedec
+scholar: https://scholar.google.com/citations?user=9TGPGbYAAAAJ&hl=en
+sex: "mu\u017E"
+year: ''

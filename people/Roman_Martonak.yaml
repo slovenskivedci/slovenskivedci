@@ -1,38 +1,28 @@
-name: "Roman Martoňák"
-last: "Martoňák"
-year: 1964
-sex: "muž"
-
-position: "profesor"
-field: "fyzika kondenzovaných látok"
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-
-
-hindex: 32
-scholar: https://scholar.google.com/citations?user=FNaaPIwAAAAJ&amp
-
-
+affiliation: "Univerzita Komensk\xE9ho"
 cited_by:
 - citations:
-    all: 4549
-    since_2016: 1877
+    all: 4751
+    since_2017: 1771
 - h_index:
     all: 32
-    since_2016: 20
+    since_2017: 21
 - i10_index:
-    all: 63
-    since_2016: 33
-
-last_update: '2021-09-16'
-
-
-links:
-  orcid: https://orcid.org/0000-0002-4013-9117
-  web: https://dep.fmph.uniba.sk/cv-rm/
-  learned.sk: https://www.learned.sk/prof-ing-roman-martonak-drsc/
-  publons: https://publons.com/researcher/1845658/roman-martonak/
-
-
+    all: 64
+    since_2017: 34
+city: Bratislava
+country: Slovensko
+field: "fyzika kondenzovan\xFDch l\xE1tok"
+hindex: 32
 img: Roman_Martonak.jpg
+last: "Marto\u0148\xE1k"
+last_update: '2022-03-26'
+links:
+  learned.sk: https://www.learned.sk/prof-ing-roman-martonak-drsc/
+  orcid: https://orcid.org/0000-0002-4013-9117
+  publons: https://publons.com/researcher/1845658/roman-martonak/
+  web: https://dep.fmph.uniba.sk/cv-rm/
+name: "Roman Marto\u0148\xE1k"
+position: profesor
+scholar: https://scholar.google.com/citations?user=FNaaPIwAAAAJ&amp
+sex: "mu\u017E"
+year: 1964

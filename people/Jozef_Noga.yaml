@@ -1,39 +1,33 @@
-name: "Jozef Noga"
-last: "Noga"
-year: 1955
-sex: "muž"
-
-position: profesor
-field: "teoretická chémia"
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-
-hindex: 40
-scholar: https://scholar.google.com/citations?hl=en&user=lZvsE4EAAAAJ
-
+affiliation: "Univerzita Komensk\xE9ho"
 cited_by:
 - citations:
-    all: 10549
-    since_2016: 2343
+    all: 10795
+    since_2017: 2132
 - h_index:
-    all: 40
-    since_2016: 18
+    all: 41
+    since_2017: 17
 - i10_index:
-    all: 83
-    since_2016: 24
-
-last_update: '2021-11-18'
-
+    all: 84
+    since_2017: 21
+city: Bratislava
+country: Slovensko
+field: "teoretick\xE1 ch\xE9mia"
+hindex: 41
+img: Jozef_Noga.jpg
+last: Noga
+last_update: '2022-03-27'
 links:
   dblp: https://dblp.org/pid/16/796.html
+  learned.sk: https://www.learned.sk/prof-rndr-jozef-noga-drsc/
+  orcid: https://orcid.org/0000-0003-3960-498X
+  publons: https://publons.com/researcher/2382782/jozef-noga/
+  science.sk: http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2136-jozef-noga
+  sme.sk: https://tech.sme.sk/c/6161645/jozef-noga-potrebujeme-zvazit-lod-s-kapitanom-a-bez-kapitana.html
   web 1: https://fns.uniba.sk/pracoviska/chemicka-sekcia/kag/zamestnanci-a-doktorandi/prof-jozef-noga/
   web 2: https://uniba.sk/ludia/noga2
-  orcid: https://orcid.org/0000-0003-3960-498X
-  learned.sk: https://www.learned.sk/prof-rndr-jozef-noga-drsc/
-  science.sk: http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2136-jozef-noga
-  publons: https://publons.com/researcher/2382782/jozef-noga/
-  životopis: https://fns.uniba.sk/fileadmin/prif/chem/kag/Zam-Noga/jozef_noga_2014.pdf
-  sme.sk: https://tech.sme.sk/c/6161645/jozef-noga-potrebujeme-zvazit-lod-s-kapitanom-a-bez-kapitana.html
-
-img: Jozef_Noga.jpg
+  "\u017Eivotopis": https://fns.uniba.sk/fileadmin/prif/chem/kag/Zam-Noga/jozef_noga_2014.pdf
+name: Jozef Noga
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&user=lZvsE4EAAAAJ
+sex: "mu\u017E"
+year: 1955

@@ -258,14 +258,14 @@
   affiliationurl: University_of_Bonn
   cited_by:
   - citations:
-      all: 20091
-      since_2016: 7965
+      all: 20948
+      since_2017: 7687
   - h_index:
-      all: 78
-      since_2016: 49
+      all: 79
+      since_2017: 46
   - i10_index:
-      all: 274
-      since_2016: 197
+      all: 276
+      since_2017: 197
   city: Bonn
   cityurl: Bonn
   country: Nemecko
@@ -275,7 +275,7 @@
   hindex: 79
   img: Frantisek_Baluska.jpg
   last: Baluska
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - loop
     - https://loop.frontiersin.org/people/31110/overview
@@ -558,14 +558,14 @@
   affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
-      all: 17049
-      since_2016: 4225
+      all: 17332
+      since_2017: 3877
   - h_index:
       all: 61
-      since_2016: 25
+      since_2017: 25
   - i10_index:
       all: 152
-      since_2016: 73
+      since_2017: 69
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -575,7 +575,7 @@
   hindex: 61
   img: Vladimir_Buzek.jpg
   last: Buzek
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - web
     - http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=buzek
@@ -1032,14 +1032,14 @@
   affiliationurl: University_of_British_Columbia
   cited_by:
   - citations:
-      all: 10095
-      since_2016: 4863
+      all: 10616
+      since_2017: 4606
   - h_index:
       all: 55
-      since_2016: 33
+      since_2017: 33
   - i10_index:
-      all: 107
-      since_2016: 78
+      all: 108
+      since_2017: 76
   city: "Britsk\xE1 Kolumbia"
   cityurl: Britska_Kolumbia
   country: Kanada
@@ -1049,7 +1049,7 @@
   hindex: 55
   img: Marcel_Franz.jpg
   last: Franz
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - web
     - https://phas.ubc.ca/~franz/
@@ -1673,14 +1673,14 @@
   affiliationurl: Georga_Mason_University
   cited_by:
   - citations:
-      all: 10337
-      since_2016: 4311
+      all: 10900
+      since_2017: 4228
   - h_index:
       all: 48
-      since_2016: 33
+      since_2017: 31
   - i10_index:
-      all: 92
-      since_2016: 58
+      all: 99
+      since_2017: 57
   city: Fairfax
   cityurl: Fairfax
   country: USA
@@ -1690,7 +1690,7 @@
   hindex: 48
   img: Jana_Kosecka.jpg
   last: Kosecka
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - KInIT
     - https://kinit.sk/meet-jana-kosecka-kinit-external-mentor/
@@ -1938,14 +1938,14 @@
   affiliationurl: University_of_Washington
   cited_by:
   - citations:
-      all: 13892
-      since_2016: 5662
+      all: 14264
+      since_2017: 5093
   - h_index:
       all: 45
-      since_2016: 31
+      since_2017: 30
   - i10_index:
-      all: 80
-      since_2016: 64
+      all: 82
+      since_2017: 65
   city: Seattle
   cityurl: Seattle
   country: USA
@@ -1955,7 +1955,7 @@
   hindex: 45
   img: Rastislav_Bodik.jpg
   last: Bodik
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - ACM
     - https://dl.acm.org/profile/81100033082
@@ -1984,6 +1984,44 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1968
+- affiliation: University of Zurich
+  affiliationurl: University_of_Zurich
+  cited_by:
+  - citations:
+      all: 8881
+      since_2017: 3730
+  - h_index:
+      all: 45
+      since_2017: 33
+  - i10_index:
+      all: 79
+      since_2017: 64
+  city: "Z\xFCrich"
+  cityurl: Zurich
+  country: "\u0160vaj\u010Diarsko"
+  countryurl: Svajciarsko
+  field: "fyziol\xF3gia buniek"
+  fieldurl: fyziologia_buniek
+  hindex: 45
+  img: Lubor_Borsig.jpg
+  last: Borsig
+  last_update: '2022-03-26'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/108489/overview
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Lubor-Borsig
+  - - web
+    - https://www.to2.uzh.ch/en/aboutus/researchgroups/groupwengerborsig/luborborsig.html
+  - - web2
+    - https://www.physiol.uzh.ch/en/research/institutegroups/grborsig/membersgrborsig.html
+  name: Lubor Borsig
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=XOPkMEAAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: University of Adelaide
   affiliationurl: University_of_Adelaide
   cited_by:
@@ -2141,44 +2179,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1972
-- affiliation: University of Zurich
-  affiliationurl: University_of_Zurich
-  cited_by:
-  - citations:
-      all: 9550
-      since_2016: 4317
-  - h_index:
-      all: 45
-      since_2016: 33
-  - i10_index:
-      all: 76
-      since_2016: 63
-  city: "Z\xFCrich"
-  cityurl: Zurich
-  country: "\u0160vaj\u010Diarsko"
-  countryurl: Svajciarsko
-  field: "fyziol\xF3gia buniek"
-  fieldurl: fyziologia_buniek
-  hindex: 44
-  img: Lubor_Borsig.jpg
-  last: Borsig
-  last_update: '2021-09-16'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/108489/overview
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Lubor-Borsig
-  - - web
-    - https://www.to2.uzh.ch/en/aboutus/researchgroups/groupwengerborsig/luborborsig.html
-  - - web2
-    - https://www.physiol.uzh.ch/en/research/institutegroups/grborsig/membersgrborsig.html
-  name: Lubor Borsig
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=XOPkMEAAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: Lawrence Berkeley National Laboratory
   affiliationurl: Lawrence_Berkeley_National_Laboratory
   city: Berkeley
@@ -2202,6 +2202,46 @@
   position: vedec
   positionurl: vedec
   scholar: https://scholar.google.com/citations?hl=en&user=ElcuTkwAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
+- affiliation: Simon Fraser University
+  affiliationurl: Simon_Fraser_University
+  cited_by:
+  - citations:
+      all: 5934
+      since_2017: 2776
+  - h_index:
+      all: 44
+      since_2017: 28
+  - i10_index:
+      all: 104
+      since_2017: 50
+  city: Surrey
+  cityurl: Surrey
+  country: Kanada
+  countryurl: Kanada
+  field: "d\xE1tov\xE1 veda"
+  fieldurl: datova_veda
+  hindex: 44
+  img: Marek_Hatala.jpg
+  last: Hatala
+  last_update: '2022-03-26'
+  links:
+  - - dblp
+    - https://dblp.org/pid/37/2425.html
+  - - LinkedIn
+    - https://www.linkedin.com/in/marek-hatala-9887972/?originalSubdomain=ca
+  - - research.com
+    - https://research.com/u/marek-hatala
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marek-Hatala
+  - - web
+    - https://www.sfu.ca/siat/people/research-faculty/marek-hatala.html
+  name: Marek Hatala
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=ApdHT0UAAAAJ
   sex: "mu\u017E"
   sexurl: muz
   year: ''
@@ -2879,46 +2919,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: Simon Fraser University
-  affiliationurl: Simon_Fraser_University
-  cited_by:
-  - citations:
-      all: 5570
-      since_2016: 2898
-  - h_index:
-      all: 41
-      since_2016: 28
-  - i10_index:
-      all: 103
-      since_2016: 57
-  city: Surrey
-  cityurl: Surrey
-  country: Kanada
-  countryurl: Kanada
-  field: "d\xE1tov\xE1 veda"
-  fieldurl: datova_veda
-  hindex: 41
-  img: Marek_Hatala.jpg
-  last: Hatala
-  last_update: '2021-09-16'
-  links:
-  - - dblp
-    - https://dblp.org/pid/37/2425.html
-  - - LinkedIn
-    - https://www.linkedin.com/in/marek-hatala-9887972/?originalSubdomain=ca
-  - - research.com
-    - https://research.com/u/marek-hatala
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Marek-Hatala
-  - - web
-    - https://www.sfu.ca/siat/people/research-faculty/marek-hatala.html
-  name: Marek Hatala
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=ApdHT0UAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -3145,14 +3145,14 @@
   affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
-      all: 5046
-      since_2016: 2148
+      all: 5239
+      since_2017: 2090
   - h_index:
       all: 40
-      since_2016: 24
+      since_2017: 22
   - i10_index:
-      all: 123
-      since_2016: 62
+      all: 124
+      since_2017: 58
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -3162,7 +3162,7 @@
   hindex: 40
   img: Stefan_Matejcik.jpg
   last: Matejcik
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - web
     - http://neon.dpp.fmph.uniba.sk/workgroup/index.php?option=com_content&view=article&id=1&Itemid=101
@@ -3251,6 +3251,40 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1955
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  cited_by:
+  - citations:
+      all: 4228
+      since_2017: 2348
+  - h_index:
+      all: 39
+      since_2017: 23
+  - i10_index:
+      all: 57
+      since_2017: 48
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyzik\xE1lna ch\xE9mia"
+  fieldurl: fyzikalna_chemia
+  hindex: 39
+  img: Tomas_Bucko.png
+  last: Bucko
+  last_update: '2022-03-26'
+  links:
+  - - publons
+    - https://publons.com/researcher/1378264/tomas-bucko/
+  - - web
+    - https://fns.uniba.sk/en/departments/chemistry/department-of-physical-and-theoretical-chemistry/people/central-database-of-staff/?tx_unibausers_pi1[person]=bucko19
+  name: "Tom\xE1\u0161 Bu\u010Dko"
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.de/citations?user=wsJN2SMAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: "Univerzita Palack\xE9ho v Olomouci"
   affiliationurl: Univerzita_Palackeho_v_Olomouci
   cited_by:
@@ -3549,40 +3583,6 @@
   year: 1970
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
-  cited_by:
-  - citations:
-      all: 3991
-      since_2016: 2512
-  - h_index:
-      all: 38
-      since_2016: 24
-  - i10_index:
-      all: 57
-      since_2016: 50
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "fyzik\xE1lna ch\xE9mia"
-  fieldurl: fyzikalna_chemia
-  hindex: 38
-  img: Tomas_Bucko.png
-  last: Bucko
-  last_update: '2021-09-16'
-  links:
-  - - publons
-    - https://publons.com/researcher/1378264/tomas-bucko/
-  - - web
-    - https://fns.uniba.sk/en/departments/chemistry/department-of-physical-and-theoretical-chemistry/people/central-database-of-staff/?tx_unibausers_pi1[person]=bucko19
-  name: "Tom\xE1\u0161 Bu\u010Dko"
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.de/citations?user=wsJN2SMAAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -3649,14 +3649,14 @@
   affiliationurl: Joint_Institute_for_Nuclear_Research
   cited_by:
   - citations:
-      all: 7190
-      since_2016: 3629
+      all: 7596
+      since_2017: 3410
   - h_index:
       all: 38
-      since_2016: 32
+      since_2017: 32
   - i10_index:
-      all: 64
-      since_2016: 51
+      all: 67
+      since_2017: 53
   city: Dubna
   cityurl: Dubna
   country: "Rusk\xE1 feder\xE1cia"
@@ -3666,7 +3666,7 @@
   hindex: 38
   img: Norbert_Kucerka.jpeg
   last: Kucerka
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - loop
     - https://loop.frontiersin.org/people/1181514/overview
@@ -3857,6 +3857,40 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1942
+- affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
+  affiliationurl: Slovenska_polnohospodarska_univerzita
+  cited_by:
+  - citations:
+      all: 6752
+      since_2017: 5944
+  - h_index:
+      all: 38
+      since_2017: 38
+  - i10_index:
+      all: 76
+      since_2017: 71
+  city: Nitra
+  cityurl: Nitra
+  country: Slovensko
+  countryurl: Slovensko
+  field: "fyziol\xF3gia rastl\xEDn"
+  fieldurl: fyziologia_rastlin
+  hindex: 38
+  img: Marek_Zivcak.jpg
+  last: Zivcak
+  last_update: '2022-03-26'
+  links:
+  - - LinkedIn
+    - "https://www.linkedin.com/in/marek-\u017Eiv\u010D\xE1k-358421119/?originalSubdomain=sk"
+  - - web
+    - https://is.uniag.sk/lide/clovek.pl?id=1211;zalozka=3;lang=en
+  name: "Marek \u017Div\u010D\xE1k"
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.sk/citations?user=fbrMtJsAAAAJ&amp;hl=sk
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: "Ko\u0161ice"
@@ -4005,14 +4039,14 @@
   affiliationurl: Technicka_univerzita_v_Kosiciach
   cited_by:
   - citations:
-      all: 44509
-      since_2016: 24365
+      all: 47120
+      since_2017: 23424
   - h_index:
       all: 37
-      since_2016: 29
+      since_2017: 28
   - i10_index:
-      all: 72
-      since_2016: 49
+      all: 71
+      since_2017: 45
   city: "Ko\u0161ice"
   cityurl: Kosice
   country: Slovensko
@@ -4022,7 +4056,7 @@
   hindex: 37
   img: Igor_Podlubny.jpeg
   last: Podlubny
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - ESET Science Award
     - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/igor-podlubny
@@ -4113,40 +4147,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1961
-- affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
-  affiliationurl: Slovenska_polnohospodarska_univerzita
-  cited_by:
-  - citations:
-      all: 5794
-      since_2016: 5369
-  - h_index:
-      all: 37
-      since_2016: 36
-  - i10_index:
-      all: 67
-      since_2016: 63
-  city: Nitra
-  cityurl: Nitra
-  country: Slovensko
-  countryurl: Slovensko
-  field: "fyziol\xF3gia rastl\xEDn"
-  fieldurl: fyziologia_rastlin
-  hindex: 37
-  img: Marek_Zivcak.jpg
-  last: Zivcak
-  last_update: '2021-09-16'
-  links:
-  - - LinkedIn
-    - "https://www.linkedin.com/in/marek-\u017Eiv\u010D\xE1k-358421119/?originalSubdomain=sk"
-  - - web
-    - https://is.uniag.sk/lide/clovek.pl?id=1211;zalozka=3;lang=en
-  name: "Marek \u017Div\u010D\xE1k"
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.sk/citations?user=fbrMtJsAAAAJ&amp;hl=sk
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   cited_by:
@@ -4178,6 +4178,44 @@
   scholar: https://scholar.google.sk/citations?user=S9nvaAkAAAAJ&amp;hl=sk
   sex: "\u017Eena"
   sexurl: zena
+  year: ''
+- affiliation: "Eur\xF3pska komisia"
+  affiliationurl: Europska_komisia
+  cited_by:
+  - citations:
+      all: 6183
+      since_2017: 3968
+  - h_index:
+      all: 36
+      since_2017: 29
+  - i10_index:
+      all: 84
+      since_2017: 62
+  city: Sevilla
+  cityurl: Sevilla
+  country: "\u0160panielsko"
+  countryurl: Spanielsko
+  field: "ekon\xF3mia"
+  fieldurl: ekonomia
+  hindex: 36
+  img: Pavel_Ciaian.jpg
+  last: Ciaian
+  last_update: '2022-03-26'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-2405-5850
+  - - RePEc
+    - https://ideas.repec.org/e/pci158.html
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Pavel_Ciaian
+  - - web
+    - http://ciaian.szm.sk/
+  name: Pavel Ciaian
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.sk/citations?user=s_AVnN0AAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
   year: ''
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
@@ -4327,14 +4365,14 @@
   affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
-      all: 6101
-      since_2016: 1781
+      all: 6204
+      since_2017: 1451
   - h_index:
       all: 36
-      since_2016: 21
+      since_2017: 20
   - i10_index:
-      all: 52
-      since_2016: 32
+      all: 54
+      since_2017: 29
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -4344,7 +4382,7 @@
   hindex: 36
   img: Andrej_Liptaj.jpg
   last: Liptaj
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - web
     - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=5352
@@ -4475,44 +4513,6 @@
   sex: "\u017Eena"
   sexurl: zena
   year: null
-- affiliation: "Eur\xF3pska komisia"
-  affiliationurl: Europska_komisia
-  cited_by:
-  - citations:
-      all: 5705
-      since_2016: 3963
-  - h_index:
-      all: 35
-      since_2016: 31
-  - i10_index:
-      all: 84
-      since_2016: 64
-  city: Sevilla
-  cityurl: Sevilla
-  country: "\u0160panielsko"
-  countryurl: Spanielsko
-  field: "ekon\xF3mia"
-  fieldurl: ekonomia
-  hindex: 35
-  img: Pavel_Ciaian.jpg
-  last: Ciaian
-  last_update: '2021-09-16'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0003-2405-5850
-  - - RePEc
-    - https://ideas.repec.org/e/pci158.html
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Pavel_Ciaian
-  - - web
-    - http://ciaian.szm.sk/
-  name: Pavel Ciaian
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.sk/citations?user=s_AVnN0AAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: Indiana University Bloomington
   affiliationurl: Indiana_University_Bloomington
   cited_by:
@@ -4719,14 +4719,14 @@
   affiliationurl: Slovenska_akademia_vied
   cited_by:
   - citations:
-      all: 4851
-      since_2016: 865
+      all: 4945
+      since_2017: 822
   - h_index:
       all: 35
-      since_2016: 16
+      since_2017: 14
   - i10_index:
-      all: 108
-      since_2016: 26
+      all: 112
+      since_2017: 28
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -4736,7 +4736,7 @@
   hindex: 35
   img: Igor_Tvaroska.jpg
   last: Tvaroska
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/igor-tvaroska-a9a82b11/?originalSubdomain=sk
@@ -4865,6 +4865,46 @@
   position: docent
   positionurl: docent
   scholar: https://scholar.google.com/citations?user=h08MR_wAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
+- affiliation: Microsoft Research
+  affiliationurl: Microsoft_Research
+  cited_by:
+  - citations:
+      all: 31027
+      since_2017: 17259
+  - h_index:
+      all: 34
+      since_2017: 33
+  - i10_index:
+      all: 50
+      since_2017: 41
+  city: New York
+  cityurl: New_York
+  country: USA
+  countryurl: USA
+  field: "strojov\xE9 u\u010Denie"
+  fieldurl: strojove_ucenie
+  hindex: 34
+  img: Miro_Dudik.jpg
+  last: Dudik
+  last_update: '2022-03-26'
+  links:
+  - - dblp
+    - https://dblp.org/pid/30/2146.html
+  - - IOI
+    - https://stats.ioinformatics.org/people/1613
+  - - LinkedIn
+    - https://www.linkedin.com/in/mdudik/
+  - - SlidesLive
+    - https://slideslive.at/s/miro-dudik-19100
+  - - web
+    - https://www.microsoft.com/en-us/research/people/mdudik/
+  name: "Miroslav Dud\xEDk"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=wYMTld8AAAAJ&
   sex: "mu\u017E"
   sexurl: muz
   year: ''
@@ -5236,46 +5276,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1943
-- affiliation: Microsoft Research
-  affiliationurl: Microsoft_Research
-  cited_by:
-  - citations:
-      all: 28631
-      since_2016: 17185
-  - h_index:
-      all: 32
-      since_2016: 31
-  - i10_index:
-      all: 48
-      since_2016: 40
-  city: New York
-  cityurl: New_York
-  country: USA
-  countryurl: USA
-  field: "strojov\xE9 u\u010Denie"
-  fieldurl: strojove_ucenie
-  hindex: 33
-  img: Miro_Dudik.jpg
-  last: Dudik
-  last_update: '2021-09-16'
-  links:
-  - - dblp
-    - https://dblp.org/pid/30/2146.html
-  - - IOI
-    - https://stats.ioinformatics.org/people/1613
-  - - LinkedIn
-    - https://www.linkedin.com/in/mdudik/
-  - - SlidesLive
-    - https://slideslive.at/s/miro-dudik-19100
-  - - web
-    - https://www.microsoft.com/en-us/research/people/mdudik/
-  name: "Miroslav Dud\xEDk"
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=wYMTld8AAAAJ&
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   cited_by:
@@ -5368,14 +5368,14 @@
   affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
-      all: 3000
-      since_2016: 716
+      all: 3013
+      since_2017: 610
   - h_index:
       all: 33
-      since_2016: 14
+      since_2017: 13
   - i10_index:
       all: 67
-      since_2016: 31
+      since_2017: 25
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -5385,7 +5385,7 @@
   hindex: 33
   img: Marek_Fila.jpg
   last: Fila
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - dblp
     - https://dblp.org/pid/85/3264.html
@@ -6062,14 +6062,14 @@
   affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
-      all: 4549
-      since_2016: 1877
+      all: 4751
+      since_2017: 1771
   - h_index:
       all: 32
-      since_2016: 20
+      since_2017: 21
   - i10_index:
-      all: 63
-      since_2016: 33
+      all: 64
+      since_2017: 34
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -6079,7 +6079,7 @@
   hindex: 32
   img: Roman_Martonak.jpg
   last: Martonak
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - learned.sk
     - https://www.learned.sk/prof-ing-roman-martonak-drsc/
@@ -7277,14 +7277,14 @@
   affiliationurl: Univerzita_Komenskeho
   cited_by:
   - citations:
-      all: 3068
-      since_2016: 1391
+      all: 3242
+      since_2017: 1267
   - h_index:
       all: 30
-      since_2016: 20
+      since_2017: 18
   - i10_index:
-      all: 71
-      since_2016: 37
+      all: 77
+      since_2017: 36
   city: Bratislava
   cityurl: Bratislava
   country: Slovensko
@@ -7294,7 +7294,7 @@
   hindex: 30
   img: Dusan_Plasienka.jpg
   last: Plasienka
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Dusan_Plasienka
@@ -7501,14 +7501,14 @@
   affiliationurl: KAUST
   cited_by:
   - citations:
-      all: 3495
-      since_2016: 1666
+      all: 3689
+      since_2017: 1586
   - h_index:
       all: 30
-      since_2016: 23
+      since_2017: 22
   - i10_index:
-      all: 78
-      since_2016: 56
+      all: 83
+      since_2017: 57
   city: Thuwal
   cityurl: Thuwal
   country: "Saudsk\xE1 Ar\xE1bia"
@@ -7518,7 +7518,7 @@
   hindex: 30
   img: Ivan_Viola.jpg
   last: Viola
-  last_update: '2021-09-16'
+  last_update: '2022-03-26'
   links:
   - - dblp
     - https://dblp.org/pid/21/4861.html

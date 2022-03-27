@@ -1,27 +1,26 @@
-affiliation: "Univerzita Komenského"
+affiliation: "Univerzita Komensk\xE9ho"
 cited_by:
 - citations:
-    all: 3991
-    since_2016: 2512
+    all: 4228
+    since_2017: 2348
 - h_index:
-    all: 38
-    since_2016: 24
+    all: 39
+    since_2017: 23
 - i10_index:
     all: 57
-    since_2016: 50
-city: "Bratislava"
-country: "Slovensko"
-field: "fyzikálna chémia"
-hindex: 38
+    since_2017: 48
+city: Bratislava
+country: Slovensko
+field: "fyzik\xE1lna ch\xE9mia"
+hindex: 39
 img: Tomas_Bucko.png
-last_update: '2021-09-16'
+last: "Bu\u010Dko"
+last_update: '2022-03-26'
 links:
   publons: https://publons.com/researcher/1378264/tomas-bucko/
   web: https://fns.uniba.sk/en/departments/chemistry/department-of-physical-and-theoretical-chemistry/people/central-database-of-staff/?tx_unibausers_pi1[person]=bucko19
-
-name: "Tomáš Bučko"
-last: "Bučko"
+name: "Tom\xE1\u0161 Bu\u010Dko"
 position: docent
 scholar: https://scholar.google.de/citations?user=wsJN2SMAAAAJ&amp;hl=en
+sex: "mu\u017E"
 year: ''
-sex: "muž"

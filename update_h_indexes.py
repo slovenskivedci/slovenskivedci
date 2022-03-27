@@ -56,7 +56,7 @@ for kv in people: # we start updating the last updated person
 				pickle.dump(results,open("/tmp/debug.pkl","wb"))
 				
 				print("error", y); die
-			dic["cited_by"] = cited_by
+			#dic["cited_by"] = cited_by
 			print("\n\n processing....")
 			print(y, dic["hindex"])
 			dic["last_update"] = datetime.today().strftime('%Y-%m-%d')

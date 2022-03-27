@@ -1,26 +1,25 @@
-affiliation: "Univerzita Komenského"
+affiliation: "Univerzita Komensk\xE9ho"
 cited_by:
 - citations:
-    all: 5046
-    since_2016: 2148
+    all: 5239
+    since_2017: 2090
 - h_index:
     all: 40
-    since_2016: 24
+    since_2017: 22
 - i10_index:
-    all: 123
-    since_2016: 62
-city: "Bratislava"
-country: "Slovensko"
-field: "elektrónová a plazmová fyzika"
+    all: 124
+    since_2017: 58
+city: Bratislava
+country: Slovensko
+field: "elektr\xF3nov\xE1 a plazmov\xE1 fyzika"
 hindex: 40
 img: Stefan_Matejcik.jpg
-last_update: '2021-09-16'
+last: "Matej\u010D\xEDk"
+last_update: '2022-03-26'
 links:
   web: http://neon.dpp.fmph.uniba.sk/workgroup/index.php?option=com_content&view=article&id=1&Itemid=101
-
-name: "Štefan Matejčík"
-last: "Matejčík"
+name: "\u0160tefan Matej\u010D\xEDk"
 position: profesor
 scholar: https://scholar.google.sk/citations?hl=cs&amp;user=Bvdw6vIAAAAJ
+sex: "mu\u017E"
 year: ''
-sex: "muž"

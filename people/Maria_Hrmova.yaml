@@ -1,29 +1,27 @@
-name: "Mária Hrmová"
-last: "Hrmová"
-
-position: profesorka
-scholar: https://scholar.google.sk/citations?user=Hvt2QdYAAAAJ&amp;hl=en
-year: ''
-sex: "žena"
-
-affiliation: "University of Adelaide"
+affiliation: University of Adelaide
 cited_by:
 - citations:
-    all: 6541
-    since_2016: 2555
+    all: 6615
+    since_2017: 2309
 - h_index:
-    all: 45
-    since_2016: 26
+    all: 46
+    since_2017: 26
 - i10_index:
-    all: 101
-    since_2016: 71
-city: "Adelaide"
-country: "Austrália"
-field: "biochémia"
-hindex: 45
+    all: 102
+    since_2017: 70
+city: Adelaide
+country: "Austr\xE1lia"
+field: "bioch\xE9mia"
+hindex: 46
 img: Maria_Hrmova.jpg
-last_update: '2021-09-16'
+last: "Hrmov\xE1"
+last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Maria_Hrmova
   orcid: https://orcid.org/0000-0002-3545-0605
   web: https://www.adelaide.edu.au/directory/maria.hrmova
+name: "M\xE1ria Hrmov\xE1"
+position: profesorka
+scholar: https://scholar.google.sk/citations?user=Hvt2QdYAAAAJ&amp;hl=en
+sex: "\u017Eena"
+year: ''

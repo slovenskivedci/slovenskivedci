@@ -1,27 +1,26 @@
-affiliation: "Slovenská akadémia vied"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
-    all: 17049
-    since_2016: 4225
+    all: 17332
+    since_2017: 3877
 - h_index:
     all: 61
-    since_2016: 25
+    since_2017: 25
 - i10_index:
     all: 152
-    since_2016: 73
-city: "Bratislava"
-country: "Slovensko"
-field: "kvantová fyzika"
+    since_2017: 69
+city: Bratislava
+country: Slovensko
+field: "kvantov\xE1 fyzika"
 hindex: 61
 img: Vladimir_Buzek.jpg
-last_update: '2021-09-16'
+last: "Bu\u017Eek"
+last_update: '2022-03-26'
 links:
   web: http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=buzek
-  životopis: https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf
-
-name: "Vladimír Bužek"
-last: "Bužek"
+  "\u017Eivotopis": https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf
+name: "Vladim\xEDr Bu\u017Eek"
 position: profesor
 scholar: https://scholar.google.com/citations?user=m2hSZWQAAAAJ&amp;hl=en
+sex: "mu\u017E"
 year: 1957
-sex: "muž"

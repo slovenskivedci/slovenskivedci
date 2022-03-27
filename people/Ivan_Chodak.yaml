@@ -1,37 +1,31 @@
-name: "Ivan Chodák"
-last: "Chodák"
-year: 1943
-sex: "muž"
-
-position: "profesor"
-field: "modifikácia polymérov"
-affiliation: "Slovenská akadémia vied"
-city: "Bratislava"
-country: "Slovensko"
-
-hindex: 33
-scholar: https://scholar.google.com/citations?hl=en&user=OGYiJWwAAAAJ
-
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
-    all: 3975
-    since_2016: 1566
+    all: 4083
+    since_2017: 1445
 - h_index:
     all: 33
-    since_2016: 21
+    since_2017: 20
 - i10_index:
-    all: 94
-    since_2016: 49
-
-
-
+    all: 99
+    since_2017: 46
+city: Bratislava
+country: Slovensko
+field: "modifik\xE1cia polym\xE9rov"
+hindex: 33
 img: Ivan_Chodak.jpg
-last_update: '2021-11-16'
+last: "Chod\xE1k"
+last_update: '2022-03-27'
 links:
-  web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1629
   LinkedIn: https://www.linkedin.com/in/ivan-chodak-62147018/?originalSubdomain=sk
   ResearchGate: https://www.researchgate.net/profile/Ivan-Chodak
+  learned.sk: https://www.learned.sk/prof-ing-ivan-chodak-drsc/
   orcid: https://orcid.org/0000-0003-4899-0202
   osobnosti: https://www.osobnosti.sk/osobnost/ivan-chodak-611
   publons: https://publons.com/researcher/1370931/ivan-chodak/
-  learned.sk: https://www.learned.sk/prof-ing-ivan-chodak-drsc/
+  web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1629
+name: "Ivan Chod\xE1k"
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&user=OGYiJWwAAAAJ
+sex: "mu\u017E"
+year: 1943

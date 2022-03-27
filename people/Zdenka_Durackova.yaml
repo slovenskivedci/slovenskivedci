@@ -1,36 +1,30 @@
-name: "Zdenka Ďuračková"
-last: "Ďuračková"
-year: ''
-sex: "žena"
-
-position: profesorka
-field: "biochémia"
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-
-hindex: 33
-scholar: https://scholar.google.com/citations?hl=en&user=Dwytj-UAAAAJ
-
+affiliation: "Univerzita Komensk\xE9ho"
 cited_by:
 - citations:
-    all: 4573
-    since_2016: 2126
+    all: 4739
+    since_2017: 1961
 - h_index:
     all: 33
-    since_2016: 24
+    since_2017: 23
 - i10_index:
-    all: 56
-    since_2016: 402
-
-last_update: '2021-11-20'
-
-links:
-  ResearchGate: https://www.researchgate.net/profile/Zdenka-Durackova
-  orcid: https://orcid.org/0000-0001-6956-7038
-  LinkedIn: https://www.linkedin.com/in/zdenka-durackova-074416117/?originalSubdomain=sk
-  web: https://portal.fmed.uniba.sk/autori.php?tid=18
-  rtvs: https://www.rtvs.sk/radio/archiv/11436/1657210
-  Slovenka roka: https://zenskyweb.sk/clanok/49861-slovenka-roka-2021-emocie-sila-uspesnych-zien
-
+    all: 58
+    since_2017: 41
+city: Bratislava
+country: Slovensko
+field: "bioch\xE9mia"
+hindex: 33
 img: Zdenka_Durackova.jpg
+last: "\u010Eura\u010Dkov\xE1"
+last_update: '2022-03-27'
+links:
+  LinkedIn: https://www.linkedin.com/in/zdenka-durackova-074416117/?originalSubdomain=sk
+  ResearchGate: https://www.researchgate.net/profile/Zdenka-Durackova
+  Slovenka roka: https://zenskyweb.sk/clanok/49861-slovenka-roka-2021-emocie-sila-uspesnych-zien
+  orcid: https://orcid.org/0000-0001-6956-7038
+  rtvs: https://www.rtvs.sk/radio/archiv/11436/1657210
+  web: https://portal.fmed.uniba.sk/autori.php?tid=18
+name: "Zdenka \u010Eura\u010Dkov\xE1"
+position: profesorka
+scholar: https://scholar.google.com/citations?hl=en&user=Dwytj-UAAAAJ
+sex: "\u017Eena"
+year: ''

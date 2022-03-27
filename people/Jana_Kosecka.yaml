@@ -1,32 +1,29 @@
-name: "Jana Košecká"
-last: "Košecká"
-position: "profesorka"
-scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
-year: ''
-sex: "žena"
-
-
-affiliation: "Georga Mason University"
+affiliation: Georga Mason University
 cited_by:
 - citations:
-    all: 10337
-    since_2016: 4311
+    all: 10900
+    since_2017: 4228
 - h_index:
     all: 48
-    since_2016: 33
+    since_2017: 31
 - i10_index:
-    all: 92
-    since_2016: 58
-city: "Fairfax"
-country: "USA"
-field: "robotika a strojové videnie"
+    all: 99
+    since_2017: 57
+city: Fairfax
+country: USA
+field: "robotika a strojov\xE9 videnie"
 hindex: 48
 img: Jana_Kosecka.jpg
-last_update: '2021-09-16'
+last: "Ko\u0161eck\xE1"
+last_update: '2022-03-26'
 links:
-  web 1: https://cs.gmu.edu/~kosecka/
-  web 2: https://volgenau.gmu.edu/profiles/kosecka
-  wikipédia: "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
   KInIT: https://kinit.sk/meet-jana-kosecka-kinit-external-mentor/
   LinkedIn: https://www.linkedin.com/in/jana-kosecka-9a95801b
-  
+  web 1: https://cs.gmu.edu/~kosecka/
+  web 2: https://volgenau.gmu.edu/profiles/kosecka
+  "wikip\xE9dia": "https://en.wikipedia.org/wiki/Jana_Ko\u0161eck\xE1"
+name: "Jana Ko\u0161eck\xE1"
+position: profesorka
+scholar: https://scholar.google.com/citations?hl=en&amp;user=sQ6l4sMAAAAJ
+sex: "\u017Eena"
+year: ''

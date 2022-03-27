@@ -1,32 +1,29 @@
-name: "Norbert Kučerka"
-last: "Kučerka"
-sex: "muž"
-
-position: "vedec"
-scholar: https://scholar.google.com/citations?user=W9ls60kAAAAJ
-year: ''
-
-
-affiliation: "Joint Institute for Nuclear Research"
+affiliation: Joint Institute for Nuclear Research
 cited_by:
 - citations:
-    all: 7190
-    since_2016: 3629
+    all: 7596
+    since_2017: 3410
 - h_index:
     all: 38
-    since_2016: 32
+    since_2017: 32
 - i10_index:
-    all: 64
-    since_2016: 51
-city: "Dubna"
-country: "Ruská federácia"
-field: "biofyzika"
+    all: 67
+    since_2017: 53
+city: Dubna
+country: "Rusk\xE1 feder\xE1cia"
+field: biofyzika
 hindex: 38
 img: Norbert_Kucerka.jpeg
-last_update: '2021-09-16'
+last: "Ku\u010Derka"
+last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Norbert_Kucerka3
+  loop: https://loop.frontiersin.org/people/1181514/overview
   web 1: http://www.norbbi.com
   web 2: https://uniba.sk/en/nc/people/kucerka1/
-  životopis: http://www.norbbi.com/curriculum/curriculum.html
-  loop: https://loop.frontiersin.org/people/1181514/overview
+  "\u017Eivotopis": http://www.norbbi.com/curriculum/curriculum.html
+name: "Norbert Ku\u010Derka"
+position: vedec
+scholar: https://scholar.google.com/citations?user=W9ls60kAAAAJ
+sex: "mu\u017E"
+year: ''

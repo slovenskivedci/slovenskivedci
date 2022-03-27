@@ -1,43 +1,38 @@
-name: "Mária Bieliková"
-last: "Bieliková"
-year: 1966
-sex: "žena"
-
-position: profesorka
-field: "web systémy a umelá inteligencia"
-affiliation: "Kempelen Institute of Intelligent Technologies (KInIT)"
-city: "Bratislava"
-country: "Slovensko"
-
-hindex: 29
-scholar: https://scholar.google.com/citations?hl=en&user=wGB6dnEAAAAJ
-
+affiliation: Kempelen Institute of Intelligent Technologies (KInIT)
 cited_by:
 - citations:
-    all: 4008
-    since_2016: 1719
+    all: 4116
+    since_2017: 1545
 - h_index:
     all: 29
-    since_2016: 18
+    since_2017: 18
 - i10_index:
-    all: 116
-    since_2016: 38
-
-last_update: '2021-11-18'
-
-links:
-  dblp: https://dblp.uni-trier.de/pid/b/MariaBielikova.html
-  ResearchGate: https://www.researchgate.net/profile/Maria-Bielikova
-  hubhub: https://www.hubhub.com/en/meet-our-members-kinit-maria-bielikova-2/
-  IEEE Xplore: https://ieeexplore.ieee.org/author/37372111500
-  orcid: https://orcid.org/0000-0003-4105-3494
-  LinkedIn: https://www.linkedin.com/in/mariabielik/
-  scopus: https://www.scopus.com/authid/detail.uri?authorId=6603891237
-  publons: https://publons.com/researcher/2648318/maria-bielikova/
-  ACM: https://dl.acm.org/profile/81336487737
-  životopis 1: https://uniba.sk/fileadmin/ruk/veda/docprof/FiF_UK/2013/Bielikova/CV_Bielikova.pdf
-  životopis 2: https://ec.europa.eu/jrc/sites/default/files/jrc-bog-cv-bielikova.pdf
-  wikipédia: https://sk.wikipedia.org/wiki/Mária_Bieliková_(informatička)
-  KInIT: https://kinit.sk/member/maria-bielikova/
-
+    all: 117
+    since_2017: 31
+city: Bratislava
+country: Slovensko
+field: "web syst\xE9my a umel\xE1 inteligencia"
+hindex: 29
 img: Maria_Bielikova.jpg
+last: "Bielikov\xE1"
+last_update: '2022-03-27'
+links:
+  ACM: https://dl.acm.org/profile/81336487737
+  IEEE Xplore: https://ieeexplore.ieee.org/author/37372111500
+  KInIT: https://kinit.sk/member/maria-bielikova/
+  LinkedIn: https://www.linkedin.com/in/mariabielik/
+  ResearchGate: https://www.researchgate.net/profile/Maria-Bielikova
+  dblp: https://dblp.uni-trier.de/pid/b/MariaBielikova.html
+  hubhub: https://www.hubhub.com/en/meet-our-members-kinit-maria-bielikova-2/
+  orcid: https://orcid.org/0000-0003-4105-3494
+  publons: https://publons.com/researcher/2648318/maria-bielikova/
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=6603891237
+  "wikip\xE9dia": "https://sk.wikipedia.org/wiki/M\xE1ria_Bielikov\xE1_(informati\u010D\
+    ka)"
+  "\u017Eivotopis 1": https://uniba.sk/fileadmin/ruk/veda/docprof/FiF_UK/2013/Bielikova/CV_Bielikova.pdf
+  "\u017Eivotopis 2": https://ec.europa.eu/jrc/sites/default/files/jrc-bog-cv-bielikova.pdf
+name: "M\xE1ria Bielikov\xE1"
+position: profesorka
+scholar: https://scholar.google.com/citations?hl=en&user=wGB6dnEAAAAJ
+sex: "\u017Eena"
+year: 1966

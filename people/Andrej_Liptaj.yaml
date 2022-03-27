@@ -1,34 +1,26 @@
-name: "Andrej Liptaj"
-last: "Liptaj"
-year: 1980
-sex: "muž"
-
-field: "fyzika"
-position: "vedec"
-affiliation: "Slovenská akadémia vied"
-city: "Bratislava"
-country: "Slovensko"
-
-hindex: 36
-scholar: https://scholar.google.com/citations?user=cwsmFUUAAAAJ&amp;hl=sk
-
-
-
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
-    all: 6101
-    since_2016: 1781
+    all: 6204
+    since_2017: 1451
 - h_index:
     all: 36
-    since_2016: 21
+    since_2017: 20
 - i10_index:
-    all: 52
-    since_2016: 32
-
+    all: 54
+    since_2017: 29
+city: Bratislava
+country: Slovensko
+field: fyzika
+hindex: 36
 img: Andrej_Liptaj.jpg
-
-last_update: '2021-09-16'
-
+last: Liptaj
+last_update: '2022-03-26'
 links:
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=5352
-  životopis: https://www.sav.sk/uploads/users_cv/20191219104536_138_zivotopis.pdf
+  "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20191219104536_138_zivotopis.pdf
+name: Andrej Liptaj
+position: vedec
+scholar: https://scholar.google.com/citations?user=cwsmFUUAAAAJ&amp;hl=sk
+sex: "mu\u017E"
+year: 1980

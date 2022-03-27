@@ -1,27 +1,25 @@
-name: "Marcel Franz"
-last: "Franz"
-sex: "muž"
-
-position: profesor
-scholar: https://scholar.google.com/citations?user=qOmkOIAAAAAJ&amp;hl=en
-year: ''
-
-affiliation: "University of British Columbia"
+affiliation: University of British Columbia
 cited_by:
 - citations:
-    all: 10095
-    since_2016: 4863
+    all: 10616
+    since_2017: 4606
 - h_index:
     all: 55
-    since_2016: 33
+    since_2017: 33
 - i10_index:
-    all: 107
-    since_2016: 78
-city: "Britská Kolumbia"
-country: "Kanada"
-field: "fyzika"
+    all: 108
+    since_2017: 76
+city: "Britsk\xE1 Kolumbia"
+country: Kanada
+field: fyzika
 hindex: 55
 img: Marcel_Franz.jpg
-last_update: '2021-09-16'
+last: Franz
+last_update: '2022-03-26'
 links:
   web: https://phas.ubc.ca/~franz/
+name: Marcel Franz
+position: profesor
+scholar: https://scholar.google.com/citations?user=qOmkOIAAAAAJ&amp;hl=en
+sex: "mu\u017E"
+year: ''

@@ -1,30 +1,28 @@
-name: "Igor Podlubný"
-last: "Podlubný"
-position: profesor
-scholar: http://scholar.google.com/citations?user=4H2CInEAAAAJ
-year: 1961
-sex: "muž"
-
-
-affiliation: "Technická univerzita v Košiciach"
+affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
 cited_by:
 - citations:
-    all: 44509
-    since_2016: 24365
+    all: 47120
+    since_2017: 23424
 - h_index:
     all: 37
-    since_2016: 29
+    since_2017: 28
 - i10_index:
-    all: 72
-    since_2016: 49
-city: "Košice"
-country: "Slovensko"
-field: "aplikovaná matematika"
+    all: 71
+    since_2017: 45
+city: "Ko\u0161ice"
+country: Slovensko
+field: "aplikovan\xE1 matematika"
 hindex: 37
 img: Igor_Podlubny.jpeg
-last_update: '2021-09-16'
+last: "Podlubn\xFD"
+last_update: '2022-03-26'
 links:
   ESET Science Award: https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/igor-podlubny
   learned.sk: https://www.learned.sk/prof-rndr-igor-podlubny-drsc/
   publons: https://publons.com/researcher/2691427/igor-podlubny/
   web: http://people.tuke.sk/igor.podlubny/index.html
+name: "Igor Podlubn\xFD"
+position: profesor
+scholar: http://scholar.google.com/citations?user=4H2CInEAAAAJ
+sex: "mu\u017E"
+year: 1961

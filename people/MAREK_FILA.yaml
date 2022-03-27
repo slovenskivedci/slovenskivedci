@@ -1,35 +1,29 @@
-name: "Marek Fila"
-last: "Fila"
-sex: "muž"
-
-position: profesor
-scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ&amp;hl=en
-year: 1959
-
-affiliation: "Univerzita Komenského"
+affiliation: "Univerzita Komensk\xE9ho"
 cited_by:
 - citations:
-    all: 3000
-    since_2016: 716
+    all: 3013
+    since_2017: 610
 - h_index:
     all: 33
-    since_2016: 14
+    since_2017: 13
 - i10_index:
     all: 67
-    since_2016: 31
-city: "Bratislava"
-country: "Slovensko"
-field: "matematika"
+    since_2017: 25
+city: Bratislava
+country: Slovensko
+field: matematika
 hindex: 33
-
-last_update: '2021-09-16'
+img: Marek_Fila.jpg
+last: Fila
+last_update: '2022-03-26'
 links:
-  web: http://www.iam.fmph.uniba.sk/institute/fila/
+  Mathematics Genealogy: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=122294
   ResearchGate: https://www.researchgate.net/profile/Marek-Fila
   dblp: https://dblp.org/pid/85/3264.html
-  Mathematics Genealogy: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=122294
   orcid: https://orcid.org/0000-0001-6623-2304
-
-
-
-img: Marek_Fila.jpg
+  web: http://www.iam.fmph.uniba.sk/institute/fila/
+name: Marek Fila
+position: profesor
+scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ&amp;hl=en
+sex: "mu\u017E"
+year: 1959

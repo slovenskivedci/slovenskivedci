@@ -1,29 +1,26 @@
-name: "Martin Krššák"
-last: "Krššák"
-sex: "muž"
-
-position: "docent"
-scholar: https://scholar.google.com/citations?hl=en&amp;user=Ynt9VvUAAAAJ
-year: ''
-
-
-affiliation: "Medical University of Vienna"
+affiliation: Medical University of Vienna
 cited_by:
 - citations:
-    all: 12241
-    since_2016: 5035
+    all: 12817
+    since_2017: 4669
 - h_index:
     all: 45
-    since_2016: 30
+    since_2017: 28
 - i10_index:
-    all: 109
-    since_2016: 95
-city: "Viedeň"
-country: "Rakúsko"
-field: "lekárska fyzika"
+    all: 112
+    since_2017: 92
+city: "Viede\u0148"
+country: "Rak\xFAsko"
+field: "lek\xE1rska fyzika"
 hindex: 45
 img: Martin_Krssak.jpg
-last_update: '2021-09-16'
+last: "Kr\u0161\u0161\xE1k"
+last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Martin_Krssak2
   web: https://www.meduniwien.ac.at/hp/programs-endocrinology/supervisors-topics/krssak-martin/
+name: "Martin Kr\u0161\u0161\xE1k"
+position: docent
+scholar: https://scholar.google.com/citations?hl=en&amp;user=Ynt9VvUAAAAJ
+sex: "mu\u017E"
+year: ''

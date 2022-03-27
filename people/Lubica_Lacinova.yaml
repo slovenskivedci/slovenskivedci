@@ -1,30 +1,29 @@
-name: "Ľubica Lacinová"
-last: "Lacinová"
-position: "profesorka"
-scholar: https://scholar.google.com/citations?user=GLiFrtgAAAAJ&amp;hl=sk
-year: 1959
-sex: "žena"
-
-affiliation: "Slovenská akadémia vied"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
-    all: 4480
-    since_2016: 1112
+    all: 4653
+    since_2017: 1032
 - h_index:
-    all: 29
-    since_2016: 16
+    all: 30
+    since_2017: 16
 - i10_index:
-    all: 55
-    since_2016: 28
-city: "Bratislava"
-country: "Slovensko"
-field: "biofyzika"
+    all: 56
+    since_2017: 26
+city: Bratislava
+country: Slovensko
+field: biofyzika
 hindex: 30
 img: Lubica_Lacinova.png
-last_update: '2021-11-06'
+last: "Lacinov\xE1"
+last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/lab/Lubica-Lacinova-Lab
+  news: https://dennikn.sk/2718126/lubica-lacinova-velkym-problemom-na-slovensku-je-neschopnost-spolupracovat-s-niekym-s-kym-nemame-90-percentny-nazorovy-prienik/?fbclid=IwAR2wXDkyYWP1hLWdF5u87hBKjfjEpt4yxy_ykO0FzVi6oAECWez8e0Qhxtk
   "pam\xE4\u0165 n\xE1roda": https://www.pametnaroda.cz/en/lacinova-lubica-1959
   publons: https://publons.com/researcher/463170/lubica-lacinova/
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1384
-  news: https://dennikn.sk/2718126/lubica-lacinova-velkym-problemom-na-slovensku-je-neschopnost-spolupracovat-s-niekym-s-kym-nemame-90-percentny-nazorovy-prienik/?fbclid=IwAR2wXDkyYWP1hLWdF5u87hBKjfjEpt4yxy_ykO0FzVi6oAECWez8e0Qhxtk
+name: "\u013Dubica Lacinov\xE1"
+position: profesorka
+scholar: https://scholar.google.com/citations?user=GLiFrtgAAAAJ&amp;hl=sk
+sex: "\u017Eena"
+year: 1959

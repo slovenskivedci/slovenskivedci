@@ -1,30 +1,29 @@
-name: "Imrich Barák"
-last: "Barák"
-position: "vedec"
-scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
-year: 1961
-sex: "muž"
-
-affiliation: "Slovenská akadémia vied"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 cited_by:
 - citations:
-    all: 3046
-    since_2016: 1096
+    all: 3197
+    since_2017: 1054
 - h_index:
     all: 31
-    since_2016: 18
+    since_2017: 18
 - i10_index:
-    all: 60
-    since_2016: 33
-city: "Bratislava"
-country: "Slovensko"
-field: "molekulárna biológia"
+    all: 65
+    since_2017: 32
+city: Bratislava
+country: Slovensko
+field: "molekul\xE1rna biol\xF3gia"
 hindex: 31
 img: Imrich_Barak.jpg
-last_update: '2021-09-16'
+last: "Bar\xE1k"
+last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Imrich-Barak
   loop: https://loop.frontiersin.org/people/104180/overview
   orcid: https://orcid.org/0000-0002-3690-404X
   osobnosti: https://www.osobnosti.sk/osobnost/imrich-barak-537
   web: http://imb.savba.sk/~barak/
+name: "Imrich Bar\xE1k"
+position: vedec
+scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
+sex: "mu\u017E"
+year: 1961
