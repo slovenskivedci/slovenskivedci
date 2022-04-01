@@ -1,21 +1,16 @@
-name: "Tibor Macko"
-last: "Macko"
-year:
-sex: "muž"
-
-position: "vedec"
-field: "analytická chémia"
-affiliation: "Fraunhofer Institute"
-city: "Darmstadt"
-country: "Nemecko"
-
+affiliation: Fraunhofer Institute
+city: Darmstadt
+country: Nemecko
+field: "analytick\xE1 ch\xE9mia"
 hindex: 30
-scholar: https://scholar.google.com/citations?user=zakQyxMAAAAJ
-
-last_update: '2022-02-04'
-
-links:
-  ResearchGate: https://www.researchgate.net/profile/Tibor-Macko-2
-  LinkedIn: https://www.linkedin.com/in/tibor-macko-915b1912/?originalSubdomain=de
-
 img: Tibor_Macko.jpg
+last: Macko
+last_update: '2022-04-01'
+links:
+  LinkedIn: https://www.linkedin.com/in/tibor-macko-915b1912/?originalSubdomain=de
+  ResearchGate: https://www.researchgate.net/profile/Tibor-Macko-2
+name: Tibor Macko
+position: vedec
+scholar: https://scholar.google.com/citations?user=zakQyxMAAAAJ
+sex: "mu\u017E"
+year: null
