@@ -1,19 +1,16 @@
-name: "Branislav Kvetoň"
-last: "Kvetoň"
-year: ''
-sex: "muž"
-
-
-position: "vedec"
-scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
-
-affiliation: "Amazon"
-city: "Berkeley"
-country: "USA"
+affiliation: Amazon
+city: Berkeley
+country: USA
 field: "strojov\xE9 u\u010Denie"
 hindex: 33
 img: Branislav_Kveton.jpg
+last: "Kveto\u0148"
 last_update: '2022-03-04'
 links:
   dblp: https://dblp.org/pid/92/5526.html
   web: http://www.bkveton.com
+name: "Branislav Kveto\u0148"
+position: vedec
+scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
+sex: "mu\u017E"
+year: ''

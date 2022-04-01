@@ -1,23 +1,16 @@
-name: "Jaroslav Fabián"
-last: "Fabián"
-position: "profesor"
-
-year: 1967
-sex: "muž"
-
+affiliation: University of Regensburg
+city: Regensburg
+country: Nemecko
+field: "kvantov\xE1 fyzika"
 hindex: 54
-scholar: https://scholar.google.de/citations?user=bNu69CcAAAAJ&amp;hl=en
-
-affiliation: "University of Regensburg"
-
-city: "Regensburg"
-country: "Nemecko"
-field: "kvantová fyzika"
-
-
+img: Jaroslav_Fabian.jpg
+last: "Fabi\xE1n"
 last_update: '2022-03-04'
 links:
   web: http://www.physik.uni-regensburg.de/forschung/fabian/
-  životopis: http://www.physik.uni-regensburg.de/forschung/fabian/pages/mainframes/people/JaroslavFabian/resume.pdf
-
-img: Jaroslav_Fabian.jpg
+  "\u017Eivotopis": http://www.physik.uni-regensburg.de/forschung/fabian/pages/mainframes/people/JaroslavFabian/resume.pdf
+name: "Jaroslav Fabi\xE1n"
+position: profesor
+scholar: https://scholar.google.de/citations?user=bNu69CcAAAAJ&amp;hl=en
+sex: "mu\u017E"
+year: 1967

@@ -1,24 +1,17 @@
-name: "Ľuboš Pástor"
-last: "Pástor"
-
-year: 1974
-sex: "muž"
-
-position: "profesor"
-field: "ekonómia"
-affiliation: "University of Chicago"
-city: "Chicago"
-country: "USA"
-
-
+affiliation: University of Chicago
+city: Chicago
+country: USA
+field: "ekon\xF3mia"
 hindex: 31
-scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
+img: Lubos_Pastor.png
+last: "P\xE1stor"
 last_update: '2022-03-04'
-
 links:
   NBS: https://www.nbs.sk/en/about-the-bank/bank-board-of-the-nbs/the-bank-board-member-lubos-pastor
-  web: https://faculty.chicagobooth.edu/lubos-pastor
   osobnosti: https://www.osobnosti.sk/osobnost/lubos-pastor-1801
-
-
-img: Lubos_Pastor.png
+  web: https://faculty.chicagobooth.edu/lubos-pastor
+name: "\u013Dubo\u0161 P\xE1stor"
+position: profesor
+scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
+sex: "mu\u017E"
+year: 1974
