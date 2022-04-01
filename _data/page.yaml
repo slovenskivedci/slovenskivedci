@@ -88,6 +88,7 @@ affiliation:
   University of Toronto: 2
   University of Vienna: 1
   University of Washington: 1
+  University of Western Ontario: 1
   University of Zurich: 1
   "Universit\xE9 Aix-Marseille": 1
   Univerzita Karlova: 2
@@ -111,7 +112,7 @@ countries:
   "D\xE1nsko": 1
   "Franc\xFAzsko": 1
   Holandsko: 3
-  Kanada: 10
+  Kanada: 11
   Katar: 2
   Nemecko: 9
   "N\xF3rsko": 1
@@ -165,6 +166,7 @@ hindex:
 - 89
 - 41
 - 42
+- 36
 - 50
 - 33
 - 79
@@ -350,4 +352,4 @@ hindex:
 - 43
 - 35
 man: 189
-woman: 32
+woman: 33

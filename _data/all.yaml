@@ -3807,6 +3807,38 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
+- affiliation: University of Western Ontario
+  affiliationurl: University_of_Western_Ontario
+  city: London
+  cityurl: London
+  country: Kanada
+  countryurl: Kanada
+  field: "sociol\xF3gia"
+  fieldurl: sociologia
+  hindex: 36
+  img: Anna_Zajacova.jpg
+  last: Zajacova
+  last_update: '2022-04-01'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/anna-zajacova-2065a332/?originalSubdomain=ca
+  - - orcid
+    - https://orcid.org/0000-0002-3880-6187
+  - - twitter
+    - https://twitter.com/AnnaZajacova
+  - - web
+    - https://annazajacova.com
+  - - web 2
+    - https://sociology.uwo.ca/people/profiles/Zajacova.html
+  - - "\u017Eivotopis"
+    - https://annazajacova.com/wp-content/uploads/2021/11/Zajacova-CV-Nov-2021.pdf
+  name: "Anna Zajacov\xE1"
+  position: docentka
+  positionurl: docentka
+  scholar: https://scholar.google.com/citations?user=KuJXbr4AAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: null
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
