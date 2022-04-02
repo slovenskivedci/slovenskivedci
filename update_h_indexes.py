@@ -1,5 +1,5 @@
 
-import yaml
+import oyaml as yaml
 import os
 from serpapi import GoogleSearch
 import glob
