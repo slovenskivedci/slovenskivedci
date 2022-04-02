@@ -91,7 +91,16 @@ import numpy as np
 
 stats["hindex_hist_x"]= [int(e) for e in (np.histogram(stats['hindex'],10)[1])]
 
-stats["hindex_hist_x"] = "["+",".join([str(e) for e in stats["hindex_hist_x"]])+"]"
+
+v = stats["hindex_hist_x"]
+xcount="["
+for i, val in enumerate(v[:-1]): 
+    xcount+= "'"+str(val)+"-"+str(v[i+1])+"',"
+xcount+="]"
+
+
+
+stats["hindex_hist_x"] = xcount #"["+",".join([str(e) for e in stats["hindex_hist_x"]])+"]"
 
 stats["hindex_hist_count"]=list([int(e) for e in (np.histogram(stats['hindex'],10)[0])])
 stats["hindex_hist_count"]= "["+",".join([str(e) for e in stats["hindex_hist_count"]])+"]"
