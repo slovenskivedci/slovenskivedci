@@ -371,7 +371,7 @@
   hindex: 68
   img: Vladimir_Dzavik.jpg
   last: Dzavik
-  last_update: '2022-02-04'
+  last_update: '2022-04-01'
   links:
   - - LinkedIn
     - "https://www.linkedin.com/in/vladim%C3%ADr-d\u017Eav%C3%ADk-07a36017/?originalSubdomain=ca"
@@ -403,7 +403,7 @@
   hindex: 67
   img: Eleonora_Fabianova.jpg
   last: Fabianova
-  last_update: '2022-02-04'
+  last_update: '2022-04-01'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/eleonora-fabianova-09818942/?originalSubdomain=sk
@@ -800,6 +800,34 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1952
+- affiliation: Medical University of Vienna
+  affiliationurl: Medical_University_of_Vienna
+  city: "Viede\u0148"
+  cityurl: Vieden
+  country: "Rak\xFAsko"
+  countryurl: Rakusko
+  field: "hematol\xF3gia"
+  fieldurl: hematologia
+  hindex: 57
+  img: Robert_Kralovics.jpg
+  last: Kralovics
+  last_update: '2022-04-01'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/robert-kralovics-0150ab32/
+  - - orcid
+    - https://orcid.org/0000-0002-6997-8539
+  - - web
+    - https://www.meduniwien.ac.at/hp/sfb-mpn/projects/project-02-somatic-aberration-networks-in-mpn/principal-investigator/
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Robert_Kralovics
+  name: "R\xF3bert Kr\xE1lovics"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=-oTaCR8AAAAJ&amp
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1970
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -832,34 +860,30 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1942
-- affiliation: Medical University of Vienna
-  affiliationurl: Medical_University_of_Vienna
-  city: "Viede\u0148"
-  cityurl: Vieden
-  country: "Rak\xFAsko"
-  countryurl: Rakusko
-  field: "hematol\xF3gia"
-  fieldurl: hematologia
+- affiliation: RWTH Aachen
+  affiliationurl: RWTH_Aachen
+  city: Aachen
+  cityurl: Aachen
+  country: Nemecko
+  countryurl: Nemecko
+  field: "patol\xF3gia"
+  fieldurl: patologia
   hindex: 56
-  img: Robert_Kralovics.jpg
-  last: Kralovics
-  last_update: '2022-02-02'
+  img: Peter_Boor.jpeg
+  last: Boor
+  last_update: '2022-04-01'
   links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/robert-kralovics-0150ab32/
-  - - orcid
-    - https://orcid.org/0000-0002-6997-8539
   - - web
-    - https://www.meduniwien.ac.at/hp/sfb-mpn/projects/project-02-somatic-aberration-networks-in-mpn/principal-investigator/
-  - - "wikip\xE9dia"
-    - https://en.wikipedia.org/wiki/Robert_Kralovics
-  name: "R\xF3bert Kr\xE1lovics"
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=-oTaCR8AAAAJ&amp
+    - https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/
+  - - "\u017Eivotopis"
+    - http://www.imbm.sk/wp-content/uploads/2018/01/cv-english-pb.pdf
+  name: Peter Boor
+  position: docent
+  positionurl: docent
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
   sex: "mu\u017E"
   sexurl: muz
-  year: 1970
+  year: 1979
 - affiliation: Monash University
   affiliationurl: Monash_University
   city: Melbourne
@@ -892,30 +916,6 @@
   sex: "\u017Eena"
   sexurl: zena
   year: ''
-- affiliation: RWTH Aachen
-  affiliationurl: RWTH_Aachen
-  city: Aachen
-  cityurl: Aachen
-  country: Nemecko
-  countryurl: Nemecko
-  field: "patol\xF3gia"
-  fieldurl: patologia
-  hindex: 55
-  img: Peter_Boor.jpeg
-  last: Boor
-  last_update: '2022-02-04'
-  links:
-  - - web
-    - https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/
-  - - "\u017Eivotopis"
-    - http://www.imbm.sk/wp-content/uploads/2018/01/cv-english-pb.pdf
-  name: Peter Boor
-  position: docent
-  positionurl: docent
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1979
 - affiliation: University of British Columbia
   affiliationurl: University_of_British_Columbia
   city: "Britsk\xE1 Kolumbia"
@@ -1388,7 +1388,7 @@
   hindex: 50
   img: Peter_Richtarik.jpg
   last: Richtarik
-  last_update: '2022-02-03'
+  last_update: '2022-04-01'
   links:
   - - dblp
     - https://dblp.org/pid/62/8001.html
@@ -1927,6 +1927,32 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1962
+- affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
+  city: "Ko\u0161ice"
+  cityurl: Kosice
+  country: Slovensko
+  countryurl: Slovensko
+  field: "soci\xE1lna psychol\xF3gia"
+  fieldurl: socialna_psychologia
+  hindex: 44
+  img: Andrea_Madarasova_Geckova.jpg
+  last: Geckova
+  last_update: '2022-04-01'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-2993-3798
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Andrea_Madarasova_Geckova2
+  - - web
+    - https://www.upjs.sk/LF/zamestnanec/andrea.geckova/
+  name: "Andrea Madarasov\xE1 Geckov\xE1"
+  position: profesorka
+  positionurl: profesorka
+  scholar: https://scholar.google.sk/citations?hl=sk&amp;user=VbZM3zYAAAAJ
+  sex: "\u017Eena"
+  sexurl: zena
+  year: 1972
 - affiliation: Lawrence Berkeley National Laboratory
   affiliationurl: Lawrence_Berkeley_National_Laboratory
   city: Berkeley
@@ -1983,6 +2009,34 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  affiliationurl: Slovenska_akademia_vied
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "makromolekul\xE1rna ch\xE9mia"
+  fieldurl: makromolekularna_chemia
+  hindex: 44
+  img: Igor_Lacik.jpeg
+  last: Lacik
+  last_update: '2022-04-01'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/igor-lacik
+  - - web
+    - http://www.polymer.sav.sk/OVB-Staff
+  - - "\u017Eivotopis 1"
+    - http://www.polymer.sav.sk/CVcka/cvlacik.pdf
+  - - "\u017Eivotopis 2"
+    - https://www.learned.sk/wp-content/uploads/2020/01/ZIVOTOPIS_Lacik_Europass-Jan-2020_pre-UcSS.pdf
+  name: "Igor Lac\xEDk"
+  position: vedec
+  positionurl: vedec
+  scholar: https://scholar.google.com/citations?user=SB6Z-ScAAAAJ&amp;hl=en
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1962
 - affiliation: "Z\xE1pado\u010Desk\xE1 univerzita v Plzni"
   affiliationurl: Zapadoceska_univerzita_v_Plzni
   city: "Plze\u0148"
@@ -1994,7 +2048,7 @@
   hindex: 44
   img: Jan_Minar.jpeg
   last: Minar
-  last_update: '2022-02-02'
+  last_update: '2022-04-01'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Jan-Minar
@@ -2089,32 +2143,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
-- affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
-  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
-  city: "Ko\u0161ice"
-  cityurl: Kosice
-  country: Slovensko
-  countryurl: Slovensko
-  field: "soci\xE1lna psychol\xF3gia"
-  fieldurl: socialna_psychologia
-  hindex: 43
-  img: Andrea_Madarasova_Geckova.jpg
-  last: Geckova
-  last_update: '2022-02-04'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0003-2993-3798
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Andrea_Madarasova_Geckova2
-  - - web
-    - https://www.upjs.sk/LF/zamestnanec/andrea.geckova/
-  name: "Andrea Madarasov\xE1 Geckov\xE1"
-  position: profesorka
-  positionurl: profesorka
-  scholar: https://scholar.google.sk/citations?hl=sk&amp;user=VbZM3zYAAAAJ
-  sex: "\u017Eena"
-  sexurl: zena
-  year: 1972
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -2173,34 +2201,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1968
-- affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  affiliationurl: Slovenska_akademia_vied
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "makromolekul\xE1rna ch\xE9mia"
-  fieldurl: makromolekularna_chemia
-  hindex: 43
-  img: Igor_Lacik.jpeg
-  last: Lacik
-  last_update: '2022-02-04'
-  links:
-  - - ESET Science Award
-    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/igor-lacik
-  - - web
-    - http://www.polymer.sav.sk/OVB-Staff
-  - - "\u017Eivotopis 1"
-    - http://www.polymer.sav.sk/CVcka/cvlacik.pdf
-  - - "\u017Eivotopis 2"
-    - https://www.learned.sk/wp-content/uploads/2020/01/ZIVOTOPIS_Lacik_Europass-Jan-2020_pre-UcSS.pdf
-  name: "Igor Lac\xEDk"
-  position: vedec
-  positionurl: vedec
-  scholar: https://scholar.google.com/citations?user=SB6Z-ScAAAAJ&amp;hl=en
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1962
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -2296,7 +2296,7 @@
   hindex: 43
   img: Tomas_Trnovec.jpg
   last: Trnovec
-  last_update: '2022-02-04'
+  last_update: '2022-04-01'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/tomas-trnovec-88a28238/?originalSubdomain=sk
@@ -2356,7 +2356,7 @@
   hindex: 42
   img: Peter_Celec.jpg
   last: Celec
-  last_update: '2022-02-04'
+  last_update: '2022-04-01'
   links:
   - - web
     - https://www.imbm.sk/sk/members/peter-celec-sk/
@@ -2380,7 +2380,7 @@
   hindex: 42
   img: Peter_Gemeiner.png
   last: Gemeiner
-  last_update: '2022-02-04'
+  last_update: '2022-04-01'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Peter_Gemeiner
@@ -2486,7 +2486,7 @@
   hindex: 42
   img: Branislav_Vrana.jpg
   last: Vrana
-  last_update: '2022-02-04'
+  last_update: '2022-04-01'
   links:
   - - orcid
     - https://orcid.org/0000-0003-4221-5774
@@ -2725,6 +2725,38 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1955
+- affiliation: University of Technology Sydney
+  affiliationurl: University_of_Technology_Sydney
+  city: Sydney
+  cityurl: Sydney
+  country: "Austr\xE1lia"
+  countryurl: Australia
+  field: fyzika
+  fieldurl: fyzika
+  hindex: 41
+  img: Milos_Toth.png
+  last: Toth
+  last_update: '2022-04-01'
+  links:
+  - - omicsonline
+    - https://biography.omicsonline.org/australia/university-of-technology-sydney/milos-toth-974580
+  - - orcid
+    - https://orcid.org/0000-0003-1564-4899
+  - - publons
+    - https://publons.com/researcher/2671223/milos-toth/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Milos-Toth-10585893
+  - - web 1
+    - https://profiles.uts.edu.au/Milos.Toth
+  - - web 2
+    - https://tmos.org.au/team/cis/
+  name: "Milo\u0161 T\xF3th"
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=en&user=OMBz3bIAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: National Institute of Allergy and Infectious Diseases
   affiliationurl: National_Institute_of_Allergy_and_Infectious_Diseases
   city: Bethesda
@@ -2757,6 +2789,32 @@
   sex: "\u017Eena"
   sexurl: zena
   year: 1969
+- affiliation: Research and Development Services
+  affiliationurl: Research_and_Development_Services
+  city: Brno
+  cityurl: Brno
+  country: "\u010Cesko"
+  countryurl: Cesko
+  field: "biol\xF3gia"
+  fieldurl: biologia
+  hindex: 40
+  img: Peter_Kruzliak.jpg
+  last: Kruzliak
+  last_update: '2022-04-01'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-kruzliak-b61a8a47/?originalSubdomain=cz
+  - - omicsonline
+    - https://www.omicsonline.org/author-profile/peter-kruzliak-243383/
+  - - orcid
+    - https://orcid.org/0000-0002-7069-3784
+  name: "Peter Kru\u017Eliak"
+  position: CEO
+  positionurl: CEO
+  scholar: https://scholar.google.com/citations?user=ICo_N5sAAAAJ&hl=sk
+  sex: "mu\u017E"
+  sexurl: muz
+  year: ''
 - affiliation: "Univerzita Komensk\xE9ho"
   affiliationurl: Univerzita_Komenskeho
   city: Bratislava
@@ -2842,7 +2900,7 @@
   hindex: 39
   img: Tomas_Kirchhoff.jpg
   last: Kirchhoff
-  last_update: '2022-02-04'
+  last_update: '2022-04-01'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/tomas-kirchhoff-5b84b43b/
@@ -2886,32 +2944,6 @@
   position: konzultant
   positionurl: konzultant
   scholar: https://scholar.google.com/citations?hl=en&amp;user=uQGtqxoAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
-- affiliation: Research and Development Services
-  affiliationurl: Research_and_Development_Services
-  city: Brno
-  cityurl: Brno
-  country: "\u010Cesko"
-  countryurl: Cesko
-  field: "biol\xF3gia"
-  fieldurl: biologia
-  hindex: 39
-  img: Peter_Kruzliak.jpg
-  last: Kruzliak
-  last_update: '2022-02-04'
-  links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/peter-kruzliak-b61a8a47/?originalSubdomain=cz
-  - - omicsonline
-    - https://www.omicsonline.org/author-profile/peter-kruzliak-243383/
-  - - orcid
-    - https://orcid.org/0000-0002-7069-3784
-  name: "Peter Kru\u017Eliak"
-  position: CEO
-  positionurl: CEO
-  scholar: https://scholar.google.com/citations?user=ICo_N5sAAAAJ&hl=sk
   sex: "mu\u017E"
   sexurl: muz
   year: ''
@@ -2990,38 +3022,6 @@
   position: profesor
   positionurl: profesor
   scholar: https://scholar.google.sk/citations?user=jntY1osAAAAJ&amp
-  sex: "mu\u017E"
-  sexurl: muz
-  year: ''
-- affiliation: University of Technology Sydney
-  affiliationurl: University_of_Technology_Sydney
-  city: Sydney
-  cityurl: Sydney
-  country: "Austr\xE1lia"
-  countryurl: Australia
-  field: fyzika
-  fieldurl: fyzika
-  hindex: 39
-  img: Milos_Toth.png
-  last: Toth
-  last_update: '2022-02-04'
-  links:
-  - - omicsonline
-    - https://biography.omicsonline.org/australia/university-of-technology-sydney/milos-toth-974580
-  - - orcid
-    - https://orcid.org/0000-0003-1564-4899
-  - - publons
-    - https://publons.com/researcher/2671223/milos-toth/
-  - - ResearchGate
-    - https://www.researchgate.net/scientific-contributions/Milos-Toth-10585893
-  - - web 1
-    - https://profiles.uts.edu.au/Milos.Toth
-  - - web 2
-    - https://tmos.org.au/team/cis/
-  name: "Milo\u0161 T\xF3th"
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=en&user=OMBz3bIAAAAJ
   sex: "mu\u017E"
   sexurl: muz
   year: ''
@@ -3506,7 +3506,7 @@
   hindex: 37
   img: Alexander_Sirotkin.jpg
   last: Sirotkin
-  last_update: '2022-02-04'
+  last_update: '2022-04-01'
   links:
   - - publons
     - https://publons.com/researcher/2009031/alexander-v-sirotkin/
@@ -3656,7 +3656,7 @@
   hindex: 36
   img: Tomas_Kalincik.png
   last: Kalincik
-  last_update: '2022-02-04'
+  last_update: '2022-04-01'
   links:
   - - orcid
     - https://orcid.org/0000-0003-3778-1376
@@ -3701,6 +3701,42 @@
   sex: "mu\u017E"
   sexurl: muz
   year: ''
+- affiliation: "Univerzita Komensk\xE9ho"
+  affiliationurl: Univerzita_Komenskeho
+  city: Bratislava
+  cityurl: Bratislava
+  country: Slovensko
+  countryurl: Slovensko
+  field: "onkol\xF3gia"
+  fieldurl: onkologia
+  hindex: 36
+  img: Peter_Kubatka.jpg
+  last: Kubatka
+  last_update: '2022-04-01'
+  links:
+  - - facebook
+    - https://m.facebook.com/peter.kubatka
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
+  - - loop
+    - https://loop.frontiersin.org/people/1386452/overview
+  - - Microsoft Academic
+    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
+  - - orcid
+    - https://orcid.org/0000-0003-4312-5076
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Kubatka
+  - - web
+    - https://www.jfmed.uniba.sk/en/departments/scientific-and-teaching-workplaces/departments-of-basic-sciences/department-of-medical-biology/staff/
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/veda/docprof/PriF_UK/KUBATKA/CV_Kubatka.pdf
+  name: Peter Kubatka
+  position: profesor
+  positionurl: profesor
+  scholar: https://scholar.google.com/citations?hl=sk&user=Bg2qAyoAAAAJ
+  sex: "mu\u017E"
+  sexurl: muz
+  year: 1973
 - affiliation: "Slovensk\xE1 akad\xE9mia vied"
   affiliationurl: Slovenska_akademia_vied
   city: Bratislava
@@ -3939,42 +3975,6 @@
   sex: "mu\u017E"
   sexurl: muz
   year: 1978
-- affiliation: "Univerzita Komensk\xE9ho"
-  affiliationurl: Univerzita_Komenskeho
-  city: Bratislava
-  cityurl: Bratislava
-  country: Slovensko
-  countryurl: Slovensko
-  field: "onkol\xF3gia"
-  fieldurl: onkologia
-  hindex: 35
-  img: Peter_Kubatka.jpg
-  last: Kubatka
-  last_update: '2022-02-04'
-  links:
-  - - facebook
-    - https://m.facebook.com/peter.kubatka
-  - - LinkedIn
-    - https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
-  - - loop
-    - https://loop.frontiersin.org/people/1386452/overview
-  - - Microsoft Academic
-    - https://academic.microsoft.com/author/1968439090/publication/search?q=Peter%20Kubatka&qe=Composite(AA.AuId%253D1968439090)&f=&orderBy=0&paperId=3048584869
-  - - orcid
-    - https://orcid.org/0000-0003-4312-5076
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Peter-Kubatka
-  - - web
-    - https://www.jfmed.uniba.sk/en/departments/scientific-and-teaching-workplaces/departments-of-basic-sciences/department-of-medical-biology/staff/
-  - - "\u017Eivotopis"
-    - https://uniba.sk/fileadmin/ruk/veda/docprof/PriF_UK/KUBATKA/CV_Kubatka.pdf
-  name: Peter Kubatka
-  position: profesor
-  positionurl: profesor
-  scholar: https://scholar.google.com/citations?hl=sk&user=Bg2qAyoAAAAJ
-  sex: "mu\u017E"
-  sexurl: muz
-  year: 1973
 - affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   city: "Ko\u0161ice"
@@ -5400,7 +5400,7 @@
   hindex: 31
   img: Dusan_Gomory.png
   last: Gomory
-  last_update: '2022-02-04'
+  last_update: '2022-04-01'
   links:
   - - loop
     - https://loop.frontiersin.org/people/299224/overview
@@ -6130,7 +6130,7 @@
   hindex: 30
   img: Tibor_Macko.jpg
   last: Macko
-  last_update: '2022-02-04'
+  last_update: '2022-04-01'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/tibor-macko-915b1912/?originalSubdomain=de

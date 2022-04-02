@@ -26,6 +26,7 @@ def repl(text):
 	return unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode('UTF-8').replace(",","_").replace("(","_").replace(")","_")
 
 for y in glob.glob("./people/*.yaml"):
+	print(y)
 	with open(y) as f:
 		dic = yaml.safe_load(f)
 
