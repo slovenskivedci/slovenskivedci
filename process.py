@@ -110,13 +110,23 @@ print(stats["hindex_hist_x"],stats["hindex_hist_count"])
 
 
 d = stats["countries"]
-
 d = sorted([(k,d[k]) for k in d],  key = lambda e: (-e[1],repl(e[0])))
 countries = "["+ ",".join(["'"+str(e[0])+"'" for e in d])+"]"
 countriesCount ="["+ ",".join([str(e[1]) for e in d])+"]"
 
 stats["country"]=countries
 stats["countryCount"]=countriesCount
+
+
+
+d = stats["affiliation"]
+d = sorted([(k,d[k]) for k in d],  key = lambda e: (-e[1],repl(e[0])))
+affiliation = "["+ ",".join(["'"+str(e[0])+"'" for e in d])+"]"
+affiliationCount ="["+ ",".join([str(e[1]) for e in d])+"]"
+
+stats["affiliation"]=affiliation
+stats["affiliationCount"]=affiliationCount
+
 
  
 with open(r'_data/page.yaml', 'w') as file:

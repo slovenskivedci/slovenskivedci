@@ -166,8 +166,50 @@ title: Statistiky
       <div class="post-wrapper" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
 
         <div class="row" align="center">
-              Počet vedcov a vedkýň podľa pracoviska:<br><br>
-          <img src="stats/affiliation.jpg"/>
+               
+            <canvas id="myChartCountByWorkplace" width="400" height="400"></canvas>
+
+
+ 
+			<script>
+			const ctxCountByWorkplace = document.getElementById('myChartCountByWorkplace');
+			const dataCountByWorkplace = {
+			  labels:{{ site.data.page.affiliation }} ,
+			  datasets: [
+				{
+				  label: 'Count',
+				  data: {{ site.data.page.affiliationCount }},
+				  borderColor: 'rgba(255, 99, 132, 0.2)',
+				  backgroundColor: 'rgba(255, 99, 132, 1)',
+				  borderWidth: 2,
+				  borderRadius: 5,
+				  borderSkipped: false,
+				}
+			  ]
+			};
+			
+			const myChartCountByWorkplace = new Chart(ctxCountByWorkplace,
+			    {
+  type: 'bar',
+  data: dataCountByWorkplace,
+  options: {
+    responsive: true,
+    plugins: {
+      legend: {
+        position: 'top',
+      },
+      title: {
+        display: true,
+        text: 'Počet vedcov a vedkýň podľa pracoviska'
+      }
+    }
+  },
+});
+			</script>  
+
+
+              
+          <!--<img src="stats/affiliation.jpg"/>-->
         </div>
       </div>
 	</div>
