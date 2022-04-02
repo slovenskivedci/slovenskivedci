@@ -5,35 +5,160 @@ title: Statistiky
 
 <div role="list" class="w-dyn-items">
 
-<!--
+
+
+
+
+    <div role="listitem" class="w-dyn-item">
+      <div class="post-wrapper" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+
+
+        <div class="row" align="center">
+           
+          <canvas id="myChartHindex" width="400" height="400"></canvas>
+		<script>
+			const ctxmyChartHindex = document.getElementById('myChartHindex');
+			 
+			
+			const dataHIndexHist = {
+			  labels:{{ site.data.page.hindex_hist_x }} ,
+			  datasets: [
+				{
+				  label: 'Count',
+				  data: {{ site.data.page.hindex_hist_count }},
+				  borderColor: 'rgba(255, 99, 132, 0.2)',
+				  backgroundColor: 'rgba(255, 99, 132, 1)',
+				  borderWidth: 2,
+				  borderRadius: 5,
+				  borderSkipped: false,
+				}
+			  ]
+			};
+			
+			const myChartHindex = new Chart(ctxmyChartHindex,
+			    {
+  type: 'bar',
+  data: dataHIndexHist,
+  options: {
+    responsive: true,
+    plugins: {
+      legend: {
+        position: 'top',
+      },
+      title: {
+        display: true,
+        text: 'Počet vedcov a vedkýň podľa h-indexu (histogram)'
+      }
+    }
+  },
+});
+			</script> 
+
+
+
+          <!--<img  src="stats/hindex.jpg"/>-->
+        </div>
+      </div>
+	</div>
+
+
+
+
+
+
   <div role="listitem" class="w-dyn-item">
     <div class="post-wrapper" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
       <div class="row">
-        <img src="stats/gender.jpg"/>
+        <canvas id="myChartGender" width="400" height="400"></canvas>
       </div>
     </div>
-  -->
+    
+	  
+		
+	<script>
+	const ctx = document.getElementById('myChartGender');
+	const myChart = new Chart(ctx, {
+		type: 'doughnut',
+		data: {
+			labels: ['ženy', 'muži'],
+			datasets: [{
+				label: '# count',
+				data: [{{ site.data.page.woman }}, {{ site.data.page.man }}],
+				backgroundColor: [
+					'rgba(255, 99, 132, 0.2)',
+					'rgba(54, 162, 235, 0.2)',
+				],
+				borderColor: [
+					'rgba(255, 99, 132, 1)',
+					'rgba(54, 162, 235, 1)',
+				],
+				borderWidth: 1
+			}]
+		},
+		options: {
+			scales: {
+				y: {
+					beginAtZero: true
+				}
+			}
+		}
+	});
+	</script>  
+	</div>  
+
 
 
     <div role="listitem" class="w-dyn-item">
       <div class="post-wrapper" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
 
-
         <div class="row" align="center">
-          Počet vedcov a vedkýň podľa h-indexu (histogram):<br><br>
-          <img  src="stats/hindex.jpg"/>
+            <canvas id="myChartCountByCountry" width="400" height="400"></canvas>
+
+
+ 
+			<script>
+			const ctxCountByCountry = document.getElementById('myChartCountByCountry');
+			const dataCountByCountry = {
+			  labels:{{ site.data.page.country }} ,
+			  datasets: [
+				{
+				  label: 'Count',
+				  data: {{ site.data.page.countryCount }},
+				  borderColor: 'rgba(255, 99, 132, 0.2)',
+				  backgroundColor: 'rgba(255, 99, 132, 1)',
+				  borderWidth: 2,
+				  borderRadius: 5,
+				  borderSkipped: false,
+				}
+			  ]
+			};
+			
+			const myChartCountByCountry = new Chart(ctxCountByCountry,
+			    {
+  type: 'bar',
+  data: dataCountByCountry,
+  options: {
+    responsive: true,
+    plugins: {
+      legend: {
+        position: 'top',
+      },
+      title: {
+        display: true,
+        text: 'Počet vedcov a vedkýň podľa krajiny pôsobenia'
+      }
+    }
+  },
+});
+			</script>  
+
+
+
+
+          <!--<img src="stats/countries.jpg"/>-->
         </div>
       </div>
-
-
-    <div role="listitem" class="w-dyn-item">
-      <div class="post-wrapper" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-
-        <div class="row" align="center">
-          Počet vedcov a vedkýň podľa krajiny pôsobenia:<br><br>
-          <img src="stats/countries.jpg"/>
-        </div>
-      </div>
+    </div>  
 
 
 
@@ -45,6 +170,6 @@ title: Statistiky
           <img src="stats/affiliation.jpg"/>
         </div>
       </div>
-
+	</div>
 
 </div>

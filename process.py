@@ -1,4 +1,4 @@
-import yaml
+import oyaml as yaml
 import os
 
 import glob
@@ -86,18 +86,33 @@ with open(r'_data/all.yaml', 'w') as file:
 	documents = yaml.dump(alllst, file)
 
 
+import numpy as np
 
 
+stats["hindex_hist_x"]= [int(e) for e in (np.histogram(stats['hindex'],10)[1])]
+
+stats["hindex_hist_x"] = "["+",".join([str(e) for e in stats["hindex_hist_x"]])+"]"
+
+stats["hindex_hist_count"]=list([int(e) for e in (np.histogram(stats['hindex'],10)[0])])
+stats["hindex_hist_count"]= "["+",".join([str(e) for e in stats["hindex_hist_count"]])+"]"
 
 
+print(stats["hindex_hist_x"],stats["hindex_hist_count"])
 
 
+d = stats["countries"]
 
+d = sorted([(k,d[k]) for k in d],  key = lambda e: (-e[1],repl(e[0])))
+countries = "["+ ",".join(["'"+str(e[0])+"'" for e in d])+"]"
+countriesCount ="["+ ",".join([str(e[1]) for e in d])+"]"
+
+stats["country"]=countries
+stats["countryCount"]=countriesCount
+
+ 
 with open(r'_data/page.yaml', 'w') as file:
 	documents = yaml.dump(stats, file)
-
-
-
+ 
 
 
 

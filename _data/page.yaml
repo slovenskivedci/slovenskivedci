@@ -1,133 +1,27 @@
-affiliation:
-  Aalborg Universitet: 1
-  Amazon: 1
-  Apple: 1
-  Brookhaven National Laboratory: 1
-  CSIRO: 1
-  Cardiff University: 1
-  Carleton University: 1
-  Central European University: 1
-  Curtin University: 1
-  Delft University of Technology: 2
-  "ETH Z\xFCrich": 2
-  "Eur\xF3pska komisia": 1
-  Florida State University: 1
-  Fraunhofer Institute: 1
-  Georga Mason University: 1
-  Google: 1
-  Hannover Medical School: 1
-  IST Austria: 1
-  Indiana University Bloomington: 1
-  Institute of Tropical Medicine Antwerp: 1
-  International Institute for Applied Systems Analysis: 1
-  Joint Institute for Nuclear Research: 1
-  "J\xFClich Research Centre": 1
-  KAUST: 2
-  Karlsruhe Institute of Technology: 1
-  Krembil Research Institute: 1
-  Lawrence Berkeley National Laboratory: 1
-  MBZUAI: 1
-  Masarykova univerzita: 2
-  McMaster University: 1
-  Medical University of Vienna: 3
-  Microsoft Research: 1
-  Monash University: 1
-  Moorfields Eye Hospital: 1
-  Murdoch University: 1
-  NGM Biopharmaceuticals: 1
-  National Institute of Allergy and Infectious Diseases: 1
-  National Research Council: 1
-  New York University: 2
-  North Carolina State University: 2
-  Norwegian Institute for Air Research: 1
-  Oregon State University: 1
-  "Pre\u0161ovsk\xE1 univerzita": 1
-  Qatar University: 2
-  RWTH Aachen: 1
-  "Region\xE1lny \xFArad verejn\xE9ho zdravotn\xEDctva": 1
-  Research and Development Services: 1
-  Simon Fraser University: 2
-  "Slovensk\xE1 akad\xE9mia vied": 34
-  "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita": 3
-  "Slovensk\xE1 technick\xE1 univerzita": 9
-  "Slovensk\xE1 zdravotn\xEDcka univerzita": 1
-  Solargis: 1
-  Stanford University: 1
-  Technical University Dortmund: 1
-  "Technick\xE1 univerzita v Ko\u0161iciach": 4
-  "Technick\xE1 univerzita vo Zvolene": 2
-  The University of Melbourne: 1
-  Trinity College Dublin: 1
-  "Trnavsk\xE1 univerzita": 1
-  U.S. Department of Agriculture: 1
-  University Medical Center Utrecht: 1
-  University of Adelaide: 2
-  University of Arizona: 1
-  University of Birmingham: 1
-  University of Bonn: 1
-  University of British Columbia: 1
-  University of California: 2
-  University of Chicago: 1
-  University of Edinburgh: 1
-  University of Hawaii: 1
-  University of Illinois: 1
-  University of Louisville: 1
-  University of Minnesota: 1
-  University of Missouri: 2
-  University of Natural Resources and Life Sciences: 2
-  University of New South Wales: 1
-  University of Notre Dame: 1
-  University of Ottawa: 1
-  University of Oxford: 2
-  University of Pennsylvania: 1
-  University of Pittsburgh: 1
-  University of Reading: 1
-  University of Regensburg: 1
-  University of Strathclyde: 2
-  University of Technology Sydney: 1
-  University of Toronto: 2
-  University of Vienna: 1
-  University of Washington: 1
-  University of Western Ontario: 1
-  University of Zurich: 1
-  "Universit\xE9 Aix-Marseille": 1
-  Univerzita Karlova: 2
-  "Univerzita Komensk\xE9ho": 37
-  "Univerzita Kon\u0161tant\xEDna Filozofa": 1
-  "Univerzita Palack\xE9ho v Olomouci": 5
-  "Univerzita Pavla Jozefa \u0160af\xE1rika": 5
-  "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave": 2
-  Uppsala University: 1
-  Vanderbilt university: 1
-  Vienna University of Technology: 1
-  "Vysok\xE1 \u0161kola chemicko-technologick\xE1": 1
-  Zeppelin University: 1
-  "Z\xE1pado\u010Desk\xE1 univerzita v Plzni": 1
-  "\u010Cesk\xE1 akad\xE9mia vied": 6
-  "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe": 1
-  "\u017Dilinsk\xE1 univerzita": 1
 countries:
-  "Austr\xE1lia": 9
-  Belgicko: 1
-  "D\xE1nsko": 1
-  "Franc\xFAzsko": 1
-  Holandsko: 3
-  Kanada: 11
-  Katar: 2
-  Nemecko: 9
-  "N\xF3rsko": 1
-  "Rak\xFAsko": 10
-  "Rusk\xE1 feder\xE1cia": 1
-  "Saudsk\xE1 Ar\xE1bia": 2
-  Slovensko: 103
-  "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
   USA: 32
   "Ve\u013Ek\xE1 Brit\xE1nia": 8
-  "\xCDrsko": 1
   "\u010Cesko": 19
-  "\u0160panielsko": 1
+  "Austr\xE1lia": 9
+  Slovensko: 103
+  Kanada: 11
+  Katar: 2
+  "Rak\xFAsko": 10
+  Nemecko: 9
+  Holandsko: 3
+  "N\xF3rsko": 1
   "\u0160vaj\u010Diarsko": 4
+  "Rusk\xE1 feder\xE1cia": 1
+  "Franc\xFAzsko": 1
+  "Saudsk\xE1 Ar\xE1bia": 2
+  "\u0160panielsko": 1
+  Belgicko: 1
+  "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
+  "D\xE1nsko": 1
+  "\xCDrsko": 1
   "\u0160v\xE9dsko": 1
+man: 189
+woman: 33
 hindex:
 - 31
 - 41
@@ -351,5 +245,118 @@ hindex:
 - 32
 - 45
 - 130
-man: 189
-woman: 33
+affiliation:
+  University of Chicago: 1
+  University of Strathclyde: 2
+  Research and Development Services: 1
+  The University of Melbourne: 1
+  "Slovensk\xE1 akad\xE9mia vied": 34
+  "Univerzita Komensk\xE9ho": 37
+  U.S. Department of Agriculture: 1
+  Florida State University: 1
+  Krembil Research Institute: 1
+  University of Reading: 1
+  University of California: 2
+  "Slovensk\xE1 technick\xE1 univerzita": 9
+  Qatar University: 2
+  "\u010Cesk\xE1 akad\xE9mia vied": 6
+  North Carolina State University: 2
+  "Technick\xE1 univerzita vo Zvolene": 2
+  CSIRO: 1
+  Indiana University Bloomington: 1
+  Medical University of Vienna: 3
+  University of Technology Sydney: 1
+  "Technick\xE1 univerzita v Ko\u0161iciach": 4
+  University of Bonn: 1
+  "Pre\u0161ovsk\xE1 univerzita": 1
+  Delft University of Technology: 2
+  New York University: 2
+  University of Regensburg: 1
+  Monash University: 1
+  University of Hawaii: 1
+  "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita": 3
+  University of Washington: 1
+  Technical University Dortmund: 1
+  Norwegian Institute for Air Research: 1
+  University of Pennsylvania: 1
+  University of Natural Resources and Life Sciences: 2
+  Masarykova univerzita: 2
+  "\u017Dilinsk\xE1 univerzita": 1
+  "Slovensk\xE1 zdravotn\xEDcka univerzita": 1
+  "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave": 2
+  University of Edinburgh: 1
+  Google: 1
+  University of British Columbia: 1
+  University of Toronto: 2
+  University of New South Wales: 1
+  Joint Institute for Nuclear Research: 1
+  Univerzita Karlova: 2
+  "Universit\xE9 Aix-Marseille": 1
+  University of Western Ontario: 1
+  RWTH Aachen: 1
+  University of Minnesota: 1
+  "Univerzita Palack\xE9ho v Olomouci": 5
+  "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe": 1
+  "Univerzita Pavla Jozefa \u0160af\xE1rika": 5
+  Amazon: 1
+  Central European University: 1
+  Murdoch University: 1
+  Microsoft Research: 1
+  University of Illinois: 1
+  Fraunhofer Institute: 1
+  "Region\xE1lny \xFArad verejn\xE9ho zdravotn\xEDctva": 1
+  University of Arizona: 1
+  Simon Fraser University: 2
+  IST Austria: 1
+  "Univerzita Kon\u0161tant\xEDna Filozofa": 1
+  Solargis: 1
+  "Trnavsk\xE1 univerzita": 1
+  University of Zurich: 1
+  KAUST: 2
+  University of Missouri: 2
+  "Eur\xF3pska komisia": 1
+  University of Vienna: 1
+  "ETH Z\xFCrich": 2
+  Curtin University: 1
+  International Institute for Applied Systems Analysis: 1
+  University of Birmingham: 1
+  National Institute of Allergy and Infectious Diseases: 1
+  Zeppelin University: 1
+  Hannover Medical School: 1
+  Georga Mason University: 1
+  Institute of Tropical Medicine Antwerp: 1
+  Lawrence Berkeley National Laboratory: 1
+  University of Oxford: 2
+  University of Louisville: 1
+  University of Adelaide: 2
+  Karlsruhe Institute of Technology: 1
+  MBZUAI: 1
+  NGM Biopharmaceuticals: 1
+  "Vysok\xE1 \u0161kola chemicko-technologick\xE1": 1
+  Aalborg Universitet: 1
+  Apple: 1
+  Moorfields Eye Hospital: 1
+  Stanford University: 1
+  University of Ottawa: 1
+  Brookhaven National Laboratory: 1
+  University of Notre Dame: 1
+  McMaster University: 1
+  "J\xFClich Research Centre": 1
+  Trinity College Dublin: 1
+  Uppsala University: 1
+  Vienna University of Technology: 1
+  Cardiff University: 1
+  Oregon State University: 1
+  "Z\xE1pado\u010Desk\xE1 univerzita v Plzni": 1
+  University Medical Center Utrecht: 1
+  Carleton University: 1
+  Vanderbilt university: 1
+  National Research Council: 1
+  University of Pittsburgh: 1
+hindex_hist_x: '[30,46,62,78,94,110,126,142,158,174,190]'
+hindex_hist_count: '[161,44,7,5,1,0,2,0,0,2]'
+country: "['Slovensko','USA','\u010Cesko','Kanada','Rak\xFAsko','Austr\xE1lia','Nemecko','Ve\u013E\
+  k\xE1 Brit\xE1nia','\u0160vaj\u010Diarsko','Holandsko','Katar','Saudsk\xE1 Ar\xE1\
+  bia','Spojen\xE9 arabsk\xE9 emir\xE1ty','Belgicko','D\xE1nsko','Franc\xFAzsko','\xCD\
+  rsko','N\xF3rsko','Rusk\xE1 feder\xE1cia','\u0160panielsko','\u0160v\xE9dsko']"
+countryCount: '[103,32,19,11,10,9,9,8,4,3,2,2,2,1,1,1,1,1,1,1,1]'
