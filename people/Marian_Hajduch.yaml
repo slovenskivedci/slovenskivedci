@@ -1,10 +1,14 @@
+name: "Mari\xE1n Hajd\xFAch"
+last: "Hajd\xFAch"
+year: 1969
+sex: "mu\u017E"
+position: docent
+field: "onkol\xF3gia"
 affiliation: "Univerzita Palack\xE9ho v Olomouci"
 city: Olomouc
 country: "\u010Cesko"
-field: "onkol\xF3gia"
 hindex: 48
-img: Marian_Hajduch.jpg
-last: "Hajd\xFAch"
+scholar: https://scholar.google.com/citations?user=-jBJ1_gAAAAJ
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Marian-Hajduch/31
@@ -14,8 +18,4 @@ links:
   twitter: https://twitter.com/marian_hajduch?lang=en
   web: https://www.imtm.cz/users/mari%C3%A1n-hajd%C3%BAch
   "\u017Eivotopis": https://cenamesta.cz/laureati/marian-hajduch/
-name: "Mari\xE1n Hajd\xFAch"
-position: docent
-scholar: https://scholar.google.com/citations?user=-jBJ1_gAAAAJ
-sex: "mu\u017E"
-year: 1969
+img: Marian_Hajduch.jpg

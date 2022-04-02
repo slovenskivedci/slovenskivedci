@@ -1,10 +1,14 @@
+name: Peter Kubatka
+last: Kubatka
+year: 1973
+sex: "mu\u017E"
+position: profesor
+field: "onkol\xF3gia"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "onkol\xF3gia"
 hindex: 36
-img: Peter_Kubatka.jpg
-last: Kubatka
+scholar: https://scholar.google.com/citations?hl=sk&user=Bg2qAyoAAAAJ
 last_update: '2022-04-01'
 links:
   LinkedIn: https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
@@ -15,8 +19,4 @@ links:
   orcid: https://orcid.org/0000-0003-4312-5076
   web: https://www.jfmed.uniba.sk/en/departments/scientific-and-teaching-workplaces/departments-of-basic-sciences/department-of-medical-biology/staff/
   "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/veda/docprof/PriF_UK/KUBATKA/CV_Kubatka.pdf
-name: Peter Kubatka
-position: profesor
-scholar: https://scholar.google.com/citations?hl=sk&user=Bg2qAyoAAAAJ
-sex: "mu\u017E"
-year: 1973
+img: Peter_Kubatka.jpg

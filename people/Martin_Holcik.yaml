@@ -1,10 +1,14 @@
+name: "Martin Hol\u010D\xEDk"
+last: "Hol\u010D\xEDk"
+year: null
+sex: "mu\u017E"
+position: profesor
+field: "synt\xE9za prote\xEDnov"
 affiliation: Carleton University
 city: Ottawa
 country: Kanada
-field: "synt\xE9za prote\xEDnov"
 hindex: 50
-img: Martin_Holcik.jpg
-last: "Hol\u010D\xEDk"
+scholar: https://scholar.google.com/citations?user=nluwC9EAAAAJ&hl=en
 last_update: '2022-03-27'
 links:
   LinkedIn: https://www.linkedin.com/in/martin-holcik-69896210/?originalSubdomain=ca
@@ -14,8 +18,4 @@ links:
   publons: https://publons.com/researcher/2891037/martin-holcik/
   twitter: https://twitter.com/mholcik
   web: https://carleton.ca/healthsciences/people/martin-holcik/
-name: "Martin Hol\u010D\xEDk"
-position: profesor
-scholar: https://scholar.google.com/citations?user=nluwC9EAAAAJ&hl=en
-sex: "mu\u017E"
-year: null
+img: Martin_Holcik.jpg

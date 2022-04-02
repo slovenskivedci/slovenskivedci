@@ -1,10 +1,14 @@
+name: "Peter Moln\xE1r"
+last: "Moln\xE1r"
+year: 1967
+sex: "mu\u017E"
+position: profesor
+field: "hydrol\xF3gia"
 affiliation: "ETH Z\xFCrich"
 city: "Z\xFCrich"
 country: "\u0160vaj\u010Diarsko"
-field: "hydrol\xF3gia"
 hindex: 41
-img: Peter_Molnar.png
-last: "Moln\xE1r"
+scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
 last_update: '2022-03-27'
 links:
   LinkedIn: https://www.linkedin.com/in/peter-molnar-eth/
@@ -12,8 +16,4 @@ links:
   orcid: https://orcid.org/0000-0001-6437-4931
   publons: https://publons.com/researcher/2642895/peter-molnar/
   web: https://hyd.ifu.ethz.ch/the-group/people/person-detail.html?persid=100330
-name: "Peter Moln\xE1r"
-position: profesor
-scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
-sex: "mu\u017E"
-year: 1967
+img: Peter_Molnar.png

@@ -1,10 +1,14 @@
+name: "Vladim\xEDr D\u017Eav\xEDk"
+last: "D\u017Eav\xEDk"
+year: ''
+sex: "mu\u017E"
+position: profesor
+field: "kardiol\xF3gia"
 affiliation: University of Toronto
 city: Toronto
 country: Kanada
-field: "kardiol\xF3gia"
 hindex: 68
-img: Vladimir_Dzavik.jpg
-last: "D\u017Eav\xEDk"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=psbZKP4AAAAJ
 last_update: '2022-04-01'
 links:
   LinkedIn: "https://www.linkedin.com/in/vladim%C3%ADr-d\u017Eav%C3%ADk-07a36017/?originalSubdomain=ca"
@@ -13,8 +17,4 @@ links:
   Scopus: https://www.scopus.com/authid/detail.uri?authorId=7004450973
   orcid: https://orcid.org/0000-0002-6001-9534
   web: https://www.uhnresearch.ca/researcher/vladimir-dzavic
-name: "Vladim\xEDr D\u017Eav\xEDk"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=psbZKP4AAAAJ
-sex: "mu\u017E"
-year: ''
+img: Vladimir_Dzavik.jpg

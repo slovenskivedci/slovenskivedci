@@ -1,17 +1,17 @@
+name: "Martin Mar\u0161ala"
+last: "Mar\u0161ala"
+year: ''
+sex: "mu\u017E"
+position: profesor
+field: neuroveda
 affiliation: University of California
 city: San Diego
 country: USA
-field: neuroveda
 hindex: 50
-img: Martin_Marsala.jpg
-last: "Mar\u0161ala"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
 last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Martin_Marsala
   orcid: https://orcid.org/0000-0001-5048-6422
   web: http://www.marsala-lab.com/team/
-name: "Martin Mar\u0161ala"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=NTGtkq0AAAAJ
-sex: "mu\u017E"
-year: ''
+img: Martin_Marsala.jpg

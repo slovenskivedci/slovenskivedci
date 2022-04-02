@@ -1,20 +1,16 @@
-name: "Ján Vilček"
-last: "Vilček"
-position: "profesor"
-scholar: https://scholar.google.com/citations?user=zG9xTAcAAAAJ&amp;hl=en
+name: "J\xE1n Vil\u010Dek"
+last: "Vil\u010Dek"
 year: 1933
-sex: "muž"
-
-affiliation: "New York University"
-city: "New York"
-country: "USA"
-field: "mikrobiológia"
+sex: "mu\u017E"
+position: profesor
+field: "mikrobiol\xF3gia"
+affiliation: New York University
+city: New York
+country: USA
 hindex: 98
-
+scholar: https://scholar.google.com/citations?user=zG9xTAcAAAAJ&amp;hl=en
 last_update: '2022-02-13'
 links:
   web: http://www.janvilcek.com
-  wikipédia: "https://en.wikipedia.org/wiki/Jan_Vil\u010Dek"
-
-
+  "wikip\xE9dia": "https://en.wikipedia.org/wiki/Jan_Vil\u010Dek"
 img: Jan_Vilcek.jpg

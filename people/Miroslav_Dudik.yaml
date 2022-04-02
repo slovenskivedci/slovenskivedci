@@ -1,10 +1,14 @@
+name: "Miroslav Dud\xEDk"
+last: "Dud\xEDk"
+year: ''
+sex: "mu\u017E"
+position: vedec
+field: "strojov\xE9 u\u010Denie"
 affiliation: Microsoft Research
 city: New York
 country: USA
-field: "strojov\xE9 u\u010Denie"
 hindex: 34
-img: Miro_Dudik.jpg
-last: "Dud\xEDk"
+scholar: https://scholar.google.com/citations?user=wYMTld8AAAAJ&
 last_update: '2022-03-26'
 links:
   IOI: https://stats.ioinformatics.org/people/1613
@@ -12,8 +16,4 @@ links:
   SlidesLive: https://slideslive.at/s/miro-dudik-19100
   dblp: https://dblp.org/pid/30/2146.html
   web: https://www.microsoft.com/en-us/research/people/mdudik/
-name: "Miroslav Dud\xEDk"
-position: vedec
-scholar: https://scholar.google.com/citations?user=wYMTld8AAAAJ&
-sex: "mu\u017E"
-year: ''
+img: Miro_Dudik.jpg

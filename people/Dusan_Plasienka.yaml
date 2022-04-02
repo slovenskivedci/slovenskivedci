@@ -1,17 +1,17 @@
+name: "Du\u0161an Pla\u0161ienka"
+last: "Pla\u0161ienka"
+year: 1953
+sex: "mu\u017E"
+position: profesor
+field: "geol\xF3gia"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "geol\xF3gia"
 hindex: 30
-img: Dusan_Plasienka.jpg
-last: "Pla\u0161ienka"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=JCOUk6EAAAAJ
 last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Dusan_Plasienka
   web: https://geopaleo.sk/plasienka-dusan/
   "\u017Eivotopis": https://geopaleo.sk/plasienka-dusan/plasienka-dusan-cv/
-name: "Du\u0161an Pla\u0161ienka"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=JCOUk6EAAAAJ
-sex: "mu\u017E"
-year: 1953
+img: Dusan_Plasienka.jpg

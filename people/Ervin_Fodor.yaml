@@ -1,10 +1,14 @@
+name: Ervin Fodor
+last: Fodor
+year: 1965
+sex: "mu\u017E"
+position: profesor
+field: "virol\xF3gia"
 affiliation: University of Oxford
 city: Oxford
 country: "Ve\u013Ek\xE1 Brit\xE1nia"
-field: "virol\xF3gia"
 hindex: 59
-img: Ervin_Fodor.jpg
-last: Fodor
+scholar: https://scholar.google.com/citations?hl=en&user=vcIizE8AAAAJ
 last_update: '2022-02-04'
 links:
   ResearchGate: https://www.researchgate.net/scientific-contributions/Ervin-Fodor-39288116
@@ -17,8 +21,4 @@ links:
   web 1: http://fodor.path.ox.ac.uk
   web 2: https://www.path.ox.ac.uk/content/ervin-fodor
   "wikip\xE9dia": https://en.wikipedia.org/wiki/Ervin_Fodor
-name: Ervin Fodor
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&user=vcIizE8AAAAJ
-sex: "mu\u017E"
-year: 1965
+img: Ervin_Fodor.jpg

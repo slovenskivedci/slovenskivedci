@@ -1,10 +1,14 @@
+name: "Peter Richt\xE1rik"
+last: "Richt\xE1rik"
+year: ''
+sex: "mu\u017E"
+position: profesor
+field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
 affiliation: KAUST
 city: Thuwal
 country: "Saudsk\xE1 Ar\xE1bia"
-field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
 hindex: 50
-img: Peter_Richtarik.jpg
-last: "Richt\xE1rik"
+scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
 last_update: '2022-04-01'
 links:
   KInIT: https://kinit.sk/meet-peter-richtarik-kinit-external-mentor/
@@ -20,8 +24,4 @@ links:
   web 2: https://cemse.kaust.edu.sa/vcc/people/person/peter-richtarik
   "wikip\xE9dia": https://en.wikipedia.org/wiki/Peter_Richtarik
   "\u017Eivotopis": https://richtarik.org/docs/richtarik-cv-2021-03.pdf
-name: "Peter Richt\xE1rik"
-position: profesor
-scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
-sex: "mu\u017E"
-year: ''
+img: Peter_Richtarik.jpg

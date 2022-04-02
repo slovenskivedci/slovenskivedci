@@ -1,10 +1,14 @@
+name: "Igor Tvaro\u0161ka"
+last: "Tvaro\u0161ka"
+year: 1944
+sex: "mu\u017E"
+position: vedec
+field: "v\xFDpo\u010Dtov\xE1 ch\xE9mia"
 affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: Bratislava
 country: Slovensko
-field: "v\xFDpo\u010Dtov\xE1 ch\xE9mia"
 hindex: 35
-img: Igor_Tvaroska.jpg
-last: "Tvaro\u0161ka"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=v71jEjAAAAAJ
 last_update: '2022-03-26'
 links:
   LinkedIn: https://www.linkedin.com/in/igor-tvaroska-a9a82b11/?originalSubdomain=sk
@@ -14,8 +18,4 @@ links:
   prabook: https://prabook.com/web/igor.tvaroska/339705
   publons: https://publons.com/researcher/4055620/igor-tvaroska/
   web: http://www.chem.sk/people/tvaroskaigor/
-name: "Igor Tvaro\u0161ka"
-position: vedec
-scholar: https://scholar.google.com/citations?hl=en&amp;user=v71jEjAAAAAJ
-sex: "mu\u017E"
-year: 1944
+img: Igor_Tvaroska.jpg

@@ -1,10 +1,14 @@
+name: "Tom\xE1\u0161 Klie\u0161tik"
+last: "Klie\u0161tik"
+year: 1972
+sex: "mu\u017E"
+position: profesor
+field: "finan\u010Dn\xFD mana\u017Ement"
 affiliation: "\u017Dilinsk\xE1 univerzita"
 city: "\u017Dilina"
 country: Slovensko
-field: "finan\u010Dn\xFD mana\u017Ement"
 hindex: 31
-img: Tomas_Kliestik.jpg
-last: "Klie\u0161tik"
+scholar: https://scholar.google.com/citations?user=zsFNpOgAAAAJ&hl=en
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Tomas-Kliestik
@@ -13,8 +17,4 @@ links:
   publons: https://publons.com/researcher/2335189/tomas-kliestik/
   repec: https://ideas.repec.org/e/pkl192.html
   "\u017Eivotopis": https://www.uniza.sk/document/hab_in/529885c867b31.pdf
-name: "Tom\xE1\u0161 Klie\u0161tik"
-position: profesor
-scholar: https://scholar.google.com/citations?user=zsFNpOgAAAAJ&hl=en
-sex: "mu\u017E"
-year: 1972
+img: Tomas_Kliestik.jpg

@@ -1,10 +1,14 @@
+name: "Igor Juri\u0161ica"
+last: "Juri\u0161ica"
+year: 1967
+sex: "mu\u017E"
+position: vedec
+field: bioinformatika
 affiliation: Krembil Research Institute
 city: Toronto
 country: Kanada
-field: bioinformatika
 hindex: 81
-img: Igor_Jurisica.png
-last: "Juri\u0161ica"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ
 last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/lab/Igor-Jurisica-Lab-2
@@ -16,8 +20,4 @@ links:
   web 2: https://medbio.utoronto.ca/faculty/jurisica
   "wikip\xE9dia": https://en.wikipedia.org/wiki/Igor_Jurisica
   "\u017Eivotopis": https://www.fmb.unesp.br/Home/ensino/Pos-Graduacao/mestradoacademicoedoutorado/pgbasesgeraisdacirurgia/igor-jurisica_curriculum-vitae-july-2015-1.pdf
-name: "Igor Juri\u0161ica"
-position: vedec
-scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ
-sex: "mu\u017E"
-year: 1967
+img: Igor_Jurisica.png

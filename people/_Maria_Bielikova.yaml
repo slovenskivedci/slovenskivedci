@@ -1,10 +1,14 @@
+name: "M\xE1ria Bielikov\xE1"
+last: "Bielikov\xE1"
+year: 1966
+sex: "\u017Eena"
+position: profesorka
+field: "web syst\xE9my a umel\xE1 inteligencia"
 affiliation: Kempelen Institute of Intelligent Technologies (KInIT)
 city: Bratislava
 country: Slovensko
-field: "web syst\xE9my a umel\xE1 inteligencia"
 hindex: 29
-img: Maria_Bielikova.jpg
-last: "Bielikov\xE1"
+scholar: https://scholar.google.com/citations?hl=en&user=wGB6dnEAAAAJ
 last_update: '2022-03-27'
 links:
   ACM: https://dl.acm.org/profile/81336487737
@@ -21,8 +25,4 @@ links:
     ka)"
   "\u017Eivotopis 1": https://uniba.sk/fileadmin/ruk/veda/docprof/FiF_UK/2013/Bielikova/CV_Bielikova.pdf
   "\u017Eivotopis 2": https://ec.europa.eu/jrc/sites/default/files/jrc-bog-cv-bielikova.pdf
-name: "M\xE1ria Bielikov\xE1"
-position: profesorka
-scholar: https://scholar.google.com/citations?hl=en&user=wGB6dnEAAAAJ
-sex: "\u017Eena"
-year: 1966
+img: Maria_Bielikova.jpg

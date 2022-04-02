@@ -1,10 +1,14 @@
+name: "Miroslav Ove\u010Dka"
+last: "Ove\u010Dka"
+year: 1967
+sex: "mu\u017E"
+position: profesor
+field: "molekul\xE1rna a bunkov\xE1 biol\xF3gia"
 affiliation: "Univerzita Palack\xE9ho v Olomouci"
 city: Olomouc
 country: "\u010Cesko"
-field: "molekul\xE1rna a bunkov\xE1 biol\xF3gia"
 hindex: 31
-img: Miroslav_Ovecka.jpg
-last: "Ove\u010Dka"
+scholar: https://scholar.google.com/citations?hl=en&user=bM-HEmgAAAAJ
 last_update: '2022-02-12'
 links:
   ResearchGate: https://www.researchgate.net/profile/Miroslav-Ovecka
@@ -12,8 +16,4 @@ links:
   orcid: https://orcid.org/0000-0002-1570-2174
   web: http://www.kbt.upol.cz/
   "\u017Eivotopis": files/cv_Miroslav_Ovecka.pdf
-name: "Miroslav Ove\u010Dka"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&user=bM-HEmgAAAAJ
-sex: "mu\u017E"
-year: 1967
+img: Miroslav_Ovecka.jpg

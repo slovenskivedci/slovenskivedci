@@ -1,16 +1,16 @@
+name: "Lubo\u0161 Mit\xE1\u0161"
+last: "Mit\xE1\u0161"
+year: ''
+sex: "mu\u017E"
+position: profesor
+field: fyzika
 affiliation: North Carolina State University
 city: Raleigh
 country: USA
-field: fyzika
 hindex: 49
-img: Lubos_Mitas.jpg
-last: "Mit\xE1\u0161"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
 last_update: '2022-03-26'
 links:
   web: https://physics.sciences.ncsu.edu/people/lmitas/
   "\u017Eivotopis": http://altair.physics.ncsu.edu/cv.html
-name: "Lubo\u0161 Mit\xE1\u0161"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=iqeVgOAAAAAJ
-sex: "mu\u017E"
-year: ''
+img: Lubos_Mitas.jpg

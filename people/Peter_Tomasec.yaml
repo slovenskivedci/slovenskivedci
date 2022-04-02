@@ -1,24 +1,18 @@
-name: "Peter Tomašec"
-last: "Tomašec"
+name: "Peter Toma\u0161ec"
+last: "Toma\u0161ec"
 year: 1970
-sex: "muž"
-
-position: "odborný asistent"
-field: "biológia"
-affiliation: "Cardiff University"
-city: "Cardiff"
-country: "Veľká Británia"
-
+sex: "mu\u017E"
+position: "odborn\xFD asistent"
+field: "biol\xF3gia"
+affiliation: Cardiff University
+city: Cardiff
+country: "Ve\u013Ek\xE1 Brit\xE1nia"
 hindex: 30
 scholar: https://scholar.google.com/citations?hl=en&user=hOuiMR8AAAAJ
-
 last_update: '2022-03-04'
-
 links:
   ResearchGate: https://www.researchgate.net/scientific-contributions/Peter-Tomasec-38208495
-  životopis: files/cv_Peter_Tomasec.pdf
+  "\u017Eivotopis": files/cv_Peter_Tomasec.pdf
   UKRI: https://gtr.ukri.org/person/4F8CB53C-C173-40A5-8831-B19670EA9A6C
   news: https://www.dailymail.co.uk/news/article-4584480/Scientist-killed-lethal-dose-chemicals.html
-
-
 img: Peter_Tomasec.jpg

@@ -1,15 +1,15 @@
+name: "Vladim\xEDr \u010Cern\xFD"
+last: "\u010Cern\xFD"
+year: 1952
+sex: "mu\u017E"
+position: docent
+field: "subjadrov\xE1 fyzika"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "subjadrov\xE1 fyzika"
 hindex: 57
-img: Vladimir_Cerny.jpg
-last: "\u010Cern\xFD"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=m-twF5IAAAAJ
 last_update: '2022-03-26'
 links:
   web: http://davinci.fmph.uniba.sk/~cerny1/
-name: "Vladim\xEDr \u010Cern\xFD"
-position: docent
-scholar: https://scholar.google.com/citations?hl=en&amp;user=m-twF5IAAAAJ
-sex: "mu\u017E"
-year: 1952
+img: Vladimir_Cerny.jpg

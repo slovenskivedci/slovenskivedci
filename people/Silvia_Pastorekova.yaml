@@ -1,10 +1,14 @@
+name: "Silvia Pastorekov\xE1"
+last: "Pastorekov\xE1"
+year: 1961
+sex: "\u017Eena"
+position: profesorka
+field: "onkol\xF3gia"
 affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: Bratislava
 country: Slovensko
-field: "onkol\xF3gia"
 hindex: 69
-img: Silvia_Pastorekova.jpg
-last: "Pastorekov\xE1"
+scholar: https://scholar.google.com/citations?hl=en&user=7AYmCSIAAAAJ
 last_update: '2022-03-27'
 links:
   LinkedIn: https://www.linkedin.com/in/silvia-pastorekova-a675553b/?originalSubdomain=sk
@@ -17,8 +21,4 @@ links:
   web 1: http://www.biomedcentrum.sav.sk/kontakty/
   web 2: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1886
   "\u017Eivotopis": files/cv_Silvia Pastorekova_2021-12.pdf
-name: "Silvia Pastorekov\xE1"
-position: profesorka
-scholar: https://scholar.google.com/citations?hl=en&user=7AYmCSIAAAAJ
-sex: "\u017Eena"
-year: 1961
+img: Silvia_Pastorekova.jpg

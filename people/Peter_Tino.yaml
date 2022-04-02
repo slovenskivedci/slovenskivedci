@@ -1,17 +1,17 @@
+name: "Peter Ti\u0148o"
+last: "Ti\u0148o"
+year: ''
+sex: "mu\u017E"
+position: profesor
+field: "komplexn\xE9 a adapt\xEDvne syst\xE9my"
 affiliation: University of Birmingham
 city: Birmingham
 country: "Ve\u013Ek\xE1 Brit\xE1nia"
-field: "komplexn\xE9 a adapt\xEDvne syst\xE9my"
 hindex: 39
-img: Peter_Tino.jpg
-last: "Ti\u0148o"
+scholar: https://scholar.google.sk/citations?user=jntY1osAAAAJ&amp
 last_update: '2022-02-04'
 links:
   KInIT: https://kinit.sk/meet-peter-tino-kinit-external-mentor/
   web: https://www.cs.bham.ac.uk/~pxt/
   "\u017Eivotopis": https://www.cs.bham.ac.uk/~pxt/cv_pt.pdf
-name: "Peter Ti\u0148o"
-position: profesor
-scholar: https://scholar.google.sk/citations?user=jntY1osAAAAJ&amp
-sex: "mu\u017E"
-year: ''
+img: Peter_Tino.jpg

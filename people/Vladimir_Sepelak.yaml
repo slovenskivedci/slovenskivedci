@@ -1,10 +1,14 @@
+name: "Vladim\xEDr \u0160epel\xE1k"
+last: "\u0160epel\xE1k"
+year: ''
+sex: "mu\u017E"
+position: vedec
+field: "nanotechnol\xF3gia"
 affiliation: Karlsruhe Institute of Technology
 city: Karlsruhe
 country: Nemecko
-field: "nanotechnol\xF3gia"
 hindex: 43
-img: Vladimir_Sepelak.png
-last: "\u0160epel\xE1k"
+scholar: https://scholar.google.com/citations?user=gpGngJUAAAAJ&hl=en&oi=sra
 last_update: '2022-03-27'
 links:
   Semantic Scholar: "https://www.semanticscholar.org/author/Vladimir-\u0160epel\xE1\
@@ -13,8 +17,4 @@ links:
   orcid: https://orcid.org/0000-0003-0247-5416
   web: https://www.int.kit.edu/1801_749.php
   "\u017Eivotopis": https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Vladimir-Sepelak.pdf
-name: "Vladim\xEDr \u0160epel\xE1k"
-position: vedec
-scholar: https://scholar.google.com/citations?user=gpGngJUAAAAJ&hl=en&oi=sra
-sex: "mu\u017E"
-year: ''
+img: Vladimir_Sepelak.png

@@ -1,10 +1,14 @@
+name: Miroslav Urban
+last: Urban
+year: 1942
+sex: "mu\u017E"
+position: profesor
+field: "ch\xE9mia"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "ch\xE9mia"
 hindex: 38
-img: Miroslav_Urban.jpg
-last: Urban
+scholar: https://scholar.google.com/citations?hl=en&user=9Ff2ZsoAAAAJ
 last_update: '2022-03-27'
 links:
   "Rad \u013D \u0160t\xFAra II triedy": https://uniba.sk/detail-aktuality/browse/72/back_to_page/aktuality-1/article/prof-miroslav-urban-ziskal-rad-ludovita-stura-ii-triedy/
@@ -12,8 +16,4 @@ links:
   publons: https://publons.com/researcher/2385736/miroslav-urban/
   "\u017Eivotopis 1": https://www.learned.sk/wp-content/uploads/2020/03/Zivotopis_Miroslav_Urban.pdf
   "\u017Eivotopis 2": http://www.qch.fns.uniba.sk/GroupPage/members/urban/cv-urban.pdf
-name: Miroslav Urban
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&user=9Ff2ZsoAAAAJ
-sex: "mu\u017E"
-year: 1942
+img: Miroslav_Urban.jpg

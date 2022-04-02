@@ -1,29 +1,22 @@
-name: "Jaromír Pastorek"
-last: "Pastorek"
+name: "Jarom\xEDr Pastorek"
+last: Pastorek
 year: 1957
-sex: "muž"
-
-position: "profesor"
-field: "virológia"
-affiliation: "Slovenská akadémia vied"
-city: "Bratislava"
-country: "Slovensko"
-
+sex: "mu\u017E"
+position: profesor
+field: "virol\xF3gia"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
+city: Bratislava
+country: Slovensko
 hindex: 66
 scholar: https://scholar.google.com/citations?user=r7j9ZoYAAAAJ&hl=en&oi=sra
-
-
 last_update: '2022-03-04'
-
 links:
-  wikipédia: https://sk.wikipedia.org/wiki/Jarom%C3%ADr_Pastorek
+  "wikip\xE9dia": https://sk.wikipedia.org/wiki/Jarom%C3%ADr_Pastorek
   vedec roka: https://sk.wikipedia.org/wiki/Vedec_roka_SR
   publons: https://publons.com/researcher/3715799/jaromir-pastorek/
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10256
   ResearchGate: https://www.researchgate.net/profile/Jaromir-Pastorek
-  životopis: https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/prof.Pastorek-curriculum%20vitae.pdf
+  "\u017Eivotopis": https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/prof.Pastorek-curriculum%20vitae.pdf
   orcid: https://orcid.org/0000-0003-2163-0864
   Microsoft Academic: https://academic.microsoft.com/author/2074528035/publication?paperId=2048177691
-
-
 img: Jaromir_Pastorek.jpg

@@ -1,10 +1,14 @@
+name: "Martin Ba\u010Dkor"
+last: "Ba\u010Dkor"
+year: 1970
+sex: "mu\u017E"
+position: profesor
+field: "fyziol\xF3gia rastl\xEDn"
 affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
 city: "Ko\u0161ice"
 country: Slovensko
-field: "fyziol\xF3gia rastl\xEDn"
 hindex: 38
-img: Martin_Backor_1.jpg
-last: "Ba\u010Dkor"
+scholar: https://scholar.google.co.uk/citations?user=yuz_CywAAAAJ&hl=en&oi=sra
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Martin-Backor
@@ -12,8 +16,4 @@ links:
   sme.sk: https://tech.sme.sk/c/20636283/clen-antarktickej-expedicie-era-polarnych-dobrodruhov-sa-uz-skoncila.html
   web: https://www.upjs.sk/PF/zamestnanec/martin.backor/
   "\u017Eivotopis": http://kfrserver.natur.cuni.cz/studium/anatomie/soubory/CV_Backor.pdf
-name: "Martin Ba\u010Dkor"
-position: profesor
-scholar: https://scholar.google.co.uk/citations?user=yuz_CywAAAAJ&hl=en&oi=sra
-sex: "mu\u017E"
-year: 1970
+img: Martin_Backor_1.jpg

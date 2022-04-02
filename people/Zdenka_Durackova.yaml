@@ -1,10 +1,14 @@
+name: "Zdenka \u010Eura\u010Dkov\xE1"
+last: "\u010Eura\u010Dkov\xE1"
+year: ''
+sex: "\u017Eena"
+position: profesorka
+field: "bioch\xE9mia"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "bioch\xE9mia"
 hindex: 33
-img: Zdenka_Durackova.jpg
-last: "\u010Eura\u010Dkov\xE1"
+scholar: https://scholar.google.com/citations?hl=en&user=Dwytj-UAAAAJ
 last_update: '2022-03-27'
 links:
   LinkedIn: https://www.linkedin.com/in/zdenka-durackova-074416117/?originalSubdomain=sk
@@ -13,8 +17,4 @@ links:
   orcid: https://orcid.org/0000-0001-6956-7038
   rtvs: https://www.rtvs.sk/radio/archiv/11436/1657210
   web: https://portal.fmed.uniba.sk/autori.php?tid=18
-name: "Zdenka \u010Eura\u010Dkov\xE1"
-position: profesorka
-scholar: https://scholar.google.com/citations?hl=en&user=Dwytj-UAAAAJ
-sex: "\u017Eena"
-year: ''
+img: Zdenka_Durackova.jpg

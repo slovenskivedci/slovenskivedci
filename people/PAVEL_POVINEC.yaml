@@ -1,10 +1,14 @@
+name: Pavel Povinec
+last: Povinec
+year: 1942
+sex: "mu\u017E"
+position: profesor
+field: "jadrov\xE1 fyzika"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "jadrov\xE1 fyzika"
 hindex: 57
-img: Pavel_Povinec.jpg
-last: Povinec
+scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
 last_update: '2022-03-26'
 links:
   LinkedIn: https://www.linkedin.com/in/pavel-povinec-81809227/?originalSubdomain=sk
@@ -13,8 +17,4 @@ links:
   orcid: https://orcid.org/0000-0003-0275-794X
   prabook: https://prabook.com/web/pavel_peter.povinec/184236
   "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/ovv/2014/141112_Profesorska_prednaska_o_Fukusime-CV_Povinec.pdf
-name: Pavel Povinec
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
-sex: "mu\u017E"
-year: 1942
+img: Pavel_Povinec.jpg

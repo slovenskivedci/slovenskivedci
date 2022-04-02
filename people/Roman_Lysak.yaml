@@ -1,25 +1,18 @@
-name: "Roman Lysák"
-last: "Lysák"
+name: "Roman Lys\xE1k"
+last: "Lys\xE1k"
 year: 1979
-sex: "muž"
-
-field: "subjadrová fyzika"
-
-position: "vedec"
-affiliation: "Česká akadémia vied"
-city: "Praha"
-country: "Česko"
-
-
-scholar: https://scholar.google.com/citations?user=jkguv3UAAAAJ
+sex: "mu\u017E"
+position: vedec
+field: "subjadrov\xE1 fyzika"
+affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
+city: Praha
+country: "\u010Cesko"
 hindex: 190
+scholar: https://scholar.google.com/citations?user=jkguv3UAAAAJ
 last_update: '2022-03-04'
-
-
 links:
   orcid: https://www.fzu.cz/en/people/rndr-roman-lysak-phd
   publons: https://publons.com/researcher/2517294/roman-lysak/
   web: https://www.fzu.cz/en/people/rndr-roman-lysak-phd
-  životopis: https://www.yumpu.com/xx/document/read/33279054/a-1-2-ivotopis
-  
+  "\u017Eivotopis": https://www.yumpu.com/xx/document/read/33279054/a-1-2-ivotopis
 img: Roman_Lysak.jpg

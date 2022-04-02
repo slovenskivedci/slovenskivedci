@@ -1,17 +1,14 @@
-name: "Peter Dolog"
-last: "Dolog"
-
-position: docent
-scholar: https://scholar.google.com/citations?user=gCafUI0AAAAJ&amp;hl=en
+name: Peter Dolog
+last: Dolog
 year: ''
-sex: "muž"
-
-affiliation: "Aalborg Universitet"
-city: "Aalborg"
-country: "Dánsko"
+sex: "mu\u017E"
+position: docent
 field: informatika
+affiliation: Aalborg Universitet
+city: Aalborg
+country: "D\xE1nsko"
 hindex: 32
-img: Peter_Dolog.png
+scholar: https://scholar.google.com/citations?user=gCafUI0AAAAJ&amp;hl=en
 last_update: '2022-02-04'
 links:
   ResearchGate: https://www.researchgate.net/profile/Peter_Dolog
@@ -19,3 +16,4 @@ links:
   web 1: https://vbn.aau.dk/en/persons/114729
   web 2: https://peterdolog.wordpress.com
   orcid: https://orcid.org/0000-0003-1842-9131
+img: Peter_Dolog.png

@@ -1,17 +1,17 @@
+name: "Tom\xE1\u0161 Dado"
+last: Dado
+year: null
+sex: "mu\u017E"
+position: postdoc
+field: "subjadrov\xE1 fyzika"
 affiliation: Technical University Dortmund
 city: Dortmund
 country: Nemecko
-field: "subjadrov\xE1 fyzika"
 hindex: 130
-img: Tomas_Dado.jpg
-last: Dado
+scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
 last_update: '2022-03-26'
 links:
   LinkedIn: https://www.linkedin.com/in/tomas-dado-298a75191/?originalSubdomain=sk
   inspireHEP: https://inspirehep.net/authors/1346585
   web: https://www.e4.physik.tu-dortmund.de/cms/de/AG-Kroeninger/Mitarbeiter/WiMis/Tomas-Dado.html
-name: "Tom\xE1\u0161 Dado"
-position: postdoc
-scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
-sex: "mu\u017E"
-year: null
+img: Tomas_Dado.jpg

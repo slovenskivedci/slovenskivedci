@@ -1,10 +1,14 @@
+name: Ondrej Lexa
+last: Lexa
+year: 1972
+sex: "mu\u017E"
+position: docent
+field: "\u0161truktur\xE1lna geol\xF3gia a tektonika"
 affiliation: Univerzita Karlova
 city: Praha
 country: "\u010Cesko"
-field: "\u0161truktur\xE1lna geol\xF3gia a tektonika"
 hindex: 37
-img: Ondrej_Lexa.jpg
-last: Lexa
+scholar: https://scholar.google.com/citations?hl=en&user=lo8ugg0AAAAJ
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Ondrej-Lexa
@@ -15,8 +19,4 @@ links:
   twitter: https://twitter.com/ondrolexa
   web: https://petrol.natur.cuni.cz/~ondro/
   "\u017Eivotopis": https://petrol.natur.cuni.cz/~ondro/research/cv
-name: Ondrej Lexa
-position: docent
-scholar: https://scholar.google.com/citations?hl=en&user=lo8ugg0AAAAJ
-sex: "mu\u017E"
-year: 1972
+img: Ondrej_Lexa.jpg

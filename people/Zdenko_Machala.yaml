@@ -1,10 +1,14 @@
+name: Zdenko Machala
+last: Machala
+year: 1974
+sex: "mu\u017E"
+position: docent
+field: "fyzika plazmy a environment\xE1lna fyzika"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "fyzika plazmy a environment\xE1lna fyzika"
 hindex: 31
-img: Zdenko_Machala.jpg
-last: Machala
+scholar: https://scholar.google.sk/citations?hl=en&user=3xq6b60AAAAJ
 last_update: '2022-03-27'
 links:
   ESET Science Award: https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/zdenko-machala
@@ -14,8 +18,4 @@ links:
   publons: https://publons.com/researcher/1223900/zdenko-machala/
   scopus: https://www.scopus.com/authid/detail.uri?authorId=22941510900
   web: http://enviro.fmph.uniba.sk/index.php?link=machala
-name: Zdenko Machala
-position: docent
-scholar: https://scholar.google.sk/citations?hl=en&user=3xq6b60AAAAJ
-sex: "mu\u017E"
-year: 1974
+img: Zdenko_Machala.jpg

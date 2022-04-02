@@ -1,10 +1,14 @@
+name: "Ivan \u0160imko"
+last: "\u0160imko"
+year: null
+sex: "mu\u017E"
+position: vedec
+field: genetika
 affiliation: U.S. Department of Agriculture
 city: Salinas
 country: USA
-field: genetika
 hindex: 31
-img: Ivan_Simko.jpg
-last: "\u0160imko"
+scholar: https://scholar.google.com/citations?user=Ghikz7sAAAAJ&oi=ao
 last_update: '2022-03-04'
 links:
   ResearchGate: https://www.researchgate.net/profile/Ivan-Simko-4
@@ -13,8 +17,4 @@ links:
   orcid: https://orcid.org/0000-0002-8769-8477
   publons: https://publons.com/researcher/2692635/ivan-simko/
   web: https://www.ars.usda.gov/people-locations/person/?person-id=39590
-name: "Ivan \u0160imko"
-position: vedec
-scholar: https://scholar.google.com/citations?user=Ghikz7sAAAAJ&oi=ao
-sex: "mu\u017E"
-year: null
+img: Ivan_Simko.jpg

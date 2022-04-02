@@ -1,10 +1,14 @@
+name: "Michal Fe\u010Dkan"
+last: "Fe\u010Dkan"
+year: 1960
+sex: "mu\u017E"
+position: profesor
+field: matematika
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: matematika
 hindex: 33
-img: Michal_Feckan.jpg
-last: "Fe\u010Dkan"
+scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
 last_update: '2022-03-27'
 links:
   ESET Science Award: https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
@@ -15,8 +19,4 @@ links:
   publons: https://publons.com/researcher/1846317/michal-feckan/
   web: https://www.mat.savba.sk/~feckan/
   "\u017Eivotopis": https://www.mat.savba.sk/~feckan/#_toc16
-name: "Michal Fe\u010Dkan"
-position: profesor
-scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
-sex: "mu\u017E"
-year: 1960
+img: Michal_Feckan.jpg

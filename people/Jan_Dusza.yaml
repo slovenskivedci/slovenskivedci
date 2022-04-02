@@ -1,10 +1,14 @@
+name: "J\xE1n Dusza"
+last: Dusza
+year: 1952
+sex: "mu\u017E"
+position: profesor
+field: "nanomateri\xE1ly"
 affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: "Ko\u0161ice"
 country: Slovensko
-field: "nanomateri\xE1ly"
 hindex: 38
-img: Jan_Dusza.jpg
-last: Dusza
+scholar: https://scholar.google.com/citations?user=FMHHfNAAAAAJ&amp;hl=en
 last_update: '2022-03-27'
 links:
   ESET Science Award: https://www.esetscienceaward.sk/en/finalists/jan-dusza
@@ -13,8 +17,4 @@ links:
   orcid: https://orcid.org/0000-0002-3359-9326
   scientific.net: "https://www.scientific.net/author-papers/j\xE1n-dusza"
   web: https://promatech.sk
-name: "J\xE1n Dusza"
-position: profesor
-scholar: https://scholar.google.com/citations?user=FMHHfNAAAAAJ&amp;hl=en
-sex: "mu\u017E"
-year: 1952
+img: Jan_Dusza.jpg

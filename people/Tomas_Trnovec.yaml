@@ -1,17 +1,17 @@
+name: "Tom\xE1\u0161 Trnovec"
+last: Trnovec
+year: 1932
+sex: "mu\u017E"
+position: profesor
+field: "farmakol\xF3gia"
 affiliation: "Slovensk\xE1 zdravotn\xEDcka univerzita"
 city: Bratislava
 country: Slovensko
-field: "farmakol\xF3gia"
 hindex: 43
-img: Tomas_Trnovec.jpg
-last: Trnovec
+scholar: https://scholar.google.com/citations?hl=en&amp;user=iQivvkcAAAAJ
 last_update: '2022-04-01'
 links:
   LinkedIn: https://www.linkedin.com/in/tomas-trnovec-88a28238/?originalSubdomain=sk
   ResearchGate: https://www.researchgate.net/profile/Tomas-Trnovec
   pravda.sk: https://zurnal.pravda.sk/rozhovory/clanok/536256-tomas-trnovec-slovaci-su-rekorderi-v-jedoch-v-tele/
-name: "Tom\xE1\u0161 Trnovec"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=iQivvkcAAAAJ
-sex: "mu\u017E"
-year: 1932
+img: Tomas_Trnovec.jpg
