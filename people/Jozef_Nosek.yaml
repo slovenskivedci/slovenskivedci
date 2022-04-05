@@ -1,10 +1,14 @@
+name: Jozef Nosek
+last: Nosek
+year: 1967
+sex: "mu\u017E"
+position: profesor
+field: "bioch\xE9mia"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "bioch\xE9mia"
 hindex: 29
-img: Jozef_Nosek.jpg
-last: Nosek
+scholar: https://scholar.google.com/citations?hl=en&user=VzDSjLcAAAAJ
 last_update: '2022-03-27'
 links:
   AMiner: https://www.aminer.cn/profile/jozef-nosek/53f36745dabfae4b3499e846
@@ -14,8 +18,4 @@ links:
   publons: https://publons.com/researcher/1707285/jozef-nosek/
   web: http://www.biocenter.sk/jn.html
   "\u017Eivotopis": http://www.biocenter.sk/jncv.html
-name: Jozef Nosek
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&user=VzDSjLcAAAAJ
-sex: "mu\u017E"
-year: 1967
+img: Jozef_Nosek.jpg

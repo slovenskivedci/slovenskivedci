@@ -1,26 +1,22 @@
-name: "Jozef Gécz"
-last: "Gécz"
-position: "profesor"
-scholar: https://scholar.google.com/citations?user=FTejMNwAAAAJ&amp;hl=en
+name: "Jozef G\xE9cz"
+last: "G\xE9cz"
 year: 1962
-sex: "muž"
-
-affiliation: "University of Adelaide"
-city: "Adelaide"
-country: "Austrália"
-field: "neurogenetika"
+sex: "mu\u017E"
+position: profesor
+field: neurogenetika
+affiliation: University of Adelaide
+city: Adelaide
+country: "Austr\xE1lia"
 hindex: 88
-
+scholar: https://scholar.google.com/citations?user=FTejMNwAAAAJ&amp;hl=en
 last_update: '2022-02-13'
-
-img: Jozef_Gecz.jpg
-
 links:
   web: https://researchers.adelaide.edu.au/profile/jozef.gecz
-  wikipédia: https://en.wikipedia.org/wiki/Jozef_G\xE9cz
-  životopis: https://prabook.com/web/jozef.gecz/418497
+  "wikip\xE9dia": https://en.wikipedia.org/wiki/Jozef_G\xE9cz
+  "\u017Eivotopis": https://prabook.com/web/jozef.gecz/418497
   orcid: https://orcid.org/0000-0002-7884-6861
   Research Gate: https://www.researchgate.net/profile/Jozef-Gecz
   LinkedIn: https://www.linkedin.com/in/jozef-gecz-376ba33a/?originalSubdomain=au
   SAHMRI Institute: https://portal.sahmriresearch.org/en/persons/jozef-gecz-2
   Australian Academy of Science: https://www.science.org.au/profile/jozef-g%C3%A9cz
+img: Jozef_Gecz.jpg

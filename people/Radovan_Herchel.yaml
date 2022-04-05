@@ -1,10 +1,14 @@
+name: Radovan Herchel
+last: Herchel
+year: ''
+sex: "mu\u017E"
+position: docent
+field: "ch\xE9mia"
 affiliation: "Univerzita Palack\xE9ho v Olomouci"
 city: Olomouc
 country: "\u010Cesko"
-field: "ch\xE9mia"
 hindex: 33
-img: Radovan_Herchel.jpg
-last: Herchel
+scholar: https://scholar.google.com/citations?user=t_V_OnwAAAAJ
 last_update: '2022-02-04'
 links:
   ResearchGate: https://www.researchgate.net/profile/Radovan-Herchel
@@ -12,8 +16,4 @@ links:
   orcid: https://orcid.org/0000-0001-8262-4666
   publons: https://publons.com/researcher/1372193/radovan-herchel/
   web: https://www.prf.upol.cz/nc/afc/kontakty/vizitka/empid/22158/
-name: Radovan Herchel
-position: docent
-scholar: https://scholar.google.com/citations?user=t_V_OnwAAAAJ
-sex: "mu\u017E"
-year: ''
+img: Radovan_Herchel.jpg

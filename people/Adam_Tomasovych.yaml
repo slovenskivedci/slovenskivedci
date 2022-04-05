@@ -1,10 +1,14 @@
+name: "Adam Toma\u0161ov\xFDch"
+last: "Toma\u0161ov\xFDch"
+year: 1978
+sex: "mu\u017E"
+position: vedec
+field: "paleobiol\xF3gia"
 affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: Bratislava
 country: Slovensko
-field: "paleobiol\xF3gia"
 hindex: 30
-img: Adam_Tomasovych.jpg
-last: "Toma\u0161ov\xFDch"
+scholar: https://scholar.google.com/citations?user=7Zkz-9MAAAAJ
 last_update: '2022-03-27'
 links:
   LinkedIn: https://www.linkedin.com/in/peter-kubatka-8039ab92/?originalSubdomain=sk
@@ -19,8 +23,4 @@ links:
   web 1: http://www.geol.sav.sk/tomasovych/
   web 2: http://www.geo.sav.sk/en/staff/adam-tomasovych-en/
   "\u017Eivotopis": http://www.geol.sav.sk/tomasovych/curriculum%20vitae.pdf
-name: "Adam Toma\u0161ov\xFDch"
-position: vedec
-scholar: https://scholar.google.com/citations?user=7Zkz-9MAAAAJ
-sex: "mu\u017E"
-year: 1978
+img: Adam_Tomasovych.jpg

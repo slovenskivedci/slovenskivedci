@@ -1,17 +1,17 @@
+name: "Tom\xE1\u0161 Roch"
+last: Roch
+year: null
+sex: "mu\u017E"
+position: docent
+field: "fyzika tuh\xFDch l\xE1tok"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "fyzika tuh\xFDch l\xE1tok"
 hindex: 30
-img: Tomas_Roch.jpg
-last: Roch
+scholar: https://scholar.google.sk/citations?user=PVRQZxcAAAAJ
 last_update: '2022-03-27'
 links:
   AMiner: https://www.aminer.org/profile/tomas-roch/5630762045cedb3399a6c7e5
   ResearchGate: https://www.researchgate.net/profile/Tomas-Roch
   web: https://sluzby.fmph.uniba.sk/ludia/roch1
-name: "Tom\xE1\u0161 Roch"
-position: docent
-scholar: https://scholar.google.sk/citations?user=PVRQZxcAAAAJ
-sex: "mu\u017E"
-year: null
+img: Tomas_Roch.jpg

@@ -1,10 +1,14 @@
+name: "M\xE1ria Du\u0161insk\xE1"
+last: "Du\u0161insk\xE1"
+year: null
+sex: "\u017Eena"
+position: "vedky\u0148a"
+field: "toxikol\xF3gia"
 affiliation: Norwegian Institute for Air Research
 city: Kjeller
 country: "N\xF3rsko"
-field: "toxikol\xF3gia"
 hindex: 58
-img: Maria_Dusinska.jpg
-last: "Du\u0161insk\xE1"
+scholar: https://scholar.google.com/citations?user=tF7f4yEAAAAJ&hl=en
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Maria-Dusinska
@@ -13,8 +17,4 @@ links:
   orcid: https://orcid.org/0000-0003-1358-1652
   web: https://www.nilu.com/employee/maria-dusinska/
   "\u017Eivotopis": https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/cv_sccs_dusinska_en.pdf
-name: "M\xE1ria Du\u0161insk\xE1"
-position: "vedky\u0148a"
-scholar: https://scholar.google.com/citations?user=tF7f4yEAAAAJ&hl=en
-sex: "\u017Eena"
-year: null
+img: Maria_Dusinska.jpg

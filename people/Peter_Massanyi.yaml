@@ -1,10 +1,14 @@
+name: "Peter Mass\xE1nyi"
+last: "Mass\xE1nyi"
+year: 1968
+sex: "mu\u017E"
+position: profesor
+field: "fyziol\xF3gia \u017Eivo\u010D\xEDchov"
 affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
 city: Nitra
 country: Slovensko
-field: "fyziol\xF3gia \u017Eivo\u010D\xEDchov"
 hindex: 37
-img: Peter_Massanyi.jpg
-last: "Mass\xE1nyi"
+scholar: https://scholar.google.com/citations?user=pXeemKMAAAAJ&hl=sk
 last_update: '2022-03-27'
 links:
   LinkedIn: https://www.linkedin.com/in/peter-massanyi-99869523/?originalSubdomain=sk
@@ -17,8 +21,4 @@ links:
   web 2: https://is.uniag.sk/lide/clovek.pl?id=1345;lang=sk
   web 3: https://sites.google.com/site/massanyip
   "\u017Eivotopis": https://sites.google.com/site/massanyip/1_curriculum-vitae
-name: "Peter Mass\xE1nyi"
-position: profesor
-scholar: https://scholar.google.com/citations?user=pXeemKMAAAAJ&hl=sk
-sex: "mu\u017E"
-year: 1968
+img: Peter_Massanyi.jpg

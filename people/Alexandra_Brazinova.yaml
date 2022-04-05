@@ -1,20 +1,17 @@
-name: "Alexandra Bražinová"
-last: "Bražinová"
-sex: "žena"
-
+name: "Alexandra Bra\u017Einov\xE1"
+last: "Bra\u017Einov\xE1"
 year: 1971
-field: "epidemiológia"
+sex: "\u017Eena"
+position: profesorka
+field: "epidemiol\xF3gia"
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
 hindex: 53
-position: "profesorka"
-affiliation: "Univerzita Komenského"
 scholar: https://scholar.google.com/citations?view_op=list_works&amp;hl=sk&amp;user=_tpva74AAAAJ&amp;gmla=AJsN-F4enZVXEbSLey5sIxs2iYX1b7cqmKalMsteEbPCoYJYJxTGQ_Zt-LvTIN2kkDL4gvas8IzPL_-d-a2pm35LzuGeTzsZ-_QtrpIO0EjpojuHFcUXAHqhiyBxqm1VoP8CFAzsgdRpPW7w8bg5bGlASKOHjuCzhA&amp;fbclid=IwAR3a7AhdjAeyLhXviBDKjED2xYkm112lWx5VvKswNvukEuxNdsJdW37SfLg
-city: "Bratislava"
-country: "Slovensko"
-
-img: Alexandra_Brazinova.jpg
 last_update: '2022-03-04'
-
 links:
   orcid: https://orcid.org/0000-0003-0625-256X
   publons: https://publons.com/researcher/2304958/alexandra-brazinova
-  životopis: https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
+  "\u017Eivotopis": https://www.upjs.sk/public/media/17805/Brazinova-IK-LF.pdf
+img: Alexandra_Brazinova.jpg

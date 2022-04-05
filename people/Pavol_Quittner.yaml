@@ -1,10 +1,14 @@
+name: Pavol Quittner
+last: Quittner
+year: 1958
+sex: "mu\u017E"
+position: profesor
+field: matematika
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: matematika
 hindex: 31
-img: Pavol_Quittner.jpg
-last: Quittner
+scholar: https://scholar.google.com/citations?user=QhrxwOcAAAAJ
 last_update: '2022-03-25'
 links:
   IMO: https://www.imo-official.org/participant_r.aspx?id=29
@@ -14,8 +18,4 @@ links:
   publons: https://publons.com/researcher/1846321/pavol-quittner/
   web: http://www.iam.fmph.uniba.sk/institute/quittner/
   "wikip\xE9dia": https://sk.wikipedia.org/wiki/Pavol_Quittner
-name: Pavol Quittner
-position: profesor
-scholar: https://scholar.google.com/citations?user=QhrxwOcAAAAJ
-sex: "mu\u017E"
-year: 1958
+img: Pavol_Quittner.jpg

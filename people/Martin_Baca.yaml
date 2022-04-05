@@ -1,10 +1,14 @@
+name: "Martin Ba\u010Da"
+last: "Ba\u010Da"
+year: ''
+sex: "mu\u017E"
+position: profesor
+field: "te\xF3ria grafov"
 affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
 city: "Ko\u0161ice"
 country: Slovensko
-field: "te\xF3ria grafov"
 hindex: 30
-img: Martin_Baca.jpeg
-last: "Ba\u010Da"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
 last_update: '2022-03-27'
 links:
   LinkedIn: https://www.linkedin.com/in/martin-baca-88421358/?originalSubdomain=sk
@@ -12,8 +16,4 @@ links:
   publons: https://publons.com/researcher/3308408/martin-baca/
   web 1: http://people.tuke.sk/martin.baca/
   web 2: https://www.sjf.tuke.sk/kamai/en/bacainfo
-name: "Martin Ba\u010Da"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=wiwZl54AAAAJ
-sex: "mu\u017E"
-year: ''
+img: Martin_Baca.jpeg

@@ -1,10 +1,14 @@
+name: "Norbert \u017Dilka"
+last: "\u017Dilka"
+year: 1973
+sex: "mu\u017E"
+position: docent
+field: "neuroimunol\xF3gia"
 affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: Bratislava
 country: Slovensko
-field: "neuroimunol\xF3gia"
 hindex: 35
-img: Norbert_Zilka.jpg
-last: "\u017Dilka"
+scholar: https://scholar.google.com/citations?user=p40NFYwAAAAJ&hl=en&oi=ao
 last_update: '2022-03-27'
 links:
   LinkedIn: https://www.linkedin.com/in/norbert-zilka-24657b3b/
@@ -17,8 +21,4 @@ links:
   "t\xFD\u017Ede\u0148": https://www.tyzden.sk/spolocnost/70044/ako-funguje-preco-mame-strach-a-co-vakcina-dokaze/?ref=kat
   web: https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=3501
   "\u017Eivotopis": https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiZorKT7aT1AhVB8LsIHbYKCo0QFnoECAMQAQ&url=https%3A%2F%2Fwww.uvlf.sk%2Fdocument%2Fdoc-mvdr-norbert-zilka-phd-drsc-zverejnenie-udajov-podla-zakona.docx&usg=AOvVaw0W8NxsgHcSMXOWYg08TyyT
-name: "Norbert \u017Dilka"
-position: docent
-scholar: https://scholar.google.com/citations?user=p40NFYwAAAAJ&hl=en&oi=ao
-sex: "mu\u017E"
-year: 1973
+img: Norbert_Zilka.jpg

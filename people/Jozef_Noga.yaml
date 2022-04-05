@@ -1,10 +1,14 @@
+name: Jozef Noga
+last: Noga
+year: 1955
+sex: "mu\u017E"
+position: profesor
+field: "teoretick\xE1 ch\xE9mia"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "teoretick\xE1 ch\xE9mia"
 hindex: 41
-img: Jozef_Noga.jpg
-last: Noga
+scholar: https://scholar.google.com/citations?hl=en&user=lZvsE4EAAAAJ
 last_update: '2022-03-27'
 links:
   dblp: https://dblp.org/pid/16/796.html
@@ -16,8 +20,4 @@ links:
   web 1: https://fns.uniba.sk/pracoviska/chemicka-sekcia/kag/zamestnanci-a-doktorandi/prof-jozef-noga/
   web 2: https://uniba.sk/ludia/noga2
   "\u017Eivotopis": https://fns.uniba.sk/fileadmin/prif/chem/kag/Zam-Noga/jozef_noga_2014.pdf
-name: Jozef Noga
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&user=lZvsE4EAAAAJ
-sex: "mu\u017E"
-year: 1955
+img: Jozef_Noga.jpg

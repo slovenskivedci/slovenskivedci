@@ -1,23 +1,18 @@
-name: "Branislav Sitár"
-last: "Sitár"
+name: "Branislav Sit\xE1r"
+last: "Sit\xE1r"
 year: 1946
-sex: "muž"
-
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-field: "subjadrová fyzika"
+sex: "mu\u017E"
+position: profesor
+field: "subjadrov\xE1 fyzika"
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
 hindex: 130
-
+scholar: https://scholar.google.com/citations?user=4ymEP0sAAAAJ
 last_update: '2022-03-26'
 links:
   publons: https://publons.com/researcher/3258206/brano-sitar/
   web: https://fmph.uniba.sk/kontakt/zamestnanci/sitar1/
-  wikipédia: "https://sk.wikipedia.org/wiki/Branislav_Sit\xE1r"
-  životopis: "files/cv_Branislav_Sitar_2022.pdf"
-
-position: profesor
-scholar: https://scholar.google.com/citations?user=4ymEP0sAAAAJ
-
-
+  "wikip\xE9dia": "https://sk.wikipedia.org/wiki/Branislav_Sit\xE1r"
+  "\u017Eivotopis": files/cv_Branislav_Sitar_2022.pdf
 img: Branislav_Sitar.jpg

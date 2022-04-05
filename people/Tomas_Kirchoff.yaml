@@ -1,10 +1,14 @@
+name: "Tom\xE1\u0161 Kirchhoff"
+last: Kirchhoff
+year: null
+sex: "mu\u017E"
+position: docent
+field: genetika rakoviny
 affiliation: New York University
 city: New York
 country: USA
-field: genetika rakoviny
 hindex: 39
-img: Tomas_Kirchhoff.jpg
-last: Kirchhoff
+scholar: https://scholar.google.com/citations?hl=en&user=RSuayLUAAAAJ
 last_update: '2022-04-01'
 links:
   LinkedIn: https://www.linkedin.com/in/tomas-kirchhoff-5b84b43b/
@@ -14,8 +18,4 @@ links:
   twitter: https://twitter.com/tkfeeds
   web 1: https://www.kirchhofflab.org/team
   web 2: https://med.nyu.edu/faculty/tomas-kirchhoff
-name: "Tom\xE1\u0161 Kirchhoff"
-position: docent
-scholar: https://scholar.google.com/citations?hl=en&user=RSuayLUAAAAJ
-sex: "mu\u017E"
-year: null
+img: Tomas_Kirchhoff.jpg

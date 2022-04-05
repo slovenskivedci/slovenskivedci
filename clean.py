@@ -1,4 +1,4 @@
-import yaml
+
 
 import glob
 countries={}
@@ -9,13 +9,15 @@ from urllib.parse import unquote
 
  
 for y in glob.glob("./people/*.yaml"):
+	print(y) 
 	with open(y) as f:
 		dic = yaml.safe_load(f)
-		if "cited_by" in dic:
-			del dic["cited_by"]
-
-			with open(y, 'w') as file:
-				documents = yaml.dump(dic, file)
+		
+#	with open("/tmp/test.yaml", 'w') as file:
+#	   documents = yaml.dump(dic, file)
+#	afsadf
+#	with open("./people/"+newname, 'w') as file:
+#	   documents = yaml.dump(dic, file)
 	 
 
 

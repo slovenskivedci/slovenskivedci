@@ -1,10 +1,14 @@
+name: "Norbert Ku\u010Derka"
+last: "Ku\u010Derka"
+year: ''
+sex: "mu\u017E"
+position: vedec
+field: biofyzika
 affiliation: Joint Institute for Nuclear Research
 city: Dubna
 country: "Rusk\xE1 feder\xE1cia"
-field: biofyzika
 hindex: 38
-img: Norbert_Kucerka.jpeg
-last: "Ku\u010Derka"
+scholar: https://scholar.google.com/citations?user=W9ls60kAAAAJ
 last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Norbert_Kucerka3
@@ -12,8 +16,4 @@ links:
   web 1: http://www.norbbi.com
   web 2: https://uniba.sk/en/nc/people/kucerka1/
   "\u017Eivotopis": http://www.norbbi.com/curriculum/curriculum.html
-name: "Norbert Ku\u010Derka"
-position: vedec
-scholar: https://scholar.google.com/citations?user=W9ls60kAAAAJ
-sex: "mu\u017E"
-year: ''
+img: Norbert_Kucerka.jpeg

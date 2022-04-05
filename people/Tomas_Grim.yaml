@@ -1,18 +1,18 @@
+name: "Tom\xE1\u0161 Grim"
+last: Grim
+year: 1973
+sex: "mu\u017E"
+position: docent
+field: "behavior\xE1lna ekol\xF3gia"
 affiliation: "Univerzita Palack\xE9ho v Olomouci"
 city: Olomouc
 country: "\u010Cesko"
-field: "behavior\xE1lna ekol\xF3gia"
 hindex: 39
-img: Tomas_Grim.jpg
-last: Grim
+scholar: https://scholar.google.com/citations?hl=en&amp;user=T0MNJGgAAAAJ
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Tomas-Grim
   loop: https://loop.frontiersin.org/people/392854/bio
   orcid: https://orcid.org/0000-0002-5775-6269
   web: http://www.tomasgrim.com
-name: "Tom\xE1\u0161 Grim"
-position: docent
-scholar: https://scholar.google.com/citations?hl=en&amp;user=T0MNJGgAAAAJ
-sex: "mu\u017E"
-year: 1973
+img: Tomas_Grim.jpg

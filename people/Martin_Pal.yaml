@@ -1,19 +1,18 @@
-affiliation: "Google"
-city: "Zürich"
-country: "Švajčiarsko"
-field: "informatika"
+name: "Martin P\xE1l"
+last: "P\xE1l"
+year: ''
+sex: "mu\u017E"
+position: vedec
+field: informatika
+affiliation: Google
+city: "Z\xFCrich"
+country: "\u0160vaj\u010Diarsko"
 hindex: 31
-img: Martin_Pal.jpg
+scholar: https://scholar.google.com/citations?&user=NDhlLv0AAAAJ
 last_update: '2022-03-04'
 links:
+  IMO: https://www.imo-official.org/participant_r.aspx?id=3826
   dblp: https://dblp.org/pid/p/MartinPal.html
   web: https://research.google/people/author20/
-  životopis: http://martin.palenica.com/cv2.pdf
-  IMO: https://www.imo-official.org/participant_r.aspx?id=3826
-
-name: "Martin Pál"
-last: "Pál"
-position: "vedec"
-scholar: https://scholar.google.com/citations?&user=NDhlLv0AAAAJ
-year: ''
-sex: "muž"
+  "\u017Eivotopis": http://martin.palenica.com/cv2.pdf
+img: Martin_Pal.jpg

@@ -1,20 +1,15 @@
-name: "Ľudovít Paulis"
-last: "Paulis"
-sex: "muž"
-
-position: "odborný asistent"
-affiliation: "Univerzita Komenského"
-city: "Bratislava"
-country: "Slovensko"
-
-field: "patofyziológia"
+name: "\u013Dudov\xEDt Paulis"
+last: Paulis
+year: ''
+sex: "mu\u017E"
+position: "odborn\xFD asistent"
+field: "patofyziol\xF3gia"
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
 hindex: 33
-
-img: Ludovit_Paulis.jpg
+scholar: https://scholar.google.sk/citations?user=eBoisLQAAAAJ&amp;hl=sk&amp;oi=ao
 last_update: '2022-03-04'
 links:
   web: https://eccr.org/dr-ludovit-paulis/
-
-
-scholar: https://scholar.google.sk/citations?user=eBoisLQAAAAJ&amp;hl=sk&amp;oi=ao
-year: ''
+img: Ludovit_Paulis.jpg

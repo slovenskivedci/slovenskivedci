@@ -1,10 +1,14 @@
+name: "Marcel Z\xE1mock\xFD"
+last: "Z\xE1mock\xFD"
+year: ''
+sex: "mu\u017E"
+position: vedec
+field: "fylogenomick\xE1 ekol\xF3gia"
 affiliation: University of Natural Resources and Life Sciences
 city: "Viede\u0148"
 country: "Rak\xFAsko"
-field: "fylogenomick\xE1 ekol\xF3gia"
 hindex: 31
-img: Marcel_Zamocky.jpg
-last: "Z\xE1mock\xFD"
+scholar: https://scholar.google.com/citations?user=pT4T7F4AAAAJ&hl=sk
 last_update: '2022-03-27'
 links:
   LinkedIn: https://www.linkedin.com/in/marcel-zamocky-51260810a/
@@ -12,8 +16,4 @@ links:
   orcid: https://orcid.org/0000-0002-2443-2823
   web 1: https://forschung.boku.ac.at/fis/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=7969
   web 2: https://www.sav.sk/index.php?lang=en&doc=user-org-user&user_no=2990
-name: "Marcel Z\xE1mock\xFD"
-position: vedec
-scholar: https://scholar.google.com/citations?user=pT4T7F4AAAAJ&hl=sk
-sex: "mu\u017E"
-year: ''
+img: Marcel_Zamocky.jpg

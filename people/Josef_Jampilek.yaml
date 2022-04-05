@@ -1,10 +1,14 @@
+name: "Josef Jamp\xEDlek"
+last: "Jamp\xEDlek"
+year: ''
+sex: "mu\u017E"
+position: profesor
+field: "medicin\xE1lna ch\xE9mia"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "medicin\xE1lna ch\xE9mia"
 hindex: 43
-img: Josef_Jampilek.jpg
-last: "Jamp\xEDlek"
+scholar: https://scholar.google.sk/citations?user=co9rdhQAAAAJ&hl=sk&oi=sra
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Josef-Jampilek-2
@@ -12,8 +16,4 @@ links:
   "r\xE1dio": https://www.rtvs.sk/radio/archiv/11436/1648379
   web: https://analytika.sk/o-nas/pracovnici/josef-jampilek/
   "\u017Eivotopis": http://www.gnnconf.org/Speaker/Details?id=431
-name: "Josef Jamp\xEDlek"
-position: profesor
-scholar: https://scholar.google.sk/citations?user=co9rdhQAAAAJ&hl=sk&oi=sra
-sex: "mu\u017E"
-year: ''
+img: Josef_Jampilek.jpg

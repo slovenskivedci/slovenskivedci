@@ -1,10 +1,14 @@
+name: "Bibiana Bielekov\xE1"
+last: "Bielekov\xE1"
+year: 1969
+sex: "\u017Eena"
+position: "vedky\u0148a"
+field: "neuroimunol\xF3gia"
 affiliation: National Institute of Allergy and Infectious Diseases
 city: Bethesda
 country: USA
-field: "neuroimunol\xF3gia"
 hindex: 40
-img: Bibiana_Bielekova.jpg
-last: "Bielekov\xE1"
+scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Bibiana_Bielekova
@@ -14,8 +18,4 @@ links:
   web: https://www.niaid.nih.gov/research/bibi-bielekova-md
   web 2: https://irp.nih.gov/pi/bibiana-bielekova
   "\u017Eivotopis": https://demystifyingmedicine.od.nih.gov/dm11/biosketch/dm0301-bielekova-bibiana.pdf
-name: "Bibiana Bielekov\xE1"
-position: "vedky\u0148a"
-scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
-sex: "\u017Eena"
-year: 1969
+img: Bibiana_Bielekova.jpg

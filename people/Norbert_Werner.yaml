@@ -1,10 +1,14 @@
+name: Norbert Werner
+last: Werner
+year: null
+sex: "mu\u017E"
+position: docent
+field: "astron\xF3mia"
 affiliation: Masarykova univerzita
 city: Brno
 country: "\u010Cesko"
-field: "astron\xF3mia"
 hindex: 52
-img: Norbert_Werner.jpg
-last: Werner
+scholar: https://scholar.google.com/citations?hl=en&user=D93yu9MAAAAJ
 last_update: '2022-03-27'
 links:
   TEDx: https://www.tedxbratislava.sk/en/video/norbert-werner-tlcuce-srdcia-galaxii-beating-hearts-of-galaxies-2/
@@ -16,8 +20,4 @@ links:
   web: http://hea.physics.muni.cz/people/norbert.html
   youtube: https://www.youtube.com/c/UTFAMUNI
   "\u017Eivotopis": https://www.upjs.sk/prirodovedecka-fakulta/absolventi/as/archiv/hostia-nw/
-name: Norbert Werner
-position: docent
-scholar: https://scholar.google.com/citations?hl=en&user=D93yu9MAAAAJ
-sex: "mu\u017E"
-year: null
+img: Norbert_Werner.jpg

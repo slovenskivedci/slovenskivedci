@@ -1,22 +1,16 @@
-name: "Karol Ondriaš"
-last: "Ondriaš"
+name: "Karol Ondria\u0161"
+last: "Ondria\u0161"
 year: 1952
-sex: "muž"
-
-field: "biomedicína"
-
-
-scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
+sex: "mu\u017E"
+position: vedec
+field: "biomedic\xEDna"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
+city: Bratislava
+country: Slovensko
 hindex: 31
+scholar: https://scholar.google.com/citations?user=Gb4-gwgAAAAJ&amp;hl=en
 last_update: '2022-03-04'
-
-position: "vedec"
-affiliation: "Slovenská akadémia vied"
-city: "Bratislava"
-country: "Slovensko"
-
 links:
   web: http://www.ondrias.sk
-  wikipédia: "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"
-
+  "wikip\xE9dia": "https://sk.wikipedia.org/wiki/Karol_Ondria\u0161"
 img: Karol_Ondrias.png

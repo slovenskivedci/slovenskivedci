@@ -1,16 +1,16 @@
+name: "Vladim\xEDr Bu\u017Eek"
+last: "Bu\u017Eek"
+year: 1957
+sex: "mu\u017E"
+position: profesor
+field: "kvantov\xE1 fyzika"
 affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: Bratislava
 country: Slovensko
-field: "kvantov\xE1 fyzika"
 hindex: 61
-img: Vladimir_Buzek.jpg
-last: "Bu\u017Eek"
+scholar: https://scholar.google.com/citations?user=m2hSZWQAAAAJ&amp;hl=en
 last_update: '2022-03-26'
 links:
   web: http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=buzek
   "\u017Eivotopis": https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf
-name: "Vladim\xEDr Bu\u017Eek"
-position: profesor
-scholar: https://scholar.google.com/citations?user=m2hSZWQAAAAJ&amp;hl=en
-sex: "mu\u017E"
-year: 1957
+img: Vladimir_Buzek.jpg

@@ -1,18 +1,14 @@
-name: "Radko Mesiar"
-last: "Mesiar"
-
+name: Radko Mesiar
+last: Mesiar
 year: 1951
-sex: "muž"
-
+sex: "mu\u017E"
 position: profesor
-field: "aplikovaná matematika"
-affiliation: "Slovenská technická univerzita"
-city: "Bratislava"
+field: "aplikovan\xE1 matematika"
+affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+city: Bratislava
 country: Slovensko
-
 hindex: 66
 scholar: https://scholar.google.com/citations?user=_kXpl5YAAAAJ&amp;hl=en
-
 last_update: '2022-03-04'
 links:
   web: https://www.math.sk/mesiar/
@@ -21,5 +17,4 @@ links:
   ResearchGate: https://www.researchgate.net/profile/Radko-Mesiar
   research.com: https://research.com/u/radko-mesiar
   Mathematics Genealogy: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=123952
-
 img: Radko_Mesiar.jpeg

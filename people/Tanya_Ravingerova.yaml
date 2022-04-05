@@ -1,18 +1,16 @@
-name: "Tanya Ravingerová"
-last: "Ravingerová"
-position: "vedkyňa"
-scholar: https://scholar.google.com/citations?user=_fONjMIAAAAJ&amp;hl=en
+name: "Tanya Ravingerov\xE1"
+last: "Ravingerov\xE1"
 year: 1951
-sex: "žena"
-
-
-affiliation: "Slovenská akadémia vied"
-city: "Bratislava"
-country: "Slovensko"
-field: "fyziológia"
+sex: "\u017Eena"
+position: "vedky\u0148a"
+field: "fyziol\xF3gia"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
+city: Bratislava
+country: Slovensko
 hindex: 32
-img: Tanya_Ravingerova.jpg
+scholar: https://scholar.google.com/citations?user=_fONjMIAAAAJ&amp;hl=en
 last_update: '2022-02-04'
 links:
   ResearchGate: https://www.researchgate.net/profile/Tanya_Ravingerova
-  životopis: https://www.sav.sk/uploads/users_cv/20181126205307_445_CV_Ravingerova_15.11.2018.doc
+  "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20181126205307_445_CV_Ravingerova_15.11.2018.doc
+img: Tanya_Ravingerova.jpg

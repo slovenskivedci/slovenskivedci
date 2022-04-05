@@ -1,10 +1,14 @@
+name: "Vladim\xEDr Farka\u0161"
+last: "Farka\u0161"
+year: 1941
+sex: "mu\u017E"
+position: profesor
+field: "bioch\xE9mia"
 affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: Bratislava
 country: Slovensko
-field: "bioch\xE9mia"
 hindex: 36
-img: Vladimir_Farkas.jpg
-last: "Farka\u0161"
+scholar: https://scholar.google.ro/citations?user=lakc8cQAAAAJ&hl=en
 last_update: '2022-03-27'
 links:
   LinkedIn: https://www.linkedin.com/in/vladimir-farkas-a3225724/?originalSubdomain=sk
@@ -15,8 +19,4 @@ links:
   web 1: http://www.chem.sk/people/farkasvladimir/
   web 2: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=615
   "\u017Eivotopis": "https://www.learned.sk/wp-content/uploads/2020/03/\u017Eivotopis-UcSS.pdf"
-name: "Vladim\xEDr Farka\u0161"
-position: profesor
-scholar: https://scholar.google.ro/citations?user=lakc8cQAAAAJ&hl=en
-sex: "mu\u017E"
-year: 1941
+img: Vladimir_Farkas.jpg

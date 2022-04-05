@@ -1,26 +1,21 @@
-name: "Peter Rafaj"
-last: "Rafaj"
-
-year:
-sex: "muž"
-
-position: "vedec"
-field: "klimatická zmena"
-affiliation: "International Institute for Applied Systems Analysis"
-city: "Laxenburg"
-country: "Rakúsko"
-
+name: Peter Rafaj
+last: Rafaj
+year: null
+sex: "mu\u017E"
+position: vedec
+field: "klimatick\xE1 zmena"
+affiliation: International Institute for Applied Systems Analysis
+city: Laxenburg
+country: "Rak\xFAsko"
 hindex: 31
 scholar: https://scholar.google.com/citations?hl=en&user=ooffTIwAAAAJ
-
 last_update: '2022-03-04'
 links:
   web: https://iiasa.ac.at/staff/staff.php?type=auto&visibility=visible&search=true&login=rafaj
   iiasa: https://iiasa.ac.at
   ResearchGate: https://www.researchgate.net/profile/Peter-Rafaj-2
   dblp: https://dblp.org/pid/134/4516.html
-  životopis: https://biography.omicsonline.org/austria/international-institute-for-applied-systems-analysis/peter-rafaj-77808
+  "\u017Eivotopis": https://biography.omicsonline.org/austria/international-institute-for-applied-systems-analysis/peter-rafaj-77808
   publons: https://publons.com/researcher/2462168/peter-rafaj/
-  denníkN: https://e.dennikn.sk/2304346/v-pekingu-dychate-taky-znecisteny-vzduch-ako-keby-ste-vyfajcili-krabicku-denne-hovori-slovensky-vedec-ktory-publikoval-v-lancete/
-
+  "denn\xEDkN": https://e.dennikn.sk/2304346/v-pekingu-dychate-taky-znecisteny-vzduch-ako-keby-ste-vyfajcili-krabicku-denne-hovori-slovensky-vedec-ktory-publikoval-v-lancete/
 img: Peter_Rafaj.jpg

@@ -1,16 +1,16 @@
+name: "Tom\xE1\u0161 Bu\u010Dko"
+last: "Bu\u010Dko"
+year: ''
+sex: "mu\u017E"
+position: docent
+field: "fyzik\xE1lna ch\xE9mia"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "fyzik\xE1lna ch\xE9mia"
 hindex: 39
-img: Tomas_Bucko.png
-last: "Bu\u010Dko"
+scholar: https://scholar.google.de/citations?user=wsJN2SMAAAAJ&amp;hl=en
 last_update: '2022-03-26'
 links:
   publons: https://publons.com/researcher/1378264/tomas-bucko/
   web: https://fns.uniba.sk/en/departments/chemistry/department-of-physical-and-theoretical-chemistry/people/central-database-of-staff/?tx_unibausers_pi1[person]=bucko19
-name: "Tom\xE1\u0161 Bu\u010Dko"
-position: docent
-scholar: https://scholar.google.de/citations?user=wsJN2SMAAAAJ&amp;hl=en
-sex: "mu\u017E"
-year: ''
+img: Tomas_Bucko.png

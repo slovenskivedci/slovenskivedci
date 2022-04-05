@@ -1,32 +1,26 @@
-name: "Martin Kahanec"
-last: "Kahanec"
+name: Martin Kahanec
+last: Kahanec
 year: 1977
-sex: "muž"
-
+sex: "mu\u017E"
 position: profesor
-field: "ekonómia"
-affiliation: "Central European University"
-city: "Viedeň"
-country: "Rakúsko"
-
+field: "ekon\xF3mia"
+affiliation: Central European University
+city: "Viede\u0148"
+country: "Rak\xFAsko"
 hindex: 31
 scholar: https://scholar.google.com/citations?user=2lo3e7sAAAAJ&hl=en
-
 last_update: '2022-03-04'
-
 links:
   web 1: https://www.celsi.sk/sk/ludia/detail/64/martin-kahanec/
   web 2: https://wol.iza.org/authors/martin-kahanec
   CELSI: https://www.celsi.sk/sk/ludia/detail/64/martin-kahanec/
-  životopis: https://www.celsi.sk/media/people/cv/Kahanec_CV_20190917_ONLINE.pdf
+  "\u017Eivotopis": https://www.celsi.sk/media/people/cv/Kahanec_CV_20190917_ONLINE.pdf
   twitter: https://twitter.com/martinkahanec
   RePEc: https://ideas.repec.org/f/pka206.html
-  wikipédia: https://sk.wikipedia.org/wiki/Martin_Kahanec
+  "wikip\xE9dia": https://sk.wikipedia.org/wiki/Martin_Kahanec
   Academia Europaea: https://www.ae-info.org/ae/Member/Kahanec_Martin
   Microsoft Academic: https://academic.microsoft.com/author/137717598/publication?paperId=3145585907
   ResearchGate: https://www.researchgate.net/profile/Martin-Kahanec
   orcid: https://orcid.org/0000-0003-4397-3083
   LinkedIn: https://www.linkedin.com/in/martin-kahanec-6aaba32/?originalSubdomain=sk
-
-
 img: Martin_Kahanec.jpg

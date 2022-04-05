@@ -1,10 +1,14 @@
+name: "Lenka Be\u0148ov\xE1"
+last: "Be\u0148ov\xE1"
+year: ''
+sex: "\u017Eena"
+position: "vedky\u0148a"
+field: "reproduk\u010Dn\xE9 zdravie"
 affiliation: Institute of Tropical Medicine Antwerp
 city: Antwerpy
 country: Belgicko
-field: "reproduk\u010Dn\xE9 zdravie"
 hindex: 31
-img: Lenka_Benova.jpg
-last: "Be\u0148ov\xE1"
+scholar: https://scholar.google.com/citations?user=BZTPCTIAAAAJ&hl=en
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Lenka-Benova/3
@@ -12,8 +16,4 @@ links:
   twitter: https://twitter.com/lenkabenova
   web 1: https://research.itg.be/en/persons/lenka-benova
   web 2: https://www.lshtm.ac.uk/aboutus/people/benova.lenka
-name: "Lenka Be\u0148ov\xE1"
-position: "vedky\u0148a"
-scholar: https://scholar.google.com/citations?user=BZTPCTIAAAAJ&hl=en
-sex: "\u017Eena"
-year: ''
+img: Lenka_Benova.jpg

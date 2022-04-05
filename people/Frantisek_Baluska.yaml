@@ -1,10 +1,14 @@
+name: "Franti\u0161ek Balu\u0161ka"
+last: "Balu\u0161ka"
+year: 1957
+sex: "mu\u017E"
+position: profesor
+field: "neurobiol\xF3gia rastl\xEDn"
 affiliation: University of Bonn
 city: Bonn
 country: Nemecko
-field: "neurobiol\xF3gia rastl\xEDn"
 hindex: 79
-img: Frantisek_Baluska.jpg
-last: "Balu\u0161ka"
+scholar: https://scholar.google.com/citations?user=KF4AYR4AAAAJ&amp;hl=en
 last_update: '2022-03-26'
 links:
   ResearchGate: https://www.researchgate.net/profile/Frantisek-Baluska
@@ -12,8 +16,4 @@ links:
   orcid: https://orcid.org/0000-0001-8763-7861
   publons: https://publons.com/researcher/4486604/frantisek-baluska/
   web: http://ds9.botanik.uni-bonn.de/zellbio/AG-Baluska-Volkmann/index.php
-name: "Franti\u0161ek Balu\u0161ka"
-position: profesor
-scholar: https://scholar.google.com/citations?user=KF4AYR4AAAAJ&amp;hl=en
-sex: "mu\u017E"
-year: 1957
+img: Frantisek_Baluska.jpg

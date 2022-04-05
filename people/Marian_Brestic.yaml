@@ -1,22 +1,17 @@
-name: "Marián Brestič"
-last: "Brestič"
-
-position: profesor
-scholar: https://scholar.google.com/citations?user=9LXjvp8AAAAJ&amp;hl=en&amp;oi=sra
+name: "Mari\xE1n Bresti\u010D"
+last: "Bresti\u010D"
 year: 1959
-sex: "muž"
-
-affiliation: "Slovenská poľnohospodárska univerzita"
-
-city: "Nitra"
-country: "Slovensko"
-field: "fyziológia rastlín"
+sex: "mu\u017E"
+position: profesor
+field: "fyziol\xF3gia rastl\xEDn"
+affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
+city: Nitra
+country: Slovensko
 hindex: 51
-
+scholar: https://scholar.google.com/citations?user=9LXjvp8AAAAJ&amp;hl=en&amp;oi=sra
 last_update: '2022-03-04'
 links:
   ESET Science Award: https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/marian-brestic
   web: https://is.uniag.sk/lide/clovek.pl?id=1426
-  životopis: https://uniag.academia.edu/MarianBrestic/CurriculumVitae
-
+  "\u017Eivotopis": https://uniag.academia.edu/MarianBrestic/CurriculumVitae
 img: Marian_Brestic.jpg

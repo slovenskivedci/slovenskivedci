@@ -1,16 +1,16 @@
+name: "Mari\xE1n Valko"
+last: Valko
+year: ''
+sex: "mu\u017E"
+position: profesor
+field: "ch\xE9mia"
 affiliation: "Slovensk\xE1 technick\xE1 univerzita"
 city: Bratislava
 country: Slovensko
-field: "ch\xE9mia"
 hindex: 35
-img: Marian_Valko.jpeg
-last: Valko
+scholar: https://scholar.google.sk/citations?user=Csnoq7QAAAAJ&amp;hl=en
 last_update: '2022-03-27'
 links:
   loop: https://loop.frontiersin.org/people/127211/overview
   web: http://edisk.cvt.stuba.sk/~valkom/Homepage.html
-name: "Mari\xE1n Valko"
-position: profesor
-scholar: https://scholar.google.sk/citations?user=Csnoq7QAAAAJ&amp;hl=en
-sex: "mu\u017E"
-year: ''
+img: Marian_Valko.jpeg

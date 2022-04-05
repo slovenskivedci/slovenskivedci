@@ -1,28 +1,18 @@
-name: "Milan Timko"
-last: "Timko"
-sex: "muž"
+name: Milan Timko
+last: Timko
 year: 1954
-
-position: "vedec"
-field: "fyzika magnetizmu"
-affiliation: "Slovenská akadémia vied"
-city: "Košice"
-country: "Slovensko"
-
-
-
+sex: "mu\u017E"
+position: vedec
+field: fyzika magnetizmu
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
+city: "Ko\u0161ice"
+country: Slovensko
 hindex: 31
 scholar: https://scholar.google.sk/citations?user=ckojWlAAAAAJ
-
 last_update: '2022-03-04'
-
 links:
   ResearchGate: https://www.researchgate.net/profile/Milan_Timko
-  web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=2393
-  životopis: https://www.osobnosti.sk/osobnost/milan-timko-846
   orcid: https://orcid.org/0000-0002-2914-496X
-
-
-
-
+  web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=2393
+  "\u017Eivotopis": https://www.osobnosti.sk/osobnost/milan-timko-846
 img: Milan_Timko.jpg

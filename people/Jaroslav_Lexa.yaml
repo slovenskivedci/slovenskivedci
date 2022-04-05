@@ -1,10 +1,14 @@
+name: Jaroslav Lexa
+last: Lexa
+year: 1944
+sex: "mu\u017E"
+position: vedec
+field: "vulkanol\xF3gia"
 affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: Bratislava
 country: Slovensko
-field: "vulkanol\xF3gia"
 hindex: 29
-img: Jaroslav_Lexa.jpg
-last: Lexa
+scholar: https://scholar.google.com/citations?user=rHgfxxwAAAAJ&hl=en
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Jaroslav-Lexa
@@ -12,8 +16,4 @@ links:
   web 1: https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443
   web 2: http://www.geo.sav.sk/en/staff/jaroslav-lexa-en/
   "\u017Eivotopis": https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443&action=cv
-name: Jaroslav Lexa
-position: vedec
-scholar: https://scholar.google.com/citations?user=rHgfxxwAAAAJ&hl=en
-sex: "mu\u017E"
-year: 1944
+img: Jaroslav_Lexa.jpg

@@ -1,10 +1,14 @@
+name: Milan Hronec
+last: Hronec
+year: ''
+sex: "mu\u017E"
+position: "emeritn\xFD profesor"
+field: "organick\xE1 technol\xF3gia"
 affiliation: "Slovensk\xE1 technick\xE1 univerzita"
 city: Bratislava
 country: Slovensko
-field: "organick\xE1 technol\xF3gia"
 hindex: 30
-img: Milan_Hronec.gif
-last: Hronec
+scholar: https://scholar.google.com/citations?user=2ZVSiB8AAAAJ&hl=en
 last_update: '2022-03-27'
 links:
   AMiner: https://www.aminer.cn/profile/milan-hronec/5405d945dabfae91d3014404
@@ -12,8 +16,4 @@ links:
   ResearchGate: https://www.researchgate.net/profile/Milan-Hronec
   orcid: https://orcid.org/0000-0002-6958-1638
   web: https://www.fchpt.stuba.sk/english/institutes-and-departments/institute-of-organic-chemistry-catalysis-and-petrochemistry/department-of-organic-technology/staff.html?page_id=3974
-name: Milan Hronec
-position: "emeritn\xFD profesor"
-scholar: https://scholar.google.com/citations?user=2ZVSiB8AAAAJ&hl=en
-sex: "mu\u017E"
-year: ''
+img: Milan_Hronec.gif

@@ -1,10 +1,14 @@
+name: "Anatolij Dvure\u010Denskij"
+last: "Dvure\u010Denskij"
+year: 1949
+sex: "mu\u017E"
+position: profesor
+field: matematika
 affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: Bratislava
 country: Slovensko
-field: matematika
 hindex: 31
-img: Anatolij_Dvurecenskij.jpeg
-last: "Dvure\u010Denskij"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC
 last_update: '2022-03-26'
 links:
   Mathematics Genealogy: https://www.mathgenealogy.org/id.php?id=128765
@@ -15,8 +19,4 @@ links:
   web: http://www.mat.savba.sk/~dvurecenskij/
   "\u017Eivotopis": "https://www.ku.sk/images/dokumenty/pf/dokumenty/veda_a_vyskum/projekty_a_granty/kega/1._\u017E\
     ivotopis_prof._dvure\u010Denskij14421.pdf"
-name: "Anatolij Dvure\u010Denskij"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=5180vHmRoYcC
-sex: "mu\u017E"
-year: 1949
+img: Anatolij_Dvurecenskij.jpeg

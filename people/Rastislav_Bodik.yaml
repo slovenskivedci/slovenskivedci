@@ -1,10 +1,14 @@
+name: "Rastislav Bod\xEDk"
+last: "Bod\xEDk"
+year: 1968
+sex: "mu\u017E"
+position: profesor
+field: programovacie jazyky
 affiliation: University of Washington
 city: Seattle
 country: USA
-field: programovacie jazyky
 hindex: 45
-img: Rastislav_Bodik.jpg
-last: "Bod\xEDk"
+scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
 last_update: '2022-03-26'
 links:
   ACM: https://dl.acm.org/profile/81100033082
@@ -17,8 +21,4 @@ links:
   research.com: https://research.com/u/rastislav-bodik
   web: https://homes.cs.washington.edu/~bodik/
   "\u017Eivotopis": https://homes.cs.washington.edu/~bodik/cv.pdf
-name: "Rastislav Bod\xEDk"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
-sex: "mu\u017E"
-year: 1968
+img: Rastislav_Bodik.jpg

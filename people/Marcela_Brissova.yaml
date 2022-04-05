@@ -1,10 +1,14 @@
+name: "Marcela Brissov\xE1"
+last: "Brissov\xE1"
+year: null
+sex: "\u017Eena"
+position: "vedky\u0148a"
+field: "fyziol\xF3gia"
 affiliation: Vanderbilt university
 city: Nashville
 country: USA
-field: "fyziol\xF3gia"
 hindex: 37
-img: Marcela_Brissova.jpg
-last: "Brissov\xE1"
+scholar: https://scholar.google.com.tr/citations?user=3rQF3wIAAAAJ
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Marcela-Brissova
@@ -13,8 +17,4 @@ links:
   orcid: https://orcid.org/0000-0002-4999-3280
   web 1: https://medicine.vumc.org/person/marcela-brissova-phd
   web 2: https://labnodes.vanderbilt.edu/member/profile/id/10427
-name: "Marcela Brissov\xE1"
-position: "vedky\u0148a"
-scholar: https://scholar.google.com.tr/citations?user=3rQF3wIAAAAJ
-sex: "\u017Eena"
-year: null
+img: Marcela_Brissova.jpg

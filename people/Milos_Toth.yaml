@@ -1,10 +1,14 @@
+name: "Milo\u0161 T\xF3th"
+last: "T\xF3th"
+year: ''
+sex: "mu\u017E"
+position: profesor
+field: fyzika
 affiliation: University of Technology Sydney
 city: Sydney
 country: "Austr\xE1lia"
-field: fyzika
 hindex: 41
-img: Milos_Toth.png
-last: "T\xF3th"
+scholar: https://scholar.google.com/citations?hl=en&user=OMBz3bIAAAAJ
 last_update: '2022-04-01'
 links:
   ResearchGate: https://www.researchgate.net/scientific-contributions/Milos-Toth-10585893
@@ -13,8 +17,4 @@ links:
   publons: https://publons.com/researcher/2671223/milos-toth/
   web 1: https://profiles.uts.edu.au/Milos.Toth
   web 2: https://tmos.org.au/team/cis/
-name: "Milo\u0161 T\xF3th"
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&user=OMBz3bIAAAAJ
-sex: "mu\u017E"
-year: ''
+img: Milos_Toth.png

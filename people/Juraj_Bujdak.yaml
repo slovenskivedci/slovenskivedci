@@ -1,10 +1,14 @@
+name: "Juraj Bujd\xE1k"
+last: "Bujd\xE1k"
+year: 1965
+sex: "mu\u017E"
+position: profesor
+field: "fyzik\xE1lna ch\xE9mia"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-field: "fyzik\xE1lna ch\xE9mia"
 hindex: 37
-img: Juraj_Bujdak.jpg
-last: "Bujd\xE1k"
+scholar: https://scholar.google.sk/citations?hl=en&user=WHTCo3IAAAAJ
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/profile/Juraj-Bujdak
@@ -13,8 +17,4 @@ links:
   web 1: https://uniba.sk/ludia/bujdak3/
   web 2: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1203
   "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/veda/docprof/PriF_UK/BUJDAK-prof/CV_Bujdak.pdf
-name: "Juraj Bujd\xE1k"
-position: profesor
-scholar: https://scholar.google.sk/citations?hl=en&user=WHTCo3IAAAAJ
-sex: "mu\u017E"
-year: 1965
+img: Juraj_Bujdak.jpg

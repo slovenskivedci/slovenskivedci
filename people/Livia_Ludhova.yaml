@@ -1,19 +1,15 @@
-name: "Lívia Ludhová"
-last: "Ludhová"
+name: "L\xEDvia Ludhov\xE1"
+last: "Ludhov\xE1"
 year: 1973
-sex: "žena"
-
-position: "profesorka"
-field: "fyzika neutrín"
-affiliation: "Jülich Research Centre"
-city: "Jülich"
-country: "Nemecko"
-
+sex: "\u017Eena"
+position: profesorka
+field: "fyzika neutr\xEDn"
+affiliation: "J\xFClich Research Centre"
+city: "J\xFClich"
+country: Nemecko
 hindex: 52
 scholar: https://scholar.google.com/citations?hl=en&user=qZt_50MAAAAJ
-
 last_update: '2022-03-26'
-
 links:
   web: http://collaborations.fz-juelich.de/ikp/neutrino/group_mem/group_mem_livia.html
   travel: https://www.livialudhova.com/about
@@ -26,5 +22,4 @@ links:
   prabook: https://prabook.com/web/livia.ludhova/13385
   publons: https://publons.com/researcher/3394986/livia-ludhova/
   AcademiaNet: https://www.academia-net.org/profil/prof-dr-dr-livia-ludhova/1877446
-
 img: Livia_Ludhova.jpg

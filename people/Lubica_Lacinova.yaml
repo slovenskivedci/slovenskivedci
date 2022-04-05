@@ -1,10 +1,14 @@
+name: "\u013Dubica Lacinov\xE1"
+last: "Lacinov\xE1"
+year: 1959
+sex: "\u017Eena"
+position: profesorka
+field: biofyzika
 affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: Bratislava
 country: Slovensko
-field: biofyzika
 hindex: 30
-img: Lubica_Lacinova.png
-last: "Lacinov\xE1"
+scholar: https://scholar.google.com/citations?user=GLiFrtgAAAAJ&amp;hl=sk
 last_update: '2022-03-27'
 links:
   ResearchGate: https://www.researchgate.net/lab/Lubica-Lacinova-Lab
@@ -12,8 +16,4 @@ links:
   "pam\xE4\u0165 n\xE1roda": https://www.pametnaroda.cz/en/lacinova-lubica-1959
   publons: https://publons.com/researcher/463170/lubica-lacinova/
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1384
-name: "\u013Dubica Lacinov\xE1"
-position: profesorka
-scholar: https://scholar.google.com/citations?user=GLiFrtgAAAAJ&amp;hl=sk
-sex: "\u017Eena"
-year: 1959
+img: Lubica_Lacinova.png

@@ -1,22 +1,18 @@
-affiliation: "Univerzita Komenského"
-
-city: "Bratislava"
-country: "Slovensko"
-field: "behaviorálna ekológia"
+name: Pavol Prokop
+last: Prokop
+year: ''
+sex: "mu\u017E"
+position: profesor
+field: "behavior\xE1lna ekol\xF3gia"
+affiliation: "Univerzita Komensk\xE9ho"
+city: Bratislava
+country: Slovensko
 hindex: 46
-
-img: Pavol_Prokop.png
+scholar: https://scholar.google.sk/citations?user=q6uGy_4AAAAJ&amp;hl=sk
 last_update: '2022-02-23'
-
 links:
   web: https://fns.uniba.sk/pracoviska/environmentalna-sekcia/kee/zamestnanci/pavol-prokop/
   ResearchGate: https://www.researchgate.net/profile/Pavol-Prokop
   loop: https://loop.frontiersin.org/people/688984/overview
   SAV: https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=4339
-
-name: "Pavol Prokop"
-last: "Prokop"
-position: profesor
-scholar: https://scholar.google.sk/citations?user=q6uGy_4AAAAJ&amp;hl=sk
-year: ''
-sex: "muž"
+img: Pavol_Prokop.png

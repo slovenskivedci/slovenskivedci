@@ -1,10 +1,14 @@
+name: Marek Hatala
+last: Hatala
+year: ''
+sex: "mu\u017E"
+position: profesor
+field: "d\xE1tov\xE1 veda"
 affiliation: Simon Fraser University
 city: Surrey
 country: Kanada
-field: "d\xE1tov\xE1 veda"
 hindex: 44
-img: Marek_Hatala.jpg
-last: Hatala
+scholar: https://scholar.google.com/citations?hl=en&amp;user=ApdHT0UAAAAJ
 last_update: '2022-03-26'
 links:
   LinkedIn: https://www.linkedin.com/in/marek-hatala-9887972/?originalSubdomain=ca
@@ -12,8 +16,4 @@ links:
   dblp: https://dblp.org/pid/37/2425.html
   research.com: https://research.com/u/marek-hatala
   web: https://www.sfu.ca/siat/people/research-faculty/marek-hatala.html
-name: Marek Hatala
-position: profesor
-scholar: https://scholar.google.com/citations?hl=en&amp;user=ApdHT0UAAAAJ
-sex: "mu\u017E"
-year: ''
+img: Marek_Hatala.jpg
