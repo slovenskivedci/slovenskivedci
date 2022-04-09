@@ -1677,6 +1677,40 @@
   affiliationurl: University_of_Adelaide
   cityurl: Adelaide
   sexurl: zena
+- name: Peter Komadel
+  last: Komadel
+  year: 1955-2021
+  sex: "mu\u017E"
+  position: vedec
+  field: "anorganick\xE1 ch\xE9mia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 46
+  scholar: https://scholar.google.com/citations?user=ubIkrj4AAAAJ
+  last_update: '2022-04-09'
+  links:
+  - - learned.sk
+    - https://www.learned.sk/rndr-peter-komadel-drsc/
+  - - news
+    - https://www.sav.sk/?lang=sk&doc=services-news&source_no=20&news_no=9440
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Komadel
+  - - Semantic Scholar
+    - https://www.semanticscholar.org/author/P.-Komadel/16231373
+  - - sme.sk
+    - https://tech.sme.sk/c/6887151/chemik-komadel-vymyslel-som-trivialnu-vec-a-kazdy-sa-smial.html
+  - - "\u017Eivotopis 1"
+    - http://www.slovakclaygroup.sk/en/events/45-memory-of-dr-peter-komadel
+  - - "\u017Eivotopis 2"
+    - https://www.learned.sk/smutocny-oznam-10/
+  img: Peter_Komadel.jpg
+  countryurl: Slovensko
+  fieldurl: anorganicka_chemia
+  positionurl: vedec
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
 - name: Juraj Parajka
   last: Parajka
   year: ''
