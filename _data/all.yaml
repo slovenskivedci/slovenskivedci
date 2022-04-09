@@ -938,6 +938,34 @@
   affiliationurl: University_of_British_Columbia
   cityurl: Britska_Kolumbia
   sexurl: muz
+- name: "Richard Kvet\u0148ansk\xFD"
+  last: Kvetnansky
+  year: 1937-2016
+  sex: "mu\u017E"
+  position: vedec
+  field: "bioch\xE9mia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 55
+  scholar: https://scholar.google.com/citations?user=eZE5eZwAAAAJ
+  last_update: '2022-04-09'
+  links:
+  - - in memoriam
+    - https://link.springer.com/article/10.1007/s10571-017-0569-y
+  - - noviny.sk
+    - https://www.noviny.sk/slovensko/165140-zomrel-spickovy-vedec-richard-kvetnansky-kandidat-na-nobelovu-cenu
+  - - osobnosti.sk
+    - https://www.osobnosti.sk/osobnost/richard-kvetnansky-692
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Richard-Kvetnansky-2127391892
+  img: Richard_Kvetnansky.jpg
+  countryurl: Slovensko
+  fieldurl: biochemia
+  positionurl: vedec
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
 - name: Ladislav Mucina
   last: Mucina
   year: 1956
