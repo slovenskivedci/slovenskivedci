@@ -1,6 +1,6 @@
 - name: "Stanislav Tok\xE1r"
   last: Tokar
-  year: ''
+  year: '1952'
   sex: "mu\u017E"
   position: profesor
   field: "subjadrov\xE1 fyzika"
@@ -23,6 +23,8 @@
     - https://uniba.sk/ludia/tokar1/publications/
   - - "wikip\xE9dia"
     - https://www.wikidata.org/wiki/Q98507487
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/veda/docprof/FMFI_UK/Tokar/01_inauguracia_zivotopis__tokar.pdf
   img: Stanislav_Tokar.jpg
   countryurl: Slovensko
   fieldurl: subjadrova_fyzika
