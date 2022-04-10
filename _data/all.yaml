@@ -1,3 +1,35 @@
+- name: "Stanislav Tok\xE1r"
+  last: Tokar
+  year: ''
+  sex: "mu\u017E"
+  position: profesor
+  field: "subjadrov\xE1 fyzika"
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
+  hindex: 199
+  scholar: https://scholar.google.com/citations?user=2HzXQEkAAAAJ
+  last_update: '2022-04-10'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/stano-tokar-b0536844/?originalSubdomain=sk
+  - - news
+    - https://tech.sme.sk/c/7200524/najlepsim-vedcom-je-stanislav-tokar-skumal-kvarky.html
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Stano-Tokar-2
+  - - web 1
+    - http://atlas.hep.dnp.fmph.uniba.sk/~tokar/MyHomePage.html
+  - - web 2
+    - https://uniba.sk/ludia/tokar1/publications/
+  - - "wikip\xE9dia"
+    - https://www.wikidata.org/wiki/Q98507487
+  img: Stanislav_Tokar.jpg
+  countryurl: Slovensko
+  fieldurl: subjadrova_fyzika
+  positionurl: profesor
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
+  sexurl: muz
 - name: "Roman Lys\xE1k"
   last: Lysak
   year: 1979
@@ -35,9 +67,9 @@
   affiliation: "Univerzita Komensk\xE9ho"
   city: Bratislava
   country: Slovensko
-  hindex: 174
+  hindex: 175
   scholar: https://scholar.google.com/citations?hl=en&user=pCW77HEAAAAJ
-  last_update: '2022-03-26'
+  last_update: '2022-04-10'
   links:
   - - CERN
     - https://cds.cern.ch/search?f=author&p=Bartos%2C%20Pavol&ln=en
@@ -2989,7 +3021,7 @@
   sexurl: muz
 - name: "Igor Koz\xE1k"
   last: Kozak
-  year: ''
+  year: '1971'
   sex: "mu\u017E"
   position: konzultant
   field: "oftalmol\xF3gia"
@@ -3000,6 +3032,8 @@
   scholar: https://scholar.google.com/citations?hl=en&amp;user=uQGtqxoAAAAJ
   last_update: '2022-03-27'
   links:
+  - - news
+    - https://www.piestanskydennik.sk/2011/01/28/slovenske-osobnosti-mediciny-vo-svete-20-storocie-3/
   - - ResearchGate
     - https://www.researchgate.net/profile/Igor-Kozak/5
   - - web
