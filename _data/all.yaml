@@ -6430,12 +6430,12 @@
   year: '1977'
   sex: "mu\u017E"
   position: vedec
-  field: "strojov\xE9 u\u010Denie"
+  field: "neurol\xF3gia"
   affiliation: Sigmund Freud University
   city: "Viede\u0148"
   country: "Rak\xFAsko"
   hindex: 30
-  scholar: https://scholar.google.com/citations?user=CZaDvPgAAAAJ&amp;hl=en&amp;oi=ao
+  scholar: https://scholar.google.com/citations?user=sYVE8VIAAAAJ
   last_update: '2022-04-25'
   links:
   - - LinkedIn
@@ -6450,7 +6450,7 @@
     - https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Sykora/32_Priv_Doz_Sykora_zivotopis.pdf
   img: Marek_Sykora.jpg
   countryurl: Rakusko
-  fieldurl: strojove_ucenie
+  fieldurl: neurologia
   positionurl: vedec
   affiliationurl: Sigmund_Freud_University
   cityurl: Vieden
