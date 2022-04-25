@@ -6,11 +6,11 @@ countries:
   "Ve\u013Ek\xE1 Brit\xE1nia": 8
   Nemecko: 9
   "Austr\xE1lia": 9
+  "Rak\xFAsko": 11
   "\u010Cesko": 19
   Kanada: 11
   Belgicko: 1
   "Saudsk\xE1 Ar\xE1bia": 2
-  "Rak\xFAsko": 10
   Holandsko: 3
   Katar: 2
   "Spojen\xE9 arabsk\xE9 emir\xE1ty": 2
@@ -20,7 +20,7 @@ countries:
   "D\xE1nsko": 1
   "\u0160panielsko": 1
   "\u0160v\xE9dsko": 1
-man: 192
+man: 193
 woman: 34
 hindex:
 - 36
@@ -41,6 +41,7 @@ hindex:
 - 30
 - 34
 - 44
+- 30
 - 41
 - 30
 - 37
@@ -271,25 +272,25 @@ affiliation: "['Univerzita Komensk\xE9ho','Slovensk\xE1 akad\xE9mia vied','Slove
   \ Institute of Allergy and Infectious Diseases','National Research Council','Norwegian\
   \ Institute for Air Research','Oregon State University','Pre\u0161ovsk\xE1 univerzita','RWTH\
   \ Aachen','Region\xE1lny \xFArad verejn\xE9ho zdravotn\xEDctva','Research and Development\
-  \ Services','Slovensk\xE1 zdravotn\xEDcka univerzita','Solargis','Stanford University','Technical\
-  \ University Dortmund','The University of Melbourne','Trinity College Dublin','Trnavsk\xE1\
-  \ univerzita','U.S. Department of Agriculture','Universit\xE9 Aix-Marseille','University\
-  \ Medical Center Utrecht','University of Arizona','University of Birmingham','University\
-  \ of Bonn','University of British Columbia','University of Chicago','University\
-  \ of Edinburgh','University of Hawaii','University of Illinois','University of Louisville','University\
-  \ of Minnesota','University of New South Wales','University of Notre Dame','University\
-  \ of Ottawa','University of Pennsylvania','University of Pittsburgh','University\
-  \ of Reading','University of Regensburg','University of Technology Sydney','University\
-  \ of Vienna','University of Washington','University of Western Ontario','University\
-  \ of Zurich','Univerzita Kon\u0161tant\xEDna Filozofa','Uppsala University','Vanderbilt\
-  \ university','Vienna University of Technology','Vysok\xE1 \u0161kola chemicko-technologick\xE1\
-  ','Z\xE1pado\u010Desk\xE1 univerzita v Plzni','Zeppelin University','\u017Dilinsk\xE1\
-  \ univerzita']"
+  \ Services','Sigmund Freud University','Slovensk\xE1 zdravotn\xEDcka univerzita','Solargis','Stanford\
+  \ University','Technical University Dortmund','The University of Melbourne','Trinity\
+  \ College Dublin','Trnavsk\xE1 univerzita','U.S. Department of Agriculture','Universit\xE9\
+  \ Aix-Marseille','University Medical Center Utrecht','University of Arizona','University\
+  \ of Birmingham','University of Bonn','University of British Columbia','University\
+  \ of Chicago','University of Edinburgh','University of Hawaii','University of Illinois','University\
+  \ of Louisville','University of Minnesota','University of New South Wales','University\
+  \ of Notre Dame','University of Ottawa','University of Pennsylvania','University\
+  \ of Pittsburgh','University of Reading','University of Regensburg','University\
+  \ of Technology Sydney','University of Vienna','University of Washington','University\
+  \ of Western Ontario','University of Zurich','Univerzita Kon\u0161tant\xEDna Filozofa','Uppsala\
+  \ University','Vanderbilt university','Vienna University of Technology','Vysok\xE1\
+  \ \u0161kola chemicko-technologick\xE1','Z\xE1pado\u010Desk\xE1 univerzita v Plzni','Zeppelin\
+  \ University','\u017Dilinsk\xE1 univerzita']"
 hindex_hist_x: '[''30-46'',''46-63'',''63-80'',''80-97'',''97-114'',''114-131'',''131-148'',''148-165'',''165-182'',''182-199'',]'
-hindex_hist_count: '[169,40,7,4,1,2,0,0,1,2]'
+hindex_hist_count: '[170,40,7,4,1,2,0,0,1,2]'
 country: "['Slovensko','USA','\u010Cesko','Kanada','Rak\xFAsko','Austr\xE1lia','Nemecko','Ve\u013E\
   k\xE1 Brit\xE1nia','\u0160vaj\u010Diarsko','Holandsko','Katar','Saudsk\xE1 Ar\xE1\
   bia','Spojen\xE9 arabsk\xE9 emir\xE1ty','Belgicko','D\xE1nsko','Franc\xFAzsko','\xCD\
   rsko','N\xF3rsko','Rusk\xE1 feder\xE1cia','\u0160panielsko','\u0160v\xE9dsko']"
-countryCount: '[107,32,19,11,10,9,9,8,4,3,2,2,2,1,1,1,1,1,1,1,1]'
-affiliationCount: '[38,36,9,6,5,5,4,4,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'
+countryCount: '[107,32,19,11,11,9,9,8,4,3,2,2,2,1,1,1,1,1,1,1,1]'
+affiliationCount: '[38,36,9,6,5,5,4,4,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'
