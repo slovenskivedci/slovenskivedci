@@ -6161,6 +6161,35 @@
   affiliationurl: Presovska_univerzita
   cityurl: Presov
   sexurl: muz
+- name: "Zuzana Gdovinov\xE1"
+  last: Gdovinova
+  year: 1959
+  sex: "\u017Eena"
+  position: profesorka
+  field: "neurol\xF3gia"
+  affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+  city: "Ko\u0161ice"
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?user=bHMoRzIAAAAJ
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-7396-5052
+  - - publons
+    - https://publons.com/researcher/2279934/zuzana-gdovinova/
+  - - web 1
+    - https://www.upjs.sk/LF/zamestnanec/zuzana.gdovinova/
+  - - web 2
+    - https://www.upjs.sk/LF/zamestnanec/zuzana.gdovinova
+  - - "\u017Eivotopis"
+    - https://www.neurologiepropraxi.cz/pdfs/neu/2019/01/17.pdf
+  img: Zuzana_Gdovinova.jpg
+  countryurl: Slovensko
+  fieldurl: neurologia
+  positionurl: profesorka
+  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
+  cityurl: Kosice
+  sexurl: zena
 - name: Milan Hronec
   last: Hronec
   year: ''
