@@ -6258,6 +6258,34 @@
   affiliationurl: Slovenska_technicka_univerzita
   cityurl: Bratislava
   sexurl: muz
+- name: Richard Imrich
+  last: Imrich
+  year: 1974
+  sex: "mu\u017E"
+  position: docent
+  field: "biomedic\xEDna"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.sk/citations?user=UTQ13_oAAAAJ&hl=en
+  last_update: '2022-05-07'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/richard-imrich-8347269/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0002-1747-7150
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=6429
+  - - "\u017Eivotopis"
+    - https://www.sav.sk/uploads/users_cv/20210319102833_120_RichardImrichCV03-2021.docx
+  img: Richard_Imrich
+  countryurl: Slovensko
+  fieldurl: biomedicina
+  positionurl: docent
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
 - name: "Miroslava Ka\u010D\xE1niov\xE1"
   last: Kacaniova
   year: null
