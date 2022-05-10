@@ -1,0 +1,26 @@
+name: "Michal Valko"
+last: "Valko"
+year: ''
+sex: "muž"
+position: vedec
+field: "optimalizácia a strojové učenie"
+affiliation: "DeepMind"
+city: Paríž
+country: Francúzko
+hindex: 33
+scholar: https://scholar.google.com/citations?user=jrazNCQAAAAJ&hl=en
+last_update: '2022-05-10'
+links:
+  web: https://misovalko.github.io/index.html
+  životopis: https://misovalko.github.io/cv/long-cv-michal-valko.pdf
+  LinkedIn: https://www.linkedin.com/in/michalvalko/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=fr
+  twitter: https://twitter.com/misovalko?lang=en
+  dblp: https://dblp.org/pid/03/5455.html
+  Semantic Scholar: https://www.semanticscholar.org/author/Michal-Valko/1806291
+  ResearchGate: https://www.researchgate.net/scientific-contributions/Michal-Valko-34958013
+  DeepAI: https://deepai.org/profile/michal-valko
+  SlidesLive: https://slideslive.com/s/michal-valko-17029
+  ESET: https://www.esetscienceaward.sk/en/envoys/michal-valko
+  sme.sk: https://domov.sme.sk/c/22765422/vedec-valko-umelou-inteligenciou-chcem-zachranovat-zivoty.html
+
+img: Michal_Valko.jpg
