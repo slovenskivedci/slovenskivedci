@@ -6400,6 +6400,36 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: zena
+- name: Jaroslav Lexa
+  last: Lexa
+  year: 1944
+  sex: "mu\u017E"
+  position: vedec
+  field: "vulkanol\xF3gia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?user=rHgfxxwAAAAJ&hl=en
+  last_update: '2022-05-10'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jaroslav-Lexa
+  - - science.sk
+    - http://science.dennikn.sk/kto-je-kto-v-slovenskej-vede/osobnosti/veda-a-vyskum/2086-jaroslav-lexa
+  - - web 1
+    - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443
+  - - web 2
+    - http://www.geo.sav.sk/en/staff/jaroslav-lexa-en/
+  - - "\u017Eivotopis"
+    - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5443&action=cv
+  img: Jaroslav_Lexa.jpg
+  countryurl: Slovensko
+  fieldurl: vulkanologia
+  positionurl: vedec
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
 - name: Tibor Macko
   last: Macko
   year: null
