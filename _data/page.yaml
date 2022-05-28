@@ -37,7 +37,7 @@ hindex:
 - 31
 - 37
 - 39
-- 54
+- 55
 - 31
 - 30
 - 34
@@ -55,7 +55,7 @@ hindex:
 - 31
 - 44
 - 32
-- 56
+- 57
 - 53
 - 33
 - 37
@@ -96,7 +96,7 @@ hindex:
 - 98
 - 32
 - 42
-- 67
+- 68
 - 31
 - 42
 - 39
@@ -105,7 +105,7 @@ hindex:
 - 31
 - 30
 - 32
-- 67
+- 68
 - 62
 - 30
 - 30
@@ -122,8 +122,8 @@ hindex:
 - 42
 - 40
 - 48
-- 57
-- 51
+- 58
+- 53
 - 53
 - 31
 - 30
@@ -164,23 +164,23 @@ hindex:
 - 45
 - 38
 - 30
-- 57
+- 58
 - 31
 - 34
 - 48
 - 33
 - 31
 - 48
-- 57
+- 58
 - 38
 - 32
-- 130
+- 132
 - 31
 - 45
-- 58
+- 61
 - 34
-- 52
-- 52
+- 53
+- 55
 - 45
 - 37
 - 33
@@ -205,7 +205,7 @@ hindex:
 - 40
 - 48
 - 33
-- 55
+- 56
 - 51
 - 31
 - 35
@@ -213,7 +213,7 @@ hindex:
 - 38
 - 51
 - 44
-- 56
+- 57
 - 37
 - 63
 - 60
@@ -222,12 +222,12 @@ hindex:
 - 62
 - 36
 - 51
-- 192
+- 193
 - 30
 - 31
-- 58
+- 60
 - 35
-- 30
+- 31
 - 46
 - 30
 - 31
@@ -237,7 +237,7 @@ hindex:
 - 32
 - 41
 - 32
-- 55
+- 56
 - 36
 - 34
 - 31
@@ -249,7 +249,7 @@ hindex:
 - 33
 - 31
 - 41
-- 57
+- 58
 - 33
 - 34
 - 36
@@ -297,7 +297,7 @@ affiliation: "['Slovensk\xE1 akad\xE9mia vied','Univerzita Komensk\xE9ho','Slove
   \ University of Technology','Vysok\xE1 \u0161kola chemicko-technologick\xE1','Z\xE1\
   pado\u010Desk\xE1 univerzita v Plzni','Zeppelin University','\u017Dilinsk\xE1 univerzita']"
 hindex_hist_x: '[''30-47'',''47-64'',''64-81'',''81-98'',''98-115'',''115-132'',''132-149'',''149-166'',''166-183'',''183-200'',]'
-hindex_hist_count: '[177,42,7,4,1,2,0,0,1,2]'
+hindex_hist_count: '[177,42,7,4,1,1,1,0,1,2]'
 country: "['Slovensko','USA','\u010Cesko','Rak\xFAsko','Kanada','Austr\xE1lia','Nemecko','Ve\u013E\
   k\xE1 Brit\xE1nia','\u0160vaj\u010Diarsko','Holandsko','Franc\xFAzsko','Katar','N\xF3\
   rsko','Saudsk\xE1 Ar\xE1bia','Spojen\xE9 arabsk\xE9 emir\xE1ty','Belgicko','D\xE1\
