@@ -2317,6 +2317,32 @@
   affiliationurl: University_of_Edinburgh
   cityurl: Edinburg
   sexurl: muz
+- name: Peter Gemeiner
+  last: Gemeiner
+  year: 1946
+  sex: "mu\u017E"
+  position: vedec
+  field: "biotechnol\xF3gia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 43
+  scholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
+  last_update: '2022-06-21'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter_Gemeiner
+  - - web
+    - http://www.chem.sk/people/gemeinerpeter/
+  - - "\u017Eivotopis"
+    - https://prabook.com/web/peter.gemeiner/337833
+  img: Peter_Gemeiner.png
+  countryurl: Slovensko
+  fieldurl: biotechnologia
+  positionurl: vedec
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
 - name: "Josef Jamp\xEDlek"
   last: Jampilek
   year: ''
@@ -2541,32 +2567,6 @@
   fieldurl: molekularna_biomedicina
   positionurl: docent
   affiliationurl: Univerzita_Komenskeho
-  cityurl: Bratislava
-  sexurl: muz
-- name: Peter Gemeiner
-  last: Gemeiner
-  year: 1946
-  sex: "mu\u017E"
-  position: vedec
-  field: "biotechnol\xF3gia"
-  affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  city: Bratislava
-  country: Slovensko
-  hindex: 42
-  scholar: https://scholar.google.sk/citations?user=SojnMuAAAAAJ&amp;hl=sk
-  last_update: '2022-04-01'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Peter_Gemeiner
-  - - web
-    - http://www.chem.sk/people/gemeinerpeter/
-  - - "\u017Eivotopis"
-    - https://prabook.com/web/peter.gemeiner/337833
-  img: Peter_Gemeiner.png
-  countryurl: Slovensko
-  fieldurl: biotechnologia
-  positionurl: vedec
-  affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
 - name: "Du\u0161an Hesek"
