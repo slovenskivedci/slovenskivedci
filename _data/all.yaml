@@ -1182,6 +1182,52 @@
   affiliationurl: Slovenska_polnohospodarska_univerzita
   cityurl: Nitra
   sexurl: muz
+- name: "Peter Richt\xE1rik"
+  last: Richtarik
+  year: ''
+  sex: "mu\u017E"
+  position: profesor
+  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
+  affiliation: KAUST
+  city: Thuwal
+  country: "Saudsk\xE1 Ar\xE1bia"
+  hindex: 53
+  scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
+  last_update: '2022-07-13'
+  links:
+  - - dblp
+    - https://dblp.org/pid/62/8001.html
+  - - KInIT
+    - https://kinit.sk/meet-peter-richtarik-kinit-external-mentor/
+  - - LinkedIn
+    - https://sa.linkedin.com/in/richtarik
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=111470
+  - - openreview
+    - "https://openreview.net/profile?id=~Peter_Richt\xE1rik1"
+  - - orcid
+    - https://orcid.org/0000-0003-4380-5848
+  - - research.com
+    - https://research.com/u/peter-richtarik
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Richtarik-2
+  - - twitter
+    - https://twitter.com/peter_richtarik?lang=en
+  - - web 1
+    - https://richtarik.org
+  - - web 2
+    - https://cemse.kaust.edu.sa/vcc/people/person/peter-richtarik
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Peter_Richtarik
+  - - "\u017Eivotopis"
+    - https://richtarik.org/docs/richtarik-cv-2021-03.pdf
+  img: Peter_Richtarik.jpg
+  countryurl: Saudska_Arabia
+  fieldurl: optimalizacia_a_strojove_ucenie
+  positionurl: profesor
+  affiliationurl: KAUST
+  cityurl: Thuwal
+  sexurl: muz
 - name: "J\xE1n Sl\xE1dek"
   last: Sladek
   year: 1952
@@ -1291,52 +1337,6 @@
   positionurl: profesor
   affiliationurl: Delft_University_of_Technology
   cityurl: Delft
-  sexurl: muz
-- name: "Peter Richt\xE1rik"
-  last: Richtarik
-  year: ''
-  sex: "mu\u017E"
-  position: profesor
-  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
-  affiliation: KAUST
-  city: Thuwal
-  country: "Saudsk\xE1 Ar\xE1bia"
-  hindex: 52
-  scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
-  last_update: '2022-06-16'
-  links:
-  - - dblp
-    - https://dblp.org/pid/62/8001.html
-  - - KInIT
-    - https://kinit.sk/meet-peter-richtarik-kinit-external-mentor/
-  - - LinkedIn
-    - https://sa.linkedin.com/in/richtarik
-  - - Mathematics Genealogy
-    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=111470
-  - - openreview
-    - "https://openreview.net/profile?id=~Peter_Richt\xE1rik1"
-  - - orcid
-    - https://orcid.org/0000-0003-4380-5848
-  - - research.com
-    - https://research.com/u/peter-richtarik
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Peter-Richtarik-2
-  - - twitter
-    - https://twitter.com/peter_richtarik?lang=en
-  - - web 1
-    - https://richtarik.org
-  - - web 2
-    - https://cemse.kaust.edu.sa/vcc/people/person/peter-richtarik
-  - - "wikip\xE9dia"
-    - https://en.wikipedia.org/wiki/Peter_Richtarik
-  - - "\u017Eivotopis"
-    - https://richtarik.org/docs/richtarik-cv-2021-03.pdf
-  img: Peter_Richtarik.jpg
-  countryurl: Saudska_Arabia
-  fieldurl: optimalizacia_a_strojove_ucenie
-  positionurl: profesor
-  affiliationurl: KAUST
-  cityurl: Thuwal
   sexurl: muz
 - name: Miro Zeman
   last: Zeman
