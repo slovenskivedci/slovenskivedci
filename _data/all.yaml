@@ -1765,6 +1765,32 @@
   affiliationurl: Ceska_akademia_vied
   cityurl: Praha
   sexurl: muz
+- name: "Jozef Adam\u010D\xEDk"
+  last: Adamcik
+  year: null
+  sex: "mu\u017E"
+  position: vedec
+  field: "fyzika m\xE4kk\xFDch l\xE1tok"
+  affiliation: Adolphe Merkle Institute
+  city: Fribourg
+  country: "\u0160vaj\u010Diarsko"
+  hindex: 47
+  scholar: https://scholar.google.com/citations?user=HQl63YoAAAAJ
+  last_update: '2022-09-09'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/adamcik-jozef-6a65878a/?originalSubdomain=ch
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Jozef-Adamcik-2130746424
+  - - web
+    - https://www.ami.swiss/en/about-us/contact/people-a-z/person.html?personid=917
+  img: Jozef_Adamcik.jpg
+  countryurl: Svajciarsko
+  fieldurl: fyzika_makkych_latok
+  positionurl: vedec
+  affiliationurl: Adolphe_Merkle_Institute
+  cityurl: Fribourg
+  sexurl: muz
 - name: Peter Hedera
   last: Hedera
   year: ''
