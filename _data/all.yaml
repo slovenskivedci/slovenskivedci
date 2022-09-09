@@ -1182,6 +1182,34 @@
   affiliationurl: Slovenska_polnohospodarska_univerzita
   cityurl: Nitra
   sexurl: muz
+- name: "Maro\u0161"
+  last: Ferencik
+  year: null
+  sex: "mu\u017E"
+  position: docent
+  field: "kardiol\xF3gia"
+  affiliation: Oregon Health and Science University
+  city: Portland
+  country: USA
+  hindex: 53
+  scholar: https://scholar.google.com/citations?user=3R-9xP4AAAAJ
+  last_update: '2022-09-09'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/maros-ferencik-2861587/
+  - - SCCT
+    - https://scct.org/page/BioMarosFerencik
+  - - twitter
+    - https://mobile.twitter.com/cardiacctguy
+  - - web
+    - https://www.ohsu.edu/people/maros-ferencik-md-phd
+  img: Maros_Ferencik.jpg
+  countryurl: USA
+  fieldurl: kardiologia
+  positionurl: docent
+  affiliationurl: Oregon_Health_and_Science_University
+  cityurl: Portland
+  sexurl: muz
 - name: "Peter Richt\xE1rik"
   last: Richtarik
   year: ''
