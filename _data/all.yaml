@@ -5808,6 +5808,34 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: zena
+- name: Milan Remko
+  last: Remko
+  year: 1948
+  sex: "mu\u017E"
+  position: profesor
+  field: "fyzik\xE1lna ch\xE9mia"
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
+  hindex: 32
+  scholar: https://scholar.google.com/citations?user=CMLcLlEAAAAJ&hl=en
+  last_update: '2022-09-09'
+  links:
+  - - prabook
+    - https://prabook.com/web/milan.remko/3493046
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Milan-Remko
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Milan_Remko
+  - - "\u017Eivotopis"
+    - https://www.jmmc2022.sk/milan-remko/
+  img: Milan_Remko.jpg
+  countryurl: Slovensko
+  fieldurl: fyzikalna_chemia
+  positionurl: profesor
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
+  sexurl: muz
 - name: "Ivan \u0160imko"
   last: Simko
   year: null
