@@ -2955,6 +2955,38 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
+- name: "Jozef Rovensk\xFD"
+  last: Rovensky
+  year: 1943
+  sex: "mu\u017E"
+  position: profesor
+  field: "reumatol\xF3gia"
+  affiliation: "N\xE1rodn\xFD \xFAstav reumatick\xFDch chor\xF4b"
+  city: "Pie\u0161\u0165any"
+  country: Slovensko
+  hindex: 41
+  scholar: https://scholar.google.com/citations?hl=en&user=fDCOJWcAAAAJ
+  last_update: '2022-09-09'
+  links:
+  - - learned.sk
+    - https://www.learned.sk/prof-mudr-jozef-rovensky-drsc/
+  - - LPRe
+    - https://www.mojareuma.sk/prof-mudr-jozef-rovensky-drsc-frcp/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/J-Rovensky-2081856813
+  - - Semantic Scholar
+    - "https://www.semanticscholar.org/author/J.-Rovensk\xFD/4334238"
+  - - vedec roka
+    - https://vedanadosah.cvtisr.sk/wp-content/uploads/2020/09/LAUDATIO-2013-ROVENSKY.pdf
+  - - "\u017Eivotopis"
+    - https://www.pic-piestany.sk/o-meste/vyznamne-osobnosti/detaily/?tx_kioscosmotron_pi1%5Bdetail%5D=r101
+  img: Jozef_Rovensky.png
+  countryurl: Slovensko
+  fieldurl: reumatologia
+  positionurl: profesor
+  affiliationurl: Narodny_ustav_reumatickych_chorob
+  cityurl: Piestany
+  sexurl: muz
 - name: "Milo\u0161 T\xF3th"
   last: Toth
   year: ''
