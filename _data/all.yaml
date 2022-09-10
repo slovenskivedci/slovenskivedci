@@ -3697,6 +3697,38 @@
   affiliationurl: Europska_komisia
   cityurl: Sevilla
   sexurl: muz
+- name: "Juraj Hromkovi\u010D"
+  last: Hromkovic
+  year: 1958
+  sex: "mu\u017E"
+  position: profesor
+  field: informatika
+  affiliation: "ETH Z\xFCrich"
+  city: "Z\xFCrich"
+  country: "\u0160vaj\u010Diarsko"
+  hindex: 37
+  scholar: https://scholar.google.com/citations?user=xG2VV1UAAAAJ&amp;hl=de
+  last_update: '2022-09-10'
+  links:
+  - - dblp
+    - https://dblp.org/pid/h/JurajHromkovic.html
+  - - LinkedIn
+    - https://www.linkedin.com/in/juraj-hromkovic-b6359034/?originalSubdomain=ch
+  - - Mathematics Genealogy
+    - https://www.mathgenealogy.org/id.php?id=117390
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Juraj-Hromkovic
+  - - web
+    - https://inf.ethz.ch/people/person-detail.hromkovic.html
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Juraj_Hromkovi\u010D
+  img: Juraj_Hromkovic.jpg
+  countryurl: Svajciarsko
+  fieldurl: informatika
+  positionurl: profesor
+  affiliationurl: ETH_Zurich
+  cityurl: Zurich
+  sexurl: muz
 - name: Ondrej Lexa
   last: Lexa
   year: 1972
@@ -4042,38 +4074,6 @@
   positionurl: profesor
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
-  sexurl: muz
-- name: "Juraj Hromkovi\u010D"
-  last: Hromkovic
-  year: 1958
-  sex: "mu\u017E"
-  position: profesor
-  field: informatika
-  affiliation: "ETH Z\xFCrich"
-  city: "Z\xFCrich"
-  country: "\u0160vaj\u010Diarsko"
-  hindex: 36
-  scholar: https://scholar.google.com/citations?user=xG2VV1UAAAAJ&amp;hl=de
-  last_update: '2022-03-27'
-  links:
-  - - dblp
-    - https://dblp.org/pid/h/JurajHromkovic.html
-  - - LinkedIn
-    - https://www.linkedin.com/in/juraj-hromkovic-b6359034/?originalSubdomain=ch
-  - - Mathematics Genealogy
-    - https://www.mathgenealogy.org/id.php?id=117390
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Juraj-Hromkovic
-  - - web
-    - https://inf.ethz.ch/people/person-detail.hromkovic.html
-  - - "wikip\xE9dia"
-    - https://en.wikipedia.org/wiki/Juraj_Hromkovi\u010D
-  img: Juraj_Hromkovic.jpg
-  countryurl: Svajciarsko
-  fieldurl: informatika
-  positionurl: profesor
-  affiliationurl: ETH_Zurich
-  cityurl: Zurich
   sexurl: muz
 - name: "Tom\xE1\u0161 Kalin\u010D\xEDk"
   last: Kalincik
