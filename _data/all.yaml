@@ -886,6 +886,38 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
+- name: "Barbora (Voz\xE1rov\xE1) de Courten"
+  last: de Courten
+  year: ''
+  sex: "\u017Eena"
+  position: profesorka
+  field: "epidemiol\xF3gia"
+  affiliation: Monash University
+  city: Melbourne
+  country: "Austr\xE1lia"
+  hindex: 59
+  scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
+  last_update: '2022-09-10'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/371235/overview
+  - - orcid
+    - https://orcid.org/0000-0001-8760-2511
+  - - publons
+    - https://publons.com/researcher/1662815/barbora-de-courten/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Barbora_De_Courten2
+  - - web 1
+    - https://www.monash.edu/medicine/scs/researchers/barbora-de-courten
+  - - web 2
+    - https://research.monash.edu/en/persons/barbora-de-courten
+  img: Barbora_Courten.jpg
+  countryurl: Australia
+  fieldurl: epidemiologia
+  positionurl: profesorka
+  affiliationurl: Monash_University
+  cityurl: Melbourne
+  sexurl: zena
 - name: "Eva Benkov\xE1"
   last: Benkova
   year: 1969
@@ -965,38 +997,6 @@
   positionurl: vedkyna
   affiliationurl: Ceske_vysoke_uceni_technicke_v_Prahe
   cityurl: Praha
-  sexurl: zena
-- name: "Barbora (Voz\xE1rov\xE1) de Courten"
-  last: de Courten
-  year: ''
-  sex: "\u017Eena"
-  position: profesorka
-  field: "epidemiol\xF3gia"
-  affiliation: Monash University
-  city: Melbourne
-  country: "Austr\xE1lia"
-  hindex: 58
-  scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
-  last_update: '2022-09-09'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/371235/overview
-  - - orcid
-    - https://orcid.org/0000-0001-8760-2511
-  - - publons
-    - https://publons.com/researcher/1662815/barbora-de-courten/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Barbora_De_Courten2
-  - - web 1
-    - https://www.monash.edu/medicine/scs/researchers/barbora-de-courten
-  - - web 2
-    - https://research.monash.edu/en/persons/barbora-de-courten
-  img: Barbora_Courten.jpg
-  countryurl: Australia
-  fieldurl: epidemiologia
-  positionurl: profesorka
-  affiliationurl: Monash_University
-  cityurl: Melbourne
   sexurl: zena
 - name: "Vladim\xEDr \u010Cern\xFD"
   last: Cerny
@@ -2373,6 +2373,40 @@
   affiliationurl: University_of_Edinburgh
   cityurl: Edinburg
   sexurl: muz
+- name: "Vlasta Brezov\xE1"
+  last: Brezova
+  year: 1958
+  sex: "\u017Eena"
+  position: profesorka
+  field: "fyzik\xE1lna ch\xE9mia"
+  affiliation: "Slovensk\xE1 technick\xE1 univerzita"
+  city: Bratislava
+  country: Slovensko
+  hindex: 43
+  scholar: https://scholar.google.co.uk/citations?user=kKciUuQAAAAJ&hl=en&oi=ao
+  last_update: '2022-09-10'
+  links:
+  - - learned.sk
+    - https://www.learned.sk/prof-ing-vlasta-brezova-drsc/
+  - - orcid
+    - https://orcid.org/0000-0002-5368-0498
+  - - publons
+    - https://publons.com/researcher/3187343/vlasta-brezova/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Vlasta-Brezova-9796750/publications/2
+  - - Semantic Scholar
+    - https://www.semanticscholar.org/author/V.-Brezov%C3%A1/3575770
+  - - web 1
+    - https://ufchchf.fchpt.stuba.sk/en/people/academics/7-vlasta-brezova
+  - - web 2
+    - https://www.fchpt.stuba.sk/english/institutes-and-departments/institute-of-physical-chemistry-and-chemical-physics/department-of-physical-chemistry/staff.html?page_id=3970
+  img: Vlasta_Brezova.jpg
+  countryurl: Slovensko
+  fieldurl: fyzikalna_chemia
+  positionurl: profesorka
+  affiliationurl: Slovenska_technicka_univerzita
+  cityurl: Bratislava
+  sexurl: zena
 - name: Peter Gemeiner
   last: Gemeiner
   year: 1946
@@ -2567,40 +2601,6 @@
   affiliationurl: Slovenska_zdravotnicka_univerzita
   cityurl: Bratislava
   sexurl: muz
-- name: "Vlasta Brezov\xE1"
-  last: Brezova
-  year: 1958
-  sex: "\u017Eena"
-  position: profesorka
-  field: "fyzik\xE1lna ch\xE9mia"
-  affiliation: "Slovensk\xE1 technick\xE1 univerzita"
-  city: Bratislava
-  country: Slovensko
-  hindex: 42
-  scholar: https://scholar.google.co.uk/citations?user=kKciUuQAAAAJ&hl=en&oi=ao
-  last_update: '2022-03-27'
-  links:
-  - - learned.sk
-    - https://www.learned.sk/prof-ing-vlasta-brezova-drsc/
-  - - orcid
-    - https://orcid.org/0000-0002-5368-0498
-  - - publons
-    - https://publons.com/researcher/3187343/vlasta-brezova/
-  - - ResearchGate
-    - https://www.researchgate.net/scientific-contributions/Vlasta-Brezova-9796750/publications/2
-  - - Semantic Scholar
-    - https://www.semanticscholar.org/author/V.-Brezov%C3%A1/3575770
-  - - web 1
-    - https://ufchchf.fchpt.stuba.sk/en/people/academics/7-vlasta-brezova
-  - - web 2
-    - https://www.fchpt.stuba.sk/english/institutes-and-departments/institute-of-physical-chemistry-and-chemical-physics/department-of-physical-chemistry/staff.html?page_id=3970
-  img: Vlasta_Brezova.jpg
-  countryurl: Slovensko
-  fieldurl: fyzikalna_chemia
-  positionurl: profesorka
-  affiliationurl: Slovenska_technicka_univerzita
-  cityurl: Bratislava
-  sexurl: zena
 - name: Peter Celec
   last: Celec
   year: 1979
@@ -2731,6 +2731,40 @@
   affiliationurl: Masarykova_univerzita
   cityurl: Brno
   sexurl: muz
+- name: "Bibiana Bielekov\xE1"
+  last: Bielekova
+  year: 1969
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "neuroimunol\xF3gia"
+  affiliation: National Institute of Allergy and Infectious Diseases
+  city: Bethesda
+  country: USA
+  hindex: 41
+  scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
+  last_update: '2022-09-10'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/147850/overview
+  - - orcid
+    - https://orcid.org/0000-0002-0959-9430
+  - - publons
+    - https://publons.com/researcher/2002829/bibiana-bielekova/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Bibiana_Bielekova
+  - - web
+    - https://www.niaid.nih.gov/research/bibi-bielekova-md
+  - - web 2
+    - https://irp.nih.gov/pi/bibiana-bielekova
+  - - "\u017Eivotopis"
+    - https://demystifyingmedicine.od.nih.gov/dm11/biosketch/dm0301-bielekova-bibiana.pdf
+  img: Bibiana_Bielekova.jpg
+  countryurl: USA
+  fieldurl: neuroimunologia
+  positionurl: vedkyna
+  affiliationurl: National_Institute_of_Allergy_and_Infectious_Diseases
+  cityurl: Bethesda
+  sexurl: zena
 - name: Ivan Glesk
   last: Glesk
   year: ''
@@ -3019,40 +3053,6 @@
   affiliationurl: University_of_Technology_Sydney
   cityurl: Sydney
   sexurl: muz
-- name: "Bibiana Bielekov\xE1"
-  last: Bielekova
-  year: 1969
-  sex: "\u017Eena"
-  position: "vedky\u0148a"
-  field: "neuroimunol\xF3gia"
-  affiliation: National Institute of Allergy and Infectious Diseases
-  city: Bethesda
-  country: USA
-  hindex: 40
-  scholar: https://scholar.google.com/citations?user=vt8wV08AAAAJ&amp;hl=en&amp;oi=ao
-  last_update: '2022-03-27'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/147850/overview
-  - - orcid
-    - https://orcid.org/0000-0002-0959-9430
-  - - publons
-    - https://publons.com/researcher/2002829/bibiana-bielekova/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Bibiana_Bielekova
-  - - web
-    - https://www.niaid.nih.gov/research/bibi-bielekova-md
-  - - web 2
-    - https://irp.nih.gov/pi/bibiana-bielekova
-  - - "\u017Eivotopis"
-    - https://demystifyingmedicine.od.nih.gov/dm11/biosketch/dm0301-bielekova-bibiana.pdf
-  img: Bibiana_Bielekova.jpg
-  countryurl: USA
-  fieldurl: neuroimunologia
-  positionurl: vedkyna
-  affiliationurl: National_Institute_of_Allergy_and_Infectious_Diseases
-  cityurl: Bethesda
-  sexurl: zena
 - name: "Peter Kru\u017Eliak"
   last: Kruzliak
   year: ''
@@ -3291,6 +3291,40 @@
   affiliationurl: University_of_Birmingham
   cityurl: Birmingham
   sexurl: muz
+- name: "Anna Zajacov\xE1"
+  last: Zajacova
+  year: null
+  sex: "\u017Eena"
+  position: docentka
+  field: "sociol\xF3gia"
+  affiliation: University of Western Ontario
+  city: London
+  country: Kanada
+  hindex: 39
+  scholar: https://scholar.google.com/citations?user=KuJXbr4AAAAJ
+  last_update: '2022-09-10'
+  links:
+  - - facebook
+    - https://www.facebook.com/anna.zajacova.50
+  - - LinkedIn
+    - https://www.linkedin.com/in/anna-zajacova-2065a332/?originalSubdomain=ca
+  - - orcid
+    - https://orcid.org/0000-0002-3880-6187
+  - - twitter
+    - https://twitter.com/AnnaZajacova
+  - - web
+    - https://annazajacova.com
+  - - web 2
+    - https://sociology.uwo.ca/people/profiles/Zajacova.html
+  - - "\u017Eivotopis"
+    - https://annazajacova.com/wp-content/uploads/2021/11/Zajacova-CV-Nov-2021.pdf
+  img: Anna_Zajacova.jpg
+  countryurl: Kanada
+  fieldurl: sociologia
+  positionurl: docentka
+  affiliationurl: University_of_Western_Ontario
+  cityurl: London
+  sexurl: zena
 - name: "Martin Ba\u010Dkor"
   last: Backor
   year: 1970
@@ -3321,6 +3355,38 @@
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   cityurl: Kosice
   sexurl: muz
+- name: "Marcela Brissov\xE1"
+  last: Brissova
+  year: null
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "fyziol\xF3gia"
+  affiliation: Vanderbilt university
+  city: Nashville
+  country: USA
+  hindex: 38
+  scholar: https://scholar.google.com.tr/citations?user=3rQF3wIAAAAJ&hl=en
+  last_update: '2022-09-10'
+  links:
+  - - lab
+    - https://labnodes.vanderbilt.edu/community/profile/id/2228
+  - - "na\u0161i a svetov\xED"
+    - https://slovensko.rtvs.sk/rubriky/nasi-a-svetovi/210476/nasi-a-svetovi-marcela-brissova
+  - - orcid
+    - https://orcid.org/0000-0002-4999-3280
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marcela-Brissova
+  - - web 1
+    - https://medicine.vumc.org/person/marcela-brissova-phd
+  - - web 2
+    - https://labnodes.vanderbilt.edu/member/profile/id/10427
+  img: Marcela_Brissova.jpg
+  countryurl: USA
+  fieldurl: fyziologia
+  positionurl: vedkyna
+  affiliationurl: Vanderbilt_university
+  cityurl: Nashville
+  sexurl: zena
 - name: "J\xE1n Dusza"
   last: Dusza
   year: 1952
@@ -3374,6 +3440,32 @@
   positionurl: profesor
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
+  sexurl: muz
+- name: "Roman Horv\xE1th"
+  last: Horvath
+  year: 1978
+  sex: "mu\u017E"
+  position: profesor
+  field: "ekon\xF3mia"
+  affiliation: Univerzita Karlova
+  city: Praha
+  country: "\u010Cesko"
+  hindex: 38
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=QCr9FugAAAAJ
+  last_update: '2022-09-10'
+  links:
+  - - publons
+    - https://publons.com/researcher/2521490/roman-horvath/
+  - - web
+    - https://sites.google.com/view/horvath/
+  - - "\u017Eivotopis"
+    - http://ies.fsv.cuni.cz/en/staff/horvath
+  img: Roman_Horvath.jpg
+  countryurl: Cesko
+  fieldurl: ekonomia
+  positionurl: profesor
+  affiliationurl: Univerzita_Karlova
+  cityurl: Praha
   sexurl: muz
 - name: "Norbert Ku\u010Derka"
   last: Kucerka
@@ -3545,38 +3637,6 @@
   affiliationurl: Slovenska_polnohospodarska_univerzita
   cityurl: Nitra
   sexurl: muz
-- name: "Marcela Brissov\xE1"
-  last: Brissova
-  year: null
-  sex: "\u017Eena"
-  position: "vedky\u0148a"
-  field: "fyziol\xF3gia"
-  affiliation: Vanderbilt university
-  city: Nashville
-  country: USA
-  hindex: 37
-  scholar: https://scholar.google.com.tr/citations?user=3rQF3wIAAAAJ
-  last_update: '2022-03-27'
-  links:
-  - - lab
-    - https://labnodes.vanderbilt.edu/community/profile/id/2228
-  - - "na\u0161i a svetov\xED"
-    - https://slovensko.rtvs.sk/rubriky/nasi-a-svetovi/210476/nasi-a-svetovi-marcela-brissova
-  - - orcid
-    - https://orcid.org/0000-0002-4999-3280
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Marcela-Brissova
-  - - web 1
-    - https://medicine.vumc.org/person/marcela-brissova-phd
-  - - web 2
-    - https://labnodes.vanderbilt.edu/member/profile/id/10427
-  img: Marcela_Brissova.jpg
-  countryurl: USA
-  fieldurl: fyziologia
-  positionurl: vedkyna
-  affiliationurl: Vanderbilt_university
-  cityurl: Nashville
-  sexurl: zena
 - name: "Juraj Bujd\xE1k"
   last: Bujdak
   year: 1965
@@ -3608,6 +3668,34 @@
   positionurl: profesor
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
+  sexurl: muz
+- name: Pavel Ciaian
+  last: Ciaian
+  year: ''
+  sex: "mu\u017E"
+  position: vedec
+  field: "ekon\xF3mia"
+  affiliation: "Eur\xF3pska komisia"
+  city: Sevilla
+  country: "\u0160panielsko"
+  hindex: 37
+  scholar: https://scholar.google.sk/citations?user=s_AVnN0AAAAJ&hl=en
+  last_update: '2022-09-10'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-2405-5850
+  - - RePEc
+    - https://ideas.repec.org/e/pci158.html
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Pavel_Ciaian
+  - - web
+    - http://ciaian.szm.sk/
+  img: Pavel_Ciaian.jpg
+  countryurl: Spanielsko
+  fieldurl: ekonomia
+  positionurl: vedec
+  affiliationurl: Europska_komisia
+  cityurl: Sevilla
   sexurl: muz
 - name: Ondrej Lexa
   last: Lexa
@@ -3733,6 +3821,28 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
+- name: "Iveta Nagyov\xE1"
+  last: Nagyova
+  year: ''
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "behavior\xE1lna medic\xEDna"
+  affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+  city: "Ko\u0161ice"
+  country: Slovensko
+  hindex: 37
+  scholar: https://scholar.google.com/citations?user=A2l-bV8AAAAJ&amp;hl=en
+  last_update: '2022-09-10'
+  links:
+  - - web
+    - https://mc3.sk/autor/iveta-nagyova/
+  img: Iveta_Nagyova.jpg
+  countryurl: Slovensko
+  fieldurl: behavioralna_medicina
+  positionurl: vedkyna
+  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
+  cityurl: Kosice
+  sexurl: zena
 - name: "Igor Podlubn\xFD"
   last: Podlubny
   year: 1961
@@ -3787,6 +3897,34 @@
   affiliationurl: Univerzita_Konstantina_Filozofa
   cityurl: Nitra
   sexurl: muz
+- name: "Viera Sk\xE1kalov\xE1"
+  last: Skakalova
+  year: ''
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "nanomateri\xE1ly"
+  affiliation: University of Vienna
+  city: "Viede\u0148"
+  country: "Rak\xFAsko"
+  hindex: 37
+  scholar: https://scholar.google.com/citations?user=3PIAo10AAAAJ&amp;hl=en
+  last_update: '2022-09-10'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-7016-8584
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Viera_Skakalova
+  - - web
+    - https://ufind.univie.ac.at/en/person.html?id=46790
+  - - "\u017Eivotopis"
+    - https://iea.u-cergy.fr/en/invited-researchers-cv/fellows-in-residence-2019-2020/viera-skakalova.html
+  img: Viera_Skakalova.jpeg
+  countryurl: Rakusko
+  fieldurl: nanomaterialy
+  positionurl: vedkyna
+  affiliationurl: University_of_Vienna
+  cityurl: Vieden
+  sexurl: zena
 - name: "Pavol Szomol\xE1nyi"
   last: Szomolanyi
   year: 1966
@@ -3847,34 +3985,28 @@
   affiliationurl: University_of_Natural_Resources_and_Life_Sciences
   cityurl: Vieden
   sexurl: muz
-- name: Pavel Ciaian
-  last: Ciaian
+- name: "Iveta Bern\xE1tov\xE1"
+  last: Bernatova
   year: ''
-  sex: "mu\u017E"
-  position: vedec
-  field: "ekon\xF3mia"
-  affiliation: "Eur\xF3pska komisia"
-  city: Sevilla
-  country: "\u0160panielsko"
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "fyziol\xF3gia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
   hindex: 36
-  scholar: https://scholar.google.sk/citations?user=s_AVnN0AAAAJ
-  last_update: '2022-03-26'
+  scholar: https://scholar.google.sk/citations?user=S9nvaAkAAAAJ&amp;hl=sk
+  last_update: '2022-09-10'
   links:
-  - - orcid
-    - https://orcid.org/0000-0003-2405-5850
-  - - RePEc
-    - https://ideas.repec.org/e/pci158.html
   - - ResearchGate
-    - https://www.researchgate.net/profile/Pavel_Ciaian
-  - - web
-    - http://ciaian.szm.sk/
-  img: Pavel_Ciaian.jpg
-  countryurl: Spanielsko
-  fieldurl: ekonomia
-  positionurl: vedec
-  affiliationurl: Europska_komisia
-  cityurl: Sevilla
-  sexurl: muz
+    - https://www.researchgate.net/profile/Iveta_Bernatova/2
+  img: Iveta_Bernatova.jpg
+  countryurl: Slovensko
+  fieldurl: fyziologia
+  positionurl: vedkyna
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: zena
 - name: "Vladim\xEDr Farka\u0161"
   last: Farkas
   year: 1941
@@ -4113,68 +4245,6 @@
   affiliationurl: University_of_Strathclyde
   cityurl: Glasgow
   sexurl: muz
-- name: "Viera Sk\xE1kalov\xE1"
-  last: Skakalova
-  year: ''
-  sex: "\u017Eena"
-  position: "vedky\u0148a"
-  field: "nanomateri\xE1ly"
-  affiliation: University of Vienna
-  city: "Viede\u0148"
-  country: "Rak\xFAsko"
-  hindex: 36
-  scholar: https://scholar.google.com/citations?user=3PIAo10AAAAJ&amp;hl=en
-  last_update: '2022-03-27'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0002-7016-8584
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Viera_Skakalova
-  - - web
-    - https://ufind.univie.ac.at/en/person.html?id=46790
-  - - "\u017Eivotopis"
-    - https://iea.u-cergy.fr/en/invited-researchers-cv/fellows-in-residence-2019-2020/viera-skakalova.html
-  img: Viera_Skakalova.jpeg
-  countryurl: Rakusko
-  fieldurl: nanomaterialy
-  positionurl: vedkyna
-  affiliationurl: University_of_Vienna
-  cityurl: Vieden
-  sexurl: zena
-- name: "Anna Zajacov\xE1"
-  last: Zajacova
-  year: null
-  sex: "\u017Eena"
-  position: docentka
-  field: "sociol\xF3gia"
-  affiliation: University of Western Ontario
-  city: London
-  country: Kanada
-  hindex: 36
-  scholar: https://scholar.google.com/citations?user=KuJXbr4AAAAJ
-  last_update: '2022-04-01'
-  links:
-  - - facebook
-    - https://www.facebook.com/anna.zajacova.50
-  - - LinkedIn
-    - https://www.linkedin.com/in/anna-zajacova-2065a332/?originalSubdomain=ca
-  - - orcid
-    - https://orcid.org/0000-0002-3880-6187
-  - - twitter
-    - https://twitter.com/AnnaZajacova
-  - - web
-    - https://annazajacova.com
-  - - web 2
-    - https://sociology.uwo.ca/people/profiles/Zajacova.html
-  - - "\u017Eivotopis"
-    - https://annazajacova.com/wp-content/uploads/2021/11/Zajacova-CV-Nov-2021.pdf
-  img: Anna_Zajacova.jpg
-  countryurl: Kanada
-  fieldurl: sociologia
-  positionurl: docentka
-  affiliationurl: University_of_Western_Ontario
-  cityurl: London
-  sexurl: zena
 - name: Michal Zeman
   last: Zeman
   year: ''
@@ -4241,28 +4311,6 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
-- name: "Iveta Bern\xE1tov\xE1"
-  last: Bernatova
-  year: ''
-  sex: "\u017Eena"
-  position: "vedky\u0148a"
-  field: "fyziol\xF3gia"
-  affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  city: Bratislava
-  country: Slovensko
-  hindex: 35
-  scholar: https://scholar.google.sk/citations?user=S9nvaAkAAAAJ&amp;hl=sk
-  last_update: '2022-03-27'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Iveta_Bernatova/2
-  img: Iveta_Bernatova.jpg
-  countryurl: Slovensko
-  fieldurl: fyziologia
-  positionurl: vedkyna
-  affiliationurl: Slovenska_akademia_vied
-  cityurl: Bratislava
-  sexurl: zena
 - name: "Radovan Derm\xED\u0161ek"
   last: Dermisek
   year: ''
@@ -4286,32 +4334,6 @@
   positionurl: profesor
   affiliationurl: Indiana_University_Bloomington
   cityurl: Bloomington
-  sexurl: muz
-- name: "Roman Horv\xE1th"
-  last: Horvath
-  year: 1978
-  sex: "mu\u017E"
-  position: profesor
-  field: "ekon\xF3mia"
-  affiliation: Univerzita Karlova
-  city: Praha
-  country: "\u010Cesko"
-  hindex: 35
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=QCr9FugAAAAJ
-  last_update: '2022-03-27'
-  links:
-  - - publons
-    - https://publons.com/researcher/2521490/roman-horvath/
-  - - web
-    - https://sites.google.com/view/horvath/
-  - - "\u017Eivotopis"
-    - http://ies.fsv.cuni.cz/en/staff/horvath
-  img: Roman_Horvath.jpg
-  countryurl: Cesko
-  fieldurl: ekonomia
-  positionurl: profesor
-  affiliationurl: Univerzita_Karlova
-  cityurl: Praha
   sexurl: muz
 - name: "Vladim\xEDr Kell\xF6"
   last: Kello
@@ -4365,28 +4387,6 @@
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   cityurl: Kosice
   sexurl: muz
-- name: "Iveta Nagyov\xE1"
-  last: Nagyova
-  year: ''
-  sex: "\u017Eena"
-  position: "vedky\u0148a"
-  field: "behavior\xE1lna medic\xEDna"
-  affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
-  city: "Ko\u0161ice"
-  country: Slovensko
-  hindex: 35
-  scholar: https://scholar.google.com/citations?user=A2l-bV8AAAAJ&amp;hl=en
-  last_update: '2022-03-27'
-  links:
-  - - web
-    - https://mc3.sk/autor/iveta-nagyova/
-  img: Iveta_Nagyova.jpg
-  countryurl: Slovensko
-  fieldurl: behavioralna_medicina
-  positionurl: vedkyna
-  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
-  cityurl: Kosice
-  sexurl: zena
 - name: "Milan S\xFDkora"
   last: Sykora
   year: ''
@@ -4874,6 +4874,36 @@
   affiliationurl: Slovenska_technicka_univerzita
   cityurl: Bratislava
   sexurl: muz
+- name: "Lenka Be\u0148ov\xE1"
+  last: Benova
+  year: ''
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "reproduk\u010Dn\xE9 zdravie"
+  affiliation: Institute of Tropical Medicine Antwerp
+  city: Antwerpy
+  country: Belgicko
+  hindex: 33
+  scholar: https://scholar.google.com/citations?user=BZTPCTIAAAAJ&hl=en
+  last_update: '2022-09-10'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0001-8595-365X
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Lenka-Benova/3
+  - - twitter
+    - https://twitter.com/lenkabenova
+  - - web 1
+    - https://research.itg.be/en/persons/lenka-benova
+  - - web 2
+    - https://www.lshtm.ac.uk/aboutus/people/benova.lenka
+  img: Lenka_Benova.jpg
+  countryurl: Belgicko
+  fieldurl: reprodukcne_zdravie
+  positionurl: vedkyna
+  affiliationurl: Institute_of_Tropical_Medicine_Antwerp
+  cityurl: Antwerpy
+  sexurl: zena
 - name: "Ivan Chod\xE1k"
   last: Chodak
   year: 1943
@@ -5220,6 +5250,30 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
+- name: "Tanya Ravingerov\xE1"
+  last: Ravingerova
+  year: 1951
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "fyziol\xF3gia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 33
+  scholar: https://scholar.google.com/citations?user=_fONjMIAAAAJ&amp;hl=en
+  last_update: '2022-09-10'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Tanya_Ravingerova
+  - - "\u017Eivotopis"
+    - https://www.sav.sk/uploads/users_cv/20181126205307_445_CV_Ravingerova_15.11.2018.doc
+  img: Tanya_Ravingerova.jpg
+  countryurl: Slovensko
+  fieldurl: fyziologia
+  positionurl: vedkyna
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: zena
 - name: "Pavol \u0160ajgal\xEDk"
   last: Sajgalik
   year: 1955
@@ -5352,36 +5406,6 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
-- name: "Lenka Be\u0148ov\xE1"
-  last: Benova
-  year: ''
-  sex: "\u017Eena"
-  position: "vedky\u0148a"
-  field: "reproduk\u010Dn\xE9 zdravie"
-  affiliation: Institute of Tropical Medicine Antwerp
-  city: Antwerpy
-  country: Belgicko
-  hindex: 32
-  scholar: https://scholar.google.com/citations?user=BZTPCTIAAAAJ&hl=en
-  last_update: '2022-06-16'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0001-8595-365X
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Lenka-Benova/3
-  - - twitter
-    - https://twitter.com/lenkabenova
-  - - web 1
-    - https://research.itg.be/en/persons/lenka-benova
-  - - web 2
-    - https://www.lshtm.ac.uk/aboutus/people/benova.lenka
-  img: Lenka_Benova.jpg
-  countryurl: Belgicko
-  fieldurl: reprodukcne_zdravie
-  positionurl: vedkyna
-  affiliationurl: Institute_of_Tropical_Medicine_Antwerp
-  cityurl: Antwerpy
-  sexurl: zena
 - name: Peter Dolog
   last: Dolog
   year: ''
@@ -5760,6 +5784,32 @@
   affiliationurl: Univerzita_Palackeho_v_Olomouci
   cityurl: Olomouc
   sexurl: muz
+- name: "\u013Dubo\u0161 P\xE1stor"
+  last: Pastor
+  year: 1974
+  sex: "mu\u017E"
+  position: profesor
+  field: "ekon\xF3mia"
+  affiliation: University of Chicago
+  city: Chicago
+  country: USA
+  hindex: 32
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
+  last_update: '2022-09-10'
+  links:
+  - - NBS
+    - https://www.nbs.sk/en/about-the-bank/bank-board-of-the-nbs/the-bank-board-member-lubos-pastor
+  - - osobnosti
+    - https://www.osobnosti.sk/osobnost/lubos-pastor-1801
+  - - web
+    - https://faculty.chicagobooth.edu/lubos-pastor
+  img: Lubos_Pastor.png
+  countryurl: USA
+  fieldurl: ekonomia
+  positionurl: profesor
+  affiliationurl: University_of_Chicago
+  cityurl: Chicago
+  sexurl: muz
 - name: Ladislav Paule
   last: Paule
   year: ''
@@ -5816,30 +5866,6 @@
   affiliationurl: International_Institute_for_Applied_Systems_Analysis
   cityurl: Laxenburg
   sexurl: muz
-- name: "Tanya Ravingerov\xE1"
-  last: Ravingerova
-  year: 1951
-  sex: "\u017Eena"
-  position: "vedky\u0148a"
-  field: "fyziol\xF3gia"
-  affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  city: Bratislava
-  country: Slovensko
-  hindex: 32
-  scholar: https://scholar.google.com/citations?user=_fONjMIAAAAJ&amp;hl=en
-  last_update: '2022-02-04'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Tanya_Ravingerova
-  - - "\u017Eivotopis"
-    - https://www.sav.sk/uploads/users_cv/20181126205307_445_CV_Ravingerova_15.11.2018.doc
-  img: Tanya_Ravingerova.jpg
-  countryurl: Slovensko
-  fieldurl: fyziologia
-  positionurl: vedkyna
-  affiliationurl: Slovenska_akademia_vied
-  cityurl: Bratislava
-  sexurl: zena
 - name: Milan Remko
   last: Remko
   year: 1948
@@ -6303,7 +6329,7 @@
   city: Nitra
   country: Slovensko
   hindex: 31
-  scholar: https://scholar.google.sk/citations?user=1st0ejAAAAAJ
+  scholar: https://scholar.google.sk/citations?user=1st0ejAAAAAJ&hl=en
   last_update: '2022-09-09'
   links:
   - - LinkedIn
@@ -6500,32 +6526,6 @@
   positionurl: vedec
   affiliationurl: Google
   cityurl: Zurich
-  sexurl: muz
-- name: "\u013Dubo\u0161 P\xE1stor"
-  last: Pastor
-  year: 1974
-  sex: "mu\u017E"
-  position: profesor
-  field: "ekon\xF3mia"
-  affiliation: University of Chicago
-  city: Chicago
-  country: USA
-  hindex: 31
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=Ttsxv0IAAAAJ
-  last_update: '2022-03-04'
-  links:
-  - - NBS
-    - https://www.nbs.sk/en/about-the-bank/bank-board-of-the-nbs/the-bank-board-member-lubos-pastor
-  - - osobnosti
-    - https://www.osobnosti.sk/osobnost/lubos-pastor-1801
-  - - web
-    - https://faculty.chicagobooth.edu/lubos-pastor
-  img: Lubos_Pastor.png
-  countryurl: USA
-  fieldurl: ekonomia
-  positionurl: profesor
-  affiliationurl: University_of_Chicago
-  cityurl: Chicago
   sexurl: muz
 - name: Pavol Quittner
   last: Quittner
