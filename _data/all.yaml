@@ -6860,6 +6860,34 @@
   affiliationurl: Fraunhofer_Institute
   cityurl: Darmstadt
   sexurl: muz
+- name: Juraj Nemec
+  last: Nemec
+  year: '1960'
+  sex: "mu\u017E"
+  position: profesor
+  field: "ekon\xF3mia"
+  affiliation: Masarykova univerzita
+  city: Brno
+  country: "\u010Cesko"
+  hindex: 30
+  scholar: https://scholar.google.com/citations?hl=en&user=7oMUpuwAAAAJ
+  last_update: '2022-09-10'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/juraj-nemec-4878445/?originalSubdomain=sk
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Juraj-Nemec
+  - - web
+    - https://www.muni.cz/en/people/29310-juraj-nemec/cv
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Juraj_Nemec
+  img: Juraj_Nemec.jpg
+  countryurl: Cesko
+  fieldurl: ekonomia
+  positionurl: profesor
+  affiliationurl: Masarykova_univerzita
+  cityurl: Brno
+  sexurl: muz
 - name: "Veronika Ostatn\xE1"
   last: Ostatna
   year: ''
