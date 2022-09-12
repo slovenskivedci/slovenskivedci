@@ -6928,6 +6928,40 @@
   affiliationurl: Fraunhofer_Institute
   cityurl: Darmstadt
   sexurl: muz
+- name: Roman Mezencev
+  last: Mezencev
+  year: ''
+  sex: "mu\u017E"
+  position: "odborn\xFD asistent"
+  field: "farmakol\xF3gia a epidemiol\xF3gia"
+  affiliation: Georgia Institute of Technology
+  city: Atlanta
+  country: USA
+  hindex: 30
+  scholar: https://scholar.google.com/citations?hl=en&user=dQjETlwAAAAJ
+  last_update: '2022-09-12'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/roman-mezencev-b360712b/
+  - - news 1
+    - https://www.eurekalert.org/news-releases/567851
+  - - news 2
+    - https://www.newswise.com/articles/punching-cancer-with-rna-knuckles?channel=
+  - - orcid
+    - https://orcid.org/0000-0003-4361-7628
+  - - PubMed
+    - https://pubmed.ncbi.nlm.nih.gov/?term=mezencev%20R%20[AU]
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Roman-Mezencev
+  - - web
+    - https://biosciences.gatech.edu/people/roman-mezencev
+  img: Roman_Mezencev.jpg
+  countryurl: USA
+  fieldurl: farmakologia_a_epidemiologia
+  positionurl: odborny_asistent
+  affiliationurl: Georgia_Institute_of_Technology
+  cityurl: Atlanta
+  sexurl: muz
 - name: Juraj Nemec
   last: Nemec
   year: '1960'
