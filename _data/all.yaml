@@ -6933,7 +6933,7 @@
   year: ''
   sex: "mu\u017E"
   position: vedec
-  field: "onkol\xF3gia a verejn\xE9 zdravotn\xEDctvo"
+  field: "onkol\xF3gia a epidemiol\xF3gia"
   affiliation: Georgia Institute of Technology
   city: Atlanta
   country: USA
@@ -6963,7 +6963,7 @@
     - https://biosciences.gatech.edu/people/roman-mezencev
   img: Roman_Mezencev.jpg
   countryurl: USA
-  fieldurl: onkologia_a_verejne_zdravotnictvo
+  fieldurl: onkologia_a_epidemiologia
   positionurl: vedec
   affiliationurl: Georgia_Institute_of_Technology
   cityurl: Atlanta
