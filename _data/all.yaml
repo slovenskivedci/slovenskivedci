@@ -266,7 +266,7 @@
   sexurl: zena
 - name: Jozef Bartunek
   last: Bartunek
-  year: null
+  year: 1963
   sex: "mu\u017E"
   position: "riadite\u013E"
   field: "kardiol\xF3gia"
@@ -287,8 +287,10 @@
     - https://www.olvz.be/nl/onze-artsen/dr-jozef-bartunek
   - - web 2
     - https://www.kuleuven.be/wieiswie/en/person/00076004
-  - - "\u017Eivotopis"
+  - - "\u017Eivotopis 1"
     - files/cv_Jozef_Bartunek.pdf
+  - - "\u017Eivotopis 2"
+    - https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Bartunek/H19_MUDr._Bartunek_-_Profesijny_zivotopis.pdf
   img: Jozef_Bartunek.jpg
   countryurl: Belgicko
   fieldurl: kardiologia
