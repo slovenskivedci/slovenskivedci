@@ -264,6 +264,38 @@
   affiliationurl: University_of_Illinois
   cityurl: Urbana-Champaign
   sexurl: zena
+- name: Jozef Bartunek
+  last: Bartunek
+  year: null
+  sex: "mu\u017E"
+  position: "riadite\u013E"
+  field: "kardiol\xF3gia"
+  affiliation: Cardiovascular Research Center
+  city: Aalst
+  country: Belgicko
+  hindex: 82
+  scholar: https://scholar.google.com/citations?hl=en&user=ByfssdMAAAAJ
+  last_update: '2022-09-15'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/jozef-bartunek-68696b168/?originalSubdomain=be
+  - - Research.com
+    - https://research.com/u/jozef-bartunek
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Jozef-Bartunek-38758405
+  - - web 1
+    - https://www.olvz.be/nl/onze-artsen/dr-jozef-bartunek
+  - - web 2
+    - https://www.kuleuven.be/wieiswie/en/person/00076004
+  - - "\u017Eivotopis"
+    - files/cv_Jozef_Bartunek.pdf
+  img: Jozef_Bartunek.jpg
+  countryurl: Belgicko
+  fieldurl: kardiologia
+  positionurl: riaditel
+  affiliationurl: Cardiovascular_Research_Center
+  cityurl: Aalst
+  sexurl: muz
 - name: "Igor Juri\u0161ica"
   last: Jurisica
   year: 1967
