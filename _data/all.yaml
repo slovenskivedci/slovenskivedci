@@ -6819,7 +6819,7 @@
   sex: "\u017Eena"
   position: profesorka
   field: "web syst\xE9my a umel\xE1 inteligencia"
-  affiliation: Kempelen Institute of Intelligent Technologies (KInIT)
+  affiliation: Kempelen Institute of Intelligent Technologies
   city: Bratislava
   country: Slovensko
   hindex: 30
@@ -6856,7 +6856,7 @@
   countryurl: Slovensko
   fieldurl: web_systemy_a_umela_inteligencia
   positionurl: profesorka
-  affiliationurl: Kempelen_Institute_of_Intelligent_Technologies__KInIT_
+  affiliationurl: Kempelen_Institute_of_Intelligent_Technologies
   cityurl: Bratislava
   sexurl: zena
 - name: "Zuzana Gdovinov\xE1"
