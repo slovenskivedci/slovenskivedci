@@ -4904,6 +4904,30 @@
   affiliationurl: Curtin_University
   cityurl: Perth
   sexurl: muz
+- name: "Tom\xE1\u0161 Drgo\u0148"
+  last: Drgon
+  year: null
+  sex: "mu\u017E"
+  position: vedec a analytik
+  field: "molekul\xE1rna biol\xF3gia"
+  affiliation: US Food and Drug Administration
+  city: Bethesda
+  country: USA
+  hindex: 34
+  scholar: https://scholar.google.com/citations?user=B7vMXfEAAAAJ&hl=en&oi=ao
+  last_update: '2022-10-18'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/tomasdrgon/?trk=pub-pbmap
+  - - news
+    - https://www.teraz.sk/magazin/slovak-tomas-drgon-uspel-v-usa-nielen-ak/315698-clanok.html
+  img: Tomas_Drgon.jpg
+  countryurl: USA
+  fieldurl: molekularna_biologia
+  positionurl: vedec_a_analytik
+  affiliationurl: US_Food_and_Drug_Administration
+  cityurl: Bethesda
+  sexurl: muz
 - name: "Miroslav Dud\xEDk"
   last: Dudik
   year: ''
