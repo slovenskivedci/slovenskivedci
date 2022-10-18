@@ -7074,6 +7074,40 @@
   affiliationurl: Masarykova_univerzita
   cityurl: Brno
   sexurl: muz
+- name: Jozef Nosek
+  last: Nosek
+  year: 1967
+  sex: "mu\u017E"
+  position: profesor
+  field: "bioch\xE9mia"
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?hl=en&user=VzDSjLcAAAAJ
+  last_update: '2022-10-18'
+  links:
+  - - AMiner
+    - https://www.aminer.cn/profile/jozef-nosek/53f36745dabfae4b3499e846
+  - - loop
+    - https://loop.frontiersin.org/people/21307/overview
+  - - orcid
+    - https://orcid.org/0000-0002-1020-5451
+  - - publons
+    - https://publons.com/researcher/1707285/jozef-nosek/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Jozef-Nosek-39123357
+  - - web
+    - http://www.biocenter.sk/jn.html
+  - - "\u017Eivotopis"
+    - http://www.biocenter.sk/jncv.html
+  img: Jozef_Nosek.jpg
+  countryurl: Slovensko
+  fieldurl: biochemia
+  positionurl: profesor
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
+  sexurl: muz
 - name: "Veronika Ostatn\xE1"
   last: Ostatna
   year: ''
