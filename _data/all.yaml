@@ -7278,6 +7278,38 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
+- name: "Peter Sta\u0148o"
+  last: Stano
+  year: 1975
+  sex: "mu\u017E"
+  position: vedec
+  field: "teoretick\xE1 fyzika"
+  affiliation: RIKEN
+  city: "Wak\u014D"
+  country: Japonsko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?user=-gLxHToAAAAJ&hl=en
+  last_update: '2022-10-20'
+  links:
+  - - academictree
+    - https://academictree.org/physics/publications.php?pid=835140
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-stano-b8758580/?originalSubdomain=jp
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Stano
+  - - web 1
+    - http://cems.riken.jp/en/laboratory/qstrt?lang=en
+  - - web 2
+    - http://www.quantum.physics.sk/people/stano/
+  - - zivotopis
+    - http://www.quantum.physics.sk/people/stano/cv_US.pdf
+  img: Peter_Stano.jpg
+  countryurl: Japonsko
+  fieldurl: teoreticka_fyzika
+  positionurl: vedec
+  affiliationurl: RIKEN
+  cityurl: Wako
+  sexurl: muz
 - name: "Marek S\xFDkora"
   last: Sykora
   year: '1977'
