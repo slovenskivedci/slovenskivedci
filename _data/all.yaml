@@ -405,9 +405,9 @@
   affiliation: "Region\xE1lny \xFArad verejn\xE9ho zdravotn\xEDctva"
   city: "Bansk\xE1 Bystrica"
   country: Slovensko
-  hindex: 69
+  hindex: 70
   scholar: https://scholar.google.co.uk/citations?user=Ey9s5FcAAAAJ&hl=en&oi=ao
-  last_update: '2022-09-09'
+  last_update: '2022-11-30'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/eleonora-fabianova-09818942/?originalSubdomain=sk
@@ -1206,28 +1206,6 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
-- name: Marcel Franz
-  last: Franz
-  year: ''
-  sex: "mu\u017E"
-  position: profesor
-  field: fyzika
-  affiliation: University of British Columbia
-  city: "Britsk\xE1 Kolumbia"
-  country: Kanada
-  hindex: 55
-  scholar: https://scholar.google.com/citations?user=qOmkOIAAAAAJ&amp;hl=en
-  last_update: '2022-03-26'
-  links:
-  - - web
-    - https://phas.ubc.ca/~franz/
-  img: Marcel_Franz.jpg
-  countryurl: Kanada
-  fieldurl: fyzika
-  positionurl: profesor
-  affiliationurl: University_of_British_Columbia
-  cityurl: Britska_Kolumbia
-  sexurl: muz
 - name: "Peter Richt\xE1rik"
   last: Richtarik
   year: ''
@@ -1237,9 +1215,9 @@
   affiliation: KAUST
   city: Thuwal
   country: "Saudsk\xE1 Ar\xE1bia"
-  hindex: 55
+  hindex: 56
   scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
-  last_update: '2022-09-09'
+  last_update: '2022-11-29'
   links:
   - - dblp
     - https://dblp.org/pid/62/8001.html
@@ -1273,6 +1251,28 @@
   positionurl: profesor
   affiliationurl: KAUST
   cityurl: Thuwal
+  sexurl: muz
+- name: Marcel Franz
+  last: Franz
+  year: ''
+  sex: "mu\u017E"
+  position: profesor
+  field: fyzika
+  affiliation: University of British Columbia
+  city: "Britsk\xE1 Kolumbia"
+  country: Kanada
+  hindex: 55
+  scholar: https://scholar.google.com/citations?user=qOmkOIAAAAAJ&amp;hl=en
+  last_update: '2022-03-26'
+  links:
+  - - web
+    - https://phas.ubc.ca/~franz/
+  img: Marcel_Franz.jpg
+  countryurl: Kanada
+  fieldurl: fyzika
+  positionurl: profesor
+  affiliationurl: University_of_British_Columbia
+  cityurl: Britska_Kolumbia
   sexurl: muz
 - name: "J\xE1n Sl\xE1dek"
   last: Sladek
