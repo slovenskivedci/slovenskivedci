@@ -7335,14 +7335,13 @@
   scholar: https://scholar.google.com/citations?user=t1W0brkAAAAJ&hl=en
   last_update: '2022-12-31'
   links:
-  - - img
-    - Stefan_Porubsky.jpg
   - - loop
     - https://loop.frontiersin.org/people/458792/overview
   - - web 1
     - https://www.klinikum.uni-heidelberg.de/sfbs/sfb-938/kontakte/hermann-josef-groene-stefan-porubsky
   - - web 2
     - https://www.unimedizin-mainz.de/pathologie/das-institut/mitarbeiter/aerzte/porubsky.html
+  img: Stefan_Porubsky.jpg
   countryurl: Nemecko
   fieldurl: patologia
   positionurl: profesor
