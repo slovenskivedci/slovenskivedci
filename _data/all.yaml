@@ -5416,6 +5416,40 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
+- name: "Katar\xEDna Miku\u0161ov\xE1"
+  last: Mikusova
+  year: 1965
+  sex: "\u017Eena"
+  position: profesorka
+  field: "bioch\xE9mia"
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
+  hindex: 33
+  scholar: https://scholar.google.com/citations?user=VkLUxAoAAAAJ
+  last_update: '2022-12-31'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/katarina-mikusova
+  - - learned.sk
+    - https://www.learned.sk/doc-rndr-katarina-mikusova-drsc/
+  - - news 1
+    - https://www1.pluska.sk/rady-a-tipy/slovenska-vedkyna-prispela-vyvoju-noveho-lieku-zneskodni-infekciu-ktora-zabila-najviac-ludi
+  - - news 2
+    - https://slovensko.rtvs.sk/rubriky/doma-je-doma/279837/doma-je-doma-katarina-mikusova
+  - - orcid
+    - https://orcid.org/0000-0002-0100-4877
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Katarina-Mikusova
+  - - web
+    - https://uniba.sk/nc/ludia/mikusova1/
+  img: Katarina_Mikusova.jpg
+  countryurl: Slovensko
+  fieldurl: biochemia
+  positionurl: profesorka
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
+  sexurl: zena
 - name: "Pavel Oblo\u017Einsk\xFD"
   last: Oblozinsky
   year: 1943
