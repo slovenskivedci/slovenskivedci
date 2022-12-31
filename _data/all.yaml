@@ -7076,6 +7076,42 @@
   affiliationurl: Slovenska_technicka_univerzita
   cityurl: Bratislava
   sexurl: muz
+- name: "Nat\xE1lia Kryvinsk\xE1"
+  last: Kryvinska
+  year: 1967
+  sex: "\u017Eena"
+  position: profesorka
+  field: "mana\u017Ement"
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?user=HJtnSAkAAAAJ
+  last_update: '2022-12-31'
+  links:
+  - - dblp
+    - https://dblp.org/pid/79/1814.html
+  - - IEEEXplore
+    - https://ieeexplore.ieee.org/author/37297240400
+  - - LinkedIn
+    - https://www.linkedin.com/in/natalia-kryvinska-dr-university-professor-4b9b2840/?originalSubdomain=sk
+  - - loop
+    - https://loop.frontiersin.org/people/1288512/overview
+  - - orcid
+    - https://orcid.org/0000-0003-3678-9229
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Natalia-Kryvinska-2
+  - - web
+    - https://uniba.sk/ludia/kryvinska1/publications/
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/veda/docprof/FM_UK/2015_Kryvinska/AppendixB--Kryvinska-CV-FM-2014.pdf
+  img: Natalia_Kryvinska.jpg
+  countryurl: Slovensko
+  fieldurl: manazment
+  positionurl: profesorka
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
+  sexurl: zena
 - name: Jaroslav Lexa
   last: Lexa
   year: 1944
