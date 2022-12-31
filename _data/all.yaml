@@ -7268,36 +7268,6 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
-- name: "Veronika Ostatn\xE1"
-  last: Ostatna
-  year: ''
-  sex: "\u017Eena"
-  position: "vedky\u0148a"
-  field: biofyzika
-  affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
-  city: Brno
-  country: "\u010Cesko"
-  hindex: 30
-  scholar: https://scholar.google.com/citations?hl=en&user=ZezlLfEAAAAJ
-  last_update: '2022-03-04'
-  links:
-  - - academia.edu
-    - https://independent.academia.edu/VeronikaOstatna
-  - - orcid
-    - https://orcid.org/0000-0001-5721-1608
-  - - publons
-    - https://publons.com/researcher/2518244/veronika-ostatna/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Veronika-Ostatna
-  - - web
-    - https://www.ibp.cz/cs/vyzkum/oddeleni/biofyzikalni-chemie-a-molekularni-onkologie/zamestnanci/129
-  img: Veronika_Ostatna.jpeg
-  countryurl: Cesko
-  fieldurl: biofyzika
-  positionurl: vedkyna
-  affiliationurl: Ceska_akademia_vied
-  cityurl: Brno
-  sexurl: zena
 - name: "Du\u0161an Pla\u0161ienka"
   last: Plasienka
   year: 1953
@@ -7351,6 +7321,33 @@
   positionurl: profesor
   affiliationurl: Slovenska_technicka_univerzita
   cityurl: Bratislava
+  sexurl: muz
+- name: "\u0160tefan Porubsk\xFD"
+  last: Porubsky
+  year: ''
+  sex: "mu\u017E"
+  position: profesor
+  field: "patol\xF3gia"
+  affiliation: "Ruprecht-Karls-Universit\xE4t Heidelberg"
+  city: Mannheim
+  country: Nemecko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?user=t1W0brkAAAAJ&hl=en
+  last_update: '2022-12-31'
+  links:
+  - - img
+    - Stefan_Porubsky.jpg
+  - - loop
+    - https://loop.frontiersin.org/people/458792/overview
+  - - web 1
+    - https://www.klinikum.uni-heidelberg.de/sfbs/sfb-938/kontakte/hermann-josef-groene-stefan-porubsky
+  - - web 2
+    - https://www.unimedizin-mainz.de/pathologie/das-institut/mitarbeiter/aerzte/porubsky.html
+  countryurl: Nemecko
+  fieldurl: patologia
+  positionurl: profesor
+  affiliationurl: Ruprecht-Karls-Universitat_Heidelberg
+  cityurl: Mannheim
   sexurl: muz
 - name: "Tom\xE1\u0161 Roch"
   last: Roch
