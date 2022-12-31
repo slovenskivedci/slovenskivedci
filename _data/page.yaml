@@ -84,7 +84,6 @@ hindex:
 - 181
 - 132
 - 201
-- 30
 - 49
 - 56
 - 34
@@ -233,6 +232,7 @@ hindex:
 - 45
 - 59
 - 38
+- 30
 - 64
 - 62
 - 32
@@ -280,45 +280,46 @@ hindex:
 - 35
 affiliation: "['Univerzita Komensk\xE9ho','Slovensk\xE1 akad\xE9mia vied','Slovensk\xE1\
   \ technick\xE1 univerzita','\u010Cesk\xE1 akad\xE9mia vied','Univerzita Pavla Jozefa\
-  \ \u0160af\xE1rika','Univerzita Palack\xE9ho v Olomouci','Masarykova univerzita','Medical\
-  \ University of Vienna','Slovensk\xE1 po\u013Enohospod\xE1rska univerzita','Technick\xE1\
-  \ univerzita v Ko\u0161iciach','Univerzita Karlova','Delft University of Technology','ETH\
-  \ Z\xFCrich','KAUST','New York University','North Carolina State University','Qatar\
-  \ University','Simon Fraser University','Technick\xE1 univerzita vo Zvolene','University\
-  \ of Adelaide','University of California','University of Missouri','University of\
-  \ Natural Resources and Life Sciences','University of Oxford','University of Strathclyde','University\
-  \ of Toronto','Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave','Aalborg Universitet','Adolphe\
-  \ Merkle Institute','Amazon','Apple','Brookhaven National Laboratory','CSIRO','Cardiff\
-  \ University','Cardiovascular Research Center','Carleton University','Central European\
-  \ University','\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe','Curtin\
-  \ University','DeepMind','European Alliance for Innovation','Eur\xF3pska komisia','Florida\
-  \ State University','Fraunhofer Institute','Georga Mason University','Georgia Institute\
-  \ of Technology','Google','Hannover Medical School','IST Austria','Indiana University\
-  \ Bloomington','Institute of Tropical Medicine Antwerp','International Institute\
-  \ for Applied Systems Analysis','Joint Institute for Nuclear Research','J\xFClich\
-  \ Research Centre','Karlsruhe Institute of Technology','Kempelen Institute of Intelligent\
-  \ Technologies','Krembil Research Institute','Lawrence Berkeley National Laboratory','MBZUAI','McMaster\
-  \ University','Medical College of Wisconsin','Microsoft Research','Monash University','Montanuniversit\xE4\
-  t Leoben','Moorfields Eye Hospital','Murdoch University','NGM Biopharmaceuticals','N\xE1\
-  rodn\xFD \xFAstav reumatick\xFDch chor\xF4b','National Institute of Allergy and\
-  \ Infectious Diseases','National Research Council','Norwegian Institute for Air\
-  \ Research','Oregon Health and Science University','Oregon State University','Pre\u0161\
-  ovsk\xE1 univerzita','RIKEN','RWTH Aachen','Region\xE1lny \xFArad verejn\xE9ho zdravotn\xED\
-  ctva','Research and Development Services','Sigmund Freud University','Slovensk\xE1\
-  \ zdravotn\xEDcka univerzita','Solargis','Stanford University','Technical University\
-  \ Dortmund','The University of Melbourne','Trinity College Dublin','Trnavsk\xE1\
-  \ univerzita','U.S. Department of Agriculture','US Food and Drug Administration','Universit\xE9\
-  \ Aix-Marseille','University Medical Center Utrecht','University of Arizona','University\
-  \ of Birmingham','University of Bonn','University of British Columbia','University\
-  \ of Chicago','University of Edinburgh','University of Hawaii','University of Illinois','University\
-  \ of Louisville','University of Minnesota','University of New South Wales','University\
-  \ of Notre Dame','University of Ottawa','University of Pennsylvania','University\
-  \ of Pittsburgh','University of Reading','University of Regensburg','University\
-  \ of Stavanger','University of Technology Sydney','University of Vienna','University\
-  \ of Washington','University of Western Ontario','University of Zurich','Univerzita\
-  \ Kon\u0161tant\xEDna Filozofa','Uppsala University','Vanderbilt university','Vienna\
-  \ University of Technology','Vysok\xE1 \u0161kola chemicko-technologick\xE1','Z\xE1\
-  pado\u010Desk\xE1 univerzita v Plzni','Zeppelin University','\u017Dilinsk\xE1 univerzita']"
+  \ \u0160af\xE1rika','Technick\xE1 univerzita v Ko\u0161iciach','Univerzita Palack\xE9\
+  ho v Olomouci','Masarykova univerzita','Medical University of Vienna','Slovensk\xE1\
+  \ po\u013Enohospod\xE1rska univerzita','Univerzita Karlova','Delft University of\
+  \ Technology','ETH Z\xFCrich','KAUST','New York University','North Carolina State\
+  \ University','Qatar University','Simon Fraser University','Technick\xE1 univerzita\
+  \ vo Zvolene','University of Adelaide','University of California','University of\
+  \ Missouri','University of Natural Resources and Life Sciences','University of Oxford','University\
+  \ of Strathclyde','University of Toronto','Univerzita sv\xE4t\xE9ho Cyrila a Metoda\
+  \ v Trnave','Aalborg Universitet','Adolphe Merkle Institute','Amazon','Apple','Brookhaven\
+  \ National Laboratory','CSIRO','Cardiff University','Cardiovascular Research Center','Carleton\
+  \ University','Central European University','\u010Cesk\xE9 vysok\xE9 u\u010Den\xED\
+  \ technick\xE9 v Prahe','Curtin University','DeepMind','European Alliance for Innovation','Eur\xF3\
+  pska komisia','Florida State University','Fraunhofer Institute','Georga Mason University','Georgia\
+  \ Institute of Technology','Google','Hannover Medical School','IST Austria','Indiana\
+  \ University Bloomington','Institute of Tropical Medicine Antwerp','International\
+  \ Institute for Applied Systems Analysis','Joint Institute for Nuclear Research','J\xFC\
+  lich Research Centre','Karlsruhe Institute of Technology','Kempelen Institute of\
+  \ Intelligent Technologies','Krembil Research Institute','Lawrence Berkeley National\
+  \ Laboratory','MBZUAI','McMaster University','Medical College of Wisconsin','Microsoft\
+  \ Research','Monash University','Montanuniversit\xE4t Leoben','Moorfields Eye Hospital','Murdoch\
+  \ University','NGM Biopharmaceuticals','N\xE1rodn\xFD \xFAstav reumatick\xFDch chor\xF4\
+  b','National Institute of Allergy and Infectious Diseases','National Research Council','Norwegian\
+  \ Institute for Air Research','Oregon Health and Science University','Oregon State\
+  \ University','Pre\u0161ovsk\xE1 univerzita','RIKEN','RWTH Aachen','Region\xE1lny\
+  \ \xFArad verejn\xE9ho zdravotn\xEDctva','Research and Development Services','Sigmund\
+  \ Freud University','Slovensk\xE1 zdravotn\xEDcka univerzita','Solargis','Stanford\
+  \ University','Technical University Dortmund','The University of Melbourne','Trinity\
+  \ College Dublin','Trnavsk\xE1 univerzita','U.S. Department of Agriculture','US\
+  \ Food and Drug Administration','Universit\xE9 Aix-Marseille','University Medical\
+  \ Center Utrecht','University of Arizona','University of Birmingham','University\
+  \ of Bonn','University of British Columbia','University of Chicago','University\
+  \ of Edinburgh','University of Hawaii','University of Illinois','University of Louisville','University\
+  \ of Minnesota','University of New South Wales','University of Notre Dame','University\
+  \ of Ottawa','University of Pennsylvania','University of Pittsburgh','University\
+  \ of Reading','University of Regensburg','University of Stavanger','University of\
+  \ Technology Sydney','University of Vienna','University of Washington','University\
+  \ of Western Ontario','University of Zurich','Univerzita Kon\u0161tant\xEDna Filozofa','Uppsala\
+  \ University','Vanderbilt university','Vienna University of Technology','Vysok\xE1\
+  \ \u0161kola chemicko-technologick\xE1','Z\xE1pado\u010Desk\xE1 univerzita v Plzni','Zeppelin\
+  \ University','\u017Dilinsk\xE1 univerzita']"
 hindex_hist_x: '[''30-47'',''47-64'',''64-81'',''81-98'',''98-115'',''115-132'',''132-149'',''149-166'',''166-183'',''183-201'',]'
 hindex_hist_count: '[188,46,8,5,1,1,1,0,1,2]'
 country: "['Slovensko','USA','\u010Cesko','Rak\xFAsko','Kanada','Austr\xE1lia','Nemecko','Ve\u013E\
@@ -327,4 +328,4 @@ country: "['Slovensko','USA','\u010Cesko','Rak\xFAsko','Kanada','Austr\xE1lia','
   nsko','\xCDrsko','Japonsko','Rusk\xE1 feder\xE1cia','\u0160panielsko','\u0160v\xE9\
   dsko']"
 countryCount: '[118,36,22,13,11,9,9,8,5,3,2,2,2,2,2,2,1,1,1,1,1,1,1]'
-affiliationCount: '[42,40,9,6,6,5,4,4,4,4,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'
+affiliationCount: '[41,40,9,6,6,5,5,4,4,4,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'

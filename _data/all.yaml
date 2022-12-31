@@ -1241,6 +1241,8 @@
     - https://richtarik.org
   - - web 2
     - https://cemse.kaust.edu.sa/vcc/people/person/peter-richtarik
+  - - web 3
+    - https://cemse.kaust.edu.sa/ai
   - - "wikip\xE9dia"
     - https://en.wikipedia.org/wiki/Peter_Richtarik
   - - "\u017Eivotopis"
@@ -4693,7 +4695,7 @@
   year: ''
   sex: "mu\u017E"
   position: profesor
-  field: "v\xFDobn\xE9 technol\xF3gie"
+  field: "v\xFDrobn\xE9 technol\xF3gie"
   affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
   city: "Ko\u0161ice"
   country: Slovensko
@@ -4705,7 +4707,7 @@
     - http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
   img: Sergej_Hloch.jpeg
   countryurl: Slovensko
-  fieldurl: vyobne_technologie
+  fieldurl: vyrobne_technologie
   positionurl: profesor
   affiliationurl: Technicka_univerzita_v_Kosiciach
   cityurl: Kosice
@@ -6951,6 +6953,34 @@
   affiliationurl: Kempelen_Institute_of_Intelligent_Technologies
   cityurl: Bratislava
   sexurl: zena
+- name: "Be\xE1ta Gavurov\xE1"
+  last: Gavurova
+  year: 1967
+  sex: "\u017Eena"
+  position: profesorka
+  field: "mana\u017Ement"
+  affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
+  city: "Ko\u0161ice"
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?user=HJtnSAkAAAAJ
+  last_update: '2022-12-31'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/1042453/network
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Beata-Gavurova
+  - - web
+    - https://buraniemytov.sk/author/beata-gavurova/
+  - - "\u017Eivotopis"
+    - https://www.ef.umb.sk/print.asp?uid=747&aid=0&zid=0&pid=0&tid=0&sid=0&zahr=0&vkid=0&hkid=25&projektid=0
+  img: Beata_Gavurova.jpg
+  countryurl: Slovensko
+  fieldurl: manazment
+  positionurl: profesorka
+  affiliationurl: Technicka_univerzita_v_Kosiciach
+  cityurl: Kosice
+  sexurl: zena
 - name: "Zuzana Gdovinov\xE1"
   last: Gdovinova
   year: 1959
@@ -7046,42 +7076,6 @@
   affiliationurl: Slovenska_technicka_univerzita
   cityurl: Bratislava
   sexurl: muz
-- name: "Nat\xE1lia Kryvinsk\xE1"
-  last: Kryvinska
-  year: 1967
-  sex: "\u017Eena"
-  position: profesorka
-  field: "mana\u017Ement"
-  affiliation: "Univerzita Komensk\xE9ho"
-  city: Bratislava
-  country: Slovensko
-  hindex: 30
-  scholar: https://scholar.google.com/citations?user=HJtnSAkAAAAJ
-  last_update: '2022-12-31'
-  links:
-  - - dblp
-    - https://dblp.org/pid/79/1814.html
-  - - IEEEXplore
-    - https://ieeexplore.ieee.org/author/37297240400
-  - - LinkedIn
-    - https://www.linkedin.com/in/natalia-kryvinska-dr-university-professor-4b9b2840/?originalSubdomain=sk
-  - - loop
-    - https://loop.frontiersin.org/people/1288512/overview
-  - - orcid
-    - https://orcid.org/0000-0003-3678-9229
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Natalia-Kryvinska-2
-  - - web
-    - https://uniba.sk/ludia/kryvinska1/publications/
-  - - "\u017Eivotopis"
-    - https://uniba.sk/fileadmin/ruk/veda/docprof/FM_UK/2015_Kryvinska/AppendixB--Kryvinska-CV-FM-2014.pdf
-  img: Natalia_Kryvinska.jpg
-  countryurl: Slovensko
-  fieldurl: manazment
-  positionurl: profesorka
-  affiliationurl: Univerzita_Komenskeho
-  cityurl: Bratislava
-  sexurl: zena
 - name: Jaroslav Lexa
   last: Lexa
   year: 1944
