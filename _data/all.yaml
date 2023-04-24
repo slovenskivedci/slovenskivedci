@@ -5312,6 +5312,38 @@
   affiliationurl: University_of_Hawaii
   cityurl: Manoa
   sexurl: zena
+- name: Marek Fila
+  last: Fila
+  year: 1959-2023
+  sex: "mu\u017E"
+  position: profesor
+  field: matematika
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
+  hindex: 33
+  scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ
+  last_update: '2022-06-16'
+  links:
+  - - dblp
+    - https://dblp.org/pid/85/3264.html
+  - - DennikN
+    - https://dennikn.sk/3339263/za-marekom-filom/
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=122294
+  - - orcid
+    - https://orcid.org/0000-0001-6623-2304
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marek-Fila
+  - - web
+    - http://www.iam.fmph.uniba.sk/institute/fila/
+  img: Marek_Fila.jpg
+  countryurl: Slovensko
+  fieldurl: matematika
+  positionurl: profesor
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
+  sexurl: muz
 - name: "Du\u0161an G\xF6m\xF6ry"
   last: Gomory
   year: ''
@@ -5694,36 +5726,6 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: zena
-- name: Marek Fila
-  last: Fila
-  year: 1959
-  sex: "mu\u017E"
-  position: profesor
-  field: matematika
-  affiliation: "Univerzita Komensk\xE9ho"
-  city: Bratislava
-  country: Slovensko
-  hindex: 32
-  scholar: https://scholar.google.sk/citations?user=GweRIrQAAAAJ&amp;hl=en
-  last_update: '2022-06-16'
-  links:
-  - - dblp
-    - https://dblp.org/pid/85/3264.html
-  - - Mathematics Genealogy
-    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=122294
-  - - orcid
-    - https://orcid.org/0000-0001-6623-2304
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Marek-Fila
-  - - web
-    - http://www.iam.fmph.uniba.sk/institute/fila/
-  img: Marek_Fila.jpg
-  countryurl: Slovensko
-  fieldurl: matematika
-  positionurl: profesor
-  affiliationurl: Univerzita_Komenskeho
-  cityurl: Bratislava
-  sexurl: muz
 - name: "Tom\xE1\u0161 Klie\u0161tik"
   last: Kliestik
   year: 1972
