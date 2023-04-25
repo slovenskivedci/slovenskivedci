@@ -7496,3 +7496,41 @@
   affiliationurl: Cardiff_University
   cityurl: Cardiff
   sexurl: muz
+- name: "\u013Dubom\xEDr Tom\xE1\u0161ka"
+  last: Tomaska
+  year: 1966
+  sex: "mu\u017E"
+  position: profesor
+  field: "genetika a molekul\xE1rna biol\xF3gia"
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?user=Un79e18AAAAJ
+  last_update: '2023-04-26'
+  links:
+  - - DennikN
+    - https://dennikn.sk/autor/lubomir-tomaska/
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/lubomir-tomaska
+  - - learned.sk
+    - https://www.learned.sk/prof-rndr-lubomir-tomaska-drsc/
+  - - LinkedIn
+    - https://www.linkedin.com/in/lubomir-tomaska-b40a6a9/?originalSubdomain=sk
+  - - loop
+    - https://loop.frontiersin.org/people/629252/network
+  - - orcid
+    - https://orcid.org/0000-0003-4886-1910
+  - - web
+    - http://www.biocenter.sk/lt.html
+  - - web 2
+    - https://fns.uniba.sk/tomaska/
+  - - "\u017Eivotopis"
+    - http://www.biocenter.sk/ltcv.html
+  img: Lubomir_Tomaska_400.jpg
+  countryurl: Slovensko
+  fieldurl: genetika_a_molekularna_biologia
+  positionurl: profesor
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
+  sexurl: muz
