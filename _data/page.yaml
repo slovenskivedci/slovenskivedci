@@ -1,7 +1,7 @@
 countries:
   "\u0160vaj\u010Diarsko": 5
   "\xCDrsko": 1
-  USA: 36
+  USA: 37
   Slovensko: 120
   "N\xF3rsko": 2
   "Ve\u013Ek\xE1 Brit\xE1nia": 8
@@ -22,7 +22,7 @@ countries:
   "D\xE1nsko": 1
   "\u0160panielsko": 1
   "\u0160v\xE9dsko": 1
-man: 215
+man: 216
 woman: 41
 hindex:
 - 37
@@ -239,6 +239,7 @@ hindex:
 - 65
 - 62
 - 32
+- 30
 - 35
 - 65
 - 36
@@ -286,12 +287,12 @@ affiliation: "['Univerzita Komensk\xE9ho','Slovensk\xE1 akad\xE9mia vied','Slove
   \ \u0160af\xE1rika','Technick\xE1 univerzita v Ko\u0161iciach','Univerzita Palack\xE9\
   ho v Olomouci','Masarykova univerzita','Medical University of Vienna','Slovensk\xE1\
   \ po\u013Enohospod\xE1rska univerzita','Univerzita Karlova','Delft University of\
-  \ Technology','ETH Z\xFCrich','KAUST','New York University','North Carolina State\
-  \ University','Qatar University','Simon Fraser University','Technick\xE1 univerzita\
-  \ vo Zvolene','University of Adelaide','University of California','University of\
-  \ Missouri','University of Natural Resources and Life Sciences','University of Oxford','University\
-  \ of Strathclyde','University of Toronto','Univerzita sv\xE4t\xE9ho Cyrila a Metoda\
-  \ v Trnave','Aalborg Universitet','Adolphe Merkle Institute','Amazon','Apple','Brookhaven\
+  \ Technology','ETH Z\xFCrich','KAUST','Microsoft Research','New York University','North\
+  \ Carolina State University','Qatar University','Simon Fraser University','Technick\xE1\
+  \ univerzita vo Zvolene','University of Adelaide','University of California','University\
+  \ of Missouri','University of Natural Resources and Life Sciences','University of\
+  \ Oxford','University of Strathclyde','University of Toronto','Univerzita sv\xE4\
+  t\xE9ho Cyrila a Metoda v Trnave','Aalborg Universitet','Adolphe Merkle Institute','Amazon','Apple','Brookhaven\
   \ National Laboratory','CSIRO','Cardiff University','Cardiovascular Research Center','Carleton\
   \ University','Central European University','\u010Cesk\xE9 vysok\xE9 u\u010Den\xED\
   \ technick\xE9 v Prahe','Curtin University','DeepMind','European Alliance for Innovation','Eur\xF3\
@@ -301,10 +302,10 @@ affiliation: "['Univerzita Komensk\xE9ho','Slovensk\xE1 akad\xE9mia vied','Slove
   \ Institute for Applied Systems Analysis','Joint Institute for Nuclear Research','J\xFC\
   lich Research Centre','Karlsruhe Institute of Technology','Kempelen Institute of\
   \ Intelligent Technologies','Krembil Research Institute','Lawrence Berkeley National\
-  \ Laboratory','MBZUAI','McMaster University','Medical College of Wisconsin','Microsoft\
-  \ Research','Monash University','Montanuniversit\xE4t Leoben','Moorfields Eye Hospital','Murdoch\
-  \ University','NGM Biopharmaceuticals','N\xE1rodn\xFD \xFAstav reumatick\xFDch chor\xF4\
-  b','National Institute of Allergy and Infectious Diseases','National Research Council','Norwegian\
+  \ Laboratory','MBZUAI','McMaster University','Medical College of Wisconsin','Monash\
+  \ University','Montanuniversit\xE4t Leoben','Moorfields Eye Hospital','Murdoch University','NGM\
+  \ Biopharmaceuticals','N\xE1rodn\xFD \xFAstav reumatick\xFDch chor\xF4b','National\
+  \ Institute of Allergy and Infectious Diseases','National Research Council','Norwegian\
   \ Institute for Air Research','Oregon Health and Science University','Oregon State\
   \ University','Pre\u0161ovsk\xE1 univerzita','RIKEN','RWTH Aachen','Region\xE1lny\
   \ \xFArad verejn\xE9ho zdravotn\xEDctva','Research and Development Services','Ruprecht-Karls-Universit\xE4\
@@ -324,11 +325,11 @@ affiliation: "['Univerzita Komensk\xE9ho','Slovensk\xE1 akad\xE9mia vied','Slove
   \ \u0161kola chemicko-technologick\xE1','Z\xE1pado\u010Desk\xE1 univerzita v Plzni','Zeppelin\
   \ University','\u017Dilinsk\xE1 univerzita']"
 hindex_hist_x: '[''30-47'',''47-65'',''65-82'',''82-100'',''100-118'',''118-135'',''135-153'',''153-170'',''170-188'',''188-206'',]'
-hindex_hist_count: '[191,46,7,7,0,1,1,0,1,2]'
+hindex_hist_count: '[192,46,7,7,0,1,1,0,1,2]'
 country: "['Slovensko','USA','\u010Cesko','Rak\xFAsko','Kanada','Nemecko','Austr\xE1\
   lia','Ve\u013Ek\xE1 Brit\xE1nia','\u0160vaj\u010Diarsko','Holandsko','Belgicko','Franc\xFA\
   zsko','Katar','N\xF3rsko','Saudsk\xE1 Ar\xE1bia','Spojen\xE9 arabsk\xE9 emir\xE1\
   ty','Belgium','D\xE1nsko','\xCDrsko','Japonsko','Rusk\xE1 feder\xE1cia','\u0160\
   panielsko','\u0160v\xE9dsko']"
-countryCount: '[120,36,22,13,11,10,9,8,5,3,2,2,2,2,2,2,1,1,1,1,1,1,1]'
-affiliationCount: '[43,40,9,6,6,5,5,4,4,4,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'
+countryCount: '[120,37,22,13,11,10,9,8,5,3,2,2,2,2,2,2,1,1,1,1,1,1,1]'
+affiliationCount: '[43,40,9,6,6,5,5,4,4,4,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'

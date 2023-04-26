@@ -6983,6 +6983,32 @@
   affiliationurl: Kempelen_Institute_of_Intelligent_Technologies
   cityurl: Bratislava
   sexurl: zena
+- name: "Peter Bod\xEDk"
+  last: Bodik
+  year: null
+  sex: "mu\u017E"
+  position: vedec
+  field: "distribuovan\xE9 syst\xE9my"
+  affiliation: Microsoft Research
+  city: Seattle
+  country: USA
+  hindex: 30
+  scholar: https://scholar.google.com/citations?hl=en&user=9EFobLUAAAAJ
+  last_update: '2023-04-26'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/peter-bodik-045b90/
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Peter-Bodik-70178249
+  - - web
+    - https://www.microsoft.com/en-us/research/people/peterb/?from=https://research.microsoft.com/en-us/people/peterb/&type=exact
+  img: Peter_Bodik_400.jpg
+  countryurl: USA
+  fieldurl: distribuovane_systemy
+  positionurl: vedec
+  affiliationurl: Microsoft_Research
+  cityurl: Seattle
+  sexurl: muz
 - name: "Zuzana Gdovinov\xE1"
   last: Gdovinova
   year: 1959
