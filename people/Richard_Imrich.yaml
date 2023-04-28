@@ -1,19 +1,19 @@
-name: "Richard Imrich"
-last: "Imrich"
+name: Richard Imrich
+last: Imrich
 year: 1974
-sex: "muž"
+sex: "mu\u017E"
 position: docent
-field: biomedicína
-affiliation: "Slovenská akadémia vied"
+field: "biomedic\xEDna"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: Bratislava
 country: Slovensko
-hindex: 31
+hindex: 32
 scholar: https://scholar.google.sk/citations?user=UTQ13_oAAAAJ&hl=en
-last_update: '2022-09-09'
+last_update: '2023-04-28'
 links:
   web: https://www.sav.sk/?lang=en&doc=user-org-user&user_no=6429
   orcid: https://orcid.org/0000-0002-1747-7150
-  životopis: https://www.sav.sk/uploads/users_cv/20210319102833_120_RichardImrichCV03-2021.docx
+  "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20210319102833_120_RichardImrichCV03-2021.docx
   LinkedIn: https://www.linkedin.com/in/richard-imrich-8347269/?originalSubdomain=sk
   Nylon Union: https://www.newmodelradio.sk/120-minut-s-hudbou-nasho-hosta-richard-imrich-nylon-union/
 img: Richard_Imrich.jpg

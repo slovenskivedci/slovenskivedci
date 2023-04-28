@@ -14,10 +14,12 @@ import requests
 
  
 
+for y in glob.glob("./config/conf.yaml"):
+	with open(y) as f: conf = yaml.safe_load(f)
 
 
  
-payload = {'api_key': '',
+payload = {'api_key': conf['apikey'],
   'url': 'URL'}
   
 
@@ -36,8 +38,6 @@ def getHIndex(resp):
 
  
 
-for y in glob.glob("./config/conf.yaml"):
-	with open(y) as f: conf = yaml.safe_load(f)
 
 
 people=[]
@@ -63,6 +63,16 @@ for kv in people: # we start updating the last updated person
 		if "hl=en&amp;" in url:
 			print('ccccccc',url)
 			url = url.replace("hl=en&amp;","hl=en&")  
+			
+		if "&amp;hl=sk" in url:
+			print('ccccccc',url)
+			url = url.replace("&amp;hl=sk","&hl=en")  
+		if "hl=sk&amp;" in url:
+			print('ccccccc',url)
+			url = url.replace("hl=sk&amp;","hl=en&")  
+				
+			
+			
 			
 		
 		payload['url']=url
@@ -97,8 +107,8 @@ for kv in people: # we start updating the last updated person
 		
 	except:
 		print("erro",y)
+		print(resp)
 		print(url)
-		#print(resp)
 		
 		afdafa
  

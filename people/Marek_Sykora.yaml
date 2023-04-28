@@ -1,19 +1,19 @@
-name: "Marek Sýkora"
-last: "Sýkora"
+name: "Marek S\xFDkora"
+last: "S\xFDkora"
 year: '1977'
 sex: "mu\u017E"
-position: "profesor"
-field: "neurológia"
-affiliation: "Sigmund Freud University"
-city: "Viedeň"
-country: "Rakúsko"
-hindex: 30
+position: profesor
+field: "neurol\xF3gia"
+affiliation: Sigmund Freud University
+city: "Viede\u0148"
+country: "Rak\xFAsko"
+hindex: 31
 scholar: https://scholar.google.com/citations?user=sYVE8VIAAAAJ
-last_update: '2022-04-25'
+last_update: '2023-04-28'
 links:
   ResearchGate: https://www.researchgate.net/profile/Marek-Sykora
   LinkedIn: https://www.linkedin.com/in/marek-sykora-046b475a/
   loop: https://loop.frontiersin.org/people/1273370/overview
   web: https://www.sfu.ac.at/en/person/sykora-marek/
-  životopis: https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Sykora/32_Priv_Doz_Sykora_zivotopis.pdf
+  "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Sykora/32_Priv_Doz_Sykora_zivotopis.pdf
 img: Marek_Sykora.jpg

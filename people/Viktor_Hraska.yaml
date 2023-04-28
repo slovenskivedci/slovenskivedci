@@ -1,19 +1,19 @@
-name: "Viktor Hraška"
-last: "Hraška"
-year:
+name: "Viktor Hra\u0161ka"
+last: "Hra\u0161ka"
+year: null
 sex: "mu\u017E"
 position: profesor
 field: "kardiol\xF3gia"
-affiliation: "Medical College of Wisconsin"
+affiliation: Medical College of Wisconsin
 city: Milwaukee
 country: USA
-hindex: 31
+hindex: 32
 scholar: https://scholar.google.com/citations?user=tvt1qiQAAAAJ&hl=sk
-last_update: '2022-09-09'
+last_update: '2023-04-28'
 links:
   web: https://www.mcw.edu/departments/surgery/divisions/congenital-heart-surgery/people/viktor-hraska-md-phd
   youtube: https://www.youtube.com/watch?v=WRQcRqAqQQw
   ctsnet: https://www.ctsnet.org/article/featured-profile-and-interview-viktor-hraska-md
   web 2: https://www.nusch.sk/sk/o-nas/predstavitelia/predstavenstvo
-  životopis: files/cv_Viktor_Hraska.pdf
+  "\u017Eivotopis": files/cv_Viktor_Hraska.pdf
 img: Viktor_Hraska.jpg
