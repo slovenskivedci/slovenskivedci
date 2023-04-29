@@ -1,23 +1,22 @@
-name: "Imrich Chlamtáč"
-last: "Chlamtáč"
+name: "Imrich Chlamt\xE1\u010D"
+last: "Chlamt\xE1\u010D"
 year: '1949'
-sex: "muž"
+sex: "mu\u017E"
 position: prezident
-field: "telekomunikácie"
+field: "telekomunik\xE1cie"
 affiliation: European Alliance for Innovation
 city: Gent
-country: "Belgium"
+country: Belgium
 hindex: 67
 scholar: https://scholar.google.com/citations?hl=en&user=bWqipasAAAAJ
-last_update: '2022-09-10'
+last_update: '2023-04-28'
 links:
   LinkedIn: https://www.linkedin.com/in/imrich-chlamtac/
-  wikipédia: https://en.wikipedia.org/wiki/Imrich_Chlamtac
+  "wikip\xE9dia": https://en.wikipedia.org/wiki/Imrich_Chlamtac
   IEEE Xplore: https://ieeexplore.ieee.org/author/37269377200
   EAI: https://eai.eu/#!/about/leadership/president
   ResearchGate: https://www.researchgate.net/scientific-contributions/Imrich-Chlamtac-2146492366
   ACM: https://dl.acm.org/profile/81100299315
   prabook: https://prabook.com/web/imrich.chlamtac/129216
   Semantic Scholar: https://www.semanticscholar.org/author/I.-Chlamtac/1700194
-
 img: Imrich_Chlamtac.jpg

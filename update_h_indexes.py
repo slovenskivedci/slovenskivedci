@@ -1,14 +1,43 @@
 
 import oyaml as yaml
 import os
-from serpapi import GoogleSearch
+#from serpapi import GoogleSearch
 import glob
 import pickle 
 from datetime import datetime
 
 
+
+
+
+import requests
+
+ 
+
 for y in glob.glob("./config/conf.yaml"):
 	with open(y) as f: conf = yaml.safe_load(f)
+
+
+ 
+payload = {'api_key': conf['apikey'],
+  'url': 'URL'}
+  
+
+def getHIndex(resp):
+	data = resp
+	dat = data.split("h-index</a></td><td class=")[1]
+	dat = dat.split(">")[1]
+	dat = dat.split("<")[0]
+	return dat
+
+
+
+
+
+
+
+ 
+
 
 
 people=[]
@@ -26,47 +55,66 @@ people = sorted(people, key = lambda kv: kv[1]["last_update"])
 for kv in people: # we start updating the last updated person
 	y, dic = kv
 	try:
-		print(y,dic)
+		print("\n\n processing....")
+		print("BEFORE",y, dic["hindex"])
 		url = dic["scholar"]
-		print("URL",url)
-		id = url.split("user=")[1][:12]
-		print("--------------------------")
-		print(y)
-		print(dic)
-		params = {
-		  "engine": "google_scholar_author",
-		  "author_id": id,
-		  "api_key": conf["key"]
-		}
-
-		search = GoogleSearch(params)
-		results = search.get_dict()
 		
-		print(results)
 		
-		author = results['author']
-		
-
-		cited_by = results["cited_by"]["table"]
-		for e in cited_by:
-			if "h_index" in e:
+		if "hl=en&amp;" in url:
+			print('ccccccc',url)
+			url = url.replace("hl=en&amp;","hl=en&")  
+			
+		if "&amp;hl=sk" in url:
+			print('ccccccc',url)
+			url = url.replace("&amp;hl=sk","&hl=en")  
+		if "hl=sk&amp;" in url:
+			print('ccccccc',url)
+			url = url.replace("hl=sk&amp;","hl=en&")  
 				
-				dic["hindex"] = e["h_index"]["all"]
-				if int(dic["hindex"]) < 25:
+			
+			
+			
+		
+		payload['url']=url
+		resp = requests.get('http://api.scraperapi.com', params=payload)
+		resp = resp.text
+		 
+		
+		hindex = int(getHIndex(resp))
+		
+		print("AFTER",y, hindex)
+		 
+		
+		dic["hindex"] =  hindex
+		if  dic["hindex"] < 25:
 					
 					print(y)
-					print(cited_by)
+					print(hindex)
 					pickle.dump(results,open("/tmp/debug.pkl","wb"))
-					
-					print("error", y); die
-				#dic["cited_by"] = cited_by
-				print("\n\n processing....")
-				print(y, dic["hindex"])
-				dic["last_update"] = datetime.today().strftime('%Y-%m-%d')
-				with open(y, 'w') as file:
-				   documents = yaml.dump(dic, file) 
-				#print(dic)
-
+					print(payload)
+					print("error", y); die		
+		
+		
+		
+		 
+		dic["last_update"] = datetime.today().strftime('%Y-%m-%d')
+		
+		 
+	 
+		with open(y, 'w') as file:
+			documents = yaml.dump(dic, file) 
+		 
+		
 	except:
 		print("erro",y)
+		print(resp)
+		print(url)
+		
+		afdafa
  
+'''
+				
+				print(dic)
+				afafafsafsafsas
+'''
+	

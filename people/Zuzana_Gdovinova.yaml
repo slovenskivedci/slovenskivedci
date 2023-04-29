@@ -2,12 +2,12 @@ name: "Zuzana Gdovinov\xE1"
 last: "Gdovinov\xE1"
 year: 1959
 sex: "\u017Eena"
-position: "profesorka"
+position: profesorka
 field: "neurol\xF3gia"
-affiliation: "Univerzita Pavla Jozefa Šafárika"
-city: "Košice"
+affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+city: "Ko\u0161ice"
 country: Slovensko
-hindex: 30
+hindex: 32
 scholar: https://scholar.google.com/citations?user=bHMoRzIAAAAJ
 links:
   web 1: https://www.upjs.sk/LF/zamestnanec/zuzana.gdovinova/
@@ -16,3 +16,4 @@ links:
   publons: https://publons.com/researcher/2279934/zuzana-gdovinova/
   "\u017Eivotopis": https://www.neurologiepropraxi.cz/pdfs/neu/2019/01/17.pdf
 img: Zuzana_Gdovinova.jpg
+last_update: '2023-04-28'

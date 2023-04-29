@@ -1,19 +1,19 @@
-name: "Pavol Szomolányi"
-last: "Szomolanyi"
+name: "Pavol Szomol\xE1nyi"
+last: Szomolanyi
 year: 1966
 sex: "mu\u017E"
 position: vedec
-field: "magnetická rezonancia"
-affiliation: "Medical University of Vienna"
-city: Viedeň
-country: Rakúsko
-hindex: 37
+field: "magnetick\xE1 rezonancia"
+affiliation: Medical University of Vienna
+city: "Viede\u0148"
+country: "Rak\xFAsko"
+hindex: 38
 scholar: https://scholar.google.co.uk/citations?user=tFQBoAcAAAAJ&hl=en&oi=ao
-last_update: '2022-04-27'
+last_update: '2023-04-28'
 links:
   web: https://hfmr.meduniwien.ac.at/allgemeine-informationen/mitarbeiterinnen/dr-pavol-szomolanyi/#c14832
-  životopis: https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/Curriculum_Vitae_for_HFMR_homepage_Pavol_Szomolanyi_v5.pdf
-  životopis 2: https://www.um.sav.sk/sk2/oddelenie-04/pavol-szomolanyi.html
+  "\u017Eivotopis": https://hfmr.meduniwien.ac.at/fileadmin/hfmr/files/Curriculum_Vitae_for_HFMR_homepage_Pavol_Szomolanyi_v5.pdf
+  "\u017Eivotopis 2": https://www.um.sav.sk/sk2/oddelenie-04/pavol-szomolanyi.html
   orcid: https://orcid.org/0000-0001-6693-5528
   ResearchGate: https://www.researchgate.net/profile/Pavol-Szomolanyi
   LinkedIn: https://www.linkedin.com/in/pavol-szomolanyi-7a829514a/?originalSubdomain=sk

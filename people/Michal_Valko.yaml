@@ -1,18 +1,18 @@
-name: "Michal Valko"
-last: "Valko"
+name: Michal Valko
+last: Valko
 year: ''
-sex: "muž"
+sex: "mu\u017E"
 position: vedec
-field: "optimalizácia a strojové učenie"
-affiliation: "DeepMind"
-city: Paríž
-country: Francúzsko
-hindex: 32
+field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
+affiliation: DeepMind
+city: "Par\xED\u017E"
+country: "Franc\xFAzsko"
+hindex: 35
 scholar: https://scholar.google.com/citations?user=jrazNCQAAAAJ&hl=en
-last_update: '2022-09-09'
+last_update: '2023-04-28'
 links:
   web: https://misovalko.github.io/index.html
-  životopis: https://misovalko.github.io/cv/long-cv-michal-valko.pdf
+  "\u017Eivotopis": https://misovalko.github.io/cv/long-cv-michal-valko.pdf
   LinkedIn: https://www.linkedin.com/in/michalvalko/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=fr
   twitter: https://twitter.com/misovalko?lang=en
   dblp: https://dblp.org/pid/03/5455.html
@@ -23,5 +23,4 @@ links:
   ESET: https://www.esetscienceaward.sk/en/envoys/michal-valko
   sme.sk: https://domov.sme.sk/c/22765422/vedec-valko-umelou-inteligenciou-chcem-zachranovat-zivoty.html
   Mathematics Genealogy: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=156876
-
 img: Michal_Valko.jpg

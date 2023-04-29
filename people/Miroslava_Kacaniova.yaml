@@ -1,15 +1,15 @@
-name: Miroslava Kačániová
-last: Kačániová
-year:
-sex: "žena"
+name: "Miroslava Ka\u010D\xE1niov\xE1"
+last: "Ka\u010D\xE1niov\xE1"
+year: null
+sex: "\u017Eena"
 position: profesorka
 field: "mikrobiol\xF3gia"
-affiliation: "Slovenská poľnohospodárska univerzita"
+affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
 city: Nitra
 country: Slovensko
-hindex: 31
+hindex: 34
 scholar: https://scholar.google.sk/citations?user=1st0ejAAAAAJ&hl=en
-last_update: '2022-09-09'
+last_update: '2023-04-28'
 links:
   ResearchGate: https://www.researchgate.net/lab/Miroslava-Kacaniova-Lab
   LinkedIn: https://www.linkedin.com/in/miroslava-kacaniova-681bb6b3/?originalSubdomain=sk
@@ -20,5 +20,4 @@ links:
   vnd 2: https://vedanadosah.cvtisr.sk/zdravie/farmacia/video-antibiotika-verzus-prirodne-antimikrobialne-latky/
   vnd 3: https://vedanadosah.cvtisr.sk/priroda/biologia/video-slovenski-vedci-miroslava-kacaniova-vyskum-antibiotik/
   orcid: https://orcid.org/0000-0002-4460-0222
-
 img: Miroslava_Kacaniova_400.png
