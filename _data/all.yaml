@@ -1561,6 +1561,38 @@
   affiliationurl: University_of_Toronto
   cityurl: Toronto
   sexurl: zena
+- name: "Jozef Ke\u010Dk\xE9\u0161"
+  last: Keckes
+  year: ''
+  sex: "mu\u017E"
+  position: profesor
+  field: "materi\xE1lov\xE1 veda"
+  affiliation: "Montanuniversit\xE4t Leoben"
+  city: Leoben
+  country: "Rak\xFAsko"
+  hindex: 52
+  scholar: https://scholar.google.com/citations?user=vPBEaHQAAAAJ&hl=en
+  last_update: '2023-04-29'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/jozef-keckes-427669110/?originalSubdomain=at
+  - - oeaw
+    - https://www.oeaw.ac.at/esi/institute/staff/jozef-keckes
+  - - orcid
+    - https://orcid.org/0000-0003-4770-4331
+  - - pure
+    - https://pure.unileoben.ac.at/portal/en/persons/jozef-keckes(310f4028-1a13-409a-a61d-f45288696f83)/publications.html
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jozef-Keckes
+  - - web
+    - https://nmaxs.unileoben.ac.at/contact/
+  img: Jozef_Keckes.jpg
+  countryurl: Rakusko
+  fieldurl: materialova_veda
+  positionurl: profesor
+  affiliationurl: Montanuniversitat_Leoben
+  cityurl: Leoben
+  sexurl: muz
 - name: "L\xEDvia Ludhov\xE1"
   last: Ludhova
   year: 1973
@@ -1764,38 +1796,6 @@
   positionurl: profesor
   affiliationurl: Carleton_University
   cityurl: Ottawa
-  sexurl: muz
-- name: "Jozef Ke\u010Dk\xE9\u0161"
-  last: Keckes
-  year: ''
-  sex: "mu\u017E"
-  position: profesor
-  field: "materi\xE1lov\xE1 veda"
-  affiliation: "Montanuniversit\xE4t Leoben"
-  city: Leoben
-  country: "Rak\xFAsko"
-  hindex: 50
-  scholar: https://scholar.google.com/citations?user=vPBEaHQAAAAJ&hl=en
-  last_update: '2022-09-11'
-  links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/jozef-keckes-427669110/?originalSubdomain=at
-  - - oeaw
-    - https://www.oeaw.ac.at/esi/institute/staff/jozef-keckes
-  - - orcid
-    - https://orcid.org/0000-0003-4770-4331
-  - - pure
-    - https://pure.unileoben.ac.at/portal/en/persons/jozef-keckes(310f4028-1a13-409a-a61d-f45288696f83)/publications.html
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Jozef-Keckes
-  - - web
-    - https://nmaxs.unileoben.ac.at/contact/
-  img: Jozef_Keckes.jpg
-  countryurl: Rakusko
-  fieldurl: materialova_veda
-  positionurl: profesor
-  affiliationurl: Montanuniversitat_Leoben
-  cityurl: Leoben
   sexurl: muz
 - name: "Jana Ko\u0161eck\xE1"
   last: Kosecka
