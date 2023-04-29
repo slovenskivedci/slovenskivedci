@@ -4279,6 +4279,54 @@
   affiliationurl: Medical_University_of_Vienna
   cityurl: Vieden
   sexurl: muz
+- name: "Martin Tak\xE1\u010D"
+  last: Takac
+  year: '1986'
+  sex: "mu\u017E"
+  position: docent
+  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
+  affiliation: MBZUAI
+  city: Abu Dhabi
+  country: "Spojen\xE9 arabsk\xE9 emir\xE1ty"
+  hindex: 37
+  scholar: https://scholar.google.com/citations?hl=en&user=qKQD-2cAAAAJ
+  last_update: '2023-04-29'
+  links:
+  - - dblp
+    - https://dblp.org/pid/42/3759.html
+  - - IEEE Xplore
+    - https://ieeexplore.ieee.org/author/37085360273
+  - - KInIT
+    - https://kinit.sk/meet-martin-takac-kinit-external-mentor/
+  - - LinkedIn
+    - https://www.linkedin.com/in/martintakac/
+  - - loop
+    - https://loop.frontiersin.org/people/199374/overview
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182721
+  - - openreview
+    - https://openreview.net/profile?id=~Martin_Takac3
+  - - orcid
+    - https://orcid.org/0000-0001-7455-2025
+  - - publons
+    - https://publons.com/researcher/484601/martin-takac/
+  - - SlidesLive
+    - https://slideslive.com/s/martin-takac-23271
+  - - twitter
+    - https://twitter.com/takacmartin
+  - - web 1
+    - http://mtakac.com
+  - - web 2
+    - https://engineering.lehigh.edu/faculty/martin-takac
+  - - "\u017Eivotopis"
+    - https://mtakac.com/CV
+  img: Martin_Takac_400.jpg
+  countryurl: Spojene_arabske_emiraty
+  fieldurl: optimalizacia_a_strojove_ucenie
+  positionurl: docent
+  affiliationurl: MBZUAI
+  cityurl: Abu_Dhabi
+  sexurl: muz
 - name: "Iveta Bern\xE1tov\xE1"
   last: Bernatova
   year: ''
@@ -5558,54 +5606,6 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: zena
-- name: "Martin Tak\xE1\u010D"
-  last: Takac
-  year: '1986'
-  sex: "mu\u017E"
-  position: docent
-  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
-  affiliation: MBZUAI
-  city: Abu Dhabi
-  country: "Spojen\xE9 arabsk\xE9 emir\xE1ty"
-  hindex: 33
-  scholar: https://scholar.google.com/citations?hl=en&user=qKQD-2cAAAAJ
-  last_update: '2022-09-09'
-  links:
-  - - dblp
-    - https://dblp.org/pid/42/3759.html
-  - - IEEE Xplore
-    - https://ieeexplore.ieee.org/author/37085360273
-  - - KInIT
-    - https://kinit.sk/meet-martin-takac-kinit-external-mentor/
-  - - LinkedIn
-    - https://www.linkedin.com/in/martintakac/
-  - - loop
-    - https://loop.frontiersin.org/people/199374/overview
-  - - Mathematics Genealogy
-    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182721
-  - - openreview
-    - https://openreview.net/profile?id=~Martin_Takac3
-  - - orcid
-    - https://orcid.org/0000-0001-7455-2025
-  - - publons
-    - https://publons.com/researcher/484601/martin-takac/
-  - - SlidesLive
-    - https://slideslive.com/s/martin-takac-23271
-  - - twitter
-    - https://twitter.com/takacmartin
-  - - web 1
-    - http://mtakac.com
-  - - web 2
-    - https://engineering.lehigh.edu/faculty/martin-takac
-  - - "\u017Eivotopis"
-    - https://mtakac.com/CV
-  img: Martin_Takac_400.jpg
-  countryurl: Spojene_arabske_emiraty
-  fieldurl: optimalizacia_a_strojove_ucenie
-  positionurl: docent
-  affiliationurl: MBZUAI
-  cityurl: Abu_Dhabi
-  sexurl: muz
 - name: Oskar Vafek
   last: Vafek
   year: ''
