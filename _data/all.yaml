@@ -600,6 +600,34 @@
   affiliationurl: European_Alliance_for_Innovation
   cityurl: Gent
   sexurl: muz
+- name: "Katar\xEDna K\u0159\xED\u017Ekov\xE1 Gajdo\u0161ov\xE1"
+  last: Gajdosova
+  year: ''
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "subjadrov\xE1 fyzika"
+  affiliation: "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe"
+  city: Praha
+  country: "\u010Cesko"
+  hindex: 66
+  scholar: https://scholar.google.com/citations?user=n1zAfusAAAAJ&amp;hl=en
+  last_update: '2023-04-29'
+  links:
+  - - facebook
+    - https://www.facebook.com/katarina.gajdosova.3
+  - - orcid
+    - https://orcid.org/0000-0002-5569-1254
+  - - web 1
+    - https://physics.fjfi.cvut.cz/en/cb-profile/gajdokat
+  - - web 2
+    - https://www.meltingpotforum.com/cs/archiv/recnici-2019/katarina-krizkova-gajdosova-svk-cze
+  img: Katarina_Krizkova_Gajdosova.jpg
+  countryurl: Cesko
+  fieldurl: subjadrova_fyzika
+  positionurl: vedkyna
+  affiliationurl: Ceske_vysoke_uceni_technicke_v_Prahe
+  cityurl: Praha
+  sexurl: zena
 - name: "Vladim\xEDr Bencko"
   last: Bencko
   year: '1938'
@@ -660,6 +688,30 @@
   affiliationurl: National_Research_Council
   cityurl: Ottawa
   sexurl: muz
+- name: Peter Boor
+  last: Boor
+  year: 1979
+  sex: "mu\u017E"
+  position: docent
+  field: "patol\xF3gia"
+  affiliation: RWTH Aachen
+  city: Aachen
+  country: Nemecko
+  hindex: 64
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
+  last_update: '2023-04-29'
+  links:
+  - - web
+    - https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/
+  - - "\u017Eivotopis"
+    - http://www.imbm.sk/wp-content/uploads/2018/01/cv-english-pb.pdf
+  img: Peter_Boor.jpeg
+  countryurl: Nemecko
+  fieldurl: patologia
+  positionurl: docent
+  affiliationurl: RWTH_Aachen
+  cityurl: Aachen
+  sexurl: muz
 - name: "Mari\xE1n Bresti\u010D"
   last: Brestic
   year: 1959
@@ -686,6 +738,38 @@
   affiliationurl: Slovenska_polnohospodarska_univerzita
   cityurl: Nitra
   sexurl: muz
+- name: "M\xE1ria Du\u0161insk\xE1"
+  last: Dusinska
+  year: null
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "toxikol\xF3gia"
+  affiliation: Norwegian Institute for Air Research
+  city: Kjeller
+  country: "N\xF3rsko"
+  hindex: 64
+  scholar: https://scholar.google.com/citations?user=tF7f4yEAAAAJ&hl=en
+  last_update: '2023-04-29'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/110414/overview
+  - - marfan
+    - http://marfan.sk
+  - - orcid
+    - https://orcid.org/0000-0003-1358-1652
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Maria-Dusinska
+  - - web
+    - https://www.nilu.com/employee/maria-dusinska/
+  - - "\u017Eivotopis"
+    - https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/cv_sccs_dusinska_en.pdf
+  img: Maria_Dusinska.jpg
+  countryurl: Norsko
+  fieldurl: toxikologia
+  positionurl: vedkyna
+  affiliationurl: Norwegian_Institute_for_Air_Research
+  cityurl: Kjeller
+  sexurl: zena
 - name: Marek Majdan
   last: Majdan
   year: ''
@@ -742,6 +826,72 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
+- name: "Barbora (Voz\xE1rov\xE1) de Courten"
+  last: de Courten
+  year: ''
+  sex: "\u017Eena"
+  position: profesorka
+  field: "epidemiol\xF3gia"
+  affiliation: Monash University
+  city: Melbourne
+  country: "Austr\xE1lia"
+  hindex: 64
+  scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
+  last_update: '2023-04-29'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/371235/overview
+  - - orcid
+    - https://orcid.org/0000-0001-8760-2511
+  - - publons
+    - https://publons.com/researcher/1662815/barbora-de-courten/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Barbora_De_Courten2
+  - - web 1
+    - https://www.monash.edu/medicine/scs/researchers/barbora-de-courten
+  - - web 2
+    - https://research.monash.edu/en/persons/barbora-de-courten
+  img: Barbora_Courten.jpg
+  countryurl: Australia
+  fieldurl: epidemiologia
+  positionurl: profesorka
+  affiliationurl: Monash_University
+  cityurl: Melbourne
+  sexurl: zena
+- name: "Jozef \u0160amaj"
+  last: Samaj
+  year: 1964
+  sex: "mu\u017E"
+  position: profesor
+  field: botanika
+  affiliation: "Univerzita Palack\xE9ho v Olomouci"
+  city: Olomouc
+  country: "\u010Cesko"
+  hindex: 63
+  scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
+  last_update: '2023-04-29'
+  links:
+  - - learned.sk
+    - https://www.learned.sk/clenovia/riadni-clenovia/
+  - - loop
+    - https://loop.frontiersin.org/people/26551/overview
+  - - orcid
+    - https://orcid.org/0000-0003-4750-2123
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jozef-Samaj
+  - - twitter
+    - https://twitter.com/Samaj_lab
+  - - web
+    - https://kbt.upol.cz/en/
+  - - "\u017Eivotopis"
+    - "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160amaj.pdf"
+  img: Jozef_Samaj.jpg
+  countryurl: Cesko
+  fieldurl: botanika
+  positionurl: profesor
+  affiliationurl: Univerzita_Palackeho_v_Olomouci
+  cityurl: Olomouc
+  sexurl: muz
 - name: "Vladim\xEDr Bu\u017Eek"
   last: Buzek
   year: 1957
@@ -766,156 +916,6 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
-- name: "Katar\xEDna K\u0159\xED\u017Ekov\xE1 Gajdo\u0161ov\xE1"
-  last: Gajdosova
-  year: ''
-  sex: "\u017Eena"
-  position: "vedky\u0148a"
-  field: "subjadrov\xE1 fyzika"
-  affiliation: "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe"
-  city: Praha
-  country: "\u010Cesko"
-  hindex: 62
-  scholar: https://scholar.google.com/citations?user=n1zAfusAAAAJ&amp;hl=en
-  last_update: '2023-01-01'
-  links:
-  - - facebook
-    - https://www.facebook.com/katarina.gajdosova.3
-  - - orcid
-    - https://orcid.org/0000-0002-5569-1254
-  - - web 1
-    - https://physics.fjfi.cvut.cz/en/cb-profile/gajdokat
-  - - web 2
-    - https://www.meltingpotforum.com/cs/archiv/recnici-2019/katarina-krizkova-gajdosova-svk-cze
-  img: Katarina_Krizkova_Gajdosova.jpg
-  countryurl: Cesko
-  fieldurl: subjadrova_fyzika
-  positionurl: vedkyna
-  affiliationurl: Ceske_vysoke_uceni_technicke_v_Prahe
-  cityurl: Praha
-  sexurl: zena
-- name: "Jozef \u0160amaj"
-  last: Samaj
-  year: 1964
-  sex: "mu\u017E"
-  position: profesor
-  field: botanika
-  affiliation: "Univerzita Palack\xE9ho v Olomouci"
-  city: Olomouc
-  country: "\u010Cesko"
-  hindex: 62
-  scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
-  last_update: '2022-11-25'
-  links:
-  - - learned.sk
-    - https://www.learned.sk/clenovia/riadni-clenovia/
-  - - loop
-    - https://loop.frontiersin.org/people/26551/overview
-  - - orcid
-    - https://orcid.org/0000-0003-4750-2123
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Jozef-Samaj
-  - - twitter
-    - https://twitter.com/Samaj_lab
-  - - web
-    - https://kbt.upol.cz/en/
-  - - "\u017Eivotopis"
-    - "https://www.learned.sk/wp-content/uploads/2020/02/Zivotopis-Jozef-\u0160amaj.pdf"
-  img: Jozef_Samaj.jpg
-  countryurl: Cesko
-  fieldurl: botanika
-  positionurl: profesor
-  affiliationurl: Univerzita_Palackeho_v_Olomouci
-  cityurl: Olomouc
-  sexurl: muz
-- name: "Barbora (Voz\xE1rov\xE1) de Courten"
-  last: de Courten
-  year: ''
-  sex: "\u017Eena"
-  position: profesorka
-  field: "epidemiol\xF3gia"
-  affiliation: Monash University
-  city: Melbourne
-  country: "Austr\xE1lia"
-  hindex: 62
-  scholar: https://scholar.google.com.au/citations?hl=en&amp;user=Q_0mjq0AAAAJ
-  last_update: '2023-01-01'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/371235/overview
-  - - orcid
-    - https://orcid.org/0000-0001-8760-2511
-  - - publons
-    - https://publons.com/researcher/1662815/barbora-de-courten/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Barbora_De_Courten2
-  - - web 1
-    - https://www.monash.edu/medicine/scs/researchers/barbora-de-courten
-  - - web 2
-    - https://research.monash.edu/en/persons/barbora-de-courten
-  img: Barbora_Courten.jpg
-  countryurl: Australia
-  fieldurl: epidemiologia
-  positionurl: profesorka
-  affiliationurl: Monash_University
-  cityurl: Melbourne
-  sexurl: zena
-- name: Peter Boor
-  last: Boor
-  year: 1979
-  sex: "mu\u017E"
-  position: docent
-  field: "patol\xF3gia"
-  affiliation: RWTH Aachen
-  city: Aachen
-  country: Nemecko
-  hindex: 61
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
-  last_update: '2023-01-01'
-  links:
-  - - web
-    - https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/
-  - - "\u017Eivotopis"
-    - http://www.imbm.sk/wp-content/uploads/2018/01/cv-english-pb.pdf
-  img: Peter_Boor.jpeg
-  countryurl: Nemecko
-  fieldurl: patologia
-  positionurl: docent
-  affiliationurl: RWTH_Aachen
-  cityurl: Aachen
-  sexurl: muz
-- name: "M\xE1ria Du\u0161insk\xE1"
-  last: Dusinska
-  year: null
-  sex: "\u017Eena"
-  position: "vedky\u0148a"
-  field: "toxikol\xF3gia"
-  affiliation: Norwegian Institute for Air Research
-  city: Kjeller
-  country: "N\xF3rsko"
-  hindex: 61
-  scholar: https://scholar.google.com/citations?user=tF7f4yEAAAAJ&hl=en
-  last_update: '2023-01-01'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/110414/overview
-  - - marfan
-    - http://marfan.sk
-  - - orcid
-    - https://orcid.org/0000-0003-1358-1652
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Maria-Dusinska
-  - - web
-    - https://www.nilu.com/employee/maria-dusinska/
-  - - "\u017Eivotopis"
-    - https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/cv_sccs_dusinska_en.pdf
-  img: Maria_Dusinska.jpg
-  countryurl: Norsko
-  fieldurl: toxikologia
-  positionurl: vedkyna
-  affiliationurl: Norwegian_Institute_for_Air_Research
-  cityurl: Kjeller
-  sexurl: zena
 - name: Ervin Fodor
   last: Fodor
   year: 1965
@@ -925,9 +925,9 @@
   affiliation: University of Oxford
   city: Oxford
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
-  hindex: 61
+  hindex: 62
   scholar: https://scholar.google.com/citations?hl=en&user=vcIizE8AAAAJ
-  last_update: '2023-01-01'
+  last_update: '2023-04-29'
   links:
   - - acmedsci
     - https://acmedsci.ac.uk/fellows/fellows-directory/ordinary-fellows/fellow/Professor-Ervin-Fodor-0017930
