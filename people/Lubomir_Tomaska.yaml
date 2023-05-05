@@ -1,15 +1,15 @@
-name: Ľubomír Tomáška
-last: Tomáška
+name: "\u013Dubom\xEDr Tom\xE1\u0161ka"
+last: "Tom\xE1\u0161ka"
 year: 1966
 sex: "mu\u017E"
 position: profesor
-field: "genetika a molekulárna biológia"
+field: "genetika a molekul\xE1rna biol\xF3gia"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
 hindex: 30
 scholar: https://scholar.google.com/citations?user=Un79e18AAAAJ
-last_update: '2023-04-26'
+last_update: '2023-05-05'
 links:
   web: http://www.biocenter.sk/lt.html
   web 2: https://fns.uniba.sk/tomaska/
@@ -20,5 +20,4 @@ links:
   learned.sk: https://www.learned.sk/prof-rndr-lubomir-tomaska-drsc/
   LinkedIn: https://www.linkedin.com/in/lubomir-tomaska-b40a6a9/?originalSubdomain=sk
   loop: https://loop.frontiersin.org/people/629252/network
-
 img: Lubomir_Tomaska_400.jpg

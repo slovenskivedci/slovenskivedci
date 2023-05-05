@@ -1,16 +1,15 @@
-name: "Natália Kryvinská"
-last: "Kryvinská"
+name: "Nat\xE1lia Kryvinsk\xE1"
+last: "Kryvinsk\xE1"
 year: 1967
-sex: "žena"
+sex: "\u017Eena"
 position: profesorka
-field: "manažment"
+field: "mana\u017Ement"
 affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
-hindex: 30
+hindex: 31
 scholar: https://scholar.google.com/citations?user=HJtnSAkAAAAJ
-
-last_update: '2022-12-31'
+last_update: '2023-05-05'
 links:
   web: https://uniba.sk/ludia/kryvinska1/publications/
   LinkedIn: https://www.linkedin.com/in/natalia-kryvinska-dr-university-professor-4b9b2840/?originalSubdomain=sk
@@ -19,6 +18,5 @@ links:
   orcid: https://orcid.org/0000-0003-3678-9229
   loop: https://loop.frontiersin.org/people/1288512/overview
   dblp: https://dblp.org/pid/79/1814.html
-  "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/veda/docprof/FM_UK/2015_Kryvinska/AppendixB--Kryvinska-CV-FM-2014.pdf  
-
+  "\u017Eivotopis": https://uniba.sk/fileadmin/ruk/veda/docprof/FM_UK/2015_Kryvinska/AppendixB--Kryvinska-CV-FM-2014.pdf
 img: Natalia_Kryvinska.jpg

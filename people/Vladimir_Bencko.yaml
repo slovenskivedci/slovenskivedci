@@ -1,22 +1,21 @@
-name: "Vladimír Bencko"
-last: "Bencko"
+name: "Vladim\xEDr Bencko"
+last: Bencko
 year: '1938'
-sex: "muž"
+sex: "mu\u017E"
 position: profesor
-field: "hygiena a epidemiológia"
-affiliation: "Univerzita Karlova"
+field: "hygiena a epidemiol\xF3gia"
+affiliation: Univerzita Karlova
 city: Praha
-country: Česko
-hindex: 65
+country: "\u010Cesko"
+hindex: 67
 scholar: https://scholar.google.com/citations?hl=en&user=ie2ZQ5wAAAAJ
-last_update: '2023-01-01'
+last_update: '2023-05-05'
 links:
   ResearchGate: https://www.researchgate.net/profile/Vladimir-Bencko/6
   LinkedIn: https://www.linkedin.com/in/vladimir-bencko-28333018/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=cz
   web: https://hyg.lf1.cuni.cz/en/departments-contacts?nDepartmentID=0&sAction=detail&nContactID=87247
-  wikipédia: https://cs.wikipedia.org/wiki/Vladim%C3%ADr_Bencko
+  "wikip\xE9dia": https://cs.wikipedia.org/wiki/Vladim%C3%ADr_Bencko
   scirp: https://scirp.org/journal/articles.aspx/specialissues/articles.aspx?searchcode=Vladimir+Bencko&searchfield=authors&page=1&skid=0
   prabook: https://prabook.com/web/vladimir.bencko/415822
   publons: https://publons.com/researcher/2109167/vladimir-bencko/
-
 img: Vladimir_Bencko.jpg
