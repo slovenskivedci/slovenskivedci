@@ -19,7 +19,7 @@ for y in glob.glob("./config/conf.yaml"):
 
 
  
-payload = {'api_key': conf['apikey'],
+payload = {'api_key': conf['apikey2'],
   'url': 'URL'}
   
 
@@ -71,7 +71,8 @@ for kv in people: # we start updating the last updated person
 			print('ccccccc',url)
 			url = url.replace("hl=sk&amp;","hl=en&")  
 				
-			
+		if "hl=" not in url:
+			url = url+"&hl=en"
 			
 			
 		
@@ -108,6 +109,7 @@ for kv in people: # we start updating the last updated person
 	except:
 		print("erro",y)
 		print(resp)
+		print("\n\n")
 		print(url)
 		
 		afdafa

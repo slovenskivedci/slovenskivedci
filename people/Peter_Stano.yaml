@@ -1,15 +1,15 @@
-name: "Peter Staňo"
-last: "Staňo"
+name: "Peter Sta\u0148o"
+last: "Sta\u0148o"
 year: 1975
 sex: "mu\u017E"
 position: vedec
-field: "teoretická fyzika"
-affiliation: "RIKEN"
-city: Wakō
-country: "Japonsko"
-hindex: 30
+field: "teoretick\xE1 fyzika"
+affiliation: RIKEN
+city: "Wak\u014D"
+country: Japonsko
+hindex: 31
 scholar: https://scholar.google.com/citations?user=-gLxHToAAAAJ&hl=en
-last_update: '2022-10-20'
+last_update: '2023-05-05'
 links:
   web 1: http://cems.riken.jp/en/laboratory/qstrt?lang=en
   web 2: http://www.quantum.physics.sk/people/stano/

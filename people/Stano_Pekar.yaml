@@ -1,15 +1,15 @@
-name: "Stano Pekár"
-last: "Pekár"
+name: "Stano Pek\xE1r"
+last: "Pek\xE1r"
 year: 1970
 sex: "mu\u017E"
-position: "profesor"
-field: "behaviorálna ekol\xF3gia"
+position: profesor
+field: "behavior\xE1lna ekol\xF3gia"
 affiliation: Masarykova univerzita
 city: Brno
-country: "Česko"
-hindex: 47
+country: "\u010Cesko"
+hindex: 50
 scholar: https://scholar.google.com/citations?user=o7qWfUAAAAAJ&hl=en
-last_update: '2022-10-19'
+last_update: '2023-05-05'
 links:
   web: https://www.sci.muni.cz/zoolecol/inverteb/?teams=prof-stano-pekar-ph-d
   web 2: https://www.arachnology.cz/lide/stano-pekar-318.html
