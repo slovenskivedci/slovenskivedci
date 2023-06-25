@@ -7243,6 +7243,32 @@
   affiliationurl: University_of_Natural_Resources_and_Life_Sciences
   cityurl: Vieden
   sexurl: muz
+- name: "Tom\xE1\u0161 Bleha"
+  last: Bleha
+  year: 1943
+  sex: "mu\u017E"
+  position: profesor
+  field: "fyzik\xE1lna ch\xE9mia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?user=HxBEVzwAAAAJ
+  last_update: '2023-06-25'
+  links:
+  - - learned.sk
+    - https://www.learned.sk/prof-ing-tomas-bleha-drsc/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Tomas-Bleha
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=10670
+  img: Tomas_Bleha.jpg
+  countryurl: Slovensko
+  fieldurl: fyzikalna_chemia
+  positionurl: profesor
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
 - name: "Peter Bod\xEDk"
   last: Bodik
   year: null
