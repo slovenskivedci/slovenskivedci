@@ -383,6 +383,8 @@
   scholar: https://scholar.google.com/citations?user=s9Ikf1EAAAAJ&amp
   last_update: '2023-05-05'
   links:
+  - - Envoy of the ESET Science Award
+    - https://www.esetscienceaward.sk/en/envoys/ruzena-bajcsy
   - - web 1
     - https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.html
   - - web 2
@@ -501,6 +503,8 @@
   scholar: https://scholar.google.com/citations?hl=en&user=7AYmCSIAAAAJ
   last_update: '2023-05-05'
   links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/silvia-pastorekova
   - - learned.sk
     - https://www.learned.sk/prof-rndr-silvia-pastorekova-drsc/
   - - LinkedIn
@@ -598,6 +602,30 @@
   affiliationurl: Univerzita_Karlova
   cityurl: Praha
   sexurl: muz
+- name: "Mari\xE1n Bresti\u010D"
+  last: Brestic
+  year: 1959
+  sex: "mu\u017E"
+  position: profesor
+  field: "fyziol\xF3gia rastl\xEDn"
+  affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
+  city: Nitra
+  country: Slovensko
+  hindex: 67
+  scholar: https://scholar.google.com/citations?user=9LXjvp8AAAAJ&amp;hl=en&amp;oi=sra
+  last_update: '2023-06-25'
+  links:
+  - - web
+    - https://is.uniag.sk/lide/clovek.pl?id=1426
+  - - "\u017Eivotopis"
+    - https://uniag.academia.edu/MarianBrestic/CurriculumVitae
+  img: Marian_Brestic.jpg
+  countryurl: Slovensko
+  fieldurl: fyziologia_rastlin
+  positionurl: profesor
+  affiliationurl: Slovenska_polnohospodarska_univerzita
+  cityurl: Nitra
+  sexurl: muz
 - name: "Imrich Chlamt\xE1\u010D"
   last: Chlamtac
   year: '1949'
@@ -647,7 +675,7 @@
   scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ
   last_update: '2023-05-05'
   links:
-  - - ESET Envoy
+  - - Envoy of the ESET Science Award
     - https://www.esetscienceaward.sk/en/envoys/pavel-cheben
   - - web
     - https://nrc.canada.ca/en/stories/drs-pavel-cheben-laura-ferrarese-inducted-royal-society-canada
@@ -711,32 +739,6 @@
   positionurl: docent
   affiliationurl: RWTH_Aachen
   cityurl: Aachen
-  sexurl: muz
-- name: "Mari\xE1n Bresti\u010D"
-  last: Brestic
-  year: 1959
-  sex: "mu\u017E"
-  position: profesor
-  field: "fyziol\xF3gia rastl\xEDn"
-  affiliation: "Slovensk\xE1 po\u013Enohospod\xE1rska univerzita"
-  city: Nitra
-  country: Slovensko
-  hindex: 64
-  scholar: https://scholar.google.com/citations?user=9LXjvp8AAAAJ&amp;hl=en&amp;oi=sra
-  last_update: '2023-05-05'
-  links:
-  - - ESET Science Award
-    - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/marian-brestic
-  - - web
-    - https://is.uniag.sk/lide/clovek.pl?id=1426
-  - - "\u017Eivotopis"
-    - https://uniag.academia.edu/MarianBrestic/CurriculumVitae
-  img: Marian_Brestic.jpg
-  countryurl: Slovensko
-  fieldurl: fyziologia_rastlin
-  positionurl: profesor
-  affiliationurl: Slovenska_polnohospodarska_univerzita
-  cityurl: Nitra
   sexurl: muz
 - name: "M\xE1ria Du\u0161insk\xE1"
   last: Dusinska
@@ -2044,6 +2046,34 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
+- name: "Andrea Madarasov\xE1 Geckov\xE1"
+  last: Geckova
+  year: 1972
+  sex: "\u017Eena"
+  position: profesorka
+  field: "soci\xE1lna psychol\xF3gia"
+  affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+  city: "Ko\u0161ice"
+  country: Slovensko
+  hindex: 48
+  scholar: https://scholar.google.sk/citations?hl=sk&amp;user=VbZM3zYAAAAJ
+  last_update: '2023-06-25'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/andrea-madarasova-geckova
+  - - orcid
+    - https://orcid.org/0000-0003-2993-3798
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Andrea_Madarasova_Geckova2
+  - - web
+    - https://www.upjs.sk/LF/zamestnanec/andrea.geckova/
+  img: Andrea_Madarasova_Geckova.jpg
+  countryurl: Slovensko
+  fieldurl: socialna_psychologia
+  positionurl: profesorka
+  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
+  cityurl: Kosice
+  sexurl: zena
 - name: "M\xE1ria Hrmov\xE1"
   last: Hrmova
   year: ''
@@ -2192,6 +2222,8 @@
   scholar: https://scholar.google.sk/citations?user=I5zYMOsAAAAJ&hl=en
   last_update: '2023-05-05'
   links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/roman-boca
   - - vedec roka 2011
     - https://sk.wikipedia.org/wiki/Vedec_roka_SR
   - - web
@@ -2245,32 +2277,6 @@
   affiliationurl: University_of_Washington
   cityurl: Seattle
   sexurl: muz
-- name: "Andrea Madarasov\xE1 Geckov\xE1"
-  last: Geckova
-  year: 1972
-  sex: "\u017Eena"
-  position: profesorka
-  field: "soci\xE1lna psychol\xF3gia"
-  affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
-  city: "Ko\u0161ice"
-  country: Slovensko
-  hindex: 47
-  scholar: https://scholar.google.sk/citations?hl=sk&amp;user=VbZM3zYAAAAJ
-  last_update: '2023-05-05'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0003-2993-3798
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Andrea_Madarasova_Geckova2
-  - - web
-    - https://www.upjs.sk/LF/zamestnanec/andrea.geckova/
-  img: Andrea_Madarasova_Geckova.jpg
-  countryurl: Slovensko
-  fieldurl: socialna_psychologia
-  positionurl: profesorka
-  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
-  cityurl: Kosice
-  sexurl: zena
 - name: "Josef Jamp\xEDlek"
   last: Jampilek
   year: ''
@@ -3426,7 +3432,7 @@
     - https://www.researchgate.net/profile/Peter_Molnar11
   - - web
     - https://hyd.ifu.ethz.ch/the-group/people/person-detail.html?persid=100330
-  img: Peter_Molnar.png
+  img: Peter_Molnar.jpg
   countryurl: Svajciarsko
   fieldurl: hydrologia
   positionurl: profesor
@@ -4493,6 +4499,30 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: zena
+- name: Martin Gmitra
+  last: Gmitra
+  year: ''
+  sex: "mu\u017E"
+  position: vedec
+  field: "teoretick\xE1 fyzika"
+  affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+  city: "Ko\u0161ice"
+  country: Slovensko
+  hindex: 37
+  scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&hl=en
+  last_update: '2023-06-25'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/martin-gmitra
+  - - web
+    - https://ktfa.science.upjs.sk/people/martin-gmitra/
+  img: Martin_Gmitra.jpg
+  countryurl: Slovensko
+  fieldurl: teoreticka_fyzika
+  positionurl: vedec
+  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
+  cityurl: Kosice
+  sexurl: muz
 - name: "J\xE1n Moj\u017Ei\u0161"
   last: Mojzis
   year: ''
@@ -4591,6 +4621,50 @@
   affiliationurl: MBZUAI
   cityurl: Abu_Dhabi
   sexurl: muz
+- name: Michal Valko
+  last: Valko
+  year: ''
+  sex: "mu\u017E"
+  position: vedec
+  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
+  affiliation: DeepMind
+  city: "Par\xED\u017E"
+  country: "Franc\xFAzsko"
+  hindex: 37
+  scholar: https://scholar.google.com/citations?user=jrazNCQAAAAJ&hl=en
+  last_update: '2023-06-25'
+  links:
+  - - dblp
+    - https://dblp.org/pid/03/5455.html
+  - - DeepAI
+    - https://deepai.org/profile/michal-valko
+  - - Envoy of the ESET Science Award
+    - https://www.esetscienceaward.sk/en/envoys/michal-valko
+  - - LinkedIn
+    - https://www.linkedin.com/in/michalvalko/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=fr
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=156876
+  - - ResearchGate
+    - https://www.researchgate.net/scientific-contributions/Michal-Valko-34958013
+  - - Semantic Scholar
+    - https://www.semanticscholar.org/author/Michal-Valko/1806291
+  - - SlidesLive
+    - https://slideslive.com/s/michal-valko-17029
+  - - sme.sk
+    - https://domov.sme.sk/c/22765422/vedec-valko-umelou-inteligenciou-chcem-zachranovat-zivoty.html
+  - - twitter
+    - https://twitter.com/misovalko?lang=en
+  - - web
+    - https://misovalko.github.io/index.html
+  - - "\u017Eivotopis"
+    - https://misovalko.github.io/cv/long-cv-michal-valko.pdf
+  img: Michal_Valko.jpg
+  countryurl: Francuzsko
+  fieldurl: optimalizacia_a_strojove_ucenie
+  positionurl: vedec
+  affiliationurl: DeepMind
+  cityurl: Pariz
+  sexurl: muz
 - name: Michal Zeman
   last: Zeman
   year: ''
@@ -4688,28 +4762,6 @@
   positionurl: profesor
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
-  sexurl: muz
-- name: Martin Gmitra
-  last: Gmitra
-  year: ''
-  sex: "mu\u017E"
-  position: vedec
-  field: "teoretick\xE1 fyzika"
-  affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
-  city: "Ko\u0161ice"
-  country: Slovensko
-  hindex: 36
-  scholar: https://scholar.google.sk/citations?user=LQxDmrQAAAAJ&hl=en
-  last_update: '2023-05-05'
-  links:
-  - - web
-    - https://ktfa.science.upjs.sk/people/martin-gmitra/
-  img: Martin_Gmitra.jpg
-  countryurl: Slovensko
-  fieldurl: teoreticka_fyzika
-  positionurl: vedec
-  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
-  cityurl: Kosice
   sexurl: muz
 - name: "Milo\u0161 Hauskrecht"
   last: Hauskrecht
@@ -4951,6 +5003,40 @@
   img: Igor_Tvaroska.jpg
   countryurl: Slovensko
   fieldurl: vypoctova_chemia
+  positionurl: vedec
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
+- name: Jozef Ukropec
+  last: Ukropec
+  year: 1974
+  sex: "mu\u017E"
+  position: vedec
+  field: "patofyziol\xF3gia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 36
+  scholar: https://scholar.google.com/citations?user=geK1ms0AAAAJ&amp;hl=en
+  last_update: '2023-06-26'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/jozef-ukropec
+  - - loop
+    - https://loop.frontiersin.org/people/506233/overview
+  - - orcid
+    - https://orcid.org/0000-0001-8401-6621
+  - - publons
+    - https://publons.com/researcher/3489206/jozef-ukropec/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jozef_Ukropec
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273
+  - - "\u017Eivotopis"
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273&action=cv
+  img: Jozef_Ukropec.jpg
+  countryurl: Slovensko
+  fieldurl: patofyziologia
   positionurl: vedec
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
@@ -5328,38 +5414,6 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
-- name: Jozef Ukropec
-  last: Ukropec
-  year: 1974
-  sex: "mu\u017E"
-  position: vedec
-  field: "patofyziol\xF3gia"
-  affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  city: Bratislava
-  country: Slovensko
-  hindex: 35
-  scholar: https://scholar.google.com/citations?user=geK1ms0AAAAJ&amp;hl=en
-  last_update: '2023-04-28'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/506233/overview
-  - - orcid
-    - https://orcid.org/0000-0001-8401-6621
-  - - publons
-    - https://publons.com/researcher/3489206/jozef-ukropec/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Jozef_Ukropec
-  - - web
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273
-  - - "\u017Eivotopis"
-    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=1273&action=cv
-  img: Jozef_Ukropec.jpg
-  countryurl: Slovensko
-  fieldurl: patofyziologia
-  positionurl: vedec
-  affiliationurl: Slovenska_akademia_vied
-  cityurl: Bratislava
-  sexurl: muz
 - name: Oskar Vafek
   last: Vafek
   year: ''
@@ -5389,50 +5443,6 @@
   positionurl: profesor
   affiliationurl: Florida_State_University
   cityurl: Tallahassee
-  sexurl: muz
-- name: Michal Valko
-  last: Valko
-  year: ''
-  sex: "mu\u017E"
-  position: vedec
-  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
-  affiliation: DeepMind
-  city: "Par\xED\u017E"
-  country: "Franc\xFAzsko"
-  hindex: 35
-  scholar: https://scholar.google.com/citations?user=jrazNCQAAAAJ&hl=en
-  last_update: '2023-05-05'
-  links:
-  - - dblp
-    - https://dblp.org/pid/03/5455.html
-  - - DeepAI
-    - https://deepai.org/profile/michal-valko
-  - - ESET
-    - https://www.esetscienceaward.sk/en/envoys/michal-valko
-  - - LinkedIn
-    - https://www.linkedin.com/in/michalvalko/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=fr
-  - - Mathematics Genealogy
-    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=156876
-  - - ResearchGate
-    - https://www.researchgate.net/scientific-contributions/Michal-Valko-34958013
-  - - Semantic Scholar
-    - https://www.semanticscholar.org/author/Michal-Valko/1806291
-  - - SlidesLive
-    - https://slideslive.com/s/michal-valko-17029
-  - - sme.sk
-    - https://domov.sme.sk/c/22765422/vedec-valko-umelou-inteligenciou-chcem-zachranovat-zivoty.html
-  - - twitter
-    - https://twitter.com/misovalko?lang=en
-  - - web
-    - https://misovalko.github.io/index.html
-  - - "\u017Eivotopis"
-    - https://misovalko.github.io/cv/long-cv-michal-valko.pdf
-  img: Michal_Valko.jpg
-  countryurl: Francuzsko
-  fieldurl: optimalizacia_a_strojove_ucenie
-  positionurl: vedec
-  affiliationurl: DeepMind
-  cityurl: Pariz
   sexurl: muz
 - name: "Mari\xE1n Valko"
   last: Valko
@@ -5471,6 +5481,8 @@
   scholar: https://scholar.google.com/citations?user=BvXxXusAAAAJ&amp;hl=sk
   last_update: '2023-05-05'
   links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/imrich-barak
   - - loop
     - https://loop.frontiersin.org/people/104180/overview
   - - orcid
