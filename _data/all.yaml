@@ -7587,6 +7587,34 @@
   affiliationurl: Georgia_Institute_of_Technology
   cityurl: Atlanta
   sexurl: muz
+- name: "Jaroslav Mosn\xE1\u010Dek"
+  last: Mosnacek
+  year: null
+  sex: "mu\u017E"
+  position: vedec
+  field: "makromolekul\xE1rna ch\xE9mia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.sk/citations?user=-5YGCCsAAAAJ
+  last_update: '2023-06-25'
+  links:
+  - - academia.edu
+    - https://sav-sk.academia.edu/JaroslavMosnacek
+  - - LinkedIn
+    - https://www.linkedin.com/in/jaroslav-mosnacek-92556610/?originalSubdomain=sk
+  - - ResearchGate
+    - https://www.researchgate.net/lab/Jaroslav-Mosnacek-Lab
+  - - web
+    - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=2395
+  img: Jaroslav_Mosnacek.jpg
+  countryurl: Slovensko
+  fieldurl: makromolekularna_chemia
+  positionurl: vedec
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
 - name: Jozef Nosek
   last: Nosek
   year: 1967
