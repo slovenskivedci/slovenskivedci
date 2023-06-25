@@ -7563,6 +7563,34 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
+- name: "J\xE1n Titi\u0161"
+  last: Titis
+  year: 1979
+  sex: "mu\u017E"
+  position: docent
+  field: "anorganick\xE1 ch\xE9mia"
+  affiliation: "Univerzita sv\xE4t\xE9ho Cyrila a Metoda v Trnave"
+  city: Trnava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?user=9SBHxBAAAAAJ
+  last_update: '2023-06-25'
+  links:
+  - - academia.edu
+    - https://ucm-sk.academia.edu/J%C3%A1nTiti%C5%A1
+  - - LinkedIn
+    - https://www.linkedin.com/in/j%C3%A1n-titi%C5%A1-409160172/?originalSubdomain=sk
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jan-Titis
+  - - sme.sk
+    - https://mytrnava.sme.sk/c/22543407/chemia-je-jednoducho-uzasna.html
+  img: Jan_Titis.jpg
+  countryurl: Slovensko
+  fieldurl: anorganicka_chemia
+  positionurl: docent
+  affiliationurl: Univerzita_svateho_Cyrila_a_Metoda_v_Trnave
+  cityurl: Trnava
+  sexurl: muz
 - name: "Peter Toma\u0161ec"
   last: Tomasec
   year: 1970-2017
