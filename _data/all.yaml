@@ -6557,6 +6557,30 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
+- name: "Alena Mazur\xE1kov\xE1"
+  last: Mazurakova
+  year: null
+  sex: "\u017Eena"
+  position: "odborn\xE1 asistentka"
+  field: rakovina
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
+  hindex: 32
+  scholar: https://scholar.google.com/citations?user=PUM5HXYAAAAJ
+  last_update: '2023-06-25'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Alena-Mazurakova
+  - - web
+    - https://www.jfmed.uniba.sk/pracoviska/vedecko-pedagogicke-pracoviska/teoreticke-ustavy/ustav-anatomie/zamestnanci/
+  img: Alena_Mazurakova.jpg
+  countryurl: Slovensko
+  fieldurl: rakovina
+  positionurl: odborna_asistentka
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
+  sexurl: zena
 - name: Karol Mikula
   last: Mikula
   year: 1963
