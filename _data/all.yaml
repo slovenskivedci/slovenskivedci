@@ -7327,6 +7327,34 @@
   affiliationurl: Microsoft_Research
   cityurl: Seattle
   sexurl: muz
+- name: Gabriel Fedorko
+  last: Fedorko
+  year: null
+  sex: "mu\u017E"
+  position: profesor
+  field: logistika
+  affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
+  city: "Ko\u0161ice"
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?user=n0aQzRcAAAAJ
+  last_update: '2023-06-25'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/gabriel-fedorko-753a9033/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0002-5187-5283
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Gabriel-Fedorko/3
+  - - web
+    - http://www.gabrielfedorko.com/
+  img: Gabriel_Fedorko.jpg
+  countryurl: Slovensko
+  fieldurl: logistika
+  positionurl: profesor
+  affiliationurl: Technicka_univerzita_v_Kosiciach
+  cityurl: Kosice
+  sexurl: muz
 - name: "M\xE1ria Kazim\xEDrov\xE1"
   last: Kazimirova
   year: '1957'
