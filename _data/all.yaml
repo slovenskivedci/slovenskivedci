@@ -2224,7 +2224,7 @@
   links:
   - - ESET Science Award
     - https://www.esetscienceaward.sk/sk/finalisti/roman-boca
-  - - vedec roka 2011
+  - - vedec roka
     - https://sk.wikipedia.org/wiki/Vedec_roka_SR
   - - web
     - https://www.ucm.sk/sk/rektor/
@@ -4940,7 +4940,7 @@
     - https://www.researchgate.net/scientific-contributions/Lubomir-Svorc-2052109038/publications/2
   - - Veda na dosah
     - https://vedanadosah.cvtisr.sk/priroda/chemia/lubomir-svorc-patri-medzi-svetovu-spicku-mladych-chemikov/
-  - - Vedec roka
+  - - vedec roka
     - https://sk.wikipedia.org/wiki/Vedec_roka_SR
   - - web
     - https://is.stuba.sk/lide/clovek.pl?id=19350;lang=sk
@@ -7242,6 +7242,38 @@
   positionurl: vedec
   affiliationurl: University_of_Natural_Resources_and_Life_Sciences
   cityurl: Vieden
+  sexurl: muz
+- name: "Vladimir Zele\u0148\xE1k"
+  last: Zelenak
+  year: 1969
+  sex: "mu\u017E"
+  position: profesor
+  field: "anorganick\xE1 ch\xE9mia"
+  affiliation: "Univerzita Pavla Jozefa \u0160af\xE1rika"
+  city: "Ko\u0161ice"
+  country: Slovensko
+  hindex: 31
+  scholar: https://scholar.google.com.au/citations?user=OfwHRv8AAAAJ
+  last_update: '2023-05-05'
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/en/finalists/vladimir-zelenak
+  - - "inaugur\xE1cia"
+    - https://haik.upjs.sk/data/inauguracne_konania/IKACH/122_Zelenak_PF/navrh.pdf
+  - - orcid
+    - https://orcid.org/0000-0002-6118-1269
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Vladimir-Zelenak
+  - - vedec roka
+    - https://vedanadosah.cvtisr.sk/priroda/ocenenie-vedec-roka-sr-2018-ziskal-doc-vladimir-zelenak/
+  - - web
+    - https://www.upjs.sk/en/PF/employee/vladimir.zelenak/
+  img: Vladimir_Zelenak.jpg
+  countryurl: Slovensko
+  fieldurl: anorganicka_chemia
+  positionurl: profesor
+  affiliationurl: Univerzita_Pavla_Jozefa_Safarika
+  cityurl: Kosice
   sexurl: muz
 - name: "Tom\xE1\u0161 Bleha"
   last: Bleha
