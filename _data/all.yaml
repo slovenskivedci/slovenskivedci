@@ -4921,32 +4921,6 @@
   affiliationurl: University_of_Pennsylvania
   cityurl: Filadelfia
   sexurl: zena
-- name: "\u013Dubica Rauov\xE1"
-  last: Rauova
-  year: ''
-  sex: "\u017Eena"
-  position: docentka
-  field: pediatria
-  affiliation: University of Pennsylvania
-  city: Filadelfia
-  country: USA
-  hindex: 36
-  scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
-  last_update: '2023-04-28'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0003-1990-3077
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Lubica_Rauova
-  - - web
-    - https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
-  img: Lubica_Rauova.jpg
-  countryurl: USA
-  fieldurl: pediatria
-  positionurl: docentka
-  affiliationurl: University_of_Pennsylvania
-  cityurl: Filadelfia
-  sexurl: zena
 - name: "\u013Dubom\xEDr \u0160vorc"
   last: Svorc
   year: 1983
@@ -7353,6 +7327,36 @@
   affiliationurl: Microsoft_Research
   cityurl: Seattle
   sexurl: muz
+- name: "M\xE1ria Kazim\xEDrov\xE1"
+  last: Kazimirova
+  year: '1957'
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "entomol\xF3gia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.hu/citations?user=SZhtoTQAAAAJ
+  last_update: '2023-06-25'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/maria-kazimirova-92b97a23/?originalSubdomain=sk
+  - - loop
+    - https://loop.frontiersin.org/people/81833/overview
+  - - pravda.sk
+    - https://ahojmama.pravda.sk/clanky/rozhovor-odbornicka-na-klieste-maria-kazimiro/12973-clanok.html
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Maria-Kazimirova
+  - - web
+    - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=1943
+  img: Maria_Kazimirova.jpg
+  countryurl: Slovensko
+  fieldurl: entomologia
+  positionurl: vedkyna
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: zena
 - name: Miroslav Kocifaj
   last: Kocifaj
   year: 1968
