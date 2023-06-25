@@ -1946,7 +1946,7 @@
     - https://www.sci.muni.cz/zoolecol/inverteb/?teams=prof-stano-pekar-ph-d
   - - web 2
     - https://www.arachnology.cz/lide/stano-pekar-318.html
-  img: Stano_Pekar_1000.jpg
+  img: Stano_Pekar.jpg
   countryurl: Cesko
   fieldurl: behavioralna_ekologia
   positionurl: profesor
@@ -4895,6 +4895,32 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
+- name: "\u013Dubica Rauov\xE1"
+  last: Rauova
+  year: ''
+  sex: "\u017Eena"
+  position: docentka
+  field: pediatria
+  affiliation: University of Pennsylvania
+  city: Filadelfia
+  country: USA
+  hindex: 36
+  scholar: https://scholar.google.com/citations?user=u4WoWNcAAAAJ&amp;hl=en
+  last_update: '2023-04-28'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-1990-3077
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Lubica_Rauova
+  - - web
+    - https://www.med.upenn.edu/apps/faculty/index.php/g275/p6616233
+  img: Lubica_Rauova.jpg
+  countryurl: USA
+  fieldurl: pediatria
+  positionurl: docentka
+  affiliationurl: University_of_Pennsylvania
+  cityurl: Filadelfia
+  sexurl: zena
 - name: "\u013Dubica Rauov\xE1"
   last: Rauova
   year: ''
