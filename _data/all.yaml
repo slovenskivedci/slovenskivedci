@@ -7269,6 +7269,34 @@
   affiliationurl: Microsoft_Research
   cityurl: Seattle
   sexurl: muz
+- name: Miroslav Kocifaj
+  last: Kocifaj
+  year: 1968
+  sex: "mu\u017E"
+  position: vedec
+  field: optika
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.sk/citations?user=XDh-250AAAAJ
+  last_update: '2023-06-25'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/miroslav-kocifaj-5665042b/?originalSubdomain=sk
+  - - pravda.sk
+    - https://spravy.pravda.sk/domace/clanok/461418-amerika-riesi-svetelny-smog-slovenskou-metodou/
+  - - vesmir.cz
+    - https://vesmir.cz/cz/o-nas/autori/k/kocifaj-miroslav.html
+  - - web
+    - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=5626
+  img: Miroslav_Kocifaj.jpg
+  countryurl: Slovensko
+  fieldurl: optika
+  positionurl: vedec
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
 - name: "Vladim\xEDr Kov\xE1\u010D"
   last: Kovac
   year: 1958
