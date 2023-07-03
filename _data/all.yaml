@@ -7,9 +7,9 @@
   affiliation: "Univerzita Komensk\xE9ho"
   city: Bratislava
   country: Slovensko
-  hindex: 223
+  hindex: 218
   scholar: https://scholar.google.com/citations?user=2HzXQEkAAAAJ
-  last_update: '2023-04-29'
+  last_update: '2023-07-03'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/stano-tokar-b0536844/?originalSubdomain=sk
@@ -43,9 +43,9 @@
   affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   city: Praha
   country: "\u010Cesko"
-  hindex: 213
+  hindex: 206
   scholar: https://scholar.google.com/citations?user=jkguv3UAAAAJ
-  last_update: '2023-04-29'
+  last_update: '2023-07-03'
   links:
   - - orcid
     - https://www.fzu.cz/en/people/rndr-roman-lysak-phd
@@ -71,9 +71,9 @@
   affiliation: "Univerzita Komensk\xE9ho"
   city: Bratislava
   country: Slovensko
-  hindex: 194
+  hindex: 189
   scholar: https://scholar.google.com/citations?hl=en&user=pCW77HEAAAAJ
-  last_update: '2023-04-29'
+  last_update: '2023-07-03'
   links:
   - - CERN
     - https://cds.cern.ch/search?f=author&p=Bartos%2C%20Pavol&ln=en
@@ -99,9 +99,9 @@
   affiliation: Technical University Dortmund
   city: Dortmund
   country: Nemecko
-  hindex: 155
+  hindex: 147
   scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
-  last_update: '2023-04-29'
+  last_update: '2023-07-03'
   links:
   - - inspireHEP
     - https://inspirehep.net/authors/1346585
@@ -125,9 +125,9 @@
   affiliation: "Univerzita Komensk\xE9ho"
   city: Bratislava
   country: Slovensko
-  hindex: 137
+  hindex: 138
   scholar: https://scholar.google.com/citations?user=4ymEP0sAAAAJ
-  last_update: '2023-04-29'
+  last_update: '2023-07-03'
   links:
   - - publons
     - https://publons.com/researcher/3258206/brano-sitar/
@@ -179,9 +179,9 @@
   affiliation: University of Adelaide
   city: Adelaide
   country: "Austr\xE1lia"
-  hindex: 93
+  hindex: 95
   scholar: https://scholar.google.com/citations?user=FTejMNwAAAAJ&amp;hl=en
-  last_update: '2023-04-29'
+  last_update: '2023-07-03'
   links:
   - - Australian Academy of Science
     - https://www.science.org.au/profile/jozef-g%C3%A9cz
@@ -217,9 +217,9 @@
   affiliation: University of Illinois
   city: Urbana-Champaign
   country: USA
-  hindex: 90
+  hindex: 91
   scholar: https://scholar.google.com/citations?user=TW0t25AAAAAJ&hl=en
-  last_update: '2023-05-05'
+  last_update: '2023-07-03'
   links:
   - - dblp
     - https://dblp.org/pid/45/3224.html
@@ -243,9 +243,9 @@
   affiliation: University of Ottawa
   city: Ottawa
   country: Kanada
-  hindex: 90
+  hindex: 91
   scholar: https://scholar.google.com/citations?user=b-gm8tgAAAAJ&hl=en
-  last_update: '2023-05-05'
+  last_update: '2023-07-03'
   links:
   - - AMiner
     - https://www.aminer.org/profile/jan-veizer/53f4ca6bdabfaee57b77fdf2
@@ -307,9 +307,9 @@
   affiliation: Cardiovascular Research Center
   city: Aalst
   country: Belgicko
-  hindex: 84
+  hindex: 85
   scholar: https://scholar.google.com/citations?hl=en&user=ByfssdMAAAAJ
-  last_update: '2023-05-05'
+  last_update: '2023-07-03'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/jozef-bartunek-68696b168/?originalSubdomain=be
@@ -341,9 +341,9 @@
   affiliation: Krembil Research Institute
   city: Toronto
   country: Kanada
-  hindex: 82
+  hindex: 83
   scholar: https://scholar.google.com/citations?hl=en&amp;user=Hi9ALnkAAAAJ
-  last_update: '2023-05-05'
+  last_update: '2023-07-03'
   links:
   - - dblp
     - https://dblp.org/pid/27/4777.html
@@ -379,9 +379,9 @@
   affiliation: University of California
   city: Berkeley
   country: USA
-  hindex: 74
+  hindex: 73
   scholar: https://scholar.google.com/citations?user=s9Ikf1EAAAAJ&amp
-  last_update: '2023-05-05'
+  last_update: '2023-07-03'
   links:
   - - Envoy of the ESET Science Award
     - https://www.esetscienceaward.sk/en/envoys/ruzena-bajcsy
@@ -400,6 +400,38 @@
   affiliationurl: University_of_California
   cityurl: Berkeley
   sexurl: zena
+- name: "Vladim\xEDr D\u017Eav\xEDk"
+  last: Dzavik
+  year: ''
+  sex: "mu\u017E"
+  position: profesor
+  field: "kardiol\xF3gia"
+  affiliation: University of Toronto
+  city: Toronto
+  country: Kanada
+  hindex: 72
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=psbZKP4AAAAJ
+  last_update: '2023-07-03'
+  links:
+  - - LinkedIn
+    - "https://www.linkedin.com/in/vladim%C3%ADr-d\u017Eav%C3%ADk-07a36017/?originalSubdomain=ca"
+  - - orcid
+    - https://orcid.org/0000-0002-6001-9534
+  - - PubMed
+    - https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Vladimir-Dzavik
+  - - Scopus
+    - https://www.scopus.com/authid/detail.uri?authorId=7004450973
+  - - web
+    - https://www.uhnresearch.ca/researcher/vladimir-dzavic
+  img: Vladimir_Dzavik.jpg
+  countryurl: Kanada
+  fieldurl: kardiologia
+  positionurl: profesor
+  affiliationurl: University_of_Toronto
+  cityurl: Toronto
+  sexurl: muz
 - name: "Eleon\xF3ra Fabi\xE1nov\xE1"
   last: Fabianova
   year: 1953
@@ -426,38 +458,34 @@
   affiliationurl: Regionalny_urad_verejneho_zdravotnictva
   cityurl: Banska_Bystrica
   sexurl: zena
-- name: "Vladim\xEDr D\u017Eav\xEDk"
-  last: Dzavik
+- name: "Katar\xEDna K\u0159\xED\u017Ekov\xE1 Gajdo\u0161ov\xE1"
+  last: Gajdosova
   year: ''
-  sex: "mu\u017E"
-  position: profesor
-  field: "kardiol\xF3gia"
-  affiliation: University of Toronto
-  city: Toronto
-  country: Kanada
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "subjadrov\xE1 fyzika"
+  affiliation: "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe"
+  city: Praha
+  country: "\u010Cesko"
   hindex: 71
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=psbZKP4AAAAJ
-  last_update: '2023-05-05'
+  scholar: https://scholar.google.com/citations?user=n1zAfusAAAAJ&amp;hl=en
+  last_update: '2023-07-03'
   links:
-  - - LinkedIn
-    - "https://www.linkedin.com/in/vladim%C3%ADr-d\u017Eav%C3%ADk-07a36017/?originalSubdomain=ca"
+  - - facebook
+    - https://www.facebook.com/katarina.gajdosova.3
   - - orcid
-    - https://orcid.org/0000-0002-6001-9534
-  - - PubMed
-    - https://pubmed.ncbi.nlm.nih.gov/?term=Dzavik+V[AU]&sort=date
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Vladimir-Dzavik
-  - - Scopus
-    - https://www.scopus.com/authid/detail.uri?authorId=7004450973
-  - - web
-    - https://www.uhnresearch.ca/researcher/vladimir-dzavic
-  img: Vladimir_Dzavik.jpg
-  countryurl: Kanada
-  fieldurl: kardiologia
-  positionurl: profesor
-  affiliationurl: University_of_Toronto
-  cityurl: Toronto
-  sexurl: muz
+    - https://orcid.org/0000-0002-5569-1254
+  - - web 1
+    - https://physics.fjfi.cvut.cz/en/cb-profile/gajdokat
+  - - web 2
+    - https://www.meltingpotforum.com/cs/archiv/recnici-2019/katarina-krizkova-gajdosova-svk-cze
+  img: Katarina_Krizkova_Gajdosova.jpg
+  countryurl: Cesko
+  fieldurl: subjadrova_fyzika
+  positionurl: vedkyna
+  affiliationurl: Ceske_vysoke_uceni_technicke_v_Prahe
+  cityurl: Praha
+  sexurl: zena
 - name: Radko Mesiar
   last: Mesiar
   year: 1951
@@ -467,9 +495,9 @@
   affiliation: "Slovensk\xE1 technick\xE1 univerzita"
   city: Bratislava
   country: Slovensko
-  hindex: 70
+  hindex: 71
   scholar: https://scholar.google.com/citations?user=_kXpl5YAAAAJ&amp;hl=en
-  last_update: '2023-05-05'
+  last_update: '2023-07-03'
   links:
   - - dblp
     - https://dblp.org/pid/62/2253.html
@@ -626,6 +654,32 @@
   affiliationurl: Slovenska_polnohospodarska_univerzita
   cityurl: Nitra
   sexurl: muz
+- name: Pavel Cheben
+  last: Cheben
+  year: 1967
+  sex: "mu\u017E"
+  position: principal research officer
+  field: optika a fotonika
+  affiliation: National Research Council
+  city: Ottawa
+  country: Kanada
+  hindex: 67
+  scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ
+  last_update: '2023-07-03'
+  links:
+  - - Envoy of the ESET Science Award
+    - https://www.esetscienceaward.sk/en/envoys/pavel-cheben
+  - - web
+    - https://nrc.canada.ca/en/stories/drs-pavel-cheben-laura-ferrarese-inducted-royal-society-canada
+  - - "\u017Eivotopis"
+    - https://drive.google.com/file/d/1uc5JzZPAZjk8NoGP0xPp_eEs1lv1gGcn/view?usp=sharing
+  img: Pavel_Cheben.jpg
+  countryurl: Kanada
+  fieldurl: optika_a_fotonika
+  positionurl: principal_research_officer
+  affiliationurl: National_Research_Council
+  cityurl: Ottawa
+  sexurl: muz
 - name: "Imrich Chlamt\xE1\u010D"
   last: Chlamtac
   year: '1949'
@@ -662,60 +716,6 @@
   affiliationurl: European_Alliance_for_Innovation
   cityurl: Gent
   sexurl: muz
-- name: Pavel Cheben
-  last: Cheben
-  year: 1967
-  sex: "mu\u017E"
-  position: principal research officer
-  field: optika a fotonika
-  affiliation: National Research Council
-  city: Ottawa
-  country: Kanada
-  hindex: 66
-  scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ
-  last_update: '2023-05-05'
-  links:
-  - - Envoy of the ESET Science Award
-    - https://www.esetscienceaward.sk/en/envoys/pavel-cheben
-  - - web
-    - https://nrc.canada.ca/en/stories/drs-pavel-cheben-laura-ferrarese-inducted-royal-society-canada
-  - - "\u017Eivotopis"
-    - https://drive.google.com/file/d/1uc5JzZPAZjk8NoGP0xPp_eEs1lv1gGcn/view?usp=sharing
-  img: Pavel_Cheben.jpg
-  countryurl: Kanada
-  fieldurl: optika_a_fotonika
-  positionurl: principal_research_officer
-  affiliationurl: National_Research_Council
-  cityurl: Ottawa
-  sexurl: muz
-- name: "Katar\xEDna K\u0159\xED\u017Ekov\xE1 Gajdo\u0161ov\xE1"
-  last: Gajdosova
-  year: ''
-  sex: "\u017Eena"
-  position: "vedky\u0148a"
-  field: "subjadrov\xE1 fyzika"
-  affiliation: "\u010Cesk\xE9 vysok\xE9 u\u010Den\xED technick\xE9 v Prahe"
-  city: Praha
-  country: "\u010Cesko"
-  hindex: 66
-  scholar: https://scholar.google.com/citations?user=n1zAfusAAAAJ&amp;hl=en
-  last_update: '2023-04-29'
-  links:
-  - - facebook
-    - https://www.facebook.com/katarina.gajdosova.3
-  - - orcid
-    - https://orcid.org/0000-0002-5569-1254
-  - - web 1
-    - https://physics.fjfi.cvut.cz/en/cb-profile/gajdokat
-  - - web 2
-    - https://www.meltingpotforum.com/cs/archiv/recnici-2019/katarina-krizkova-gajdosova-svk-cze
-  img: Katarina_Krizkova_Gajdosova.jpg
-  countryurl: Cesko
-  fieldurl: subjadrova_fyzika
-  positionurl: vedkyna
-  affiliationurl: Ceske_vysoke_uceni_technicke_v_Prahe
-  cityurl: Praha
-  sexurl: zena
 - name: Peter Boor
   last: Boor
   year: 1979
@@ -725,9 +725,9 @@
   affiliation: RWTH Aachen
   city: Aachen
   country: Nemecko
-  hindex: 64
+  hindex: 65
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5d0eNiEAAAAJ
-  last_update: '2023-04-29'
+  last_update: '2023-07-03'
   links:
   - - web
     - https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/
@@ -739,6 +739,62 @@
   positionurl: docent
   affiliationurl: RWTH_Aachen
   cityurl: Aachen
+  sexurl: muz
+- name: Marek Majdan
+  last: Majdan
+  year: ''
+  sex: "mu\u017E"
+  position: docent
+  field: "epidemiol\xF3gia"
+  affiliation: "Trnavsk\xE1 univerzita"
+  city: Trnava
+  country: Slovensko
+  hindex: 65
+  scholar: https://scholar.google.sk/citations?user=xwG1s8YAAAAJ
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/marek-majdan-b7a9907
+  - - orcid
+    - https://orcid.org/0000-0001-8037-742X
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marek-Majdan-3
+  img: Marek_Majdan.jpg
+  last_update: '2023-07-03'
+  countryurl: Slovensko
+  fieldurl: epidemiologia
+  positionurl: docent
+  affiliationurl: Trnavska_univerzita
+  cityurl: Trnava
+  sexurl: muz
+- name: "Fedor \u0160imkovic"
+  last: Simkovic
+  year: 1959
+  sex: "mu\u017E"
+  position: profesor
+  field: "jadrov\xE1 fyzika"
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
+  hindex: 65
+  last_update: '2023-07-03'
+  scholar: https://scholar.google.com/citations?user=aC__pxUAAAAJ
+  links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/fedor-simkovic
+  - - loop
+    - https://loop.frontiersin.org/people/406064/overview
+  - - orcid
+    - https://orcid.org/0000-0003-2414-0414
+  - - web
+    - http://www.dnp.fmph.uniba.sk/people.php
+  - - "\u017Eivotopis"
+    - https://drive.google.com/file/d/1blN4ByXStaQ2gcbCpD7J7Ra0uTVTZio8/view?usp=sharing
+  img: Fedor_Simkovic.jpg
+  countryurl: Slovensko
+  fieldurl: jadrova_fyzika
+  positionurl: profesor
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
   sexurl: muz
 - name: "M\xE1ria Du\u0161insk\xE1"
   last: Dusinska
@@ -772,36 +828,6 @@
   affiliationurl: Norwegian_Institute_for_Air_Research
   cityurl: Kjeller
   sexurl: zena
-- name: "Fedor \u0160imkovic"
-  last: Simkovic
-  year: 1959
-  sex: "mu\u017E"
-  position: profesor
-  field: "jadrov\xE1 fyzika"
-  affiliation: "Univerzita Komensk\xE9ho"
-  city: Bratislava
-  country: Slovensko
-  hindex: 64
-  scholar: https://scholar.google.com/citations?user=aC__pxUAAAAJ
-  links:
-  - - ESET Science Award
-    - https://www.esetscienceaward.sk/sk/finalisti/fedor-simkovic
-  - - loop
-    - https://loop.frontiersin.org/people/406064/overview
-  - - orcid
-    - https://orcid.org/0000-0003-2414-0414
-  - - web
-    - http://www.dnp.fmph.uniba.sk/people.php
-  - - "\u017Eivotopis"
-    - https://drive.google.com/file/d/1blN4ByXStaQ2gcbCpD7J7Ra0uTVTZio8/view?usp=sharing
-  img: Fedor_Simkovic.jpg
-  last_update: '2023-05-05'
-  countryurl: Slovensko
-  fieldurl: jadrova_fyzika
-  positionurl: profesor
-  affiliationurl: Univerzita_Komenskeho
-  cityurl: Bratislava
-  sexurl: muz
 - name: "Barbora (Voz\xE1rov\xE1) de Courten"
   last: de Courten
   year: ''
@@ -834,31 +860,29 @@
   affiliationurl: Monash_University
   cityurl: Melbourne
   sexurl: zena
-- name: Marek Majdan
-  last: Majdan
-  year: ''
+- name: "Vladim\xEDr Bu\u017Eek"
+  last: Buzek
+  year: 1957
   sex: "mu\u017E"
-  position: docent
-  field: "epidemiol\xF3gia"
-  affiliation: "Trnavsk\xE1 univerzita"
-  city: Trnava
+  position: profesor
+  field: "kvantov\xE1 fyzika"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
   country: Slovensko
   hindex: 63
-  scholar: https://scholar.google.sk/citations?user=xwG1s8YAAAAJ
+  scholar: https://scholar.google.com/citations?user=m2hSZWQAAAAJ&amp;hl=en
+  last_update: '2023-07-03'
   links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/marek-majdan-b7a9907
-  - - orcid
-    - https://orcid.org/0000-0001-8037-742X
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Marek-Majdan-3
-  img: Marek_Majdan.jpg
-  last_update: '2023-05-05'
+  - - web
+    - http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=buzek
+  - - "\u017Eivotopis"
+    - https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf
+  img: Vladimir_Buzek.jpg
   countryurl: Slovensko
-  fieldurl: epidemiologia
-  positionurl: docent
-  affiliationurl: Trnavska_univerzita
-  cityurl: Trnava
+  fieldurl: kvantova_fyzika
+  positionurl: profesor
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
   sexurl: muz
 - name: "Jozef \u0160amaj"
   last: Samaj
@@ -894,29 +918,33 @@
   affiliationurl: Univerzita_Palackeho_v_Olomouci
   cityurl: Olomouc
   sexurl: muz
-- name: "Vladim\xEDr Bu\u017Eek"
-  last: Buzek
-  year: 1957
+- name: "Peter \u0160utovsk\xFD"
+  last: Sutovsky
+  year: 1967
   sex: "mu\u017E"
   position: profesor
-  field: "kvantov\xE1 fyzika"
-  affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  city: Bratislava
-  country: Slovensko
-  hindex: 62
-  scholar: https://scholar.google.com/citations?user=m2hSZWQAAAAJ&amp;hl=en
-  last_update: '2023-05-05'
+  field: "reproduk\u010Dn\xE1 biol\xF3gia"
+  affiliation: University of Missouri
+  city: Columbia
+  country: USA
+  hindex: 63
+  scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp
+  last_update: '2023-07-03'
   links:
+  - - "na\u0161i a svetov\xED"
+    - https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
   - - web
-    - http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=buzek
-  - - "\u017Eivotopis"
-    - https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf
-  img: Vladimir_Buzek.jpg
-  countryurl: Slovensko
-  fieldurl: kvantova_fyzika
+    - https://cafnrfaculty.missouri.edu/sutovskylab/
+  - - "\u017Eivotopis 1"
+    - https://cafnrfaculty.missouri.edu/sutovskylab/cv-peter-sutovsky/
+  - - "\u017Eivotopis 2"
+    - https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf
+  img: Peter_Sutovsky.jpeg
+  countryurl: USA
+  fieldurl: reprodukcna_biologia
   positionurl: profesor
-  affiliationurl: Slovenska_akademia_vied
-  cityurl: Bratislava
+  affiliationurl: University_of_Missouri
+  cityurl: Columbia
   sexurl: muz
 - name: Ervin Fodor
   last: Fodor
@@ -958,6 +986,34 @@
   affiliationurl: University_of_Oxford
   cityurl: Oxford
   sexurl: muz
+- name: Peter Biely
+  last: Biely
+  year: 1941
+  sex: "mu\u017E"
+  position: vedec
+  field: "bioch\xE9mia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 61
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
+  last_update: '2023-07-03'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-9915-7707
+  - - publons
+    - https://publons.com/researcher/4030831/peter-biely/
+  - - web
+    - http://www.chem.sk/people/bielypeter/
+  - - "\u017Eivotopis"
+    - "https://www.learned.sk/wp-content/uploads/2020/03/\u017Divotopis-Peter-Biely.pdf"
+  img: Peter_Biely.jpg
+  countryurl: Slovensko
+  fieldurl: biochemia
+  positionurl: vedec
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
 - name: "R\xF3bert Kr\xE1lovics"
   last: Kralovics
   year: 1970
@@ -986,33 +1042,85 @@
   affiliationurl: Medical_University_of_Vienna
   cityurl: Vieden
   sexurl: muz
-- name: "Peter \u0160utovsk\xFD"
-  last: Sutovsky
-  year: 1967
+- name: Pavel Povinec
+  last: Povinec
+  year: 1942
   sex: "mu\u017E"
   position: profesor
-  field: "reproduk\u010Dn\xE1 biol\xF3gia"
-  affiliation: University of Missouri
-  city: Columbia
-  country: USA
+  field: "jadrov\xE1 fyzika"
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
   hindex: 61
-  scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp
-  last_update: '2023-05-05'
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
+  last_update: '2023-07-03'
   links:
-  - - "na\u0161i a svetov\xED"
-    - https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
-  - - web
-    - https://cafnrfaculty.missouri.edu/sutovskylab/
-  - - "\u017Eivotopis 1"
-    - https://cafnrfaculty.missouri.edu/sutovskylab/cv-peter-sutovsky/
-  - - "\u017Eivotopis 2"
-    - https://www.obec-beckov.sk/upload/yk0ugoq5-BN-2-2015.pdf
-  img: Peter_Sutovsky.jpeg
-  countryurl: USA
-  fieldurl: reprodukcna_biologia
+  - - academia.edu
+    - https://comeniusuniversity.academia.edu/PavelPovinec
+  - - LinkedIn
+    - https://www.linkedin.com/in/pavel-povinec-81809227/?originalSubdomain=sk
+  - - orcid
+    - https://orcid.org/0000-0003-0275-794X
+  - - prabook
+    - https://prabook.com/web/pavel_peter.povinec/184236
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Pavel_Povinec
+  - - "\u017Eivotopis"
+    - https://uniba.sk/fileadmin/ruk/ovv/2014/141112_Profesorska_prednaska_o_Fukusime-CV_Povinec.pdf
+  img: Pavel_Povinec.jpg
+  countryurl: Slovensko
+  fieldurl: jadrova_fyzika
   positionurl: profesor
-  affiliationurl: University_of_Missouri
-  cityurl: Columbia
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
+  sexurl: muz
+- name: "Peter Richt\xE1rik"
+  last: Richtarik
+  year: ''
+  sex: "mu\u017E"
+  position: profesor
+  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
+  affiliation: KAUST
+  city: Thuwal
+  country: "Saudsk\xE1 Ar\xE1bia"
+  hindex: 61
+  scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
+  last_update: '2023-07-03'
+  links:
+  - - dblp
+    - https://dblp.org/pid/62/8001.html
+  - - KInIT
+    - https://kinit.sk/meet-peter-richtarik-kinit-external-mentor/
+  - - LinkedIn
+    - https://sa.linkedin.com/in/richtarik
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=111470
+  - - openreview
+    - "https://openreview.net/profile?id=~Peter_Richt\xE1rik1"
+  - - orcid
+    - https://orcid.org/0000-0003-4380-5848
+  - - research.com
+    - https://research.com/u/peter-richtarik
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Richtarik-2
+  - - twitter
+    - https://twitter.com/peter_richtarik?lang=en
+  - - web 1
+    - https://richtarik.org
+  - - web 2
+    - https://cemse.kaust.edu.sa/vcc/people/person/peter-richtarik
+  - - web 3
+    - https://cemse.kaust.edu.sa/ai
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Peter_Richtarik
+  - - "\u017Eivotopis"
+    - https://richtarik.org/docs/richtarik-cv-2021-03.pdf
+  img: Peter_Richtarik.jpg
+  countryurl: Saudska_Arabia
+  fieldurl: optimalizacia_a_strojove_ucenie
+  positionurl: profesor
+  affiliationurl: KAUST
+  cityurl: Thuwal
   sexurl: muz
 - name: "Eva Benkov\xE1"
   last: Benkova
@@ -1062,80 +1170,26 @@
   affiliationurl: University_of_Regensburg
   cityurl: Regensburg
   sexurl: muz
-- name: "Peter Richt\xE1rik"
-  last: Richtarik
-  year: ''
+- name: "Vladim\xEDr \u010Cern\xFD"
+  last: Cerny
+  year: 1952
   sex: "mu\u017E"
-  position: profesor
-  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
-  affiliation: KAUST
-  city: Thuwal
-  country: "Saudsk\xE1 Ar\xE1bia"
-  hindex: 60
-  scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
-  last_update: '2023-06-03'
-  links:
-  - - dblp
-    - https://dblp.org/pid/62/8001.html
-  - - KInIT
-    - https://kinit.sk/meet-peter-richtarik-kinit-external-mentor/
-  - - LinkedIn
-    - https://sa.linkedin.com/in/richtarik
-  - - Mathematics Genealogy
-    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=111470
-  - - openreview
-    - "https://openreview.net/profile?id=~Peter_Richt\xE1rik1"
-  - - orcid
-    - https://orcid.org/0000-0003-4380-5848
-  - - research.com
-    - https://research.com/u/peter-richtarik
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Peter-Richtarik-2
-  - - twitter
-    - https://twitter.com/peter_richtarik?lang=en
-  - - web 1
-    - https://richtarik.org
-  - - web 2
-    - https://cemse.kaust.edu.sa/vcc/people/person/peter-richtarik
-  - - web 3
-    - https://cemse.kaust.edu.sa/ai
-  - - "wikip\xE9dia"
-    - https://en.wikipedia.org/wiki/Peter_Richtarik
-  - - "\u017Eivotopis"
-    - https://richtarik.org/docs/richtarik-cv-2021-03.pdf
-  img: Peter_Richtarik.jpg
-  countryurl: Saudska_Arabia
-  fieldurl: optimalizacia_a_strojove_ucenie
-  positionurl: profesor
-  affiliationurl: KAUST
-  cityurl: Thuwal
-  sexurl: muz
-- name: Peter Biely
-  last: Biely
-  year: 1941
-  sex: "mu\u017E"
-  position: vedec
-  field: "bioch\xE9mia"
-  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  position: docent
+  field: "subjadrov\xE1 fyzika"
+  affiliation: "Univerzita Komensk\xE9ho"
   city: Bratislava
   country: Slovensko
   hindex: 59
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
-  last_update: '2023-05-05'
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=m-twF5IAAAAJ
+  last_update: '2023-07-03'
   links:
-  - - orcid
-    - https://orcid.org/0000-0002-9915-7707
-  - - publons
-    - https://publons.com/researcher/4030831/peter-biely/
   - - web
-    - http://www.chem.sk/people/bielypeter/
-  - - "\u017Eivotopis"
-    - "https://www.learned.sk/wp-content/uploads/2020/03/\u017Divotopis-Peter-Biely.pdf"
-  img: Peter_Biely.jpg
+    - http://davinci.fmph.uniba.sk/~cerny1/
+  img: Vladimir_Cerny.jpg
   countryurl: Slovensko
-  fieldurl: biochemia
-  positionurl: vedec
-  affiliationurl: Slovenska_akademia_vied
+  fieldurl: subjadrova_fyzika
+  positionurl: docent
+  affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
 - name: Ladislav Mucina
@@ -1175,60 +1229,6 @@
   positionurl: profesor
   affiliationurl: Murdoch_University
   cityurl: Perth
-  sexurl: muz
-- name: Pavel Povinec
-  last: Povinec
-  year: 1942
-  sex: "mu\u017E"
-  position: profesor
-  field: "jadrov\xE1 fyzika"
-  affiliation: "Univerzita Komensk\xE9ho"
-  city: Bratislava
-  country: Slovensko
-  hindex: 59
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=o8DYjGMAAAAJ
-  last_update: '2023-05-05'
-  links:
-  - - academia.edu
-    - https://comeniusuniversity.academia.edu/PavelPovinec
-  - - LinkedIn
-    - https://www.linkedin.com/in/pavel-povinec-81809227/?originalSubdomain=sk
-  - - orcid
-    - https://orcid.org/0000-0003-0275-794X
-  - - prabook
-    - https://prabook.com/web/pavel_peter.povinec/184236
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Pavel_Povinec
-  - - "\u017Eivotopis"
-    - https://uniba.sk/fileadmin/ruk/ovv/2014/141112_Profesorska_prednaska_o_Fukusime-CV_Povinec.pdf
-  img: Pavel_Povinec.jpg
-  countryurl: Slovensko
-  fieldurl: jadrova_fyzika
-  positionurl: profesor
-  affiliationurl: Univerzita_Komenskeho
-  cityurl: Bratislava
-  sexurl: muz
-- name: "Vladim\xEDr \u010Cern\xFD"
-  last: Cerny
-  year: 1952
-  sex: "mu\u017E"
-  position: docent
-  field: "subjadrov\xE1 fyzika"
-  affiliation: "Univerzita Komensk\xE9ho"
-  city: Bratislava
-  country: Slovensko
-  hindex: 57
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=m-twF5IAAAAJ
-  last_update: '2023-04-28'
-  links:
-  - - web
-    - http://davinci.fmph.uniba.sk/~cerny1/
-  img: Vladimir_Cerny.jpg
-  countryurl: Slovensko
-  fieldurl: subjadrova_fyzika
-  positionurl: docent
-  affiliationurl: Univerzita_Komenskeho
-  cityurl: Bratislava
   sexurl: muz
 - name: Marcel Franz
   last: Franz
