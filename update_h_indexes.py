@@ -19,7 +19,7 @@ for y in glob.glob("./config/conf.yaml"):
 
 
  
-payload = {'api_key': conf['apikey2'],
+payload = {'api_key': conf['apikey'],
   'url': 'URL'}
   
 
