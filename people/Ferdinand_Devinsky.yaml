@@ -1,16 +1,17 @@
-name: Ferdinand Devínsky
-last: Devínsky
+name: "Ferdinand Dev\xEDnsky"
+last: "Dev\xEDnsky"
 year: 1947
-sex: "muž"
+sex: "mu\u017E"
 position: profesor
-field: "farmaceutická chémia"
-affiliation: "Univerzita Komenského"
+field: "farmaceutick\xE1 ch\xE9mia"
+affiliation: "Univerzita Komensk\xE9ho"
 city: Bratislava
 country: Slovensko
 hindex: 30
 scholar: https://scholar.google.com/citations?user=hBjL4YYAAAAJ
-last_update: '2023-06-25'
+last_update: '2023-07-24'
 links:
   web: https://uniba.sk/ludia/devinsky1
-  wikipédia: https://sk.wikipedia.org/wiki/Ferdinand_Devínsky
+  "wikip\xE9dia": "https://sk.wikipedia.org/wiki/Ferdinand_Dev\xEDnsky"
 img: Ferdinand_Devinsky.jpg
+update_status: UPDATED

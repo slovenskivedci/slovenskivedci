@@ -9,7 +9,7 @@ city: Brno
 country: "\u010Cesko"
 hindex: 50
 scholar: https://scholar.google.com/citations?user=o7qWfUAAAAAJ&hl=en
-last_update: '2023-05-05'
+last_update: '2023-07-24'
 links:
   web: https://www.sci.muni.cz/zoolecol/inverteb/?teams=prof-stano-pekar-ph-d
   web 2: https://www.arachnology.cz/lide/stano-pekar-318.html
@@ -20,3 +20,4 @@ links:
   news 1: https://www.em.muni.cz/veda-a-vyzkum/5716-misto-chemie-pomuzou-sadarum-pavouci
   news 2: https://www.em.muni.cz/veda-a-vyzkum/3079-national-geographic-natacel-s-brnenskym-vedcem
 img: Stano_Pekar.jpg
+update_status: UPDATED

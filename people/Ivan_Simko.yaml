@@ -9,7 +9,7 @@ city: Salinas
 country: USA
 hindex: 32
 scholar: https://scholar.google.com/citations?user=Ghikz7sAAAAJ&oi=ao
-last_update: '2023-05-05'
+last_update: '2023-07-24'
 links:
   ResearchGate: https://www.researchgate.net/profile/Ivan-Simko-4
   lab: https://www.researchgate.net/lab/Ivan-Simko-Lab
@@ -18,3 +18,4 @@ links:
   publons: https://publons.com/researcher/2692635/ivan-simko/
   web: https://www.ars.usda.gov/people-locations/person/?person-id=39590
 img: Ivan_Simko.jpg
+update_status: UPDATED

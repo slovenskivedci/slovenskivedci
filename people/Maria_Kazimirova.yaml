@@ -1,20 +1,21 @@
-name: "Mária Kazimírová"
-last: "Kazimírová"
+name: "M\xE1ria Kazim\xEDrov\xE1"
+last: "Kazim\xEDrov\xE1"
 year: '1957'
 sex: "\u017Eena"
-position: vedkyňa
-field: entomológia
-affiliation: Slovenská akadémia vied
+position: "vedky\u0148a"
+field: "entomol\xF3gia"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: Bratislava
 country: Slovensko
-hindex: 30
+hindex: 31
 scholar: https://scholar.google.hu/citations?user=SZhtoTQAAAAJ
-last_update: '2023-06-25'
+last_update: '2023-07-24'
 links:
   web: https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=1943
   ResearchGate: https://www.researchgate.net/profile/Maria-Kazimirova
   LinkedIn: https://www.linkedin.com/in/maria-kazimirova-92b97a23/?originalSubdomain=sk
   loop: https://loop.frontiersin.org/people/81833/overview
   pravda.sk: https://ahojmama.pravda.sk/clanky/rozhovor-odbornicka-na-klieste-maria-kazimiro/12973-clanok.html
-  životopis: https://www.sav.sk/uploads/users_cv/20160922192707_964_Kazimirova_%C5%BDivotopis_Angl.pdf
+  "\u017Eivotopis": https://www.sav.sk/uploads/users_cv/20160922192707_964_Kazimirova_%C5%BDivotopis_Angl.pdf
 img: Maria_Kazimirova.jpg
+update_status: UPDATED
