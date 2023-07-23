@@ -18,10 +18,12 @@ for y in glob.glob("./config/conf.yaml"):
 	with open(y) as f: conf = yaml.safe_load(f)
 
 
+import numpy as np
+KEY = np.random.randint(4)
  
-payload = {'api_key': conf['apikey'],
+payload = {'api_key': conf['apikey%d'%KEY],
   'url': 'URL'}
-  
+print("USING KEY %d"%KEY)
 
 def getHIndex(resp):
 	data = resp
