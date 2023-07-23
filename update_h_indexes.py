@@ -81,6 +81,10 @@ for kv in people: # we start updating the last updated person
 			url = url+"&hl=en"
 			
 			
+		if "&amp;" in url:
+			url = url.replace("&amp;","&")  
+			
+			
 		
 		payload['url']=url
 		resp = requests.get('http://api.scraperapi.com', params=payload)
