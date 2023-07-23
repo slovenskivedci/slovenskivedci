@@ -54,6 +54,9 @@ for y in glob.glob("./people/*.yaml"):
 		
 people = sorted(people, key = lambda kv: kv[1]["last_update"])
 
+
+CONTINUE = True
+
 for kv in people: # we start updating the last updated person
 	y, dic = kv
 	try:
@@ -101,6 +104,7 @@ for kv in people: # we start updating the last updated person
 		
 		 
 		dic["last_update"] = datetime.today().strftime('%Y-%m-%d')
+		dic["update_status"] = 'UPDATED'
 		
 		 
 	 
@@ -110,11 +114,24 @@ for kv in people: # we start updating the last updated person
 		
 	except:
 		print("erro",y)
-		print(resp)
-		print("\n\n")
-		print(url)
+		if "You've hit the request limit" in resp:
+			CONTINUE = False
+			print("hitting limit")
+		else:
+			
+			print(resp)
+			print("\n\n")
+			print(url)
+			
+			dic["last_update"] = datetime.today().strftime('%Y-%m-%d')
+			dic["update_status"] = 'ERROR'
+			with open(y, 'w') as file:
+				documents = yaml.dump(dic, file) 
 		
-		afdafa
+		
+		
+	if not CONTINUE:
+		break
  
 '''
 				
