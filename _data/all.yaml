@@ -286,7 +286,7 @@
   country: Nemecko
   hindex: 85
   scholar: https://scholar.google.com/citations?user=KF4AYR4AAAAJ&amp;hl=en
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - loop
     - https://loop.frontiersin.org/people/31110/overview
@@ -589,7 +589,7 @@
   country: Slovensko
   hindex: 69
   scholar: https://scholar.google.com/citations?user=r7j9ZoYAAAAJ&hl=en&oi=sra
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - Microsoft Academic
     - https://academic.microsoft.com/author/2074528035/publication?paperId=2048177691
@@ -1169,7 +1169,7 @@
   country: "Rak\xFAsko"
   hindex: 60
   scholar: https://scholar.google.com/citations?hl=en&amp;user=3knjVQkAAAAJ
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - web
     - https://ist.ac.at/en/research/benkova-group/#career
@@ -1878,7 +1878,7 @@
   country: "\u010Cesko"
   hindex: 51
   scholar: https://scholar.google.com/citations?user=S2rPQ8MAAAAJ&amp
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - fems
     - https://fems-microbiology.org/network/leading_opinion_in_science/eam-members/fems-expert-dr-peter-sebo/
@@ -2206,7 +2206,7 @@
   country: Slovensko
   hindex: 48
   scholar: https://scholar.google.sk/citations?hl=sk&amp;user=VbZM3zYAAAAJ
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - ESET Science Award
     - https://www.esetscienceaward.sk/sk/finalisti/andrea-madarasova-geckova
@@ -2392,6 +2392,35 @@
   affiliationurl: University_of_Washington
   cityurl: Seattle
   sexurl: muz
+- name: Lubor Borsig
+  last: Borsig
+  year: ''
+  sex: "mu\u017E"
+  position: vedec
+  field: "fyziol\xF3gia buniek"
+  affiliation: University of Zurich
+  city: "Z\xFCrich"
+  country: "\u0160vaj\u010Diarsko"
+  hindex: 47
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=XOPkMEAAAAAJ
+  last_update: '2023-07-29'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/108489/overview
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Lubor-Borsig
+  - - web
+    - https://www.to2.uzh.ch/en/aboutus/researchgroups/groupwengerborsig/luborborsig.html
+  - - web2
+    - https://www.physiol.uzh.ch/en/research/institutegroups/grborsig/membersgrborsig.html
+  img: Lubor_Borsig.jpg
+  update_status: UPDATED
+  countryurl: Svajciarsko
+  fieldurl: fyziologia_buniek
+  positionurl: vedec
+  affiliationurl: University_of_Zurich
+  cityurl: Zurich
+  sexurl: muz
 - name: "Josef Jamp\xEDlek"
   last: Jampilek
   year: ''
@@ -2508,35 +2537,6 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: zena
-- name: Lubor Borsig
-  last: Borsig
-  year: ''
-  sex: "mu\u017E"
-  position: vedec
-  field: "fyziol\xF3gia buniek"
-  affiliation: University of Zurich
-  city: "Z\xFCrich"
-  country: "\u0160vaj\u010Diarsko"
-  hindex: 46
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=XOPkMEAAAAAJ
-  last_update: '2023-07-24'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/108489/overview
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Lubor-Borsig
-  - - web
-    - https://www.to2.uzh.ch/en/aboutus/researchgroups/groupwengerborsig/luborborsig.html
-  - - web2
-    - https://www.physiol.uzh.ch/en/research/institutegroups/grborsig/membersgrborsig.html
-  img: Lubor_Borsig.jpg
-  update_status: UPDATED
-  countryurl: Svajciarsko
-  fieldurl: fyziologia_buniek
-  positionurl: vedec
-  affiliationurl: University_of_Zurich
-  cityurl: Zurich
-  sexurl: muz
 - name: Peter Celec
   last: Celec
   year: 1979
@@ -2830,7 +2830,7 @@
   country: Slovensko
   hindex: 45
   scholar: https://scholar.google.com/citations?user=uA0tObYAAAAJ&amp;hl=en
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - publons
     - https://publons.com/researcher/1220455/karol-marhold/
@@ -2855,7 +2855,7 @@
   country: "\u010Cesko"
   hindex: 45
   scholar: https://scholar.google.com/citations?user=EZ8YetQAAAAJ&amp;hl=en
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Jan-Minar
@@ -3435,7 +3435,7 @@
   country: USA
   hindex: 43
   scholar: https://scholar.google.com/citations?user=G0MJo3UAAAAJ&amp;hl=en
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/John_Nabelek
@@ -3516,7 +3516,7 @@
   country: USA
   hindex: 42
   scholar: https://scholar.google.com/citations?hl=en&user=RSuayLUAAAAJ
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/tomas-kirchhoff-5b84b43b/
@@ -3921,7 +3921,7 @@
   country: Slovensko
   hindex: 40
   scholar: https://scholar.google.com/citations?user=DkqU0V4AAAAJ
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - web
     - https://uniba.sk/o-univerzite/organy-uk/vedenie/prorektor-pre-vedu-doktorandske-studium-a-projektovu-cinnost/
@@ -4244,7 +4244,7 @@
   country: Slovensko
   hindex: 39
   scholar: https://scholar.google.sk/citations?user=OF5iXJQAAAAJ&amp;hl=sk
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - web
     - http://www.nuquake.eu
@@ -4294,7 +4294,7 @@
   country: Slovensko
   hindex: 39
   scholar: https://scholar.google.com/citations?user=QQkfeNkAAAAJ&hl=en
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - ESET Science Award
     - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/igor-podlubny
@@ -4383,7 +4383,7 @@
   country: "Rak\xFAsko"
   hindex: 39
   scholar: https://scholar.google.sk/citations?user=6XPvlE8AAAAJ&amp;hl=en
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - orcid
     - https://orcid.org/0000-0003-0822-1580
@@ -5205,7 +5205,7 @@
   country: Slovensko
   hindex: 36
   scholar: https://scholar.google.com/citations?user=HicwXWIAAAAJ&amp;hl=en
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - ESET Science Award
     - https://www.esetscienceaward.sk/sk/finalisti/michal-feckan
@@ -5426,7 +5426,7 @@
   country: Slovensko
   hindex: 35
   scholar: https://scholar.google.com/citations?hl=en&user=OGYiJWwAAAAJ
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - learned.sk
     - https://www.learned.sk/prof-ing-ivan-chodak-drsc/
@@ -5583,7 +5583,7 @@
   country: Katar
   hindex: 35
   scholar: https://scholar.google.sk/citations?user=9uNi5IMAAAAJ&amp
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - web
     - http://www.qu.edu.qa/research/CAM/about-us/staff
@@ -5635,7 +5635,7 @@
   country: Slovensko
   hindex: 35
   scholar: https://scholar.google.com/citations?user=CgbiV4EAAAAJ&amp;hl=en
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - orcid
     - https://orcid.org/0000-0002-2332-541X
@@ -6172,7 +6172,7 @@
   country: Slovensko
   hindex: 34
   scholar: https://scholar.google.com/citations?user=_fONjMIAAAAJ&amp;hl=en
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Tanya_Ravingerova
@@ -6500,7 +6500,7 @@
   city: Zvolen
   country: Slovensko
   hindex: 33
-  scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ&amp;hl=pt-BR
+  scholar: https://scholar.google.com.br/citations?user=ojrd884AAAAJ
   last_update: '2023-07-26'
   links:
   - - web
@@ -6524,7 +6524,7 @@
   country: "Rak\xFAsko"
   hindex: 33
   scholar: https://scholar.google.com/citations?hl=en&user=ooffTIwAAAAJ
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - dblp
     - https://dblp.org/pid/134/4516.html
@@ -6541,7 +6541,7 @@
   - - "\u017Eivotopis"
     - https://biography.omicsonline.org/austria/international-institute-for-applied-systems-analysis/peter-rafaj-77808
   img: Peter_Rafaj.jpg
-  update_status: UPDATED
+  update_status: ERROR
   countryurl: Rakusko
   fieldurl: klimaticka_zmena
   positionurl: vedec
@@ -6577,6 +6577,47 @@
   affiliationurl: Solargis
   cityurl: Bratislava
   sexurl: muz
+- name: "M\xE1ria Bielikov\xE1"
+  last: Bielikova
+  year: 1966
+  sex: "\u017Eena"
+  position: profesorka
+  field: "web syst\xE9my"
+  affiliation: Kempelen Institute of Intelligent Technologies
+  city: Bratislava
+  country: Slovensko
+  hindex: 32
+  scholar: https://scholar.google.com/citations?hl=en&user=wGB6dnEAAAAJ
+  last_update: '2023-07-29'
+  links:
+  - - ACM
+    - https://dl.acm.org/profile/81336487737
+  - - dblp
+    - https://dblp.uni-trier.de/pid/b/MariaBielikova.html
+  - - IEEE Xplore
+    - https://ieeexplore.ieee.org/author/37372111500
+  - - KInIT
+    - https://kinit.sk/member/maria-bielikova/
+  - - LinkedIn
+    - https://www.linkedin.com/in/mariabielik/
+  - - orcid
+    - https://orcid.org/0000-0003-4105-3494
+  - - publons
+    - https://publons.com/researcher/2648318/maria-bielikova/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Maria-Bielikova
+  - - scopus
+    - https://www.scopus.com/authid/detail.uri?authorId=6603891237
+  - - "wikip\xE9dia"
+    - "https://sk.wikipedia.org/wiki/M\xE1ria_Bielikov\xE1_(informati\u010Dka)"
+  img: Maria_Bielikova.jpg
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: web_systemy
+  positionurl: profesorka
+  affiliationurl: Kempelen_Institute_of_Intelligent_Technologies
+  cityurl: Bratislava
+  sexurl: zena
 - name: "Milan \u010Cert\xEDk"
   last: Certik
   year: 1962
@@ -6715,7 +6756,7 @@
   country: Slovensko
   hindex: 32
   scholar: https://scholar.google.co.in/citations?user=KPgJyEAAAAAJ&amp;hl=en
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - web
     - http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=grajcar
@@ -6740,7 +6781,7 @@
   country: USA
   hindex: 32
   scholar: https://scholar.google.com/citations?user=tvt1qiQAAAAJ&hl=sk
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - ctsnet
     - https://www.ctsnet.org/article/featured-profile-and-interview-viktor-hraska-md
@@ -6872,7 +6913,7 @@
   country: Slovensko
   hindex: 32
   scholar: https://scholar.google.com/citations?user=WawpXZIAAAAJ&amp;hl=en
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Marian_Krajci
@@ -6963,7 +7004,7 @@
   country: USA
   hindex: 32
   scholar: https://scholar.google.com/citations?user=lrz3brYAAAAJ&hl=en
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/pavel-oblozinsky-335308ba/?originalSubdomain=sk
@@ -7167,47 +7208,6 @@
   affiliationurl: Technicka_univerzita_v_Kosiciach
   cityurl: Kosice
   sexurl: muz
-- name: "M\xE1ria Bielikov\xE1"
-  last: Bielikova
-  year: 1966
-  sex: "\u017Eena"
-  position: profesorka
-  field: "web syst\xE9my"
-  affiliation: Kempelen Institute of Intelligent Technologies
-  city: Bratislava
-  country: Slovensko
-  hindex: 31
-  scholar: https://scholar.google.com/citations?hl=en&user=wGB6dnEAAAAJ
-  last_update: '2023-07-24'
-  links:
-  - - ACM
-    - https://dl.acm.org/profile/81336487737
-  - - dblp
-    - https://dblp.uni-trier.de/pid/b/MariaBielikova.html
-  - - IEEE Xplore
-    - https://ieeexplore.ieee.org/author/37372111500
-  - - KInIT
-    - https://kinit.sk/member/maria-bielikova/
-  - - LinkedIn
-    - https://www.linkedin.com/in/mariabielik/
-  - - orcid
-    - https://orcid.org/0000-0003-4105-3494
-  - - publons
-    - https://publons.com/researcher/2648318/maria-bielikova/
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Maria-Bielikova
-  - - scopus
-    - https://www.scopus.com/authid/detail.uri?authorId=6603891237
-  - - "wikip\xE9dia"
-    - "https://sk.wikipedia.org/wiki/M\xE1ria_Bielikov\xE1_(informati\u010Dka)"
-  img: Maria_Bielikova.jpg
-  update_status: UPDATED
-  countryurl: Slovensko
-  fieldurl: web_systemy
-  positionurl: profesorka
-  affiliationurl: Kempelen_Institute_of_Intelligent_Technologies
-  cityurl: Bratislava
-  sexurl: zena
 - name: Gabriel Fedorko
   last: Fedorko
   year: null
@@ -7399,7 +7399,7 @@
   country: Slovensko
   hindex: 31
   scholar: https://scholar.google.com/citations?hl=en&user=VzDSjLcAAAAJ
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - AMiner
     - https://www.aminer.cn/profile/jozef-nosek/53f36745dabfae4b3499e846
@@ -7461,7 +7461,7 @@
   country: Slovensko
   hindex: 31
   scholar: https://scholar.google.com/citations?hl=en&user=W8akvAsAAAAJ
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - LinkedIn
     - "https://www.linkedin.com/in/milan-polakovi\u010D-278578b2/?originalSubdomain=sk"
@@ -7651,7 +7651,7 @@
   country: Slovensko
   hindex: 31
   scholar: https://scholar.google.com/citations?user=14jeV0EAAAAJ
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - orcid
     - https://orcid.org/0000-0003-4223-7519
@@ -7746,7 +7746,7 @@
   country: Slovensko
   hindex: 30
   scholar: https://scholar.google.com/citations?user=HxBEVzwAAAAJ
-  last_update: '2023-07-24'
+  last_update: '2023-07-29'
   links:
   - - learned.sk
     - https://www.learned.sk/prof-ing-tomas-bleha-drsc/
