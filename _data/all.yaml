@@ -73,9 +73,9 @@
   affiliation: "Univerzita Komensk\xE9ho"
   city: Bratislava
   country: Slovensko
-  hindex: 192
+  hindex: 194
   scholar: https://scholar.google.com/citations?hl=en&user=pCW77HEAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - CERN
     - https://cds.cern.ch/search?f=author&p=Bartos%2C%20Pavol&ln=en
@@ -102,9 +102,9 @@
   affiliation: Technical University Dortmund
   city: Dortmund
   country: Nemecko
-  hindex: 148
+  hindex: 152
   scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - inspireHEP
     - https://inspirehep.net/authors/1346585
@@ -187,7 +187,7 @@
   country: "Austr\xE1lia"
   hindex: 96
   scholar: https://scholar.google.com/citations?user=FTejMNwAAAAJ&amp;hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - Australian Academy of Science
     - https://www.science.org.au/profile/jozef-g%C3%A9cz
@@ -253,7 +253,7 @@
   country: Kanada
   hindex: 91
   scholar: https://scholar.google.com/citations?user=b-gm8tgAAAAJ&hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - AMiner
     - https://www.aminer.org/profile/jan-veizer/53f4ca6bdabfaee57b77fdf2
@@ -413,6 +413,33 @@
   affiliationurl: University_of_California
   cityurl: Berkeley
   sexurl: zena
+- name: "Eleon\xF3ra Fabi\xE1nov\xE1"
+  last: Fabianova
+  year: 1953
+  sex: "\u017Eena"
+  position: docentka
+  field: "verejn\xE9 zdravotn\xEDctvo"
+  affiliation: "Region\xE1lny \xFArad verejn\xE9ho zdravotn\xEDctva"
+  city: "Bansk\xE1 Bystrica"
+  country: Slovensko
+  hindex: 73
+  scholar: https://scholar.google.co.uk/citations?user=Ey9s5FcAAAAJ&hl=en&oi=ao
+  last_update: '2023-08-29'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/eleonora-fabianova-09818942/?originalSubdomain=sk
+  - - "wikip\xE9dia"
+    - "https://sk.wikipedia.org/wiki/Eleon\xF3ra_Fabi\xE1nov\xE1"
+  - - "\u017Eivotopis"
+    - https://www.vzbb.sk/sk/historia/fabianova_eleonora_zivotopis.pdf
+  img: Eleonora_Fabianova.jpg
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: verejne_zdravotnictvo
+  positionurl: docentka
+  affiliationurl: Regionalny_urad_verejneho_zdravotnictva
+  cityurl: Banska_Bystrica
+  sexurl: zena
 - name: "Vladim\xEDr D\u017Eav\xEDk"
   last: Dzavik
   year: ''
@@ -446,33 +473,6 @@
   affiliationurl: University_of_Toronto
   cityurl: Toronto
   sexurl: muz
-- name: "Eleon\xF3ra Fabi\xE1nov\xE1"
-  last: Fabianova
-  year: 1953
-  sex: "\u017Eena"
-  position: docentka
-  field: "verejn\xE9 zdravotn\xEDctvo"
-  affiliation: "Region\xE1lny \xFArad verejn\xE9ho zdravotn\xEDctva"
-  city: "Bansk\xE1 Bystrica"
-  country: Slovensko
-  hindex: 72
-  scholar: https://scholar.google.co.uk/citations?user=Ey9s5FcAAAAJ&hl=en&oi=ao
-  last_update: '2023-07-26'
-  links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/eleonora-fabianova-09818942/?originalSubdomain=sk
-  - - "wikip\xE9dia"
-    - "https://sk.wikipedia.org/wiki/Eleon\xF3ra_Fabi\xE1nov\xE1"
-  - - "\u017Eivotopis"
-    - https://www.vzbb.sk/sk/historia/fabianova_eleonora_zivotopis.pdf
-  img: Eleonora_Fabianova.jpg
-  update_status: UPDATED
-  countryurl: Slovensko
-  fieldurl: verejne_zdravotnictvo
-  positionurl: docentka
-  affiliationurl: Regionalny_urad_verejneho_zdravotnictva
-  cityurl: Banska_Bystrica
-  sexurl: zena
 - name: "Katar\xEDna K\u0159\xED\u017Ekov\xE1 Gajdo\u0161ov\xE1"
   last: Gajdosova
   year: ''
@@ -513,7 +513,7 @@
   country: Slovensko
   hindex: 71
   scholar: https://scholar.google.com/citations?user=_kXpl5YAAAAJ&amp;hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - dblp
     - https://dblp.org/pid/62/2253.html
@@ -713,7 +713,7 @@
   country: Belgium
   hindex: 67
   scholar: https://scholar.google.com/citations?hl=en&user=bWqipasAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - ACM
     - https://dl.acm.org/profile/81100299315
@@ -924,7 +924,7 @@
   country: "\u010Cesko"
   hindex: 63
   scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - learned.sk
     - https://www.learned.sk/clenovia/riadni-clenovia/
@@ -959,7 +959,7 @@
   country: USA
   hindex: 63
   scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - "na\u0161i a svetov\xED"
     - https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
@@ -1047,6 +1047,31 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
+- name: "Jaroslav Fabi\xE1n"
+  last: Fabian
+  year: 1967
+  sex: "mu\u017E"
+  position: profesor
+  field: "kvantov\xE1 fyzika"
+  affiliation: University of Regensburg
+  city: Regensburg
+  country: Nemecko
+  hindex: 61
+  scholar: https://scholar.google.de/citations?user=bNu69CcAAAAJ&amp;hl=en
+  last_update: '2023-08-29'
+  links:
+  - - web
+    - http://www.physik.uni-regensburg.de/forschung/fabian/
+  - - "\u017Eivotopis"
+    - http://www.physik.uni-regensburg.de/forschung/fabian/pages/mainframes/people/JaroslavFabian/resume.pdf
+  img: Jaroslav_Fabian.jpg
+  update_status: UPDATED
+  countryurl: Nemecko
+  fieldurl: kvantova_fyzika
+  positionurl: profesor
+  affiliationurl: University_of_Regensburg
+  cityurl: Regensburg
+  sexurl: muz
 - name: "R\xF3bert Kr\xE1lovics"
   last: Kralovics
   year: 1970
@@ -1120,7 +1145,7 @@
   country: "Saudsk\xE1 Ar\xE1bia"
   hindex: 61
   scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - dblp
     - https://dblp.org/pid/62/8001.html
@@ -1205,31 +1230,6 @@
   positionurl: docent
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
-  sexurl: muz
-- name: "Jaroslav Fabi\xE1n"
-  last: Fabian
-  year: 1967
-  sex: "mu\u017E"
-  position: profesor
-  field: "kvantov\xE1 fyzika"
-  affiliation: University of Regensburg
-  city: Regensburg
-  country: Nemecko
-  hindex: 60
-  scholar: https://scholar.google.de/citations?user=bNu69CcAAAAJ&amp;hl=en
-  last_update: '2023-07-26'
-  links:
-  - - web
-    - http://www.physik.uni-regensburg.de/forschung/fabian/
-  - - "\u017Eivotopis"
-    - http://www.physik.uni-regensburg.de/forschung/fabian/pages/mainframes/people/JaroslavFabian/resume.pdf
-  img: Jaroslav_Fabian.jpg
-  update_status: UPDATED
-  countryurl: Nemecko
-  fieldurl: kvantova_fyzika
-  positionurl: profesor
-  affiliationurl: University_of_Regensburg
-  cityurl: Regensburg
   sexurl: muz
 - name: Ladislav Mucina
   last: Mucina
@@ -1360,7 +1360,7 @@
   country: "\u010Cesko"
   hindex: 57
   scholar: https://scholar.google.com/citations?hl=en&user=D93yu9MAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - news 1
     - https://dennikn.sk/2032127/astrofyzik-nasa-civilizacia-je-sice-specialna-ale-pochybujem-ze-je-vo-vesmire-jedina/
@@ -1399,7 +1399,7 @@
   country: Slovensko
   hindex: 56
   scholar: https://scholar.google.com/citations?user=EuDw2JcAAAAJ&amp;hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - osobnosti
     - https://www.osobnosti.sk/osobnost/jan-sladek-590
@@ -1696,7 +1696,7 @@
   country: "Rak\xFAsko"
   hindex: 52
   scholar: https://scholar.google.com/citations?user=vPBEaHQAAAAJ&hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/jozef-keckes-427669110/?originalSubdomain=at
@@ -1847,7 +1847,7 @@
   country: Slovensko
   hindex: 51
   scholar: https://scholar.google.sk/citations?user=q6uGy_4AAAAJ&amp;hl=sk
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - learned.sk
     - https://www.learned.sk/prof-pavol-prokop-paeddr-drsc/
@@ -1915,7 +1915,7 @@
   country: USA
   hindex: 51
   scholar: https://scholar.google.com/citations?hl=en&amp;user=DNCCZHYAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - orcid
     - https://orcid.org/0000-0001-5054-0150
@@ -2290,6 +2290,35 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
+- name: Igor Krupa
+  last: Krupa
+  year: 1968
+  sex: "mu\u017E"
+  position: profesor
+  field: "materi\xE1lov\xE1 veda"
+  affiliation: Qatar University
+  city: Doha
+  country: Katar
+  hindex: 48
+  scholar: https://scholar.google.com/citations?user=Pz7_cpAAAAAJ&amp;hl=en
+  last_update: '2023-08-29'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0003-3058-8717
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Igor_Krupa2
+  - - web
+    - http://qufaculty.qu.edu.qa/igor-krupa/home/
+  - - "\u017Eivotopis"
+    - https://cam.qu.edu.qa/static_file/qu/Faculty and Staff/images/Prof. Igor Krupa.pdf
+  img: Igor_Krupa.jpg
+  update_status: UPDATED
+  countryurl: Katar
+  fieldurl: materialova_veda
+  positionurl: profesor
+  affiliationurl: Qatar_University
+  cityurl: Doha
+  sexurl: muz
 - name: "Vladim\xEDr Mlyn\xE1rik"
   last: Mlynarik
   year: 1951
@@ -2451,35 +2480,6 @@
   positionurl: vedec
   affiliationurl: University_of_Zurich
   cityurl: Zurich
-  sexurl: muz
-- name: Igor Krupa
-  last: Krupa
-  year: 1968
-  sex: "mu\u017E"
-  position: profesor
-  field: "materi\xE1lov\xE1 veda"
-  affiliation: Qatar University
-  city: Doha
-  country: Katar
-  hindex: 47
-  scholar: https://scholar.google.com/citations?user=Pz7_cpAAAAAJ&amp;hl=en
-  last_update: '2023-07-26'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0003-3058-8717
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Igor_Krupa2
-  - - web
-    - http://qufaculty.qu.edu.qa/igor-krupa/home/
-  - - "\u017Eivotopis"
-    - https://cam.qu.edu.qa/static_file/qu/Faculty and Staff/images/Prof. Igor Krupa.pdf
-  img: Igor_Krupa.jpg
-  update_status: UPDATED
-  countryurl: Katar
-  fieldurl: materialova_veda
-  positionurl: profesor
-  affiliationurl: Qatar_University
-  cityurl: Doha
   sexurl: muz
 - name: "Igor Lac\xEDk"
   last: Lacik
@@ -2801,7 +2801,7 @@
   country: USA
   hindex: 45
   scholar: https://scholar.google.com/citations?user=D5pfAK0AAAAJ&hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Dusan-Hesek
@@ -2969,7 +2969,7 @@
   country: "Austr\xE1lia"
   hindex: 45
   scholar: https://scholar.google.com/citations?hl=en&user=OMBz3bIAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - omicsonline
     - https://biography.omicsonline.org/australia/university-of-technology-sydney/milos-toth-974580
@@ -3126,7 +3126,7 @@
   country: "\u010Cesko"
   hindex: 44
   scholar: https://scholar.google.com/citations?user=ICo_N5sAAAAJ&hl=sk
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/peter-kruzliak-b61a8a47/?originalSubdomain=cz
@@ -3153,7 +3153,7 @@
   country: USA
   hindex: 44
   scholar: https://scholar.google.com/citations?user=TIVMwT4AAAAJ&hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Helena_Mitasova
@@ -3327,7 +3327,7 @@
   country: USA
   hindex: 43
   scholar: https://scholar.google.com/citations?hl=en&amp;user=1tCBM2kAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - web
     - http://acms.arizona.edu/FemtoTheory/MK_personal/index.html
@@ -3350,7 +3350,7 @@
   country: "Spojen\xE9 arabsk\xE9 emir\xE1ty"
   hindex: 43
   scholar: https://scholar.google.com/citations?hl=en&amp;user=uQGtqxoAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - news
     - https://www.piestanskydennik.sk/2011/01/28/slovenske-osobnosti-mediciny-vo-svete-20-storocie-3/
@@ -3404,7 +3404,7 @@
   country: "\u0160vaj\u010Diarsko"
   hindex: 43
   scholar: https://scholar.google.de/citations?hl=en&amp;user=HRppEBIAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/peter-molnar-eth/
@@ -3592,7 +3592,7 @@
   country: Slovensko
   hindex: 42
   scholar: https://scholar.google.sk/citations?user=Bvdw6vIAAAAJ&hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - web
     - http://neon.dpp.fmph.uniba.sk/workgroup/index.php?option=com_content&view=article&id=1&Itemid=101
@@ -3681,7 +3681,7 @@
   country: "Austr\xE1lia"
   hindex: 41
   scholar: https://scholar.google.com/citations?hl=en&amp;user=uoit0TEAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - orcid
     - https://orcid.org/0000-0003-3778-1376
@@ -3813,7 +3813,7 @@
   country: USA
   hindex: 40
   scholar: https://scholar.google.com.tr/citations?user=3rQF3wIAAAAJ&hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - lab
     - https://labnodes.vanderbilt.edu/community/profile/id/2228
@@ -3846,7 +3846,7 @@
   country: Slovensko
   hindex: 40
   scholar: https://scholar.google.de/citations?user=wsJN2SMAAAAJ&amp;hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - publons
     - https://publons.com/researcher/1378264/tomas-bucko/
@@ -4064,7 +4064,7 @@
   country: "\u0160panielsko"
   hindex: 39
   scholar: https://scholar.google.sk/citations?user=s_AVnN0AAAAJ&hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - orcid
     - https://orcid.org/0000-0003-2405-5850
@@ -4323,7 +4323,7 @@
   country: "Ve\u013Ek\xE1 Brit\xE1nia"
   hindex: 39
   scholar: https://scholar.google.com/citations?hl=en&amp;user=5akXP_8AAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - orcid
     - https://orcid.org/0000-0002-7181-5122
@@ -4534,7 +4534,7 @@
   country: USA
   hindex: 38
   scholar: https://scholar.google.com/citations?user=qWOmZxQAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Peter_Nabelek
@@ -4786,7 +4786,7 @@
   country: Slovensko
   hindex: 37
   scholar: https://scholar.google.sk/citations?user=uZbRKFUAAAAJ&amp;hl=sk
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - web
     - http://kavt.fvt.tuke.sk/katedra/zamestnanci/4
@@ -5137,7 +5137,7 @@
   country: USA
   hindex: 36
   scholar: https://scholar.google.com/citations?user=wYMTld8AAAAJ&
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - dblp
     - https://dblp.org/pid/30/2146.html
@@ -5242,7 +5242,7 @@
   country: USA
   hindex: 36
   scholar: https://scholar.google.com/citations?user=ylK19VUAAAAJ&amp
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - academictree.com
     - https://academictree.org/computerscience/publications.php?pid=460551
@@ -5461,7 +5461,7 @@
   country: USA
   hindex: 35
   scholar: https://scholar.google.com/citations?user=B7vMXfEAAAAJ&hl=en&oi=ao
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/tomasdrgon/?trk=pub-pbmap
@@ -5515,7 +5515,7 @@
   country: Nemecko
   hindex: 35
   scholar: https://scholar.google.com/citations?user=wOi5anQAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - orcid
     - https://orcid.org/0000-0003-2662-1991
@@ -5711,7 +5711,7 @@
   country: Slovensko
   hindex: 35
   scholar: https://scholar.google.sk/citations?user=rXl9hY0AAAAJ&amp;hl=sk&amp;oi=sra
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - loop
     - https://loop.frontiersin.org/people/362858/overview
@@ -5850,7 +5850,7 @@
   country: "\u010Cesko"
   hindex: 35
   scholar: https://scholar.google.com/citations?user=5sAJJkgAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/miroslav-soos-184a7b8/?originalSubdomain=cz
@@ -5883,7 +5883,7 @@
   country: Slovensko
   hindex: 35
   scholar: https://scholar.google.com/citations?user=7Zkz-9MAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - facebook
     - https://m.facebook.com/peter.kubatka
@@ -6197,7 +6197,7 @@
   country: Slovensko
   hindex: 34
   scholar: https://scholar.google.sk/citations?user=ckojWlAAAAAJ&hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - orcid
     - https://orcid.org/0000-0002-2914-496X
@@ -6226,7 +6226,7 @@
   country: "Saudsk\xE1 Ar\xE1bia"
   hindex: 34
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ELMPg_gAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - dblp
     - https://dblp.org/pid/21/4861.html
@@ -6318,6 +6318,35 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
+- name: "Be\xE1ta Gavurov\xE1"
+  last: Gavurova
+  year: 1972
+  sex: "\u017Eena"
+  position: profesorka
+  field: "mana\u017Ement"
+  affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
+  city: "Ko\u0161ice"
+  country: Slovensko
+  hindex: 33
+  scholar: https://scholar.google.com/citations?user=HJtnSAkAAAAJ
+  last_update: '2023-08-29'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/1042453/network
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Beata-Gavurova
+  - - web
+    - https://buraniemytov.sk/author/beata-gavurova/
+  - - "\u017Eivotopis"
+    - https://www.ef.umb.sk/print.asp?uid=747&aid=0&zid=0&pid=0&tid=0&sid=0&zahr=0&vkid=0&hkid=25&projektid=0
+  img: Beata_Gavurova.jpg
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: manazment
+  positionurl: profesorka
+  affiliationurl: Technicka_univerzita_v_Kosiciach
+  cityurl: Kosice
+  sexurl: zena
 - name: "Zuzana Gdovinov\xE1"
   last: Gdovinova
   year: 1959
@@ -6341,7 +6370,7 @@
   - - "\u017Eivotopis"
     - https://www.neurologiepropraxi.cz/pdfs/neu/2019/01/17.pdf
   img: Zuzana_Gdovinova.jpg
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   update_status: UPDATED
   countryurl: Slovensko
   fieldurl: neurologia
@@ -6395,7 +6424,7 @@
   country: Slovensko
   hindex: 33
   scholar: https://scholar.google.sk/citations?user=nM3oZ78AAAAJ&amp;hl=en&amp;oi=ao
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - web
     - http://www.math.sk/mikula/
@@ -6716,35 +6745,6 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
-- name: "Be\xE1ta Gavurov\xE1"
-  last: Gavurova
-  year: 1972
-  sex: "\u017Eena"
-  position: profesorka
-  field: "mana\u017Ement"
-  affiliation: "Technick\xE1 univerzita v Ko\u0161iciach"
-  city: "Ko\u0161ice"
-  country: Slovensko
-  hindex: 32
-  scholar: https://scholar.google.com/citations?user=HJtnSAkAAAAJ
-  last_update: '2023-07-26'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/1042453/network
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Beata-Gavurova
-  - - web
-    - https://buraniemytov.sk/author/beata-gavurova/
-  - - "\u017Eivotopis"
-    - https://www.ef.umb.sk/print.asp?uid=747&aid=0&zid=0&pid=0&tid=0&sid=0&zahr=0&vkid=0&hkid=25&projektid=0
-  img: Beata_Gavurova.jpg
-  update_status: UPDATED
-  countryurl: Slovensko
-  fieldurl: manazment
-  positionurl: profesorka
-  affiliationurl: Technicka_univerzita_v_Kosiciach
-  cityurl: Kosice
-  sexurl: zena
 - name: Miroslav Grajcar
   last: Grajcar
   year: 1966
@@ -7031,7 +7031,7 @@
   country: "\u0160vaj\u010Diarsko"
   hindex: 32
   scholar: https://scholar.google.com/citations?&user=NDhlLv0AAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - dblp
     - https://dblp.org/pid/p/MartinPal.html
@@ -7060,7 +7060,7 @@
   country: Slovensko
   hindex: 32
   scholar: https://scholar.google.com/citations?user=QhrxwOcAAAAJ&hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - dblp
     - https://dblp.org/pid/122/6263.html
@@ -7095,7 +7095,7 @@
   country: Slovensko
   hindex: 32
   scholar: https://scholar.google.com/citations?user=CMLcLlEAAAAJ&hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - prabook
     - https://prabook.com/web/milan.remko/3493046
@@ -7343,7 +7343,7 @@
   country: Slovensko
   hindex: 31
   scholar: https://scholar.google.com/citations?user=rHgfxxwAAAAJ&hl=en
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - ResearchGate
     - https://www.researchgate.net/profile/Jaroslav-Lexa
@@ -7490,7 +7490,7 @@
   country: Slovensko
   hindex: 31
   scholar: https://scholar.google.sk/citations?user=PVRQZxcAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - AMiner
     - https://www.aminer.org/profile/tomas-roch/5630762045cedb3399a6c7e5
@@ -7916,7 +7916,7 @@
   country: USA
   hindex: 30
   scholar: https://scholar.google.com/citations?hl=en&user=dQjETlwAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - kniha
     - https://www.teraz.sk/zdravie/terminologia-verejneho-zdravotnictva/183351-clanok.html
@@ -7957,7 +7957,7 @@
   country: Slovensko
   hindex: 30
   scholar: https://scholar.google.sk/citations?user=-5YGCCsAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - academia.edu
     - https://sav-sk.academia.edu/JaroslavMosnacek
@@ -7986,7 +7986,7 @@
   country: "\u010Cesko"
   hindex: 30
   scholar: https://scholar.google.com/citations?hl=en&user=ZezlLfEAAAAJ
-  last_update: '2023-07-26'
+  last_update: '2023-08-29'
   links:
   - - academia.edu
     - https://independent.academia.edu/VeronikaOstatna
