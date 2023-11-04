@@ -7,9 +7,9 @@
   affiliation: "Univerzita Komensk\xE9ho"
   city: Bratislava
   country: Slovensko
-  hindex: 225
+  hindex: 227
   scholar: https://scholar.google.com/citations?user=2HzXQEkAAAAJ
-  last_update: '2023-09-01'
+  last_update: '2023-11-04'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/stano-tokar-b0536844/?originalSubdomain=sk
@@ -44,9 +44,9 @@
   affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   city: Praha
   country: "\u010Cesko"
-  hindex: 215
+  hindex: 217
   scholar: https://scholar.google.com/citations?user=jkguv3UAAAAJ
-  last_update: '2023-10-11'
+  last_update: '2023-11-04'
   links:
   - - orcid
     - https://www.fzu.cz/en/people/rndr-roman-lysak-phd
@@ -73,9 +73,9 @@
   affiliation: "Univerzita Komensk\xE9ho"
   city: Bratislava
   country: Slovensko
-  hindex: 194
+  hindex: 198
   scholar: https://scholar.google.com/citations?hl=en&user=pCW77HEAAAAJ
-  last_update: '2023-08-29'
+  last_update: '2023-11-04'
   links:
   - - CERN
     - https://cds.cern.ch/search?f=author&p=Bartos%2C%20Pavol&ln=en
@@ -102,9 +102,9 @@
   affiliation: Technical University Dortmund
   city: Dortmund
   country: Nemecko
-  hindex: 152
+  hindex: 156
   scholar: https://scholar.google.com/citations?hl=sk&user=ySoDoW4AAAAJ
-  last_update: '2023-08-29'
+  last_update: '2023-11-04'
   links:
   - - inspireHEP
     - https://inspirehep.net/authors/1346585
@@ -129,9 +129,9 @@
   affiliation: "Univerzita Komensk\xE9ho"
   city: Bratislava
   country: Slovensko
-  hindex: 138
+  hindex: 140
   scholar: https://scholar.google.com/citations?user=4ymEP0sAAAAJ
-  last_update: '2023-09-01'
+  last_update: '2023-11-04'
   links:
   - - publons
     - https://publons.com/researcher/3258206/brano-sitar/
@@ -640,6 +640,33 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
+- name: Pavel Cheben
+  last: Cheben
+  year: 1967
+  sex: "mu\u017E"
+  position: principal research officer
+  field: optika a fotonika
+  affiliation: National Research Council
+  city: Ottawa
+  country: Kanada
+  hindex: 68
+  scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ
+  last_update: '2023-09-08'
+  links:
+  - - Envoy of the ESET Science Award
+    - https://www.esetscienceaward.sk/en/envoys/pavel-cheben
+  - - web
+    - https://nrc.canada.ca/en/stories/drs-pavel-cheben-laura-ferrarese-inducted-royal-society-canada
+  - - "\u017Eivotopis"
+    - https://drive.google.com/file/d/1uc5JzZPAZjk8NoGP0xPp_eEs1lv1gGcn/view?usp=sharing
+  img: Pavel_Cheben.jpg
+  update_status: UPDATED
+  countryurl: Kanada
+  fieldurl: optika_a_fotonika
+  positionurl: principal_research_officer
+  affiliationurl: National_Research_Council
+  cityurl: Ottawa
+  sexurl: muz
 - name: "Vladim\xEDr Bencko"
   last: Bencko
   year: '1938'
@@ -674,33 +701,6 @@
   positionurl: profesor
   affiliationurl: Univerzita_Karlova
   cityurl: Praha
-  sexurl: muz
-- name: Pavel Cheben
-  last: Cheben
-  year: 1967
-  sex: "mu\u017E"
-  position: principal research officer
-  field: optika a fotonika
-  affiliation: National Research Council
-  city: Ottawa
-  country: Kanada
-  hindex: 67
-  scholar: https://scholar.google.sk/citations?user=Krtl-TsAAAAJ
-  last_update: '2023-09-08'
-  links:
-  - - Envoy of the ESET Science Award
-    - https://www.esetscienceaward.sk/en/envoys/pavel-cheben
-  - - web
-    - https://nrc.canada.ca/en/stories/drs-pavel-cheben-laura-ferrarese-inducted-royal-society-canada
-  - - "\u017Eivotopis"
-    - https://drive.google.com/file/d/1uc5JzZPAZjk8NoGP0xPp_eEs1lv1gGcn/view?usp=sharing
-  img: Pavel_Cheben.jpg
-  update_status: UPDATED
-  countryurl: Kanada
-  fieldurl: optika_a_fotonika
-  positionurl: principal_research_officer
-  affiliationurl: National_Research_Council
-  cityurl: Ottawa
   sexurl: muz
 - name: "Imrich Chlamt\xE1\u010D"
   last: Chlamtac
@@ -738,6 +738,33 @@
   positionurl: prezident
   affiliationurl: European_Alliance_for_Innovation
   cityurl: Gent
+  sexurl: muz
+- name: Marek Majdan
+  last: Majdan
+  year: ''
+  sex: "mu\u017E"
+  position: docent
+  field: "epidemiol\xF3gia"
+  affiliation: "Trnavsk\xE1 univerzita"
+  city: Trnava
+  country: Slovensko
+  hindex: 67
+  scholar: https://scholar.google.sk/citations?user=xwG1s8YAAAAJ
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/marek-majdan-b7a9907
+  - - orcid
+    - https://orcid.org/0000-0001-8037-742X
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marek-Majdan-3
+  img: Marek_Majdan.jpg
+  last_update: '2023-09-08'
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: epidemiologia
+  positionurl: docent
+  affiliationurl: Trnavska_univerzita
+  cityurl: Trnava
   sexurl: muz
 - name: "Fedor \u0160imkovic"
   last: Simkovic
@@ -795,33 +822,39 @@
   affiliationurl: RWTH_Aachen
   cityurl: Aachen
   sexurl: muz
-- name: Marek Majdan
-  last: Majdan
-  year: ''
-  sex: "mu\u017E"
-  position: docent
-  field: "epidemiol\xF3gia"
-  affiliation: "Trnavsk\xE1 univerzita"
-  city: Trnava
-  country: Slovensko
+- name: "M\xE1ria Du\u0161insk\xE1"
+  last: Dusinska
+  year: null
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "toxikol\xF3gia"
+  affiliation: Norwegian Institute for Air Research
+  city: Kjeller
+  country: "N\xF3rsko"
   hindex: 65
-  scholar: https://scholar.google.sk/citations?user=xwG1s8YAAAAJ
-  links:
-  - - LinkedIn
-    - https://www.linkedin.com/in/marek-majdan-b7a9907
-  - - orcid
-    - https://orcid.org/0000-0001-8037-742X
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Marek-Majdan-3
-  img: Marek_Majdan.jpg
+  scholar: https://scholar.google.com/citations?user=tF7f4yEAAAAJ&hl=en
   last_update: '2023-09-08'
+  links:
+  - - loop
+    - https://loop.frontiersin.org/people/110414/overview
+  - - marfan
+    - http://marfan.sk
+  - - orcid
+    - https://orcid.org/0000-0003-1358-1652
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Maria-Dusinska
+  - - web
+    - https://www.nilu.com/employee/maria-dusinska/
+  - - "\u017Eivotopis"
+    - https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/cv_sccs_dusinska_en.pdf
+  img: Maria_Dusinska.jpg
   update_status: UPDATED
-  countryurl: Slovensko
-  fieldurl: epidemiologia
-  positionurl: docent
-  affiliationurl: Trnavska_univerzita
-  cityurl: Trnava
-  sexurl: muz
+  countryurl: Norsko
+  fieldurl: toxikologia
+  positionurl: vedkyna
+  affiliationurl: Norwegian_Institute_for_Air_Research
+  cityurl: Kjeller
+  sexurl: zena
 - name: "Barbora (Voz\xE1rov\xE1) de Courten"
   last: de Courten
   year: ''
@@ -854,39 +887,6 @@
   positionurl: profesorka
   affiliationurl: Monash_University
   cityurl: Melbourne
-  sexurl: zena
-- name: "M\xE1ria Du\u0161insk\xE1"
-  last: Dusinska
-  year: null
-  sex: "\u017Eena"
-  position: "vedky\u0148a"
-  field: "toxikol\xF3gia"
-  affiliation: Norwegian Institute for Air Research
-  city: Kjeller
-  country: "N\xF3rsko"
-  hindex: 64
-  scholar: https://scholar.google.com/citations?user=tF7f4yEAAAAJ&hl=en
-  last_update: '2023-09-08'
-  links:
-  - - loop
-    - https://loop.frontiersin.org/people/110414/overview
-  - - marfan
-    - http://marfan.sk
-  - - orcid
-    - https://orcid.org/0000-0003-1358-1652
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Maria-Dusinska
-  - - web
-    - https://www.nilu.com/employee/maria-dusinska/
-  - - "\u017Eivotopis"
-    - https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/cv_sccs_dusinska_en.pdf
-  img: Maria_Dusinska.jpg
-  update_status: UPDATED
-  countryurl: Norsko
-  fieldurl: toxikologia
-  positionurl: vedkyna
-  affiliationurl: Norwegian_Institute_for_Air_Research
-  cityurl: Kjeller
   sexurl: zena
 - name: Ervin Fodor
   last: Fodor
@@ -929,31 +929,6 @@
   affiliationurl: University_of_Oxford
   cityurl: Oxford
   sexurl: muz
-- name: "Vladim\xEDr Bu\u017Eek"
-  last: Buzek
-  year: 1957
-  sex: "mu\u017E"
-  position: profesor
-  field: "kvantov\xE1 fyzika"
-  affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  city: Bratislava
-  country: Slovensko
-  hindex: 63
-  scholar: https://scholar.google.com/citations?user=m2hSZWQAAAAJ&amp;hl=en
-  last_update: '2023-10-11'
-  links:
-  - - web
-    - http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=buzek
-  - - "\u017Eivotopis"
-    - https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf
-  img: Vladimir_Buzek.jpg
-  update_status: UPDATED
-  countryurl: Slovensko
-  fieldurl: kvantova_fyzika
-  positionurl: profesor
-  affiliationurl: Slovenska_akademia_vied
-  cityurl: Bratislava
-  sexurl: muz
 - name: "Jozef \u0160amaj"
   last: Samaj
   year: 1964
@@ -963,7 +938,7 @@
   affiliation: "Univerzita Palack\xE9ho v Olomouci"
   city: Olomouc
   country: "\u010Cesko"
-  hindex: 63
+  hindex: 64
   scholar: https://scholar.google.com/citations?user=thQgjcsAAAAJ&amp;hl=en
   last_update: '2023-08-29'
   links:
@@ -998,9 +973,9 @@
   affiliation: University of Missouri
   city: Columbia
   country: USA
-  hindex: 63
+  hindex: 64
   scholar: https://scholar.google.com/citations?user=UVGb060AAAAJ&amp
-  last_update: '2023-08-29'
+  last_update: '2023-11-04'
   links:
   - - "na\u0161i a svetov\xED"
     - https://slovensko.rtvs.sk/relacie/nasi-a-svetovi/175882/nasi-a-svetovi-peter-sutovsky
@@ -1017,6 +992,109 @@
   positionurl: profesor
   affiliationurl: University_of_Missouri
   cityurl: Columbia
+  sexurl: muz
+- name: "Vladim\xEDr Bu\u017Eek"
+  last: Buzek
+  year: 1957
+  sex: "mu\u017E"
+  position: profesor
+  field: "kvantov\xE1 fyzika"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 63
+  scholar: https://scholar.google.com/citations?user=m2hSZWQAAAAJ&amp;hl=en
+  last_update: '2023-10-11'
+  links:
+  - - web
+    - http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=buzek
+  - - "\u017Eivotopis"
+    - https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf
+  img: Vladimir_Buzek.jpg
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: kvantova_fyzika
+  positionurl: profesor
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
+- name: "Peter Richt\xE1rik"
+  last: Richtarik
+  year: ''
+  sex: "mu\u017E"
+  position: profesor
+  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
+  affiliation: KAUST
+  city: Thuwal
+  country: "Saudsk\xE1 Ar\xE1bia"
+  hindex: 63
+  scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
+  last_update: '2023-11-04'
+  links:
+  - - dblp
+    - https://dblp.org/pid/62/8001.html
+  - - KInIT
+    - https://kinit.sk/meet-peter-richtarik-kinit-external-mentor/
+  - - LinkedIn
+    - https://sa.linkedin.com/in/richtarik
+  - - Mathematics Genealogy
+    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=111470
+  - - openreview
+    - "https://openreview.net/profile?id=~Peter_Richt\xE1rik1"
+  - - orcid
+    - https://orcid.org/0000-0003-4380-5848
+  - - research.com
+    - https://research.com/u/peter-richtarik
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Richtarik-2
+  - - twitter
+    - https://twitter.com/peter_richtarik?lang=en
+  - - web 1
+    - https://richtarik.org
+  - - web 2
+    - https://cemse.kaust.edu.sa/vcc/people/person/peter-richtarik
+  - - web 3
+    - https://cemse.kaust.edu.sa/ai
+  - - "wikip\xE9dia"
+    - https://en.wikipedia.org/wiki/Peter_Richtarik
+  - - "\u017Eivotopis"
+    - https://richtarik.org/docs/richtarik-cv-2021-03.pdf
+  img: Peter_Richtarik.jpg
+  update_status: UPDATED
+  countryurl: Saudska_Arabia
+  fieldurl: optimalizacia_a_strojove_ucenie
+  positionurl: profesor
+  affiliationurl: KAUST
+  cityurl: Thuwal
+  sexurl: muz
+- name: Peter Biely
+  last: Biely
+  year: 1941
+  sex: "mu\u017E"
+  position: vedec
+  field: "bioch\xE9mia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 62
+  scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
+  last_update: '2023-11-04'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-9915-7707
+  - - publons
+    - https://publons.com/researcher/4030831/peter-biely/
+  - - web
+    - http://www.chem.sk/people/bielypeter/
+  - - "\u017Eivotopis"
+    - "https://www.learned.sk/wp-content/uploads/2020/03/\u017Divotopis-Peter-Biely.pdf"
+  img: Peter_Biely.jpg
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: biochemia
+  positionurl: vedec
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
   sexurl: muz
 - name: "Eva Benkov\xE1"
   last: Benkova
@@ -1043,35 +1121,6 @@
   affiliationurl: IST_Austria
   cityurl: Klosterneuburg
   sexurl: zena
-- name: Peter Biely
-  last: Biely
-  year: 1941
-  sex: "mu\u017E"
-  position: vedec
-  field: "bioch\xE9mia"
-  affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  city: Bratislava
-  country: Slovensko
-  hindex: 61
-  scholar: https://scholar.google.com/citations?hl=en&amp;user=NvXlxjkAAAAJ
-  last_update: '2023-09-08'
-  links:
-  - - orcid
-    - https://orcid.org/0000-0002-9915-7707
-  - - publons
-    - https://publons.com/researcher/4030831/peter-biely/
-  - - web
-    - http://www.chem.sk/people/bielypeter/
-  - - "\u017Eivotopis"
-    - "https://www.learned.sk/wp-content/uploads/2020/03/\u017Divotopis-Peter-Biely.pdf"
-  img: Peter_Biely.jpg
-  update_status: UPDATED
-  countryurl: Slovensko
-  fieldurl: biochemia
-  positionurl: vedec
-  affiliationurl: Slovenska_akademia_vied
-  cityurl: Bratislava
-  sexurl: muz
 - name: "Jaroslav Fabi\xE1n"
   last: Fabian
   year: 1967
@@ -1197,55 +1246,6 @@
   positionurl: profesor
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
-  sexurl: muz
-- name: "Peter Richt\xE1rik"
-  last: Richtarik
-  year: ''
-  sex: "mu\u017E"
-  position: profesor
-  field: "optimaliz\xE1cia a strojov\xE9 u\u010Denie"
-  affiliation: KAUST
-  city: Thuwal
-  country: "Saudsk\xE1 Ar\xE1bia"
-  hindex: 61
-  scholar: https://scholar.google.com/citations?user=pGh242UAAAAJ&amp
-  last_update: '2023-08-29'
-  links:
-  - - dblp
-    - https://dblp.org/pid/62/8001.html
-  - - KInIT
-    - https://kinit.sk/meet-peter-richtarik-kinit-external-mentor/
-  - - LinkedIn
-    - https://sa.linkedin.com/in/richtarik
-  - - Mathematics Genealogy
-    - https://www.genealogy.math.ndsu.nodak.edu/id.php?id=111470
-  - - openreview
-    - "https://openreview.net/profile?id=~Peter_Richt\xE1rik1"
-  - - orcid
-    - https://orcid.org/0000-0003-4380-5848
-  - - research.com
-    - https://research.com/u/peter-richtarik
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Peter-Richtarik-2
-  - - twitter
-    - https://twitter.com/peter_richtarik?lang=en
-  - - web 1
-    - https://richtarik.org
-  - - web 2
-    - https://cemse.kaust.edu.sa/vcc/people/person/peter-richtarik
-  - - web 3
-    - https://cemse.kaust.edu.sa/ai
-  - - "wikip\xE9dia"
-    - https://en.wikipedia.org/wiki/Peter_Richtarik
-  - - "\u017Eivotopis"
-    - https://richtarik.org/docs/richtarik-cv-2021-03.pdf
-  img: Peter_Richtarik.jpg
-  update_status: UPDATED
-  countryurl: Saudska_Arabia
-  fieldurl: optimalizacia_a_strojove_ucenie
-  positionurl: profesor
-  affiliationurl: KAUST
-  cityurl: Thuwal
   sexurl: muz
 - name: "Vladim\xEDr \u010Cern\xFD"
   last: Cerny
@@ -2165,6 +2165,31 @@
   positionurl: docent
   affiliationurl: Medical_University_of_Vienna
   cityurl: Vieden
+  sexurl: muz
+- name: "Peter \u0160vihra"
+  last: Svihra
+  year: ''
+  sex: "mu\u017E"
+  position: profesor
+  field: "subjadrov\xE1 fyzika"
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
+  hindex: 49
+  scholar: https://scholar.google.com/citations?user=Ud3obX9UjLcC
+  last_update: '2023-11-04'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/stano-tokar-b0536844/?originalSubdomain=sk
+  - - web
+    - https://ep-rnd.web.cern.ch/person/peter-svihra
+  img: Stanislav_Tokar.jpg
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: subjadrova_fyzika
+  positionurl: profesor
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
   sexurl: muz
 - name: "Roman Bo\u010Da"
   last: Boca
