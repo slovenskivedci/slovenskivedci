@@ -2,7 +2,7 @@ countries:
   "\u0160vaj\u010Diarsko": 6
   "\xCDrsko": 1
   USA: 38
-  Slovensko: 129
+  Slovensko: 130
   "N\xF3rsko": 2
   "Ve\u013Ek\xE1 Brit\xE1nia": 8
   Nemecko: 10
@@ -10,7 +10,7 @@ countries:
   "Rak\xFAsko": 13
   Belgium: 1
   "\u010Cesko": 22
-  "\u0160v\xE9dsko": 3
+  "\u0160v\xE9dsko": 2
   "Franc\xFAzsko": 2
   Kanada: 11
   Belgicko: 2
@@ -340,9 +340,9 @@ affiliation: "['Slovensk\xE1 akad\xE9mia vied','Univerzita Komensk\xE9ho','Slove
 hindex_hist_x: '[''30-49'',''49-69'',''69-89'',''89-108'',''108-128'',''128-148'',''148-167'',''167-187'',''187-207'',''207-227'',]'
 hindex_hist_count: '[202,49,10,4,0,1,1,0,1,2]'
 country: "['Slovensko','USA','\u010Cesko','Rak\xFAsko','Kanada','Nemecko','Austr\xE1\
-  lia','Ve\u013Ek\xE1 Brit\xE1nia','\u0160vaj\u010Diarsko','Holandsko','\u0160v\xE9\
-  dsko','Belgicko','Franc\xFAzsko','Katar','N\xF3rsko','Saudsk\xE1 Ar\xE1bia','Spojen\xE9\
-  \ arabsk\xE9 emir\xE1ty','Belgium','D\xE1nsko','\xCDrsko','Japonsko','Rusk\xE1 feder\xE1\
+  lia','Ve\u013Ek\xE1 Brit\xE1nia','\u0160vaj\u010Diarsko','Holandsko','Belgicko','Franc\xFA\
+  zsko','Katar','N\xF3rsko','Saudsk\xE1 Ar\xE1bia','Spojen\xE9 arabsk\xE9 emir\xE1\
+  ty','\u0160v\xE9dsko','Belgium','D\xE1nsko','\xCDrsko','Japonsko','Rusk\xE1 feder\xE1\
   cia','\u0160panielsko']"
-countryCount: '[129,38,22,13,11,10,9,8,6,3,3,2,2,2,2,2,2,1,1,1,1,1,1]'
+countryCount: '[130,38,22,13,11,10,9,8,6,3,2,2,2,2,2,2,2,1,1,1,1,1,1]'
 affiliationCount: '[45,44,9,7,6,6,5,4,4,4,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'

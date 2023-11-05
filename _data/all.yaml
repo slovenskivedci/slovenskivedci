@@ -6762,8 +6762,8 @@
   position: vedec
   field: "antibakteri\xE1lne materi\xE1ly"
   affiliation: "Slovensk\xE1 akad\xE9mia vied"
-  city: Uppsala
-  country: "\u0160v\xE9dsko"
+  city: Bratislava
+  country: Slovensko
   hindex: 33
   scholar: https://scholar.google.sk/citations?user=4ZghBr8AAAAJ&hl=sk
   last_update: '2023-11-05'
@@ -6788,11 +6788,11 @@
     - https://www.sav.sk/uploads/users_cv/20210827143439_887_CurVit-Spitalsky2021.pdf
   img: Zdenko_Spitalsky.jpg
   update_status: UPDATED
-  countryurl: Svedsko
+  countryurl: Slovensko
   fieldurl: antibakterialne_materialy
   positionurl: vedec
   affiliationurl: Slovenska_akademia_vied
-  cityurl: Uppsala
+  cityurl: Bratislava
   sexurl: muz
 - name: "Marcel \u0160\xFAri"
   last: Suri
