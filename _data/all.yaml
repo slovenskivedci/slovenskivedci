@@ -5090,6 +5090,33 @@
   affiliationurl: University_of_Pennsylvania
   cityurl: Filadelfia
   sexurl: zena
+- name: "J\xE1n Rusz"
+  last: Rusz
+  year: null
+  sex: "mu\u017E"
+  position: docent
+  field: "fyzika pevn\xFDch l\xE1tok"
+  affiliation: Uppsala University
+  city: Uppsala
+  country: "\u0160v\xE9dsko"
+  hindex: 37
+  scholar: https://scholar.google.com/citations?user=g-oaxV0AAAAJ&hl=en
+  last_update: '2023-11-05'
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-0074-1349
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jan-Rusz
+  - - web
+    - https://www.katalog.uu.se/profile/?id=N7-244
+  img: Jan_Rusz.jpg
+  update_status: UPDATED
+  countryurl: Svedsko
+  fieldurl: fyzika_pevnych_latok
+  positionurl: docent
+  affiliationurl: Uppsala_University
+  cityurl: Uppsala
+  sexurl: muz
 - name: "Milan S\xFDkora"
   last: Sykora
   year: ''
