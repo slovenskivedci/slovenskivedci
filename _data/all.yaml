@@ -8157,6 +8157,33 @@
   affiliationurl: Georgia_Institute_of_Technology
   cityurl: Atlanta
   sexurl: muz
+- name: "Peter Moln\xE1r"
+  last: Molnar
+  year: 1981
+  sex: "mu\u017E"
+  position: profesor
+  field: "ekon\xF3mia"
+  affiliation: University of Stavanger
+  city: Stavanger
+  country: "N\xF3rsko"
+  hindex: 30
+  scholar: https://scholar.google.com/citations?user=57LSTCsAAAAJ&hl=en
+  last_update: '2023-11-07'
+  links:
+  - - RePEc
+    - https://ideas.repec.org/f/pmo1065.html
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Peter-Molnar-16
+  - - web
+    - https://paraplyen.prototypes.no/paraplyen/arkiv/2011/september/disputas-p/
+  img: Peter_Molnar_2.jpg
+  update_status: UPDATED
+  countryurl: Norsko
+  fieldurl: ekonomia
+  positionurl: profesor
+  affiliationurl: University_of_Stavanger
+  cityurl: Stavanger
+  sexurl: muz
 - name: "Jaroslav Mosn\xE1\u010Dek"
   last: Mosnacek
   year: null
