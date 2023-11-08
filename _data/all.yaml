@@ -1349,6 +1349,39 @@
   affiliationurl: Delft_University_of_Technology
   cityurl: Delft
   sexurl: muz
+- name: Ivan Rektor
+  last: Rektor
+  year: 1948
+  sex: "mu\u017E"
+  position: profesor
+  field: "neurol\xF3gia"
+  affiliation: Masarykova univerzita
+  city: Brno
+  country: "\u010Cesko"
+  hindex: 57
+  scholar: https://scholar.google.com/citations?hl=en&user=DUYrlx0AAAAJ
+  last_update: '2023-11-08'
+  links:
+  - - brno.sk
+    - https://www.brno.cz/w/prof-mudr-ivan-rektor-csc-fana-fcma
+  - - orcid
+    - https://orcid.org/0000-0002-9635-7404
+  - - research.com
+    - https://research.com/u/ivan-rektor
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Ivan-Rektor
+  - - web
+    - https://www.muni.cz/en/people/1073-ivan-rektor
+  - - "wikip\xE9dia"
+    - https://cs.wikipedia.org/wiki/Ivan_Rektor
+  img: Ivan_Rektor.png
+  update_status: UPDATED
+  countryurl: Cesko
+  fieldurl: neurologia
+  positionurl: profesor
+  affiliationurl: Masarykova_univerzita
+  cityurl: Brno
+  sexurl: muz
 - name: Norbert Werner
   last: Werner
   year: null

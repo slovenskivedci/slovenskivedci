@@ -9,7 +9,7 @@ countries:
   "Austr\xE1lia": 9
   "Rak\xFAsko": 13
   Belgium: 1
-  "\u010Cesko": 23
+  "\u010Cesko": 24
   "\u0160v\xE9dsko": 2
   "Franc\xFAzsko": 2
   Kanada: 11
@@ -22,7 +22,7 @@ countries:
   Japonsko: 1
   "D\xE1nsko": 1
   "\u0160panielsko": 1
-man: 227
+man: 228
 woman: 45
 hindex:
 - 39
@@ -98,6 +98,7 @@ hindex:
 - 36
 - 35
 - 43
+- 57
 - 59
 - 45
 - 52
@@ -299,10 +300,10 @@ hindex:
 - 37
 affiliation: "['Slovensk\xE1 akad\xE9mia vied','Univerzita Komensk\xE9ho','Slovensk\xE1\
   \ technick\xE1 univerzita','Univerzita Pavla Jozefa \u0160af\xE1rika','\u010Cesk\xE1\
-  \ akad\xE9mia vied','Technick\xE1 univerzita v Ko\u0161iciach','Masarykova univerzita','Univerzita\
-  \ Palack\xE9ho v Olomouci','Medical University of Vienna','Slovensk\xE1 po\u013E\
-  nohospod\xE1rska univerzita','Univerzita Karlova','Univerzita sv\xE4t\xE9ho Cyrila\
-  \ a Metoda v Trnave','Delft University of Technology','ETH Z\xFCrich','KAUST','Microsoft\
+  \ akad\xE9mia vied','Masarykova univerzita','Technick\xE1 univerzita v Ko\u0161\
+  iciach','Univerzita Palack\xE9ho v Olomouci','Medical University of Vienna','Slovensk\xE1\
+  \ po\u013Enohospod\xE1rska univerzita','Univerzita Karlova','Univerzita sv\xE4t\xE9\
+  ho Cyrila a Metoda v Trnave','Delft University of Technology','ETH Z\xFCrich','KAUST','Microsoft\
   \ Research','New York University','North Carolina State University','Qatar University','Simon\
   \ Fraser University','Technick\xE1 univerzita vo Zvolene','University of Adelaide','University\
   \ of California','University of Missouri','University of Natural Resources and Life\
@@ -340,11 +341,11 @@ affiliation: "['Slovensk\xE1 akad\xE9mia vied','Univerzita Komensk\xE9ho','Slove
   \ University of Technology','Vysok\xE1 \u0161kola chemicko-technologick\xE1','Z\xE1\
   pado\u010Desk\xE1 univerzita v Plzni','Zeppelin University']"
 hindex_hist_x: '[''30-49'',''49-69'',''69-89'',''89-108'',''108-128'',''128-148'',''148-167'',''167-187'',''187-207'',''207-227'',]'
-hindex_hist_count: '[204,49,10,4,0,1,1,0,1,2]'
+hindex_hist_count: '[204,50,10,4,0,1,1,0,1,2]'
 country: "['Slovensko','USA','\u010Cesko','Rak\xFAsko','Kanada','Nemecko','Austr\xE1\
   lia','Ve\u013Ek\xE1 Brit\xE1nia','\u0160vaj\u010Diarsko','Holandsko','N\xF3rsko','Belgicko','Franc\xFA\
   zsko','Katar','Saudsk\xE1 Ar\xE1bia','Spojen\xE9 arabsk\xE9 emir\xE1ty','\u0160\
   v\xE9dsko','Belgium','D\xE1nsko','\xCDrsko','Japonsko','Rusk\xE1 feder\xE1cia','\u0160\
   panielsko']"
-countryCount: '[130,38,23,13,11,10,9,8,6,3,3,2,2,2,2,2,2,1,1,1,1,1,1]'
-affiliationCount: '[45,44,9,7,6,6,5,5,4,4,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'
+countryCount: '[130,38,24,13,11,10,9,8,6,3,3,2,2,2,2,2,2,1,1,1,1,1,1]'
+affiliationCount: '[45,44,9,7,6,6,6,5,4,4,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'
