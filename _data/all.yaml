@@ -1310,7 +1310,7 @@
     - https://link.springer.com/article/10.1007/s10571-017-0569-y
   - - noviny.sk
     - https://www.noviny.sk/slovensko/165140-zomrel-spickovy-vedec-richard-kvetnansky-kandidat-na-nobelovu-cenu
-  - - osobnosti.sk
+  - - osobnosti
     - https://www.osobnosti.sk/osobnost/richard-kvetnansky-692
   - - ResearchGate
     - https://www.researchgate.net/scientific-contributions/Richard-Kvetnansky-2127391892
@@ -3493,6 +3493,35 @@
   positionurl: docent
   affiliationurl: Univerzita_Palackeho_v_Olomouci
   cityurl: Olomouc
+  sexurl: muz
+- name: "Iwar Klime\u0161"
+  last: Klimes
+  year: 1951-2022
+  sex: "mu\u017E"
+  position: profesor
+  field: "patofyziol\xF3gia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 43
+  scholar: https://scholar.google.com/citations?hl=en&user=2KzmeQUAAAAJ
+  last_update: '2023-11-10'
+  links:
+  - - learned.sk
+    - https://www.learned.sk/prof-mudr-iwar-klimes-drsc/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Iwar-Klimes
+  - - web
+    - https://www.katalog.uu.se/profile/?id=N7-244
+  - - youtube
+    - https://www.youtube.com/watch?v=gmsHn0seJ3U
+  img: Iwar_Klimes.jpg
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: patofyziologia
+  positionurl: profesor
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
   sexurl: muz
 - name: "Igor Koz\xE1k"
   last: Kozak
@@ -6848,7 +6877,7 @@
     - https://www.researchgate.net/profile/Zdenko_Spitalsky
   - - web
     - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=2396
-  - - YouTube
+  - - youtube
     - https://www.youtube.com/watch?v=Bl5cSD8RUA8
   - - "\u017Eivotopis"
     - https://www.sav.sk/uploads/users_cv/20210827143439_887_CurVit-Spitalsky2021.pdf
