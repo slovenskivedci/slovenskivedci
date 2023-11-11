@@ -1,8 +1,3 @@
-
-
-
-
-
 name: "Vladim\xEDr Bu\u017Eek"
 last: "Bu\u017Eek"
 year: 1957
@@ -14,8 +9,9 @@ city: Bratislava
 country: Slovensko
 hindex: 63
 scholar: https://scholar.google.com/citations?user=m2hSZWQAAAAJ&amp;hl=en
-last_update: '2023-07-03'
+last_update: '2023-11-11'
 links:
   web: http://www.quantum.physics.sk/rcqi/index.php?x=home_for&for=buzek
   "\u017Eivotopis": https://www.learned.sk/wp-content/uploads/2018/03/buzek_cv.pdf
 img: Vladimir_Buzek.jpg
+update_status: ERROR
