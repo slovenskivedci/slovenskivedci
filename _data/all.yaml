@@ -453,7 +453,7 @@
   country: Kanada
   hindex: 73
   scholar: https://scholar.google.com/citations?hl=en&amp;user=psbZKP4AAAAJ
-  last_update: '2023-10-11'
+  last_update: '2023-11-11'
   links:
   - - LinkedIn
     - "https://www.linkedin.com/in/vladim%C3%ADr-d\u017Eav%C3%ADk-07a36017/?originalSubdomain=ca"
@@ -468,7 +468,7 @@
   - - web
     - https://www.uhnresearch.ca/researcher/vladimir-dzavic
   img: Vladimir_Dzavik.jpg
-  update_status: UPDATED
+  update_status: ERROR
   countryurl: Kanada
   fieldurl: kardiologia
   positionurl: profesor
@@ -2555,7 +2555,7 @@
   country: Slovensko
   hindex: 48
   scholar: https://scholar.google.com/citations?user=jfkqa18AAAAJ&amp;hl=en
-  last_update: '2023-10-11'
+  last_update: '2023-11-11'
   links:
   - - ESET Science Award
     - https://www.esetscienceaward.sk/sk/archiv/finalisti/2019/jan-tkac
@@ -2565,7 +2565,7 @@
     - "https://www.vedatechnika.sk/SK/enoviny/ZakciiNCPVaT/Documents/Veda v Centre\
       \ Ba 2013/CV_Ing_J\xE1n Tk\xE1\u010D_DrSc.pdf"
   img: Jan_Tkac.jpeg
-  update_status: UPDATED
+  update_status: ERROR
   countryurl: Slovensko
   fieldurl: biotechnologia
   positionurl: vedec
@@ -2583,7 +2583,7 @@
   country: USA
   hindex: 47
   scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
-  last_update: '2023-10-11'
+  last_update: '2023-11-11'
   links:
   - - ACM
     - https://dl.acm.org/profile/81100033082
@@ -2606,7 +2606,7 @@
   - - "\u017Eivotopis"
     - https://homes.cs.washington.edu/~bodik/cv.pdf
   img: Rastislav_Bodik.jpg
-  update_status: UPDATED
+  update_status: ERROR
   countryurl: USA
   fieldurl: programovacie_jazyky
   positionurl: profesor
@@ -2821,7 +2821,7 @@
   country: Slovensko
   hindex: 46
   scholar: https://scholar.google.com/citations?hl=en&amp;user=1bNNlZUAAAAJ
-  last_update: '2023-10-11'
+  last_update: '2023-11-11'
   links:
   - - osobnosti
     - https://www.osobnosti.sk/osobnost/olga-pechanova-654
@@ -2830,7 +2830,7 @@
   - - "\u017Eivotopis"
     - https://uniba.sk/fileadmin/ruk/veda/docprof/LF_UK/Pechanova/H13_RNDr._Pechanova_-_zivotopis.pdf
   img: Olga_Pechanova.jpg
-  update_status: UPDATED
+  update_status: ERROR
   countryurl: Slovensko
   fieldurl: biochemia
   positionurl: docentka
@@ -3677,7 +3677,7 @@
   country: Kanada
   hindex: 43
   scholar: https://scholar.google.com/citations?user=KuJXbr4AAAAJ
-  last_update: '2023-10-11'
+  last_update: '2023-11-11'
   links:
   - - facebook
     - https://www.facebook.com/anna.zajacova.50
@@ -3694,7 +3694,7 @@
   - - "\u017Eivotopis"
     - https://annazajacova.com/wp-content/uploads/2021/11/Zajacova-CV-Nov-2021.pdf
   img: Anna_Zajacova.jpg
-  update_status: UPDATED
+  update_status: ERROR
   countryurl: Kanada
   fieldurl: sociologia
   positionurl: docentka
@@ -4128,7 +4128,7 @@
   country: "\u010Cesko"
   hindex: 40
   scholar: https://scholar.google.com/citations?hl=en&amp;user=ovMJkzsAAAAJ
-  last_update: '2023-10-11'
+  last_update: '2023-11-11'
   links:
   - - dblp
     - https://dblp.org/pid/64/7857.html
@@ -4139,7 +4139,7 @@
   - - web
     - http://www.cs.cas.cz/mp/
   img: Milan_Palus.jpg
-  update_status: UPDATED
+  update_status: ERROR
   countryurl: Cesko
   fieldurl: komplexne_systemy
   positionurl: vedec
@@ -6139,7 +6139,7 @@
   country: USA
   hindex: 35
   scholar: https://scholar.google.com/citations?user=-toxVLsAAAAJ&amp;hl=en
-  last_update: '2023-10-11'
+  last_update: '2023-11-11'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/oskar-vafek-14a39b8/
@@ -6152,7 +6152,7 @@
   - - "\u017Eivotopis"
     - https://fs.magnet.fsu.edu/~vafek/cv2015 Apr.pdf
   img: Oskar_Vafek.jpg
-  update_status: UPDATED
+  update_status: ERROR
   countryurl: USA
   fieldurl: fyzika_tuhych_latok
   positionurl: profesor
@@ -6739,7 +6739,7 @@
   country: "\u010Cesko"
   hindex: 33
   scholar: https://scholar.google.com/citations?user=7oMUpuwAAAAJ&hl=en
-  last_update: '2023-10-11'
+  last_update: '2023-11-11'
   links:
   - - LinkedIn
     - https://www.linkedin.com/in/juraj-nemec-4878445/?originalSubdomain=sk
@@ -6750,7 +6750,7 @@
   - - "wikip\xE9dia"
     - https://sk.wikipedia.org/wiki/Juraj_Nemec
   img: Juraj_Nemec.jpg
-  update_status: UPDATED
+  update_status: ERROR
   countryurl: Cesko
   fieldurl: ekonomia
   positionurl: profesor
