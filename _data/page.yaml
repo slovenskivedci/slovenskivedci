@@ -12,7 +12,7 @@ countries:
   "\u010Cesko": 24
   "\u0160v\xE9dsko": 2
   "Franc\xFAzsko": 2
-  Kanada: 11
+  Kanada: 12
   Belgicko: 2
   "Saudsk\xE1 Ar\xE1bia": 2
   Holandsko: 3
@@ -22,7 +22,7 @@ countries:
   Japonsko: 1
   "D\xE1nsko": 1
   "\u0160panielsko": 1
-man: 230
+man: 231
 woman: 45
 hindex:
 - 39
@@ -219,6 +219,7 @@ hindex:
 - 64
 - 35
 - 55
+- 39
 - 43
 - 48
 - 31
@@ -326,28 +327,29 @@ affiliation: "['Slovensk\xE1 akad\xE9mia vied','Univerzita Komensk\xE9ho','Slove
   rodn\xFD \xFAstav reumatick\xFDch chor\xF4b','National Institute of Allergy and\
   \ Infectious Diseases','National Institute of Health','National Institutes of Health','National\
   \ Research Council','Norwegian Institute for Air Research','Oregon Health and Science\
-  \ University','Oregon State University','Pre\u0161ovsk\xE1 univerzita','RIKEN','RWTH\
-  \ Aachen','Region\xE1lny \xFArad verejn\xE9ho zdravotn\xEDctva','Research and Development\
-  \ Services','Ruprecht-Karls-Universit\xE4t Heidelberg','Sigmund Freud University','Slovensk\xE1\
-  \ zdravotn\xEDcka univerzita','Solargis','Stanford University','Technical University\
-  \ Dortmund','The University of Melbourne','Trinity College Dublin','Trnavsk\xE1\
-  \ univerzita','U.S. Department of Agriculture','US Food and Drug Administration','Universit\xE9\
-  \ Aix-Marseille','University Medical Center Utrecht','University of Arizona','University\
-  \ of Birmingham','University of Bonn','University of British Columbia','University\
-  \ of Chicago','University of Edinburgh','University of Hawaii','University of Illinois','University\
-  \ of Louisville','University of Minnesota','University of New South Wales','University\
-  \ of Notre Dame','University of Ottawa','University of Pennsylvania','University\
-  \ of Pittsburgh','University of Reading','University of Regensburg','University\
-  \ of Technology Sydney','University of Vienna','University of Washington','University\
-  \ of Western Ontario','University of Zurich','Univerzita Kon\u0161tant\xEDna Filozofa','Vanderbilt\
-  \ university','Vienna University of Technology','Vysok\xE1 \u0161kola chemicko-technologick\xE1\
-  ','Z\xE1pado\u010Desk\xE1 univerzita v Plzni','Zeppelin University']"
+  \ University','Oregon State University','Polytechnique Montr\xE9al','Pre\u0161ovsk\xE1\
+  \ univerzita','RIKEN','RWTH Aachen','Region\xE1lny \xFArad verejn\xE9ho zdravotn\xED\
+  ctva','Research and Development Services','Ruprecht-Karls-Universit\xE4t Heidelberg','Sigmund\
+  \ Freud University','Slovensk\xE1 zdravotn\xEDcka univerzita','Solargis','Stanford\
+  \ University','Technical University Dortmund','The University of Melbourne','Trinity\
+  \ College Dublin','Trnavsk\xE1 univerzita','U.S. Department of Agriculture','US\
+  \ Food and Drug Administration','Universit\xE9 Aix-Marseille','University Medical\
+  \ Center Utrecht','University of Arizona','University of Birmingham','University\
+  \ of Bonn','University of British Columbia','University of Chicago','University\
+  \ of Edinburgh','University of Hawaii','University of Illinois','University of Louisville','University\
+  \ of Minnesota','University of New South Wales','University of Notre Dame','University\
+  \ of Ottawa','University of Pennsylvania','University of Pittsburgh','University\
+  \ of Reading','University of Regensburg','University of Technology Sydney','University\
+  \ of Vienna','University of Washington','University of Western Ontario','University\
+  \ of Zurich','Univerzita Kon\u0161tant\xEDna Filozofa','Vanderbilt university','Vienna\
+  \ University of Technology','Vysok\xE1 \u0161kola chemicko-technologick\xE1','Z\xE1\
+  pado\u010Desk\xE1 univerzita v Plzni','Zeppelin University']"
 hindex_hist_x: '[''30-49'',''49-69'',''69-89'',''89-108'',''108-128'',''128-148'',''148-167'',''167-187'',''187-207'',''207-227'',]'
-hindex_hist_count: '[207,49,10,4,0,1,1,0,1,2]'
+hindex_hist_count: '[208,49,10,4,0,1,1,0,1,2]'
 country: "['Slovensko','USA','\u010Cesko','Rak\xFAsko','Kanada','Nemecko','Austr\xE1\
   lia','Ve\u013Ek\xE1 Brit\xE1nia','\u0160vaj\u010Diarsko','Holandsko','N\xF3rsko','Belgicko','Franc\xFA\
   zsko','Katar','Saudsk\xE1 Ar\xE1bia','Spojen\xE9 arabsk\xE9 emir\xE1ty','\u0160\
   v\xE9dsko','Belgium','D\xE1nsko','\xCDrsko','Japonsko','Rusk\xE1 feder\xE1cia','\u0160\
   panielsko']"
-countryCount: '[131,39,24,13,11,10,9,8,6,3,3,2,2,2,2,2,2,1,1,1,1,1,1]'
-affiliationCount: '[46,44,9,7,6,6,6,5,4,4,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'
+countryCount: '[131,39,24,13,12,10,9,8,6,3,3,2,2,2,2,2,2,1,1,1,1,1,1]'
+affiliationCount: '[46,44,9,7,6,6,6,5,4,4,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'

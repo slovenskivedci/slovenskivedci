@@ -1374,7 +1374,7 @@
     - https://www.muni.cz/en/people/1073-ivan-rektor
   - - "wikip\xE9dia"
     - https://cs.wikipedia.org/wiki/Ivan_Rektor
-  img: Ivan_Rektor.png
+  img: Ivan_Rektor.jpg
   update_status: UPDATED
   countryurl: Cesko
   fieldurl: neurologia
@@ -4395,6 +4395,37 @@
   positionurl: vedec
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   cityurl: Kosice
+  sexurl: muz
+- name: Miroslav Grmela
+  last: Grmela
+  year: null
+  sex: "mu\u017E"
+  position: vedec
+  field: termodynamika
+  affiliation: "Polytechnique Montr\xE9al"
+  city: Montreal
+  country: Kanada
+  hindex: 39
+  scholar: https://scholar.google.com/citations?hl=en&user=zOaoU8MAAAAJ
+  last_update: '2023-11-11'
+  links:
+  - - dblp
+    - https://dblp.org/pid/130/5568.html
+  - - LinkedIn
+    - https://www.linkedin.com/in/miroslav-grmela-91ba6766/?originalSubdomain=ca
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Miroslav-Grmela
+  - - web
+    - https://www.polymtl.ca/crepec/en/membres/grmela-miroslav
+  - - youtube
+    - https://www.youtube.com/watch?v=SB3dwG3TYnE
+  img: Miroslav_Grmela.jpg
+  update_status: UPDATED
+  countryurl: Kanada
+  fieldurl: termodynamika
+  positionurl: vedec
+  affiliationurl: Polytechnique_Montreal
+  cityurl: Montreal
   sexurl: muz
 - name: "Branislav Hredz\xE1k"
   last: Hredzak
