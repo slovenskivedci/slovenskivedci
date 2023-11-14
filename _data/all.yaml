@@ -3765,6 +3765,35 @@
   affiliationurl: New_York_University
   cityurl: New_York
   sexurl: muz
+- name: "Pavol Kov\xE1\u010D"
+  last: Kovac
+  year: null
+  sex: "mu\u017E"
+  position: vedec
+  field: "organick\xE1 ch\xE9mia"
+  affiliation: National Institutes of Health
+  city: Bethesda
+  country: USA
+  hindex: 42
+  scholar: https://scholar.google.com/citations?hl=en&user=qLF9WqcAAAAJ
+  last_update: '2023-11-14'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/paul-kovac-82207212
+  - - web 1
+    - https://irp.nih.gov/pi/paul-kovac
+  - - web 2
+    - https://www.niddk.nih.gov/research-funding/at-niddk/labs-branches/laboratory-bioorganic-chemistry/carbohydrates-section
+  - - youtube
+    - https://www.youtube.com/watch?v=1u6wT-EHMuE
+  img: Pavol_Kovac.jpg
+  update_status: UPDATED
+  countryurl: USA
+  fieldurl: organicka_chemia
+  positionurl: vedec
+  affiliationurl: National_Institutes_of_Health
+  cityurl: Bethesda
+  sexurl: muz
 - name: "Martin Ba\u010Dkor"
   last: Backor
   year: 1970
