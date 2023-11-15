@@ -1,15 +1,15 @@
-name: "Juraj Kabát"
-last: "Kabát"
-year: ""
+name: "Juraj Kab\xE1t"
+last: "Kab\xE1t"
+year: ''
 sex: "mu\u017E"
-position: "vedec"
-field: "imunológia"
-affiliation: "National Institute of Health"
-city: "Rockville" 
-country: "USA"
-hindex: 37
+position: vedec
+field: "imunol\xF3gia"
+affiliation: National Institute of Health
+city: Rockville
+country: USA
+hindex: 38
 scholar: https://scholar.google.com/citations?user=tiDMmMYAAAAJ
-last_update: '2023-11-05'
+last_update: '2023-11-16'
 links:
   LinkedIn: https://www.linkedin.com/in/kabat-juraj-1a784b5/
   ResearchGate: https://www.researchgate.net/scientific-contributions/Juraj-Kabat-2045003947
