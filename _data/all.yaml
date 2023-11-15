@@ -4876,6 +4876,42 @@
   affiliationurl: Technicka_univerzita_v_Kosiciach
   cityurl: Kosice
   sexurl: muz
+- name: "J\xE1n Kormanec"
+  last: Kormanec
+  year: 1959
+  sex: "mu\u017E"
+  position: vedec
+  field: "g\xE9nov\xE1 expresia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 38
+  scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=kTzZpxgAAAAJ
+  last_update: '2023-11-15'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/jan-kormanec-73499347/?originalSubdomain=sk
+  - - sme.sk
+    - https://mykysuce.sme.sk/c/5775658/pred-vratnikom-sa-schovaval-v-mraziacom-boxe.html
+  - - teraz.sk
+    - "https://www.teraz.sk/slovensko/j-kormanecmojou-prioritou-bolo-vzdy-p/422582-clanok.html.lw\u013E\
+      \u0119#$\u0117\u0161"
+  - - web 1
+    - http://www.imb.savba.sk/index.php?lang=en&id=departments&labID=15
+  - - web 2
+    - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=1318
+  - - youtube
+    - https://www.youtube.com/watch?v=k-YXwl4v-r4
+  - - "\u017Eivotopis"
+    - https://www.kysuce.sk/osobnosti/osobnosti-regionu/63/jan-kormanec.html
+  img: Jan_Kormanec.jpg
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: genova_expresia
+  positionurl: vedec
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
 - name: "Stanislav Miertu\u0161"
   last: Miertus
   year: 1948
