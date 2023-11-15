@@ -6346,6 +6346,37 @@
   affiliationurl: Ceska_akademia_vied
   cityurl: Praha
   sexurl: muz
+- name: "O\u013Ega Kri\u017Eanov\xE1"
+  last: Krizanova
+  year: '1960'
+  sex: "\u017Eena"
+  position: profesorka
+  field: "lak\xE1rska ch\xE9mia a bioch\xE9mia"
+  affiliation: Karlova univerzita
+  city: Praha
+  country: "\u010Cesko"
+  hindex: 34
+  scholar: https://scholar.google.com/citations?hl=en&user=ZUBSQgEAAAAJ
+  last_update: '2023-11-15'
+  links:
+  - - learned.sk
+    - https://www.learned.sk/vizitka-prof-ing-olga-krizanova-drsc/
+  - - pluska.sk
+    - https://sarm.pluska.sk/pribehy/spala-tri-tyzdne-profesorka-olga-krizanova-zime-prekonala-covid-uplne-fit-stale-nie-je
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Olga-Krizanova/7
+  - - veda na dosah
+    - https://vedanadosah.cvtisr.sk/zdravie/medicina/o-krizanova-vapnik-je-nesmierne-dolezity-prvok-v-zivych-organizmoch/
+  - - web
+    - https://mc3.sk/autor/iveta-nagyova/
+  img: Olga_Krizanova.jpg
+  update_status: UPDATED
+  countryurl: Cesko
+  fieldurl: lakarska_chemia_a_biochemia
+  positionurl: profesorka
+  affiliationurl: Karlova_univerzita
+  cityurl: Praha
+  sexurl: zena
 - name: "Nat\xE1lia Kryvinsk\xE1"
   last: Kryvinska
   year: 1967
