@@ -7972,6 +7972,39 @@
   affiliationurl: Ceska_akademia_vied
   cityurl: Brno
   sexurl: zena
+- name: Marek Piliarik
+  last: Piliarik
+  year: ''
+  sex: "mu\u017E"
+  position: vedec
+  field: nano optika
+  affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
+  city: Praha
+  country: "\u010Cesko"
+  hindex: 31
+  scholar: https://scholar.google.com/citations?user=1eLoTdcAAAAJ&hl=cs&oi=ao
+  last_update: '2023-11-15'
+  links:
+  - - avcr
+    - https://www.avcr.cz/cs/o-nas/aktuality/PODCAST-Setkani-svetla-a-hmoty.-Marek-Piliarik-priblizuje-nanooptiku/
+  - - orcid
+    - https://orcid.org/0000-0002-2567-551X
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Marek-Piliarik
+  - - SPIE
+    - https://spie.org/profile/Marek.Piliarik-32867?SSO=1
+  - - twitter
+    - https://twitter.com/nanoopticsp?lang=en
+  - - web
+    - https://www.ufe.cz/en/team/nano-optics
+  img: Marek_Piliarik.jpg
+  update_status: ERROR
+  countryurl: Cesko
+  fieldurl: nano_optika
+  positionurl: vedec
+  affiliationurl: Ceska_akademia_vied
+  cityurl: Praha
+  sexurl: muz
 - name: "Du\u0161an Pla\u0161ienka"
   last: Plasienka
   year: 1953
