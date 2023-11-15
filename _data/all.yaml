@@ -7977,7 +7977,7 @@
   year: ''
   sex: "mu\u017E"
   position: vedec
-  field: nano optika
+  field: nanooptika
   affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
   city: Praha
   country: "\u010Cesko"
@@ -7995,12 +7995,14 @@
     - https://spie.org/profile/Marek.Piliarik-32867?SSO=1
   - - twitter
     - https://twitter.com/nanoopticsp?lang=en
-  - - web
+  - - web 1
+    - https://www.ufe.cz/cs/marek-piliarik
+  - - web 2
     - https://www.ufe.cz/en/team/nano-optics
   img: Marek_Piliarik.jpg
   update_status: ERROR
   countryurl: Cesko
-  fieldurl: nano_optika
+  fieldurl: nanooptika
   positionurl: vedec
   affiliationurl: Ceska_akademia_vied
   cityurl: Praha

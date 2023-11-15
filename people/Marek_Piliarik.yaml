@@ -3,7 +3,7 @@ last: "Piliarik"
 year: ''
 sex: "mu\u017E"
 position: "vedec"
-field: "nano optika"
+field: "nanooptika"
 affiliation: Česká akadémia vied
 city: Praha
 country: "Česko"
@@ -11,7 +11,8 @@ hindex: 31
 scholar: https://scholar.google.com/citations?user=1eLoTdcAAAAJ&hl=cs&oi=ao
 last_update: '2023-11-15'
 links:
-  web: https://www.ufe.cz/en/team/nano-optics 
+  web 1: https://www.ufe.cz/cs/marek-piliarik
+  web 2: https://www.ufe.cz/en/team/nano-optics 
   orcid: https://orcid.org/0000-0002-2567-551X
   ResearchGate: https://www.researchgate.net/profile/Marek-Piliarik
   SPIE: https://spie.org/profile/Marek.Piliarik-32867?SSO=1
