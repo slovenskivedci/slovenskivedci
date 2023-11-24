@@ -6352,9 +6352,9 @@
   sex: "\u017Eena"
   position: profesorka
   field: "lak\xE1rska ch\xE9mia a bioch\xE9mia"
-  affiliation: Karlova univerzita
-  city: Praha
-  country: "\u010Cesko"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratslava
+  country: Slovensko
   hindex: 34
   scholar: https://scholar.google.com/citations?hl=en&user=ZUBSQgEAAAAJ
   last_update: '2023-11-15'
@@ -6367,17 +6367,19 @@
     - https://www.researchgate.net/profile/Olga-Krizanova/7
   - - veda na dosah
     - https://vedanadosah.cvtisr.sk/zdravie/medicina/o-krizanova-vapnik-je-nesmierne-dolezity-prvok-v-zivych-organizmoch/
-  - - web
+  - - web 1
+    - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=1383
+  - - web 2
     - https://cuni.cz/UK-4106.html
   - - "\u017Eivotopis"
     - https://www.learned.sk/wp-content/uploads/2019/10/CV_Krizanova.pdf
   img: Olga_Krizanova.jpg
   update_status: UPDATED
-  countryurl: Cesko
+  countryurl: Slovensko
   fieldurl: lakarska_chemia_a_biochemia
   positionurl: profesorka
-  affiliationurl: Karlova_univerzita
-  cityurl: Praha
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratslava
   sexurl: zena
 - name: "Nat\xE1lia Kryvinsk\xE1"
   last: Kryvinska
