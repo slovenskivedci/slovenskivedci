@@ -26,26 +26,26 @@ man: 233
 woman: 46
 hindex:
 - 39
-- 32
+- 33
 - 57
-- 40
-- 48
+- 41
+- 49
 - 39
 - 64
 - 60
 - 39
 - 41
 - 37
-- 66
+- 67
 - 41
 - 37
 - 32
 - 52
 - 54
 - 35
-- 31
-- 31
-- 66
+- 32
+- 32
+- 68
 - 44
 - 31
 - 36
@@ -144,8 +144,8 @@ hindex:
 - 51
 - 46
 - 34
-- 40
-- 76
+- 41
+- 77
 - 140
 - 33
 - 32
@@ -162,8 +162,8 @@ hindex:
 - 75
 - 41
 - 49
-- 36
-- 49
+- 37
+- 50
 - 34
 - 37
 - 36
@@ -348,7 +348,7 @@ affiliation: "['Slovensk\xE1 akad\xE9mia vied','Univerzita Komensk\xE9ho','Slove
   \ University of Technology','Vysok\xE1 \u0161kola chemicko-technologick\xE1','Z\xE1\
   pado\u010Desk\xE1 univerzita v Plzni','Zeppelin University']"
 hindex_hist_x: '[''30-49'',''49-69'',''69-89'',''89-109'',''109-129'',''129-148'',''148-168'',''168-188'',''188-208'',''208-228'',]'
-hindex_hist_count: '[211,49,10,4,0,1,1,0,1,2]'
+hindex_hist_count: '[210,50,10,4,0,1,1,0,1,2]'
 country: "['Slovensko','USA','\u010Cesko','Rak\xFAsko','Kanada','Nemecko','Austr\xE1\
   lia','Ve\u013Ek\xE1 Brit\xE1nia','\u0160vaj\u010Diarsko','Holandsko','N\xF3rsko','Belgicko','Franc\xFA\
   zsko','Katar','Saudsk\xE1 Ar\xE1bia','Spojen\xE9 arabsk\xE9 emir\xE1ty','\u0160\
