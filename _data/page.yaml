@@ -53,13 +53,13 @@ hindex:
 - 33
 - 37
 - 39
-- 49
+- 50
 - 53
 - 34
 - 35
-- 33
-- 45
-- 61
+- 34
+- 46
+- 62
 - 30
 - 56
 - 33
@@ -172,31 +172,31 @@ hindex:
 - 56
 - 32
 - 32
-- 44
+- 45
 - 30
 - 68
 - 36
 - 31
-- 33
+- 34
 - 39
 - 30
 - 66
-- 30
-- 66
+- 31
+- 67
 - 31
 - 35
 - 85
 - 37
 - 36
-- 34
+- 35
 - 32
-- 54
+- 56
 - 36
 - 56
 - 49
 - 34
 - 47
-- 86
+- 87
 - 69
 - 32
 - 30
@@ -348,7 +348,7 @@ affiliation: "['Slovensk\xE1 akad\xE9mia vied','Univerzita Komensk\xE9ho','Slove
   \ University of Technology','Vysok\xE1 \u0161kola chemicko-technologick\xE1','Z\xE1\
   pado\u010Desk\xE1 univerzita v Plzni','Zeppelin University']"
 hindex_hist_x: '[''30-49'',''49-69'',''69-89'',''89-109'',''109-129'',''129-148'',''148-168'',''168-188'',''188-208'',''208-228'',]'
-hindex_hist_count: '[210,50,10,4,0,1,1,0,1,2]'
+hindex_hist_count: '[209,51,10,4,0,1,1,0,1,2]'
 country: "['Slovensko','USA','\u010Cesko','Rak\xFAsko','Kanada','Nemecko','Austr\xE1\
   lia','Ve\u013Ek\xE1 Brit\xE1nia','\u0160vaj\u010Diarsko','Holandsko','N\xF3rsko','Belgicko','Franc\xFA\
   zsko','Katar','Saudsk\xE1 Ar\xE1bia','Spojen\xE9 arabsk\xE9 emir\xE1ty','\u0160\
