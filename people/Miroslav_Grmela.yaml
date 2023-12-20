@@ -3,13 +3,13 @@ last: Grmela
 year: 1939
 sex: "mu\u017E"
 position: vedec
-field: "termodynamika"
-affiliation: "Polytechnique Montréal"
+field: termodynamika
+affiliation: "Polytechnique Montr\xE9al"
 city: Montreal
 country: Kanada
-hindex: 39
+hindex: 44
 scholar: https://scholar.google.com/citations?hl=en&user=zOaoU8MAAAAJ
-last_update: '2023-11-11'
+last_update: '2023-12-21'
 links:
   web: https://www.polymtl.ca/crepec/en/membres/grmela-miroslav
   ResearchGate: https://www.researchgate.net/profile/Miroslav-Grmela
