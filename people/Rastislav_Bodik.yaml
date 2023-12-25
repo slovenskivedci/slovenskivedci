@@ -7,9 +7,9 @@ field: programovacie jazyky
 affiliation: University of Washington
 city: Seattle
 country: USA
-hindex: 47
+hindex: 48
 scholar: https://scholar.google.com/citations?hl=en&amp;user=YrihYtsAAAAJ
-last_update: '2023-11-11'
+last_update: '2023-12-26'
 links:
   ACM: https://dl.acm.org/profile/81100033082
   IEEE Xplore: https://ieeexplore.ieee.org/author/37332775000
@@ -22,4 +22,4 @@ links:
   web: https://homes.cs.washington.edu/~bodik/
   "\u017Eivotopis": https://homes.cs.washington.edu/~bodik/cv.pdf
 img: Rastislav_Bodik.jpg
-update_status: ERROR
+update_status: UPDATED
