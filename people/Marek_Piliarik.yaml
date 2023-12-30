@@ -1,22 +1,22 @@
-name: "Marek Piliarik"
-last: "Piliarik"
+name: Marek Piliarik
+last: Piliarik
 year: ''
 sex: "mu\u017E"
-position: "vedec"
-field: "nanooptika"
-affiliation: Česká akadémia vied
+position: vedec
+field: nanooptika
+affiliation: "\u010Cesk\xE1 akad\xE9mia vied"
 city: Praha
-country: "Česko"
+country: "\u010Cesko"
 hindex: 31
 scholar: https://scholar.google.com/citations?user=1eLoTdcAAAAJ&hl=cs&oi=ao
-last_update: '2023-11-15'
+last_update: '2023-12-31'
 links:
   web 1: https://www.ufe.cz/cs/marek-piliarik
-  web 2: https://www.ufe.cz/en/team/nano-optics 
+  web 2: https://www.ufe.cz/en/team/nano-optics
   orcid: https://orcid.org/0000-0002-2567-551X
   ResearchGate: https://www.researchgate.net/profile/Marek-Piliarik
   SPIE: https://spie.org/profile/Marek.Piliarik-32867?SSO=1
   twitter: https://twitter.com/nanoopticsp?lang=en
   avcr: https://www.avcr.cz/cs/o-nas/aktuality/PODCAST-Setkani-svetla-a-hmoty.-Marek-Piliarik-priblizuje-nanooptiku/
 img: Marek_Piliarik.jpg
-update_status: ERROR
+update_status: UPDATED

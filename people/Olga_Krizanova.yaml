@@ -1,15 +1,15 @@
-name: "Oľga Križanová"
-last: "Križanová"
+name: "O\u013Ega Kri\u017Eanov\xE1"
+last: "Kri\u017Eanov\xE1"
 year: '1960'
 sex: "\u017Eena"
-position: "profesorka"
-field: "lakárska chémia a biochémia"
-affiliation: "Slovenská akadémia vied"
-city: "Bratslava"
+position: profesorka
+field: "lak\xE1rska ch\xE9mia a bioch\xE9mia"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
+city: Bratslava
 country: Slovensko
 hindex: 34
 scholar: https://scholar.google.com/citations?hl=en&user=ZUBSQgEAAAAJ
-last_update: '2023-11-15'
+last_update: '2023-12-31'
 links:
   web 1: https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=1383
   web 2: https://cuni.cz/UK-4106.html
@@ -17,6 +17,6 @@ links:
   pluska.sk: https://sarm.pluska.sk/pribehy/spala-tri-tyzdne-profesorka-olga-krizanova-zime-prekonala-covid-uplne-fit-stale-nie-je
   veda na dosah: https://vedanadosah.cvtisr.sk/zdravie/medicina/o-krizanova-vapnik-je-nesmierne-dolezity-prvok-v-zivych-organizmoch/
   ResearchGate: https://www.researchgate.net/profile/Olga-Krizanova/7
-  životopis: https://www.learned.sk/wp-content/uploads/2019/10/CV_Krizanova.pdf
+  "\u017Eivotopis": https://www.learned.sk/wp-content/uploads/2019/10/CV_Krizanova.pdf
 img: Olga_Krizanova.jpg
 update_status: UPDATED

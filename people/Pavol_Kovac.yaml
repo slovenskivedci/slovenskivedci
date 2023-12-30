@@ -1,15 +1,15 @@
-name: "Pavol Kováč"
-last: "Kováč"
-year: 
+name: "Pavol Kov\xE1\u010D"
+last: "Kov\xE1\u010D"
+year: null
 sex: "mu\u017E"
 position: vedec
-field: "organická chémia"
-affiliation: "National Institutes of Health"
-city: "Bethesda"
-country: "USA"
+field: "organick\xE1 ch\xE9mia"
+affiliation: National Institutes of Health
+city: Bethesda
+country: USA
 hindex: 42
 scholar: https://scholar.google.com/citations?hl=en&user=qLF9WqcAAAAJ
-last_update: '2023-11-14'
+last_update: '2023-12-31'
 links:
   web 2: https://www.niddk.nih.gov/research-funding/at-niddk/labs-branches/laboratory-bioorganic-chemistry/carbohydrates-section
   web 1: https://irp.nih.gov/pi/paul-kovac
