@@ -8160,6 +8160,41 @@
   affiliationurl: Ceska_akademia_vied
   cityurl: Brno
   sexurl: zena
+- name: "Daniela Ostatn\xEDkov\xE1"
+  last: Ostatnikova
+  year: 1957
+  sex: "\u017Eena"
+  position: profesorka
+  field: "fyziol\xF3gia"
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
+  hindex: 31
+  scholar: https://scholar.google.com/citations?hl=en&user=5sPkPmEAAAAJ
+  last_update: '2024-01-07'
+  links:
+  - - facebook
+    - https://www.facebook.com/people/Prof-MUDr-Daniela-Ostatn%C3%ADkov%C3%A1-PhD/100063917881516/
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Daniela-Ostatnikova
+  - - TEDx
+    - https://www.tedxbratislava.sk/en/video/daniela-ostatnikova-testosteron-posol-muznosti-2/
+  - - veda na dosah
+    - https://vedanadosah.cvtisr.sk/tag/daniela-ostatnikova/
+  - - web 1
+    - https://acva.sk/tim/daniela-ostatnikova/
+  - - web 2
+    - https://uniba.sk/ludia/ostatnikova1/
+  - - "wikip\xE9dia"
+    - https://sk.wikipedia.org/wiki/Daniela_Ostatn%C3%ADkov%C3%A1
+  img: Daniela_Ostatnikova.jpg
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: fyziologia
+  positionurl: profesorka
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
+  sexurl: zena
 - name: Marek Piliarik
   last: Piliarik
   year: ''
