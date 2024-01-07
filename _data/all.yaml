@@ -8387,6 +8387,35 @@
   affiliationurl: Univerzita_Pavla_Jozefa_Safarika
   cityurl: Kosice
   sexurl: muz
+- name: "Vladim\xEDr Bal\xE1\u017E"
+  last: Balaz
+  year: 1961
+  sex: "mu\u017E"
+  position: docent
+  field: "ekon\xF3mia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?hl=en&user=bNAGKuoAAAAJ
+  links:
+  - - orcid
+    - https://orcid.org/0000-0002-8132-3789
+  - - pravda
+    - https://spravy.pravda.sk/domace/clanok/315619-balaz-vszp-je-v-neriesitelnej-situacii/
+  - - ResearchGate
+    - https://www.prog.sav.sk/balaz-vladimir/
+  - - web
+    - https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=815&action=cv
+  img: Vladimir_Balaz.jpg
+  last_update: '2024-01-07'
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: ekonomia
+  positionurl: docent
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: muz
 - name: "Tom\xE1\u0161 Bleha"
   last: Bleha
   year: 1943
