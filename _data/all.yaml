@@ -8179,6 +8179,8 @@
   scholar: https://scholar.google.com/citations?hl=en&user=5sPkPmEAAAAJ
   last_update: '2024-01-07'
   links:
+  - - ESET Science Award
+    - https://www.esetscienceaward.sk/sk/finalisti/daniela-ostatnikova
   - - facebook
     - https://www.facebook.com/people/Prof-MUDr-Daniela-Ostatn%C3%ADkov%C3%A1-PhD/100063917881516/
   - - ResearchGate
@@ -8486,6 +8488,39 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
+- name: "Jana Kordul\xE1kov\xE1"
+  last: Kordulakova
+  year: 1977
+  sex: "\u017Eena"
+  position: docentka
+  field: "bioch\xE9mia"
+  affiliation: "Univerzita Komensk\xE9ho"
+  city: Bratislava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.sk/citations?user=Mf9iWOEAAAAJ&hl=sk
+  last_update: '2023-12-06'
+  links:
+  - - DennikN
+    - https://dennikn.sk/429735/slovenski-vedci-pomahaju-boji-proti-tuberkuloze/
+  - - loop
+    - https://loop.frontiersin.org/people/1015202/overview
+  - - orcid
+    - https://orcid.org/0000-0003-2834-0165
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Jana-Kordulakova
+  - - web
+    - https://fns.uniba.sk/en/departments/chemistry/kbi/staff/?tx_unibausers_pi1%5Bperson%5D=kordulakova1
+  - - "\u017Eivotopis"
+    - https://fns.uniba.sk/fileadmin/prif/veda/Podklady/VUPCH/VUPCH_2021_Kordulakova.pdf
+  img: Jana_Kordulakova.jpg
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: biochemia
+  positionurl: docentka
+  affiliationurl: Univerzita_Komenskeho
+  cityurl: Bratislava
+  sexurl: zena
 - name: "Peter Moln\xE1r"
   last: Molnar
   year: 1981
