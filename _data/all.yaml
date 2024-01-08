@@ -8577,6 +8577,31 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
+- name: "Eva \u0160pitalsk\xE1"
+  last: Spitalska
+  year: ''
+  sex: "\u017Eena"
+  position: "vedky\u0148a"
+  field: "mikrobiol\xF3gia"
+  affiliation: "Slovensk\xE1 akad\xE9mia vied"
+  city: Bratislava
+  country: Slovensko
+  hindex: 30
+  scholar: https://scholar.google.com/citations?user=i4J2z3sAAAAJ&hl=en
+  last_update: '2024-01-08'
+  links:
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Eva-Spitalska
+  - - web
+    - https://www.sav.sk/?lang=en&doc=user-org-user&user_no=3487
+  img: Eva_Spitalska.jpg
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: mikrobiologia
+  positionurl: vedkyna
+  affiliationurl: Slovenska_akademia_vied
+  cityurl: Bratislava
+  sexurl: zena
 - name: "Peter Toma\u0161ec"
   last: Tomasec
   year: 1970-2017
