@@ -6203,31 +6203,6 @@
   affiliationurl: Univerzita_Komenskeho
   cityurl: Bratislava
   sexurl: muz
-- name: "Alena Mazur\xE1kov\xE1"
-  last: Mazurakova
-  year: null
-  sex: "\u017Eena"
-  position: "odborn\xE1 asistentka"
-  field: rakovina
-  affiliation: "Univerzita Komensk\xE9ho"
-  city: Bratislava
-  country: Slovensko
-  hindex: 35
-  scholar: https://scholar.google.com/citations?user=PUM5HXYAAAAJ
-  last_update: '2024-01-01'
-  links:
-  - - ResearchGate
-    - https://www.researchgate.net/profile/Alena-Mazurakova
-  - - web
-    - https://www.jfmed.uniba.sk/pracoviska/vedecko-pedagogicke-pracoviska/teoreticke-ustavy/ustav-anatomie/zamestnanci/
-  img: Alena_Mazurakova.jpg
-  update_status: UPDATED
-  countryurl: Slovensko
-  fieldurl: rakovina
-  positionurl: odborna_asistentka
-  affiliationurl: Univerzita_Komenskeho
-  cityurl: Bratislava
-  sexurl: zena
 - name: "\u013Dubo\u0161 P\xE1stor"
   last: Pastor
   year: 1974
