@@ -1,13 +1,13 @@
-name: Vladimír Baláž
-last: Baláž
+name: "Vladim\xEDr Bal\xE1\u017E"
+last: "Bal\xE1\u017E"
 year: 1961
 sex: "mu\u017E"
 position: docent
-field: "ekonómia"
-affiliation: "Slovenská akadémia vied"
+field: "ekon\xF3mia"
+affiliation: "Slovensk\xE1 akad\xE9mia vied"
 city: Bratislava
 country: Slovensko
-hindex: 30
+hindex: 29
 scholar: https://scholar.google.com/citations?hl=en&user=bNAGKuoAAAAJ
 links:
   web: https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=815&action=cv
@@ -15,5 +15,5 @@ links:
   orcid: https://orcid.org/0000-0002-8132-3789
   pravda: https://spravy.pravda.sk/domace/clanok/315619-balaz-vszp-je-v-neriesitelnej-situacii/
 img: Vladimir_Balaz.jpg
-last_update: '2024-01-07'
+last_update: '2024-03-16'
 update_status: UPDATED
