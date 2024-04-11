@@ -7540,6 +7540,31 @@
   affiliationurl: Slovenska_akademia_vied
   cityurl: Bratislava
   sexurl: muz
+- name: "Franti\u0161ek Ka\u010D\xEDk"
+  last: Kacik
+  year: null
+  sex: "mu\u017E"
+  position: profesor
+  field: "ch\xE9mia dreva"
+  affiliation: "Technick\xE1 univerzita vo Zvolene"
+  city: Zvolen
+  country: Slovensko
+  hindex: 32
+  scholar: https://scholar.google.com/citations?hl=en&user=Z5oQuUQAAAAJ
+  last_update: '2024-04-11'
+  links:
+  - - LinkedIn
+    - https://www.linkedin.com/in/frantisek-kacik-3967a136/?originalSubdomain=sk
+  - - ResearchGate
+    - https://www.researchgate.net/profile/Frantisek-Kacik
+  img: Frantisek_Kacik.jpg
+  update_status: UPDATED
+  countryurl: Slovensko
+  fieldurl: chemia_dreva
+  positionurl: profesor
+  affiliationurl: Technicka_univerzita_vo_Zvolene
+  cityurl: Zvolen
+  sexurl: muz
 - name: Martin Kahanec
   last: Kahanec
   year: 1977
