@@ -1,19 +1,19 @@
-name: "Miloš Hitka"
-last: "Hitka"
+name: "Milo\u0161 Hitka"
+last: Hitka
 year: 1965
-sex: "muž"
-position: "docent"
-field: "manažment"
-affiliation: "Technická univerzita vo Zvolene"
-city: "Zvolen"
-country: "Slovensko"
+sex: "mu\u017E"
+position: docent
+field: "mana\u017Ement"
+affiliation: "Technick\xE1 univerzita vo Zvolene"
+city: Zvolen
+country: Slovensko
 hindex: 30
 scholar: https://scholar.google.com/citations?user=phu5PwoAAAAJ&hl=en
-last_update: '2024-04-11'
+last_update: '2024-04-16'
 links:
   web: https://frcatel.fri.uniza.sk/hrme/ludia/hitka.html
   orcid: https://orcid.org/0000-0002-6567-7333
   ResearchGate: https://www.researchgate.net/profile/Milos-Hitka-2
   academia.edu: https://tuzvo.academia.edu/miloshitka
 img: Milos_Hitka.jpg
-update_status: UPDATED
+update_status: ERROR
